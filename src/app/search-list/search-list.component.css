@@ -1,0 +1,48 @@
+.search-list-header {
+    background-color: rgba(204,204,204,.5);
+    margin: 0;
+    padding: 0.5rem;
+    padding-top: 0.75rem;
+    /* border: 0.1px solid red; */
+}
+
+.search-list-logo {
+    width: 20%;
+}
+
+.search-list-logo img {
+    /* padding-top: 0.5rem; */
+    height: 1.5rem;
+}
+
+.search-list-input {
+    width: 65%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.search-list-input-space {
+    height: 1.5rem;
+    width: 80%;
+    border: 0.1px solid rgb(255, 255, 255);
+    border-right: none;
+    padding-left: 10px;
+    outline: none;
+    transition: outline-color 0.1s ease-out;
+}
+
+.search-list-input-space:focus {
+    outline: solid;
+    outline-width: 0.001px;
+    outline-color: #4d90fe;
+    border: none;
+}
+  
+.search-list-button{
+    margin: 0;
+    height: 1.7rem;
+    background-color: #4d90fe;
+    border: none;
+    color: white;
+    width: 1.7rem;
+}
