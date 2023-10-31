@@ -1,0 +1,29 @@
+.add-scholar-header {
+    background-color: rgba(204,204,204,.5);
+    margin: 0;
+    padding: 0.5rem;
+    padding-top: 0.75rem;
+}
+
+.add-scholar-logo {
+    width: 20%;
+}
+
+.add-scholar-logo img {
+    /* padding-top: 0.5rem; */
+    height: 1.5rem;
+}
+
+.add-scholar-container {
+    text-align: center;
+}
+
+.scholar-info {
+    margin-top: 100px;
+}
+
+.scholar-info-head {
+    color: rgb(105, 105, 105);
+    font-family: sans-serif;
+    margin-bottom: 50px;
+}

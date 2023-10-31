@@ -7,12 +7,14 @@ import { HomeComponent } from './home/home.component';
 import { FormsModule } from '@angular/forms';
 import { SearchListComponent } from './search-list/search-list.component';
 import { HttpClientModule } from '@angular/common/http';
+import { AddScholarComponent } from './add-scholar/add-scholar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    SearchListComponent
+    SearchListComponent,
+    AddScholarComponent
   ],
   imports: [
     BrowserModule,

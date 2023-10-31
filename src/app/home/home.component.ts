@@ -22,4 +22,8 @@ export class HomeComponent{
         console.log(this.authorName);
         this.router.navigate(['/scholars'], { state: { data: this.authorName } });
     }
+
+    addScholar() {
+        this.router.navigate(['/add']);
+    }
 }

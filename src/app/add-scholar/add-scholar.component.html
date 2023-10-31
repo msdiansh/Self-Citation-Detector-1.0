@@ -1,0 +1,22 @@
+<section>
+    <div class="add-scholar-header">
+        <div class="add-scholar-logo" style="display: inline-block;">
+            <img src=".\assets\images\scholar_logo_64dp.png">
+        </div>
+        <div class="add-scholar-input" style="display: inline-block;">
+            
+        </div>
+    </div>
+    <div class="add-scholar-container">
+        <div class="scholar-info"> 
+            <p class="scholar-info-head">Add the details of the Scholar who you want to check:</p>
+            <div *ngFor="let x in filecount">
+                <input class="form-control" type="file" (change)="onChange($event)"> 
+            </div>
+            <input class="form-control" type="file" (change)="onChange($event)">
+            <button (click)="onAddFile()">+</button>
+            <br> 
+            <button (click)="onUpload()" class="btn btn-success">Upload</button> 
+        </div> 
+    </div>
+</section>

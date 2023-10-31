@@ -30,32 +30,8 @@ export class SearchListComponent{
         this.author = this.location.getState();
         this.authorName = this.author.data;
         console.log(this.authorName);
-        var authorListApi = this.apiUrl + '?engine=' + this.apiEngine + '&mauthors=' + this.authorName + '&api_key=' + this.apiKey;
-        this.getAuthors(authorListApi).subscribe((data: any[]) => {
-            this.authorList = data;
-            console.log(this.authorList);
-        });
-        // this.http.get('../../assets/mock-data/mock-mauthors.json').subscribe((res) => {
-        //     this.mauthorData = res;
-        //     this.authorList = this.mauthorData.profiles;
-        // });
 
-    }
-
-    getAuthors(url: string) : Observable<any> {
-        const headers = {
-            'Content-Type': 'application/json',
-            'Accept': 'application/json',
-            'Access-Control-Allow-Headers': 'X-Requested-With, Content-type',
-            'Access-Control-Allow-Methods': 'GET, POST, OPTIONS, PUT, PATCH, DELETE',
-            'Access-Control-Allow-Origin': 'http://localhost:4200',
-            'Access-Control-Allow-Credentials': 'true'
-        }
-          
-        const httpOptions = {                                                                                                                                                                                 
-            headers: new HttpHeaders(headers), 
-        };
-        return this.http.get<any>(url, httpOptions).pipe(catchError(this.errorHandler));
+        // find the authors
     }
 
     private errorHandler(error: HttpErrorResponse) {

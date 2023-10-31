@@ -1,7 +1,10 @@
 <section>
     <img src=".\assets\images\scholar_logo_64dp.png" class="home-center">
-    <div class="home-container">
-        <input class="home-search-input" type="text" placeholder="Search authors" [(ngModel)]="authorName">
+    <div class="home-container-top">
+        <input class="home-search-input" type="text" placeholder="Search Authors by Name or Author Id" [(ngModel)]="authorName">
         <button class="home-search-button" (click)="searchAuthor()"><fa-icon [icon]="faMagnifyingGlass"></fa-icon></button>
+    </div>
+    <div class="home-container-btm">
+        <button class="home-doc-link" (click)="addScholar()"><u>Add the Documents for a new/existing Author</u></button>
     </div>
 </section>
