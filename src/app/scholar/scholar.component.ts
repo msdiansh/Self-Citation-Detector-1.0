@@ -1,29 +1,11 @@
-// import { Component, Injectable } from "@angular/core";
-// import { Router } from "@angular/router";
-// import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
+import { Component } from "@angular/core";
 
-// @Component({
-//     selector : 'app-home',
-//     templateUrl : './home.component.html',
-//     styleUrls : ['./home.component.css']
-// })
+@Component({
+    selector: 'app-scholar',
+    templateUrl : './scholar.component.html',
+    styleUrls : ['./scholar.component.css']
+})
 
-// @Injectable({
-//     providedIn: 'root'
-// })
-
-// export class HomeComponent{
-//     faMagnifyingGlass = faMagnifyingGlass;
-//     authorName: string = "";
-
-//     constructor(private router: Router) {}
-
-//     searchAuthor() {
-//         console.log(this.authorName);
-//         this.router.navigate(['/scholars'], { state: { data: this.authorName } });
-//     }
-
-//     addScholar() {
-//         this.router.navigate(['/add']);
-//     }
-// }
+export class ScholarComponent{
+    
+}

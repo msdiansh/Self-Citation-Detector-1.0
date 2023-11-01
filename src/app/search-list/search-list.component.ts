@@ -32,6 +32,11 @@ export class SearchListComponent{
         console.log(this.authorName);
 
         // find the authors
+        var result: any = localStorage.getItem('findName-' + this.authorName);
+        var res: any = JSON.parse(result);
+        console.log(res.profiles);
+
+        this.authorList = res.profiles;
     }
 
     private errorHandler(error: HttpErrorResponse) {
@@ -44,11 +49,8 @@ export class SearchListComponent{
         return throwError(() => new Error('Something bad happened; please try again later.'));
     }
 
-    searchAuthor() {
-        console.log(this.authorName);
+    authorSearchById(id: string) {
+        console.log(id);
     }
 
-    authorSearchById(index: number) {
-        console.log(this.authorList[index].author_id);
-    }
 }

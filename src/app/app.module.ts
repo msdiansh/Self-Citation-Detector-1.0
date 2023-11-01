@@ -8,13 +8,15 @@ import { FormsModule } from '@angular/forms';
 import { SearchListComponent } from './search-list/search-list.component';
 import { HttpClientModule } from '@angular/common/http';
 import { AddScholarComponent } from './add-scholar/add-scholar.component';
+import { ScholarComponent } from './scholar/scholar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     SearchListComponent,
-    AddScholarComponent
+    AddScholarComponent,
+    ScholarComponent
   ],
   imports: [
     BrowserModule,
