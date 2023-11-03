@@ -1,19 +1,10 @@
-<section>
-    <div class="search-list-header">
-        <div class="search-list-logo" style="display: inline-block;">
-            <img src=".\assets\images\scholar_logo_64dp.png">
-        </div>
-        <div class="search-list-input" style="display: inline-block;">
-            <input class="search-list-input-space" type="text" placeholder="Search authors" [(ngModel)]="authorName" disabled="true">
-            <!-- <button class="search-list-button" (click)="searchAuthor()"><fa-icon [icon]="faMagnifyingGlass"></fa-icon></button> -->
-        </div>
-    </div>
+<section class="search-list">
     <div class="search-list-container">
         <div class="search-list-authors" *ngFor="let auth of authorList">
-            <button class="search-list-author-name" (click)="authorSearchById(auth.author_id)">{{auth.name}}</button>
-            <p>Affiliations: {{auth.affiliations}}</p>
-            <p>E-mail: {{auth.email}}</p>
-            <p>Cited By: {{auth.cited_by}}</p>
+            <button class="search-list-author-name" (click)="authorSearchById(auth.author_id)"><span>{{auth.name}}</span></button>
+            <p class="search-list-author-det"><b>Affiliations:</b> {{auth.affiliations}}</p>
+            <p class="search-list-author-det"><b>E-mail:</b> {{auth.email}}</p>
+            <p class="search-list-author-det"><b>Cited By:</b> {{auth.cited_by}}</p>
         </div>
     </div>
 </section>

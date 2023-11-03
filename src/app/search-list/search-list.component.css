@@ -28,20 +28,41 @@
     padding-left: 10px;
     outline: none;
     transition: outline-color 0.1s ease-out;
+    background-color: rgb(255, 255, 255);
 }
 
-.search-list-input-space:focus {
-    outline: solid;
-    outline-width: 0.001px;
-    outline-color: #4d90fe;
-    border: none;
+.search-list-container {
+    padding: 1rem;
+    font-size: 0.8rem;
 }
-  
-.search-list-button {
-    margin: 0;
-    height: 1.7rem;
-    background-color: #4d90fe;
+
+.search-list-author-name {
     border: none;
-    color: white;
-    width: 1.7rem;
+    background-color: rgba(0,0,0,0);
+    cursor: pointer;
+    transition: ease-in-out 5s;
+    padding: 0;
+}
+
+.search-list-author-name span {
+    font-family: sans-serif;
+    color: #4d90fe;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.search-list-author-name :hover {
+    color: #4d91fec2;
+}
+
+.search-list-authors {
+    font-family: sans-serif;
+    border-top: 0.1px solid rgb(0, 0, 0, 0.2);
+    padding-bottom: 0.5rem;
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+}
+
+.search-list-container :nth-child(1) {
+    border-top: none;
 }
