@@ -21,10 +21,10 @@
                     <th style="width: 19%">SELF-CITATIONS</th>
                     <th style="width: 9%">YEAR</th>
                 </tr>
-                <tr class="scholar-article-det" *ngFor="let art of articles">
+                <tr class="scholar-article-det" *ngFor="let art of articles; index as i;">
                     <td class="title">{{art.title}}</td>
                     <td style="text-align: center;" class="cited-by">{{art.cited_by.value}}</td>
-                    <td style="text-align: center;" class="self-cited">N/A</td>
+                    <td style="text-align: center;" class="self-cited">{{selfCitations[i]}}</td>
                     <td style="text-align: center;" class="year">{{art.year}}</td>
                 </tr>                
             </table>
