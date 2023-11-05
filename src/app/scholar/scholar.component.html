@@ -2,12 +2,12 @@
     <div class="scholar-container-left">
         <div class="scholar-details-top">
             <div class="scholar-personal-left">
-                <img class="scholar-pic" src='{{thumbnail}}'/>
+                <img class="scholar-pic" src='{{authorDetails.thumbnail}}'/>
             </div>
             <div class="scholar-personal-right">
-                <p class="scholar-name" >{{name}}</p>
-                <p class="scholar-afl">{{affiliation}}</p>
-                <p class="scholar-mail">{{mail}}</p>
+                <p class="scholar-name" >{{authorDetails.name}}</p>
+                <p class="scholar-afl">{{authorDetails.affiliation}}</p>
+                <p class="scholar-mail">{{authorDetails.email}}</p>
                 <ul class="scholar-interests" type="none">
                     <li *ngFor="let i of interests">{{i.title}}</li>
                 </ul>
@@ -21,10 +21,10 @@
                     <th style="width: 19%">SELF-CITATIONS</th>
                     <th style="width: 9%">YEAR</th>
                 </tr>
-                <tr class="scholar-article-det" *ngFor="let art of articles; index as i;">
+                <tr class="scholar-article-det" *ngFor="let art of articleData; index as i;">
                     <td class="title">{{art.title}}</td>
-                    <td style="text-align: center;" class="cited-by">{{art.cited_by.value}}</td>
-                    <td style="text-align: center;" class="self-cited">{{selfCitations[i]}}</td>
+                    <td style="text-align: center;" class="cited-by">{{art.totalCitations}}</td>
+                    <td style="text-align: center;" class="self-cited">{{art.selfCitations}}</td>
                     <td style="text-align: center;" class="year">{{art.year}}</td>
                 </tr>                
             </table>
@@ -35,14 +35,14 @@
 
         </div>
         <div class="scholar-coauthors">
-            <p>Co-Authors: </p>
+            <p class="scholar-coauthors-hd">Co-Authors: </p>
             <div class="coauthors-details" *ngFor="let ca of coauthors">
                 <div class="coauthor-personal-left">
                     <img class="coauthor-pic" src='{{ca.thumbnail}}'/>
                 </div>
                 <div class="coauthor-personal-right">
-                    <p class="coathor-name" >{{ca.name}}</p>
-                    <p class="coauthor-afl">{{ca.affiliations}}</p>
+                    <p class="coathor-name" style="font-size: 1rem; font-weight: 600; margin: 0.5rem 0rem;">{{ca.name}}</p>
+                    <p class="coauthor-afl" style="font-size: 0.9rem; margin: 0rem;">{{ca.affiliations}}</p>
                 </div>
             </div>
         </div>
