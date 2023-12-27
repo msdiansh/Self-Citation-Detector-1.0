@@ -55,56 +55,7 @@ export class ScholarComponent{
         [Symbol.iterator]: function (): IterableIterator<[string, string]> {
             throw new Error("Function not implemented.");
         },
-        //             authIdList.add("Name: " + listItem);
-        //         else
-        //             authIdList.add(coAuthMap.get(listItem));
-        //     });
-        //     console.log(authIdList);
-        //     var citedByList = JSON.parse(citedByInfo).organic_results;
-        //     console.log(citedByList);
-        //     var count: number = 0;
-        //     for(var x in citedByList) {
-        //         var citedByAuthors = citedByList[x].publication_info.authors;
-        //         if(citedByAuthors == undefined)
-        //             continue;
-        //         for(var y in citedByAuthors) {
-        //             if(authIdList.has("Name: "+citedByAuthors[y].name) ||  authIdList.has(citedByAuthors[y].author_id)) {
-        //                 console.log(citedByList[x].title, "    ->   ", citedByAuthors[y].name, citedByAuthors[y].author_id);
-        //                 count = count+1;
-        //                 break;
-        //             }
-        //         };
-        //         // console.log(citedByList[x].publication_info.authors);
-        //     }
-        //     this.selfCitations[Number(i)] = count;
-        // }
-        // console.log(this.selfCitations);
-        [
-            //             authIdList.add("Name: " + listItem);
-            //         else
-            //             authIdList.add(coAuthMap.get(listItem));
-            //     });
-            //     console.log(authIdList);
-            //     var citedByList = JSON.parse(citedByInfo).organic_results;
-            //     console.log(citedByList);
-            //     var count: number = 0;
-            //     for(var x in citedByList) {
-            //         var citedByAuthors = citedByList[x].publication_info.authors;
-            //         if(citedByAuthors == undefined)
-            //             continue;
-            //         for(var y in citedByAuthors) {
-            //             if(authIdList.has("Name: "+citedByAuthors[y].name) ||  authIdList.has(citedByAuthors[y].author_id)) {
-            //                 console.log(citedByList[x].title, "    ->   ", citedByAuthors[y].name, citedByAuthors[y].author_id);
-            //                 count = count+1;
-            //                 break;
-            //             }
-            //         };
-            //         // console.log(citedByList[x].publication_info.authors);
-            //     }
-            //     this.selfCitations[Number(i)] = count;
-            // }
-            // console.log(this.selfCitations);
-            Symbol.toStringTag]: ""
+        [Symbol.toStringTag]: ""
     }
 
     constructor(private route: ActivatedRoute, private http: HttpClient, public ss: ScholarService) {
@@ -117,16 +68,16 @@ export class ScholarComponent{
         console.log(this.authorId);
         try {
             const res = await this.ss.getAuthorDetails(this.commonUrl + 'Info_' + this.authorId + '/' + this.authorId + '.json');
-            console.log(res);
+            // console.log(res);
             this.authorDetails = res.author;
-            console.log(this.authorDetails);
+            // console.log(this.authorDetails);
             this.interests = this.authorDetails.interests;
 
             this.coauthors = res.co_authors;
-            console.log(this.coauthors);
+            // console.log(this.coauthors);
 
             this.articles = res.articles;
-            console.log(this.articles);
+            // console.log(this.articles);
 
             for(var article of this.articles) {
                 var data: ArticleInfo = {
@@ -146,7 +97,7 @@ export class ScholarComponent{
             for(var c of this.coauthors) {
                 coAuthMap.set(c.name, c.author_id);
             }
-            console.log(coAuthMap);
+            // console.log(coAuthMap);
 
             var index: number = -1;
             for (var article of this.articles) {
@@ -161,25 +112,19 @@ export class ScholarComponent{
                     const citationInfo: any = await this.ss.getCitedByDetails(this.commonUrl + 'Info_' + this.authorId + '/Citations/citation_' + citationId.substring(this.authorId.length + 1) + '.json');
                     if(citedByInfo == null || citedByInfo == undefined || citationInfo == null || citationInfo == undefined)
                         continue;
-                    console.log(citedByInfo);
-                    console.log(citationInfo);
 
                     var citeAuthList = (citationInfo.citation.authors).split(',');
                     var authIdList = new Set<string | undefined>();
                     authIdList.add(this.authorId);
                     citeAuthList.forEach((listItem: any) => {
                         listItem = listItem.trim();
-                        console.log("|"+listItem+"|"+" -> "+coAuthMap.get(listItem));
                         if(coAuthMap.get(listItem) == undefined)
                             authIdList.add("Name: " + listItem);
                         else
                             authIdList.add(coAuthMap.get(listItem));
                     });
-                    console.log(authIdList);
-
+                    
                     var citedByList = citedByInfo.organic_results;
-                    console.log(citedByList);
-
                     var count: number = 0;
                     for(var x in citedByList) {
                         var citedByAuthors = citedByList[x].publication_info.authors;
@@ -187,7 +132,6 @@ export class ScholarComponent{
                             continue;
                         for(var y in citedByAuthors) {
                             if(authIdList.has("Name: "+citedByAuthors[y].name) ||  authIdList.has(citedByAuthors[y].author_id)) {
-                                console.log(citedByList[x].title, " -> ", citedByAuthors[y].name, citedByAuthors[y].author_id);
                                 count = count+1;
                                 break;
                             }

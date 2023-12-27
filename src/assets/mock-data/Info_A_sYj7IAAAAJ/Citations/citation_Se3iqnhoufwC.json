@@ -1,0 +1,72 @@
+{
+  "search_metadata": {
+    "id": "6548a2bac7ad41fa1986c338",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8f938674d665fdf6/6548a2bac7ad41fa1986c338.json",
+    "created_at": "2023-11-06 08:24:26 UTC",
+    "processed_at": "2023-11-06 08:24:26 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:Se3iqnhoufwC",
+    "raw_html_file": "https://serpapi.com/searches/8f938674d665fdf6/6548a2bac7ad41fa1986c338.html",
+    "total_time_taken": 0.94
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:Se3iqnhoufwC"
+  },
+  "citation": {
+    "title": "Soft TDCT: a fuzzy approach towards triangle density based clustering",
+    "link": "https://www.academia.edu/download/83047691/pxc3894255.pdf",
+    "resources": [
+      {
+        "title": "from academia.edu",
+        "file_format": "PDF",
+        "link": "https://www.academia.edu/download/83047691/pxc3894255.pdf"
+      }
+    ],
+    "authors": "Hrishav Bakul Barua, Sauravjyoti Sarmah, Mukul Biswas",
+    "publication_date": "2014/1/1",
+    "journal": "International Journal of Computer Applications",
+    "volume": "90",
+    "issue": "8",
+    "publisher": "Foundation of Computer Science",
+    "description": "Patterns and useful trends in large datasets has attracted considerable interest recently, and one of the most widely studied problems in this area is the identification and formation of clusters, or densely populated regions in a dataset. Prior work does not adequately address the problem of large datasets and minimization of I/O costs. The objective of this paper is to present a fuzzy logical approach towards clustering to refine the results obtained from the previous approach; Triangle-density based clustering technique (TDCT)[1], which was proposed in an earlier research paper in 2012. We hence name this algorithm as Soft Triangle Density Based Clustering Technique (STDCT). This algorithm incorporates soft clustering and is capable of identifying embedded clusters of arbitrary shapes as well as multi-density clusters over large spatial datasets with precision. Experimental results are reported to establish the superiority of the technique in terms of cluster quality and complexity. Fig. 1 depicts the formation of clusters of similar data.",
+    "total_citations": {
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12017799300296402898&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12017799300296402898&engine=google_scholar&hl=en",
+        "cites_id": "12017799300296402898"
+      },
+      "table": [
+        {
+          "year": 2019,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Soft TDCT: a fuzzy approach towards triangle density based clustering",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=12017799300296402898&btnI=1&hl=en",
+        "authors": "HB Barua, S Sarmah, M Biswas - International Journal of Computer Applications, 2014",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12017799300296402898&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=12017799300296402898&engine=google_scholar&hl=en",
+          "cites_id": "12017799300296402898"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:0ucaZMrMx6YJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12017799300296402898",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=12017799300296402898&engine=google_scholar&hl=en",
+          "cluster_id": "12017799300296402898"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "search_metadata": {
+    "id": "6548a269a4bb381a6d7d3053",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c8cb7c2819d75e9b/6548a269a4bb381a6d7d3053.json",
+    "created_at": "2023-11-06 08:23:05 UTC",
+    "processed_at": "2023-11-06 08:23:05 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:ZeXyd9-uunAC",
+    "raw_html_file": "https://serpapi.com/searches/c8cb7c2819d75e9b/6548a269a4bb381a6d7d3053.html",
+    "total_time_taken": 1.12
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:ZeXyd9-uunAC"
+  },
+  "citation": {
+    "title": "EDGE CENTRIC COMMUNICATION PROTOCOL FOR REMOTELY MANEUVERING A TELE-PRESENCE ROBOT IN A GEOGRAPHICALLY DISTRIBUTED ENVIRONMENT",
+    "link": "https://patents.google.com/patent/US11573563B2/en",
+    "resources": [
+      {
+        "title": "from googleapis.com",
+        "file_format": "PDF",
+        "link": "https://patentimages.storage.googleapis.com/a4/21/d9/9a3ab51ae5ab9b/US20210208581A1.pdf"
+      }
+    ],
+    "inventors": "Abhijan BHATTACHARYYA, Ashis SAU, Ruddra Dev ROYCHOUDHURY, Hrishav Bakul BARUA, Chayan SARKAR, Sayan PAUL, Brojeshwar BHOWMICK, Arpan PAL, Balamuralidhar PURUSHOTHAMAN",
+    "publication_date": "2021/7/8",
+    "patent_office": "US",
+    "application_number": "16988453",
+    "description": "Robotic platform for tele-presence applications has gained paramount importance, such as for remote meetings, group discussions, and the like and has sought much attention. There exist some robotic platforms for such tele-presence applications, these lack efficacy in communication and interaction between remote person and avatar robot deployed in another geographic location thus adding network overhead. Embodiments of the present disclosure for edge centric communication protocol for remotely maneuvering tele-presence robot in geographically distributed environment. More specifically, edge-centric tele-presence robot architecture is provided for maneuvering tele-presence robot in distributed geographical environment, wherein the architecture provides a framework that implements both cloud and edge-centric systems together with a first communication protocol for communication between a master …",
+    "total_citations": {
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17541789815925524777&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17541789815925524777&engine=google_scholar&hl=en",
+        "cites_id": "17541789815925524777"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Edge centric communication protocol for remotely maneuvering a tele-presence robot in a geographically distributed environment",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=17541789815925524777&btnI=1&hl=en",
+        "authors": "A Bhattacharyya, SAU Ashis, RD Roychoudhury… - US Patent 11,573,563, 2023",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17541789815925524777&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=17541789815925524777&engine=google_scholar&hl=en",
+          "cites_id": "17541789815925524777"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:KUnOruX0cPMJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17541789815925524777",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=17541789815925524777&engine=google_scholar&hl=en",
+          "cluster_id": "17541789815925524777"
+        }
+      }
+    ]
+  }
+}

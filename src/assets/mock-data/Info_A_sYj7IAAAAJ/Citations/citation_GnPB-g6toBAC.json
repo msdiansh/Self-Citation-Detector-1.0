@@ -1,0 +1,70 @@
+{
+  "search_metadata": {
+    "id": "65489f8cdc02f1f2dd62c5a5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dfa83abe9c1cac11/65489f8cdc02f1f2dd62c5a5.json",
+    "created_at": "2023-11-06 08:10:52 UTC",
+    "processed_at": "2023-11-06 08:10:52 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:GnPB-g6toBAC",
+    "raw_html_file": "https://serpapi.com/searches/dfa83abe9c1cac11/65489f8cdc02f1f2dd62c5a5.html",
+    "total_time_taken": 1.77
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:GnPB-g6toBAC"
+  },
+  "citation": {
+    "title": "Computational Solar Energy - Ensemble Learning Methods for Prediction of Solar Power Generation based on Meteorological Parameters in Eastern India",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1755008423000078",
+    "resources": [
+      {
+        "title": "from arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2301.10159"
+      }
+    ],
+    "authors": "Debojyoti Chakraborty, Jayeeta Mondal, Hrishav Bakul Barua, Ankur Bhattacharjee",
+    "publication_date": "2023",
+    "journal": "Renewable Energy Focus (Elsevier)",
+    "publisher": "Elsevier",
+    "description": "The challenges in applications of solar energy lies in its intermittency and dependency on meteorological parameters such as; solar radiation, ambient temperature, rainfall, wind-speed etc., and many other physical parameters like dust accumulation etc. Hence, it is important to estimate the amount of solar photovoltaic (PV) power generation for a specific geographical location. Machine learning (ML) models have gained importance and are widely used for prediction of solar power plant performance. In this paper, the impact of weather parameters on solar PV power generation is estimated by several Ensemble ML (EML) models like Bagging, Boosting, Stacking, and Voting for the first time. The performance of chosen ML algorithms is validated by field dataset of a 10kWp solar PV power plant in Eastern India region. Furthermore, a complete test-bed framework has been designed for data mining as well as to …",
+    "total_citations": {
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9323603532652814680&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9323603532652814680&engine=google_scholar&hl=en",
+        "cites_id": "9323603532652814680"
+      },
+      "table": [
+        {
+          "year": 2023,
+          "citations": 6
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Computational solar energy–Ensemble learning methods for prediction of solar power generation based on meteorological parameters in Eastern India",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=9323603532652814680&btnI=1&hl=en",
+        "authors": "D Chakraborty, J Mondal, HB Barua, A Bhattacharjee - Renewable Energy Focus, 2023",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9323603532652814680&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=9323603532652814680&engine=google_scholar&hl=en",
+          "cites_id": "9323603532652814680"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:WCFZrgMYZIEJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9323603532652814680",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=9323603532652814680&engine=google_scholar&hl=en",
+          "cluster_id": "9323603532652814680"
+        }
+      }
+    ]
+  }
+}

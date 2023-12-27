@@ -1,0 +1,70 @@
+{
+  "search_metadata": {
+    "id": "6548a19824e88e05bdff76a2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4085dfa49593046e/6548a19824e88e05bdff76a2.json",
+    "created_at": "2023-11-06 08:19:36 UTC",
+    "processed_at": "2023-11-06 08:19:36 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:-f6ydRqryjwC",
+    "raw_html_file": "https://serpapi.com/searches/4085dfa49593046e/6548a19824e88e05bdff76a2.html",
+    "total_time_taken": 0.4
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:-f6ydRqryjwC"
+  },
+  "citation": {
+    "title": "KNOWLEDGE PARTITIONING FOR TASK EXECUTION BY CONVERSATIONAL TELE-PRESENCE ROBOTS IN A GEOGRAPHICALLY SEPARATED ENVIRONMENT",
+    "link": "https://patents.google.com/patent/US11597080B2/en",
+    "resources": [
+      {
+        "title": "from googleapis.com",
+        "file_format": "PDF",
+        "link": "https://patentimages.storage.googleapis.com/f5/99/a1/42170046dfd19f/US11597080.pdf"
+      }
+    ],
+    "inventors": "SARKAR Chayan, Snehasis BANERJEE, Pramanick Pradip, Hrishav Bakul Barua, Soumyadip MAITY, Dipanjan DAS, Brojeshwar BHOWMICK, Ashis SAU, Abhijan BHATTACHARYYA, Arpan PAL, Balamuralidhar PURUSHOTHAMAN, Ruddra Roy CHOWDHURY",
+    "publication_date": "2021/9/23",
+    "patent_office": "US",
+    "application_number": "17/015,238",
+    "description": "Conventional tele-presence robots have their own limitations with respect to task execution, information processing and management. Embodiments of the present disclosure provide a tele-presence robot (TPR) that communicates with a master device associated with a user via an edge device for task execution wherein control command from the master device is parsed for determining instructions set and task type for execution. Based on this determination, the TPR queries for information across storage devices until a response is obtained enough to execute task. The task upon execution is validated with the master device and user. Knowledge acquired, during querying, task execution and validation of the executed task, is dynamically partitioned by the TPR across storage devices namely, on-board memory of the tele-present robot, an edge device, a cloud and a web interface respectively depending upon the …",
+    "total_citations": {
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18030532308825918848&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18030532308825918848&engine=google_scholar&hl=en",
+        "cites_id": "18030532308825918848"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Knowledge partitioning for task execution by conversational tele-presence robots in a geographically separated environment",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=18030532308825918848&btnI=1&hl=en",
+        "authors": "C Sarkar, S Banerjee, P Pramanick, HB Barua, S Maity… - US Patent 11,597,080, 2023",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18030532308825918848&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=18030532308825918848&engine=google_scholar&hl=en",
+          "cites_id": "18030532308825918848"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:gM3F4ppROfoJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=18030532308825918848",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=18030532308825918848&engine=google_scholar&hl=en",
+          "cluster_id": "18030532308825918848"
+        }
+      }
+    ]
+  }
+}
