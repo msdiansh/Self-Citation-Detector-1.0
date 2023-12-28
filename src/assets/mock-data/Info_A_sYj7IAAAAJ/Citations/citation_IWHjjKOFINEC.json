@@ -1,0 +1,71 @@
+{
+  "search_metadata": {
+    "id": "65489f59cace96f884ad0040",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b73fbbaf8c7abcc7/65489f59cace96f884ad0040.json",
+    "created_at": "2023-11-06 08:10:01 UTC",
+    "processed_at": "2023-11-06 08:10:01 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:IWHjjKOFINEC",
+    "raw_html_file": "https://serpapi.com/searches/b73fbbaf8c7abcc7/65489f59cace96f884ad0040.html",
+    "total_time_taken": 0.31
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:IWHjjKOFINEC"
+  },
+  "citation": {
+    "title": "Demo: Edge-centric Telepresence Avatar Robot for Geographically Distributed Environment",
+    "authors": "Ashis Sau, Ruddra Dev Roychoudhury, Hrishav Bakul Barua, Chayan Sarkar, Sayan Paul",
+    "publication_date": "2020",
+    "total_citations": {
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15107827214783912048&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15107827214783912048&engine=google_scholar&hl=en",
+        "cites_id": "15107827214783912048"
+      },
+      "table": [
+        {
+          "year": 2020,
+          "citations": 1
+        },
+        {
+          "year": 2021,
+          "citations": 1
+        },
+        {
+          "year": 2022,
+          "citations": 3
+        },
+        {
+          "year": 2023,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Edge-centric telepresence avatar robot for geographically distributed environment",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=15107827214783912048&btnI=1&hl=en",
+        "authors": "A Sau, RD Roychoudhury, HB Barua, C Sarkar, S Paul… - arXiv preprint arXiv:2007.12990, 2020",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15107827214783912048&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15107827214783912048&engine=google_scholar&hl=en",
+          "cites_id": "15107827214783912048"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:cJgsoc7IqdEJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15107827214783912048",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=15107827214783912048&engine=google_scholar&hl=en",
+          "cluster_id": "15107827214783912048"
+        }
+      }
+    ]
+  }
+}

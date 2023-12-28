@@ -1,0 +1,71 @@
+{
+  "search_metadata": {
+    "id": "6548a1d6af6304ba3cf68d05",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1b61d6260c1dfee5/6548a1d6af6304ba3cf68d05.json",
+    "created_at": "2023-11-06 08:20:38 UTC",
+    "processed_at": "2023-11-06 08:20:38 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:dhFuZR0502QC",
+    "raw_html_file": "https://serpapi.com/searches/1b61d6260c1dfee5/6548a1d6af6304ba3cf68d05.html",
+    "total_time_taken": 0.52
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:dhFuZR0502QC"
+  },
+  "citation": {
+    "title": "ATTENTION SHIFTING OF A ROBOT IN A GROUP CONVERSATION USING AUDIO- VISUAL PERCEPTION BASED SPEAKER LOCALIZATION",
+    "link": "https://patents.google.com/patent/US11127401B2/en",
+    "resources": [
+      {
+        "title": "from googleapis.com",
+        "file_format": "PDF",
+        "link": "https://patentimages.storage.googleapis.com/6d/87/93/1451dc6e3d5c57/US11127401.pdf"
+      }
+    ],
+    "inventors": "Chayan Sarkar, Hrishav Bakul Barua, Achanna Anil Kumar, Arpan Pal, Balamuralidhar Purushothaman",
+    "publication_date": "2021/9/21",
+    "patent_office": "US",
+    "patent_number": "11127401",
+    "application_number": "16936118",
+    "description": "This disclosure relates to attention shifting of a robot in a group conversation with two or more attendees, wherein at least one of them is a speaker. State of the art has dealt with several aspects of Human-Robot Interaction (HRI) including responding to a source of sound at a time, addressing a fixed viewing area or determining who is the speaker based on eye gaze direction. However, attention shifting to make the conversation human-like is a challenge. The present disclosure uses audio-visual perception for speaker localization. Only qualified direction of arrivals (DOAs) are used for the audio perception. Further the audio perception is complimented by visual perception employing real time face detection and lip movement detection. Use of HRI rules, clustering of the DOAs, dynamic adjustment of rotation of the robot and a dynamically updated knowledge repository enriches the robot with intelligence to shift …",
+    "total_citations": {
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2063731508104918595&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2063731508104918595&engine=google_scholar&hl=en",
+        "cites_id": "2063731508104918595"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Attention shifting of a robot in a group conversation using audio-visual perception based speaker localization",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=2063731508104918595&btnI=1&hl=en",
+        "authors": "C Sarkar, HB Barua, A Pal, B Purushothaman… - US Patent 11,127,401, 2021",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2063731508104918595&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2063731508104918595&engine=google_scholar&hl=en",
+          "cites_id": "2063731508104918595"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:Q_ZfXN_YoxwJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2063731508104918595",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=2063731508104918595&engine=google_scholar&hl=en",
+          "cluster_id": "2063731508104918595"
+        }
+      }
+    ]
+  }
+}

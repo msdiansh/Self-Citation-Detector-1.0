@@ -10,6 +10,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { AddScholarComponent } from './add-scholar/add-scholar.component';
 import { ScholarComponent } from './scholar/scholar.component';
 import { HeaderComponent } from './header/header.component';
+import { ScholarService } from './scholar/scholar.service';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,9 @@ import { HeaderComponent } from './header/header.component';
     FormsModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [
+    ScholarService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

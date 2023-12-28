@@ -1,0 +1,69 @@
+{
+  "search_metadata": {
+    "id": "6548a036cace96f884ad0067",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f187c1c4c5425b2e/6548a036cace96f884ad0067.json",
+    "created_at": "2023-11-06 08:13:42 UTC",
+    "processed_at": "2023-11-06 08:13:42 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:bEWYMUwI8FkC",
+    "raw_html_file": "https://serpapi.com/searches/f187c1c4c5425b2e/6548a036cace96f884ad0067.html",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:bEWYMUwI8FkC"
+  },
+  "citation": {
+    "title": "Data science and Machine learning in the Clouds: A Perspective for the Future",
+    "link": "https://arxiv.org/abs/2109.01661",
+    "resources": [
+      {
+        "title": "from arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2109.01661"
+      }
+    ],
+    "authors": "Hrishav Bakul Barua",
+    "publication_date": "2021/9/2",
+    "journal": "arXiv preprint arXiv:2109.01661",
+    "description": "As we are fast approaching the beginning of a paradigm shift in the field of science, Data driven science (the so called fourth science paradigm) is going to be the driving force in research and innovation. From medicine to biodiversity and astronomy to geology, all these terms are somehow going to be affected by this paradigm shift. The huge amount of data to be processed under this new paradigm will be a major concern in the future and one will strongly require cloud based services in all the aspects of these computations (from storage to compute and other services). Another aspect will be energy consumption and performance of prediction jobs and tasks within such a scientific paradigm which will change the way one sees computation. Data science has heavily impacted or rather triggered the emergence of Machine Learning, Signal/Image/Video processing related algorithms, Artificial intelligence, Robotics, health informatics, geoinformatics, and many more such areas of interest. Hence, we envisage an era where Data science can deliver its promises with the help of the existing cloud based platforms and services with the addition of new services. In this article, we discuss about data driven science and Machine learning and how they are going to be linked through cloud based services in the future. It also discusses the rise of paradigms like approximate computing, quantum computing and many more in recent times and their applicability in big data processing, data science, analytics, prediction and machine learning in the cloud environments.",
+    "total_citations": {
+      "cited_by": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2376759175390311109&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2376759175390311109&engine=google_scholar&hl=en",
+        "cites_id": "2376759175390311109"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 4
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Data science and Machine learning in the Clouds: A Perspective for the Future",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=2376759175390311109&btnI=1&hl=en",
+        "authors": "HB Barua - arXiv preprint arXiv:2109.01661, 2021",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2376759175390311109&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2376759175390311109&engine=google_scholar&hl=en",
+          "cites_id": "2376759175390311109"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:xTLKneDx-yAJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2376759175390311109",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=2376759175390311109&engine=google_scholar&hl=en",
+          "cluster_id": "2376759175390311109"
+        }
+      }
+    ]
+  }
+}

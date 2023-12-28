@@ -1,0 +1,73 @@
+{
+  "search_metadata": {
+    "id": "6548a09b9f55b3f09c8f19a8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c0ccc4fe70b80f19/6548a09b9f55b3f09c8f19a8.json",
+    "created_at": "2023-11-06 08:15:23 UTC",
+    "processed_at": "2023-11-06 08:15:23 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:r0BpntZqJG4C",
+    "raw_html_file": "https://serpapi.com/searches/c0ccc4fe70b80f19/6548a09b9f55b3f09c8f19a8.html",
+    "total_time_taken": 1.62
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:r0BpntZqJG4C"
+  },
+  "citation": {
+    "title": "Detecting socially interacting groups using f-formation: A survey of taxonomy, methods, datasets, applications, challenges, and future research directions",
+    "link": "https://arxiv.org/abs/2108.06181",
+    "resources": [
+      {
+        "title": "from arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2108.06181"
+      }
+    ],
+    "authors": "Hrishav Bakul Barua, Theint Haythi Mg, Pradip Pramanick, Chayan Sarkar",
+    "publication_date": "2021/8/13",
+    "journal": "arXiv preprint arXiv:2108.06181",
+    "description": "Robots in our daily surroundings are increasing day by day. Their usability and acceptability largely depend on their explicit and implicit interaction capability with fellow human beings. As a result, social behavior is one of the most sought-after qualities that a robot can possess. However, there is no specific aspect and/or feature that defines socially acceptable behavior and it largely depends on the situation, application, and society. In this article, we investigate one such social behavior for collocated robots. Imagine a group of people is interacting with each other and we want to join the group. We as human beings do it in a socially acceptable manner, i.e., within the group, we do position ourselves in such a way that we can participate in the group activity without disturbing/obstructing anybody. To possess such a quality, first, a robot needs to determine the formation of the group and then determine a position for itself, which we humans do implicitly. The theory of f-formation can be utilized for this purpose. As the types of formations can be very diverse, detecting the social groups is not a trivial task. In this article, we provide a comprehensive survey of the existing work on social interaction and group detection using f-formation for robotics and other applications. We also put forward a novel holistic survey framework combining all the possible concerns and modules relevant to this problem. We define taxonomies based on methods, camera views, datasets, detection capabilities and scale, evaluation approaches, and application areas. We discuss certain open challenges and limitations in current literature along with possible future research …",
+    "total_citations": {
+      "cited_by": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18306056215652078595&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18306056215652078595&engine=google_scholar&hl=en",
+        "cites_id": "18306056215652078595"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 1
+        },
+        {
+          "year": 2023,
+          "citations": 2
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Detecting socially interacting groups using f-formation: A survey of taxonomy, methods, datasets, applications, challenges, and future research directions",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=18306056215652078595&btnI=1&hl=en",
+        "authors": "HB Barua, TH Mg, P Pramanick, C Sarkar - arXiv preprint arXiv:2108.06181, 2021",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18306056215652078595&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=18306056215652078595&engine=google_scholar&hl=en",
+          "cites_id": "18306056215652078595"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:AxRGdCMtDP4J:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=18306056215652078595",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=18306056215652078595&engine=google_scholar&hl=en",
+          "cluster_id": "18306056215652078595"
+        }
+      }
+    ]
+  }
+}

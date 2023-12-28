@@ -1,0 +1,71 @@
+{
+  "search_metadata": {
+    "id": "6548a05b17f923dfaac390f0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/357f34f72808b6ec/6548a05b17f923dfaac390f0.json",
+    "created_at": "2023-11-06 08:14:19 UTC",
+    "processed_at": "2023-11-06 08:14:19 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:mB3voiENLucC",
+    "raw_html_file": "https://serpapi.com/searches/357f34f72808b6ec/6548a05b17f923dfaac390f0.html",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:mB3voiENLucC"
+  },
+  "citation": {
+    "title": "I can attend a meeting too! Towards a human-like telepresence avatar robot to attend meeting on your behalf",
+    "link": "https://arxiv.org/abs/2006.15647",
+    "resources": [
+      {
+        "title": "from arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2006.15647"
+      }
+    ],
+    "authors": "Hrishav Bakul Barua, Chayan Sarka, Achanna Anil Kumar, Arpan Pal, Balamuralidhar P",
+    "publication_date": "2020/6/28",
+    "journal": "arXiv:2006.15647",
+    "description": "Telepresence robots are used in various forms in various use-cases that helps to avoid physical human presence at the scene of action. In this work, we focus on a telepresence robot that can be used to attend a meeting remotely with a group of people. Unlike a one-to-one meeting, participants in a group meeting can be located at a different part of the room, especially in an informal setup. As a result, all of them may not be at the viewing angle of the robot, a.k.a. the remote participant. In such a case, to provide a better meeting experience, the robot should localize the speaker and bring the speaker at the center of the viewing angle. Though sound source localization can easily be done using a microphone-array, bringing the speaker or set of speakers at the viewing angle is not a trivial task. First of all, the robot should react only to a human voice, but not to the random noises. Secondly, if there are multiple speakers, to whom the robot should face or should it rotate continuously with every new speaker? Lastly, most robotic platforms are resource-constrained and to achieve a real-time response, i.e., avoiding network delay, all the algorithms should be implemented within the robot itself. This article presents a study and implementation of an attention shifting scheme in a telepresence meeting scenario which best suits the needs and expectations of the collocated and remote attendees. We define a policy to decide when a robot should rotate and how much based on real-time speaker localization. Using user satisfaction study, we show the efficacy and usability of our system in the meeting scenario. Moreover, our system can be easily adapted to …",
+    "total_citations": {
+      "cited_by": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8648499817874500215&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8648499817874500215&engine=google_scholar&hl=en",
+        "cites_id": "8648499817874500215"
+      },
+      "table": [
+        {
+          "year": 2020,
+          "citations": 1
+        },
+        {
+          "year": 2021,
+          "citations": 1
+        },
+        {
+          "year": 2022,
+          "citations": 2
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "I can attend a meeting too! towards a human-like telepresence avatar robot to attend meeting on your behalf",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=8648499817874500215&btnI=1&hl=en",
+        "authors": "HB Barua, C Sarkar, AA Kumar, A Pal - arXiv preprint arXiv:2006.15647, 2020",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8648499817874500215&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=8648499817874500215&engine=google_scholar&hl=en",
+          "cites_id": "8648499817874500215"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:d6pwPMOkBXgJ:scholar.google.com/"
+        }
+      }
+    ]
+  }
+}

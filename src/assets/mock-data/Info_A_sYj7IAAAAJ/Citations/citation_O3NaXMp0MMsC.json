@@ -1,0 +1,63 @@
+{
+  "search_metadata": {
+    "id": "6548a127c9de4563cc173efe",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cf06feb533c7e2f2/6548a127c9de4563cc173efe.json",
+    "created_at": "2023-11-06 08:17:43 UTC",
+    "processed_at": "2023-11-06 08:17:43 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:O3NaXMp0MMsC",
+    "raw_html_file": "https://serpapi.com/searches/cf06feb533c7e2f2/6548a127c9de4563cc173efe.html",
+    "total_time_taken": 1.04
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:O3NaXMp0MMsC"
+  },
+  "citation": {
+    "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+    "link": "https://arxiv.org/abs/2203.02959",
+    "resources": [
+      {
+        "title": "from arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2203.02959"
+      }
+    ],
+    "authors": "Hrishav Bakul Barua, Ashis Sau",
+    "publication_date": "2022/3/6",
+    "source": "arXiv preprint arXiv:2203.02959",
+    "description": "Telepresence and teleoperation robotics have attracted a great amount of attention in the last 10 years. With the Artificial Intelligence (AI) revolution already being started, we can see a wide range of robotic applications being realized. Intelligent robotic systems are being deployed both in industrial and domestic environments. Telepresence is the idea of being present in a remote location virtually or via robotic avatars. Similarly, the idea of operating a robot from a remote location for various tasks is called teleoperation. These technologies find significant application in health care, education, surveillance, disaster recovery, and corporate/government sectors. But question still remains about their maturity, security and safety levels. We also need to think about enhancing the user experience and trust in such technologies going into the next generation of computing.",
+    "total_citations": {
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2964760569741344634&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2964760569741344634&engine=google_scholar&hl=en",
+        "cites_id": "2964760569741344634"
+      },
+      "table": [
+        {
+          "year": 2023,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=2964760569741344634&btnI=1&hl=en",
+        "authors": "HB Barua, A Sau - arXiv preprint arXiv:2203.02959, 2022",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2964760569741344634&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2964760569741344634&engine=google_scholar&hl=en",
+          "cites_id": "2964760569741344634"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:en-EuwfyJCkJ:scholar.google.com/"
+        }
+      }
+    ]
+  }
+}

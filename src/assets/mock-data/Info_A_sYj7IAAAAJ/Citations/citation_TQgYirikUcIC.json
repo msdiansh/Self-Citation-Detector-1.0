@@ -1,0 +1,77 @@
+{
+    "search_metadata": {
+      "id": "654661399d1586c32e986c9d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/dc642cde3283a7ca/654661399d1586c32e986c9d.json",
+      "created_at": "2023-11-04 15:20:25 UTC",
+      "processed_at": "2023-11-04 15:20:25 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:TQgYirikUcIC",
+      "raw_html_file": "https://serpapi.com/searches/dc642cde3283a7ca/654661399d1586c32e986c9d.html",
+      "total_time_taken": 1.73
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "A_sYj7IAAAAJ:TQgYirikUcIC"
+    },
+    "citation": {
+      "title": "DeComplex: Task planning from complex natural instructions by a collocating robot",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9341289/",
+      "resources": [
+        {
+          "title": "from arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2008.10084"
+        }
+      ],
+      "authors": "Pradip Pramanick, Hrishav Bakul Barua, Chayan Sarkar",
+      "publication_date": "2020",
+      "conference": "2020; 33rd IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA",
+      "description": "As the number of robots in our daily surroundings like home, office, restaurants, factory floors, etc. are increasing rapidly, the development of natural human-robot interaction mechanism becomes more vital as it dictates the usability and acceptability of the robots. One of the valued features of such a cohabitant robot is that it performs tasks that are instructed in natural language. However, it is not trivial to execute the human intended tasks as natural language expressions can have large linguistic variations. Existing works assume either single task instruction is given to the robot at a time or there are multiple independent tasks in an instruction. However, complex task instructions composed of multiple inter-dependent tasks are not handled efficiently in the literature. There can be ordering dependency among the tasks, i.e., the tasks have to be executed in a certain order or there can be execution dependency, i.e …",
+      "total_citations": {
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3360967513803429139&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=3360967513803429139&engine=google_scholar&hl=en",
+          "cites_id": "3360967513803429139"
+        },
+        "table": [
+          {
+            "year": 2021,
+            "citations": 1
+          },
+          {
+            "year": 2022,
+            "citations": 6
+          },
+          {
+            "year": 2023,
+            "citations": 4
+          }
+        ]
+      },
+      "scholar_articles": [
+        {
+          "title": "DeComplex: Task planning from complex natural instructions by a collocating robot",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=3360967513803429139&btnI=1&hl=en",
+          "authors": "P Pramanick, HB Barua, C Sarkar - 2020 IEEE/RSJ International Conference on Intelligent …, 2020",
+          "cited_by": {
+            "total": 11,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3360967513803429139&as_sdt=5",
+            "serpapi_link": "https://serpapi.com/search.json?cites=3360967513803429139&engine=google_scholar&hl=en",
+            "cites_id": "3360967513803429139"
+          },
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:E5XhiSWOpC4J:scholar.google.com/"
+          },
+          "versions": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3360967513803429139",
+            "serpapi_link": "https://serpapi.com/search.json?cluster=3360967513803429139&engine=google_scholar&hl=en",
+            "cluster_id": "3360967513803429139"
+          }
+        }
+      ]
+    }
+  }

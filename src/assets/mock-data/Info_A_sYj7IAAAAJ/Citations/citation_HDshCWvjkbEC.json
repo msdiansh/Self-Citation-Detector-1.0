@@ -1,0 +1,77 @@
+{
+  "search_metadata": {
+    "id": "65489e3d29d177b7776114f2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1e30a3a57492a8cb/65489e3d29d177b7776114f2.json",
+    "created_at": "2023-11-06 08:05:17 UTC",
+    "processed_at": "2023-11-06 08:05:17 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:HDshCWvjkbEC",
+    "raw_html_file": "https://serpapi.com/searches/1e30a3a57492a8cb/65489e3d29d177b7776114f2.html",
+    "total_time_taken": 1.41
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:HDshCWvjkbEC"
+  },
+  "citation": {
+    "title": "Let me join you! Real-time F-formation recognition by a socially aware robot",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9223469/",
+    "resources": [
+      {
+        "title": "from arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2008.10078"
+      }
+    ],
+    "authors": "Hrishav Bakul Barua, Pradip Pramanick, Chayan Sarkar, Theint Haythi Mg",
+    "publication_date": "2020",
+    "conference": "2020; 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Naples, Italy",
+    "description": "This paper presents a novel architecture to detect social groups in real-time from a continuous image stream of an ego-vision camera. F-formation defines social orientations in space where two or more person tends to communicate in a social place. Thus, essentially, we detect F-formations in social gatherings such as meetings, discussions, etc. and predict the robot’s approach angle if it wants to join the social group. Additionally, we also detect outliers, i.e., the persons who are not part of the group under consideration. Our proposed pipeline consists of – a) a skeletal key points estimator (a total of 17) for the detected human in the scene, b) a learning model (using a feature vector based on the skeletal points) using CRF to detect groups of people and outlier person in a scene, and c) a separate learning model using a multi-class Support Vector Machine (SVM) to predict the exact F-formation of the group of people …",
+    "total_citations": {
+      "cited_by": {
+        "total": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6016185144219946712&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6016185144219946712&engine=google_scholar&hl=en",
+        "cites_id": "6016185144219946712"
+      },
+      "table": [
+        {
+          "year": 2021,
+          "citations": 1
+        },
+        {
+          "year": 2022,
+          "citations": 4
+        },
+        {
+          "year": 2023,
+          "citations": 5
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Let me join you! Real-time F-formation recognition by a socially aware robot",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=6016185144219946712&btnI=1&hl=en",
+        "authors": "HB Barua, P Pramanick, C Sarkar, TH Mg - 2020 29th IEEE International Conference on Robot and …, 2020",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6016185144219946712&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6016185144219946712&engine=google_scholar&hl=en",
+          "cites_id": "6016185144219946712"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:2E42eIPIfVMJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6016185144219946712",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=6016185144219946712&engine=google_scholar&hl=en",
+          "cluster_id": "6016185144219946712"
+        }
+      }
+    ]
+  }
+}

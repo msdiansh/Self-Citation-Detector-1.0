@@ -1,0 +1,71 @@
+{
+  "search_metadata": {
+    "id": "6548a101aa6c952e18b329d9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a8a76ab3b1f8ec96/6548a101aa6c952e18b329d9.json",
+    "created_at": "2023-11-06 08:17:05 UTC",
+    "processed_at": "2023-11-06 08:17:05 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=A_sYj7IAAAAJ:JV2RwH3_ST0C",
+    "raw_html_file": "https://serpapi.com/searches/a8a76ab3b1f8ec96/6548a101aa6c952e18b329d9.html",
+    "total_time_taken": 1.29
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "A_sYj7IAAAAJ:JV2RwH3_ST0C"
+  },
+  "citation": {
+    "title": "System and method for enabling robot to perceive and detect socially interacting groups",
+    "link": "https://patents.google.com/patent/US11354531B2/en",
+    "resources": [
+      {
+        "title": "from googleapis.com",
+        "file_format": "PDF",
+        "link": "https://patentimages.storage.googleapis.com/62/8b/00/4973e7d03ace0e/US11354531.pdf"
+      }
+    ],
+    "inventors": "Hrishav Bakul Barua, Pradip Pramanick, Chayan Sarkar",
+    "publication_date": "2022/6/7",
+    "patent_office": "US",
+    "patent_number": "11354531",
+    "application_number": "17138224",
+    "description": "This disclosure relates to system and method for enabling a robot to perceive and detect socially interacting groups. Various known systems have limited accuracy due to prevalent rule-driven methods. In case of few data-driven learning methods, they lack datasets with varied conditions of light, occlusion, and backgrounds. The disclosed method and system detect the formation of a social group of people, or, f-formation in real-time in a given scene. The system also detects outliers in the process, ie, people who are visible but not part of the interacting group. This plays a key role in correct f-formation detection in a real-life crowded environment. Additionally, when a collocated robot plans to join the group it has to detect a pose for itself along with detecting the formation. Thus, the system provides the approach angle for the robot, which can help it to determine the final pose in a socially acceptable manner.",
+    "total_citations": {
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2308823227025725566&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2308823227025725566&engine=google_scholar&hl=en",
+        "cites_id": "2308823227025725566"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "System and method for enabling robot to perceive and detect socially interacting groups",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=2308823227025725566&btnI=1&hl=en",
+        "authors": "HB Barua, P Pramanick, C Sarkar - US Patent 11,354,531, 2022",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2308823227025725566&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2308823227025725566&engine=google_scholar&hl=en",
+          "cites_id": "2308823227025725566"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:fhgKCH6WCiAJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2308823227025725566",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=2308823227025725566&engine=google_scholar&hl=en",
+          "cluster_id": "2308823227025725566"
+        }
+      }
+    ]
+  }
+}
