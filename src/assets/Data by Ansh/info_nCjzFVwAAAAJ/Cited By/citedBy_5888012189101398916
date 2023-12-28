@@ -1,0 +1,151 @@
+{
+  "search_metadata": {
+    "id": "658dac9f5fc493281b527300",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f26811c293df3d7e/658dac9f5fc493281b527300.json",
+    "created_at": "2023-12-28 17:13:03 UTC",
+    "processed_at": "2023-12-28 17:13:03 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=5888012189101398916&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/f26811c293df3d7e/658dac9f5fc493281b527300.html",
+    "total_time_taken": 2.25
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "5888012189101398916",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=5888012189101398916&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Low power spintronic ternary content addressable memory",
+      "result_id": "uk_iEsPnC-YJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8466836/",
+      "snippet": "Ternary Content Addressable Memory (TCAM) is used in applications that require a low power dissipation and fast data retrieval. This paper presents a domain wall-based …",
+      "publication_info": {
+        "summary": "KP Gnawali, SN Mozaffari… - IEEE Transactions on …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "KP Gnawali",
+            "link": "https://scholar.google.com/citations?user=tsAUd98AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tsAUd98AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tsAUd98AAAAJ"
+          },
+          {
+            "name": "SN Mozaffari",
+            "link": "https://scholar.google.com/citations?user=VeL_3tQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VeL_3tQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VeL_3tQAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uk_iEsPnC-YJ",
+        "cited_by": {
+          "total": 19,
+          "link": "https://scholar.google.com/scholar?cites=16576597678488702906&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "16576597678488702906",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16576597678488702906&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uk_iEsPnC-YJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5888012189101398916&engine=google_scholar&hl=en&q=related%3Auk_iEsPnC-YJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=16576597678488702906&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "16576597678488702906",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16576597678488702906&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Low Power and High-Performance Associative Memory Design",
+      "result_id": "d972vXDAbyQJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9848289/",
+      "snippet": "Memory is an essential element of every VLSI circuit. This paper reviews Content Addressable Memory (CAM) and its conventional architectures. A model of CAM is proposed …",
+      "publication_info": {
+        "summary": "R Lorenzo, SNS Vajhala… - 2022 2nd International …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "R Lorenzo",
+            "link": "https://scholar.google.com/citations?user=v0IG_e0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=v0IG_e0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "v0IG_e0AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=d972vXDAbyQJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=2625528698236231287&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "2625528698236231287",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2625528698236231287&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:d972vXDAbyQJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5888012189101398916&engine=google_scholar&hl=en&q=related%3Ad972vXDAbyQJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 2,
+      "title": "High speed, low matchline voltage swing and search line activity TCAM cell array design in 14 nm FinFET technology",
+      "result_id": "AFPeXi6NuYkJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-13-8942-9_38",
+      "snippet": "To design cost and energy efficient memory cell various designs are introduced in recent days. The power consumed by the memory cell array is reduced at nanometer scale but …",
+      "publication_info": {
+        "summary": "K Prasanth, M Ramireddy, T Keerthi Priya… - Emerging Trends in …, 2020 - Springer",
+        "authors": [
+          {
+            "name": "M Ramireddy",
+            "link": "https://scholar.google.com/citations?user=U7qHrLsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=U7qHrLsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "U7qHrLsAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AFPeXi6NuYkJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=9924118484187239168&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "9924118484187239168",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9924118484187239168&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:AFPeXi6NuYkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5888012189101398916&engine=google_scholar&hl=en&q=related%3AAFPeXi6NuYkJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Research and Implementation of Flow Table Optimization Strategy for SDN Switches Based on the Idea of “Main Road”",
+      "result_id": "1ROjSRopm-oJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-15-1377-0_7",
+      "snippet": "The seperation of control layer from data layer through SDN (software defined network) enables network administrators to plan the network programmatically without changing …",
+      "publication_info": {
+        "summary": "Z Ma, Z Yang, G Zhao - … Cooperative Work and Social Computing: 14th …, 2019 - Springer",
+        "authors": [
+          {
+            "name": "G Zhao",
+            "link": "https://scholar.google.com/citations?user=-GGf5p8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-GGf5p8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-GGf5p8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1ROjSRopm-oJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1ROjSRopm-oJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5888012189101398916&engine=google_scholar&hl=en&q=related%3A1ROjSRopm-oJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

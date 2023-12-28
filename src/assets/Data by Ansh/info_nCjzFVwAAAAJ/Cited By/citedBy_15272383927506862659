@@ -1,0 +1,96 @@
+{
+  "search_metadata": {
+    "id": "658dae09cca01411cd03da21",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1555fbc29a2c5d03/658dae09cca01411cd03da21.json",
+    "created_at": "2023-12-28 17:19:05 UTC",
+    "processed_at": "2023-12-28 17:19:05 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=15272383927506862659&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/1555fbc29a2c5d03/658dae09cca01411cd03da21.html",
+    "total_time_taken": 1.44
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "15272383927506862659",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=15272383927506862659&hl=en&as_sdt=400005&sciodt=0,14",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "An Efficient Energy-Aware Load Balancing Method for Cloud Computing",
+      "result_id": "2VOhjIT3M_AJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10064866/",
+      "snippet": "Energy usage has become one of the significant concerns to help accelerate the development of the cloud computing environment because it increases the price of power …",
+      "publication_info": {
+        "summary": "UK Lilhore, S Simaiya, A Garg… - 2022 4th International …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Simaiya",
+            "link": "https://scholar.google.com/citations?user=fPuG2HIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fPuG2HIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fPuG2HIAAAAJ"
+          },
+          {
+            "name": "A Garg",
+            "link": "https://scholar.google.com/citations?user=Be5WHFAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Be5WHFAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Be5WHFAAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2VOhjIT3M_AJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17308449941582074841&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "17308449941582074841",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=17308449941582074841&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2VOhjIT3M_AJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=15272383927506862659&engine=google_scholar&hl=en&q=related%3A2VOhjIT3M_AJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Enhancing Response Time of Cloud Resources Through Energy Efficient Cloud Scheduling Algorithm",
+      "result_id": "Mngsu3w4KGIJ",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/91030286/8091.pdf",
+      "snippet": "Cloud Computing is becoming a dominant trend in providing information technology (IT) services. The cloud comprises many hardware and software resources today, and more …",
+      "publication_info": {
+        "summary": "P Ghetiya, D Nimavat - 2022 - academia.edu",
+        "authors": [
+          {
+            "name": "D Nimavat",
+            "link": "https://scholar.google.com/citations?user=DBLpagcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DBLpagcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DBLpagcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/91030286/8091.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Mngsu3w4KGIJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Mngsu3w4KGIJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=15272383927506862659&engine=google_scholar&hl=en&q=related%3AMngsu3w4KGIJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Mngsu3w4KGIJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    }
+  ]
+}

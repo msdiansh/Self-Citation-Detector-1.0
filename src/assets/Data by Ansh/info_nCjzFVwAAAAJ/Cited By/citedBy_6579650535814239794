@@ -1,0 +1,422 @@
+{
+  "search_metadata": {
+    "id": "658daa794d443d95ebd2f6f6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/468af07edd8805b3/658daa794d443d95ebd2f6f6.json",
+    "created_at": "2023-12-28 17:03:53 UTC",
+    "processed_at": "2023-12-28 17:03:53 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=6579650535814239794&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/468af07edd8805b3/658daa794d443d95ebd2f6f6.html",
+    "total_time_taken": 2.7
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "6579650535814239794",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 10,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=6579650535814239794&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A new FCA-based method for identifying biclusters in gene expression data",
+      "result_id": "IELwHg-yQvoJ",
+      "link": "https://link.springer.com/article/10.1007/s13042-018-0794-9",
+      "snippet": "Biclustering has been very relevant within the field of gene expression data analysis. In fact, its main thrust stands in its ability to identify groups of genes that behave in the same way …",
+      "publication_info": {
+        "summary": "A Houari, W Ayadi, S Ben Yahia - International Journal of Machine …, 2018 - Springer",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          },
+          {
+            "name": "W Ayadi",
+            "link": "https://scholar.google.com/citations?user=ToGo8eAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ToGo8eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ToGo8eAAAAAJ"
+          },
+          {
+            "name": "S Ben Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IELwHg-yQvoJ",
+        "cited_by": {
+          "total": 24,
+          "link": "https://scholar.google.com/scholar?cites=18033171635958202912&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "18033171635958202912",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18033171635958202912&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IELwHg-yQvoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6579650535814239794&engine=google_scholar&hl=en&q=related%3AIELwHg-yQvoJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "A Top-K formal concepts-based algorithm for mining positive and negative correlation biclusters of DNA microarray data",
+      "result_id": "PB8WGacI1cEJ",
+      "link": "https://link.springer.com/article/10.1007/s13042-023-01949-9",
+      "snippet": "Analyzing and understanding large and complex volumes of biological data is a challenging task as data becomes more widely available. In biomedical research, gene expression data …",
+      "publication_info": {
+        "summary": "A Houari, S Ben Yahia - International Journal of Machine Learning and …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          },
+          {
+            "name": "S Ben Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=PB8WGacI1cEJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=13967079333132902204&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "13967079333132902204",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=13967079333132902204&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Frequent itemset mining using FP-tree: a CLA-based approach and its extended application in biodiversity data",
+      "result_id": "G4_WneQtPfYJ",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00500-3",
+      "snippet": "The efficient discovery of frequent itemsets from a transaction database is the fundamental step for association rule mining in data analytics. Interesting associations among the items …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, P Sil, KC Mondal - Innovations in Systems and Software …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "P Sil",
+            "link": "https://scholar.google.com/citations?user=xVoEbssAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xVoEbssAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xVoEbssAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=G4_WneQtPfYJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17743388566833499931&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "17743388566833499931",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17743388566833499931&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:G4_WneQtPfYJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6579650535814239794&engine=google_scholar&hl=en&q=related%3AG4_WneQtPfYJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Determining dark diversity of different faunal groups in indian estuarine ecosystem: a new approach with computational biodiversity",
+      "result_id": "uj4lCx-KCv8J",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-16-4435-1_16",
+      "snippet": "Computational Biodiversity can broadly be understood as the effort of computational approaches for exploring, interpreting, and analyzing biodiversity data. An enormous load of …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, KC Mondal - … for IoT Applications: Proceedings of EAIT …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uj4lCx-KCv8J",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=18377653095374339770&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "18377653095374339770",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18377653095374339770&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uj4lCx-KCv8J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6579650535814239794&engine=google_scholar&hl=en&q=related%3Auj4lCx-KCv8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=18377653095374339770&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "18377653095374339770",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=18377653095374339770&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Mining negative correlation biclusters from gene expression data using generic association rules",
+      "result_id": "Np1w3cOZk_gJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S187705091731671X",
+      "snippet": "A majority of existing biclustering algorithms for microarrays data focus only on extracting biclusters with positive correlations of genes. Nevertheless, biological studies show that a …",
+      "publication_info": {
+        "summary": "A Houari, W Ayadi, SB Yahia - Procedia computer science, 2017 - Elsevier",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          },
+          {
+            "name": "W Ayadi",
+            "link": "https://scholar.google.com/citations?user=ToGo8eAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ToGo8eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ToGo8eAAAAAJ"
+          },
+          {
+            "name": "SB Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "PDF",
+          "link": "https://www.sciencedirect.com/science/article/pii/S187705091731671X/pdf?md5=7618be359c8ea30b57c467f0039c0bc3&pid=1-s2.0-S187705091731671X-main.pdf&_valck=1"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Np1w3cOZk_gJ",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=17911829209495412022&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "17911829209495412022",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17911829209495412022&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Np1w3cOZk_gJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6579650535814239794&engine=google_scholar&hl=en&q=related%3ANp1w3cOZk_gJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17911829209495412022&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "17911829209495412022",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17911829209495412022&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Knowledge discovery of Sundarban Mangrove species: a way forward for managing species biodiversity",
+      "result_id": "l4diSrGqXPoJ",
+      "link": "https://link.springer.com/article/10.1007/s42979-021-00869-1",
+      "snippet": "The Mangrove ecosystem is continuously losing its dignity. A few studies have focused on understanding the changing behavior of Sundarban Mangrove Forest. However, knowledge …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, KC Mondal - SN Computer Science, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=l4diSrGqXPoJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=18040481885773268887&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "18040481885773268887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18040481885773268887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:l4diSrGqXPoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6579650535814239794&engine=google_scholar&hl=en&q=related%3Al4diSrGqXPoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=18040481885773268887&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "18040481885773268887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=18040481885773268887&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "An Introduction to KDB: Knowledge Discovery in Biodiversity",
+      "result_id": "B33RqxHPttsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-48879-5_24",
+      "snippet": "The most basic method of experimentation using data mining algorithms is the command prompt. A convenient approach of interactive graphical user interfaces can be supplied for …",
+      "publication_info": {
+        "summary": "M Ghosh, S Mondal, A Roy, KC Mondal - International Conference on …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=B33RqxHPttsJ"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Discovering low overlapping biclusters in gene expression data through generic association rules",
+      "result_id": "oQohtAaO2hQJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-23781-7_12",
+      "snippet": "Biclustering is a thriving and of paramount task in many biomedical applications. Indeed, the biclusters aim, among-others, the discovery of unveiling principles of cellular organizations …",
+      "publication_info": {
+        "summary": "A Houari, W Ayadi, SB Yahia - … MEDI 2015, Rhodes, Greece, September 26 …, 2015 - Springer",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          },
+          {
+            "name": "W Ayadi",
+            "link": "https://scholar.google.com/citations?user=ToGo8eAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ToGo8eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ToGo8eAAAAAJ"
+          },
+          {
+            "name": "SB Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Sadok-Ben-Yahia/publication/295819551_Discovering_Low_Overlapping_Biclusters_in_Gene_Expression_Data_Through_Generic_Association_Rules/links/59cf7a5f0f7e9b4fd7f31323/Discovering-Low-Overlapping-Biclusters-in-Gene-Expression-Data-Through-Generic-Association-Rules.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oQohtAaO2hQJ",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=1502669585124493985&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "1502669585124493985",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=1502669585124493985&engine=google_scholar&hl=en"
+        },
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=1502669585124493985&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "1502669585124493985",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1502669585124493985&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:oQohtAaO2hQJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6579650535814239794&engine=google_scholar&hl=en&q=related%3AoQohtAaO2hQJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 8,
+      "title": "An insight into biological datamining based on rarity and correlation as constraints",
+      "result_id": "a4vtCYjEVogJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3297280.3297281",
+      "snippet": "Association-rules mining techniques have been widely applied to identify differently expressed gene expressions among micro-array data. Rare correlated patterns are …",
+      "publication_info": {
+        "summary": "S Bouasker, SB Yahia, G Diallo - Proceedings of the 34th ACM/SIGAPP …, 2019 - dl.acm.org",
+        "authors": [
+          {
+            "name": "SB Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          },
+          {
+            "name": "G Diallo",
+            "link": "https://scholar.google.com/citations?user=pwaPsdsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pwaPsdsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pwaPsdsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/73918843/SAC_VF.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=a4vtCYjEVogJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=9824255725716474731&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "9824255725716474731",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9824255725716474731&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:a4vtCYjEVogJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6579650535814239794&engine=google_scholar&hl=en&q=related%3Aa4vtCYjEVogJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9824255725716474731&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "9824255725716474731",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=9824255725716474731&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Contributions to Biclustering of Microarray Data Using Formal Concept Analysis",
+      "result_id": "ujRVIA5BQngJ",
+      "link": "https://arxiv.org/abs/1811.09562",
+      "snippet": "Biclustering is an unsupervised data mining technique that aims to unveil patterns (biclusters) from gene expression data matrices. In the framework of this thesis, we propose …",
+      "publication_info": {
+        "summary": "A Houari - arXiv preprint arXiv:1811.09562, 2018 - arxiv.org",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/1811.09562"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ujRVIA5BQngJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ujRVIA5BQngJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6579650535814239794&engine=google_scholar&hl=en&q=related%3AujRVIA5BQngJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=8665560161942058170&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "8665560161942058170",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=8665560161942058170&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ujRVIA5BQngJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    }
+  ]
+}

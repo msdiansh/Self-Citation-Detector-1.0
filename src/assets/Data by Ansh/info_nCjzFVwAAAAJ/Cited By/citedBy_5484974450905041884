@@ -1,0 +1,150 @@
+{
+  "search_metadata": {
+    "id": "658dace3af6304401a26ff85",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/98adb2af48bc9b84/658dace3af6304401a26ff85.json",
+    "created_at": "2023-12-28 17:14:11 UTC",
+    "processed_at": "2023-12-28 17:14:11 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=5484974450905041884&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/98adb2af48bc9b84/658dace3af6304401a26ff85.html",
+    "total_time_taken": 22.18
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "5484974450905041884",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3,
+    "time_taken_displayed": 0.18
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=5484974450905041884&hl=en&as_sdt=5,26&sciodt=0,26",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Towards a Scalable and Efficient ETL",
+      "result_id": "AywxV9B6COkJ",
+      "link": "http://journals.uob.edu.bh/handle/123456789/5109",
+      "snippet": "Extract, transform, and load (ETL) processes are crucial for building repositories of data from a variety of self-contained sources. Despite their complexity and cost, ETL processes have …",
+      "publication_info": {
+        "summary": "EY Gueddoudj, A Chikh - International Journal of Computing …, 2023 - journals.uob.edu.bh",
+        "authors": [
+          {
+            "name": "EY Gueddoudj",
+            "link": "https://scholar.google.com/citations?user=_YHI6JkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_YHI6JkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_YHI6JkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "uob.edu.bh",
+          "file_format": "PDF",
+          "link": "http://journals.uob.edu.bh/bitstream/handle/123456789/5109/140195_1570872017%20%281%29.pdf?sequence=3&isAllowed=y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AywxV9B6COkJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=16791806245885520899&as_sdt=5,26&sciodt=0,26&hl=en",
+          "cites_id": "16791806245885520899",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C26&cites=16791806245885520899&engine=google_scholar&hl=en"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=16791806245885520899&hl=en&as_sdt=5,26&sciodt=0,26",
+          "cluster_id": "16791806245885520899",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C26&cluster=16791806245885520899&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:AywxV9B6COkJ:scholar.google.com/&hl=en&as_sdt=5,26&sciodt=0,26"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Os-ETL: A High-Efficiency, Open-Scala Solution for Integrating Heterogeneous Data in Large-Scale Data Warehousing.",
+      "result_id": "0NcsG_Tw_BkJ",
+      "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16331311&AN=167351539&h=DPTr8WYNncY1Pc5OrlZEpBGN7pawxjxGRMWAevlYOtFID0M6PFI%2BQa%2Bg6rNnP9diBNUp0GuhUjOJBoxg3tiqaw%3D%3D&crl=c",
+      "snippet": "The surge in data volume necessitates the integration of Resource Description Framework (RDF) data within corporate environments. While Extract, Transform, Load (ETL) processes …",
+      "publication_info": {
+        "summary": "EY Gueddoudj, A Chikh, A Attia - Ingénierie des Systèmes d …, 2023 - search.ebscohost.com",
+        "authors": [
+          {
+            "name": "EY Gueddoudj",
+            "link": "https://scholar.google.com/citations?user=_YHI6JkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_YHI6JkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_YHI6JkAAAAJ"
+          },
+          {
+            "name": "A Attia",
+            "link": "https://scholar.google.com/citations?user=OQ8rlg4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OQ8rlg4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OQ8rlg4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0NcsG_Tw_BkJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=1872636476297893840&as_sdt=5,26&sciodt=0,26&hl=en",
+          "cites_id": "1872636476297893840",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C26&cites=1872636476297893840&engine=google_scholar&hl=en"
+        },
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=1872636476297893840&hl=en&as_sdt=5,26&sciodt=0,26",
+          "cluster_id": "1872636476297893840",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C26&cluster=1872636476297893840&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Optimizations of Distributed Computing Processes on Apache Spark Platform.",
+      "result_id": "fmLyGEqm6I8J",
+      "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1819656X&AN=164069266&h=t%2FK1niZZkFcvvJcgfXBwMfZT4eXqCaZJfxFfnCrNppEMdF5Q53pbv%2Fq63l18EDQXm%2FNAD9ETbn2Gf9uf0apG5Q%3D%3D&crl=c",
+      "snippet": "The frequently difficult process of examining large and diverse amounts of information is known as\" big data analysis.\" The goal is to find insights, such as hidden patterns …",
+      "publication_info": {
+        "summary": "T Hajji, R Loukili, I El Hassani… - … International Journal of …, 2023 - search.ebscohost.com",
+        "authors": [
+          {
+            "name": "T Hajji",
+            "link": "https://scholar.google.com/citations?user=xQX-6-8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xQX-6-8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xQX-6-8AAAAJ"
+          },
+          {
+            "name": "R Loukili",
+            "link": "https://scholar.google.com/citations?user=OCpyCCwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OCpyCCwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OCpyCCwAAAAJ"
+          },
+          {
+            "name": "I El Hassani",
+            "link": "https://scholar.google.com/citations?user=t0ReCBYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=t0ReCBYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "t0ReCBYAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fmLyGEqm6I8J",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=10369720979196895870&as_sdt=5,26&sciodt=0,26&hl=en",
+          "cites_id": "10369720979196895870",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C26&cites=10369720979196895870&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:fmLyGEqm6I8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,26&sciodt=0,26",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C26&cites=5484974450905041884&engine=google_scholar&hl=en&q=related%3AfmLyGEqm6I8J%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "search_metadata": {
+    "id": "658dabd23bea7bead8acfeee",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fe3ff51af1c97525/658dabd23bea7bead8acfeee.json",
+    "created_at": "2023-12-28 17:09:38 UTC",
+    "processed_at": "2023-12-28 17:09:38 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=15634348514165450316&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/fe3ff51af1c97525/658dabd23bea7bead8acfeee.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "15634348514165450316",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 5,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=15634348514165450316&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "HYB-PARSIMONY: A hybrid approach combining Particle Swarm Optimization and Genetic Algorithms to find parsimonious models in high-dimensional …",
+      "result_id": "z2jkYg952oMJ",
+      "type": "Html",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0925231223009633",
+      "snippet": "The PSO-PARSIMONY methodology (a heuristic for finding accurate and low-complexity models with particle swarm optimization (PSO)) allows obtaining machine learning models …",
+      "publication_info": {
+        "summary": "J Divasón, A Pernia-Espinoza, FJ Martinez-de-Pison - Neurocomputing, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "J Divasón",
+            "link": "https://scholar.google.com/citations?user=Ag6Lj0EAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ag6Lj0EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ag6Lj0EAAAAJ"
+          },
+          {
+            "name": "FJ Martinez-de-Pison",
+            "link": "https://scholar.google.com/citations?user=LYcFuk0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LYcFuk0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LYcFuk0AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "HTML",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0925231223009633"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=z2jkYg952oMJ",
+        "html_version": "https://www.sciencedirect.com/science/article/pii/S0925231223009633",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=9501039470882089167&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "9501039470882089167",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9501039470882089167&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Green Computing for Energy Transition: A Survey",
+      "result_id": "CO-4tGlvV8QJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10251799/",
+      "snippet": "The global information technology (IT) industry accounts for approximately 2% of the world's greenhouse gas emissions, equivalent to the aviation industry's emissions. Moreover, IT …",
+      "publication_info": {
+        "summary": "T Nazaré, J Gadelha, E Nepomuceno… - IEEE Latin America …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "T Nazaré",
+            "link": "https://scholar.google.com/citations?user=BR9bSdkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BR9bSdkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BR9bSdkAAAAJ"
+          },
+          {
+            "name": "J Gadelha",
+            "link": "https://scholar.google.com/citations?user=RJYevGQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RJYevGQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RJYevGQAAAAJ"
+          },
+          {
+            "name": "E Nepomuceno",
+            "link": "https://scholar.google.com/citations?user=bNYWErUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bNYWErUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bNYWErUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieeer9.org",
+          "file_format": "PDF",
+          "link": "https://latamt.ieeer9.org/index.php/transactions/article/download/8254/2093"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CO-4tGlvV8QJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=14147899254201970440&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "14147899254201970440",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14147899254201970440&engine=google_scholar&hl=en"
+        },
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=14147899254201970440&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "14147899254201970440",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14147899254201970440&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "How to Leverage High Altitude Platforms in Green Computing?",
+      "result_id": "V0Xl82HtHc8J",
+      "link": "https://arxiv.org/abs/2305.04878",
+      "snippet": "Terrestrial data centers suffer from a growing carbon footprint that could contribute with $14\\% $ to global CO2 emissions by 2040. High Altitude Platform (HAP) is a promising …",
+      "publication_info": {
+        "summary": "W Abderrahim, O Amin, B Shihada - arXiv preprint arXiv:2305.04878, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "W Abderrahim",
+            "link": "https://scholar.google.com/citations?user=-SPlmpwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-SPlmpwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-SPlmpwAAAAJ"
+          },
+          {
+            "name": "O Amin",
+            "link": "https://scholar.google.com/citations?user=H0oLcfQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=H0oLcfQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "H0oLcfQAAAAJ"
+          },
+          {
+            "name": "B Shihada",
+            "link": "https://scholar.google.com/citations?user=337BjqEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=337BjqEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "337BjqEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2305.04878"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=V0Xl82HtHc8J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=14924345745135191383&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "14924345745135191383",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14924345745135191383&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:V0Xl82HtHc8J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15634348514165450316&engine=google_scholar&hl=en&q=related%3AV0Xl82HtHc8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=14924345745135191383&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "14924345745135191383",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14924345745135191383&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:V0Xl82HtHc8J:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Retrieval Augmented Generative Task-Oriented Dialogue Systems",
+      "result_id": "wKT6RvtbcNkJ",
+      "type": "Pdf",
+      "link": "https://publica.fraunhofer.de/bitstreams/6c5fc15d-6dab-418e-8284-3737cd04d16d/download",
+      "snippet": "In this thesis, we study task-oriented dialogue systems that rely on efficient knowledge inference from background knowledge sources and dialogue history to satisfy a user goal …",
+      "publication_info": {
+        "summary": "SR Sahoo - 2022 - publica.fraunhofer.de",
+        "authors": [
+          {
+            "name": "SR Sahoo",
+            "link": "https://scholar.google.com/citations?user=8tgGMZIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8tgGMZIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8tgGMZIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "fraunhofer.de",
+          "file_format": "PDF",
+          "link": "https://publica.fraunhofer.de/bitstreams/6c5fc15d-6dab-418e-8284-3737cd04d16d/download"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wKT6RvtbcNkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wKT6RvtbcNkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15634348514165450316&engine=google_scholar&hl=en&q=related%3AwKT6RvtbcNkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15668124238407705792&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "15668124238407705792",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=15668124238407705792&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wKT6RvtbcNkJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 4,
+      "title": "REVIEWS ON ADVANCED MATERIALS AND TECHNOLOGIES",
+      "result_id": "nYWcG799MCMJ",
+      "link": "https://elibrary.ru/item.asp?id=50501493",
+      "snippet": "Bulk nanostructured, or ultrafine-grained metals and alloys structured by severe plastic deformation (SPD) methods usually demonstrate high strength and reduced ductility. The …",
+      "publication_info": {
+        "summary": "DI Sadykov, AM Mavlyutov, TS Orlova - REVIEWS ON ADVANCED …, 2022 - elibrary.ru",
+        "authors": [
+          {
+            "name": "AM Mavlyutov",
+            "link": "https://scholar.google.com/citations?user=GtTSf7cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GtTSf7cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GtTSf7cAAAAJ"
+          },
+          {
+            "name": "TS Orlova",
+            "link": "https://scholar.google.com/citations?user=2gI9h3gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2gI9h3gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2gI9h3gAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nYWcG799MCMJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2535664849965057437&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "2535664849965057437",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=2535664849965057437&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

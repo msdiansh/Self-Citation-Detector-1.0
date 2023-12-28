@@ -1,0 +1,164 @@
+{
+  "search_metadata": {
+    "id": "658dac7a9d1586879f38f97d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/78e7a02e3192dcf7/658dac7a9d1586879f38f97d.json",
+    "created_at": "2023-12-28 17:12:26 UTC",
+    "processed_at": "2023-12-28 17:12:26 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=11244155443966484291&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/78e7a02e3192dcf7/658dac7a9d1586879f38f97d.html",
+    "total_time_taken": 1.13
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "11244155443966484291",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=11244155443966484291&hl=en&as_sdt=5,44&sciodt=0,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Can Neo4j replace PostgreSQL in healthcare?",
+      "result_id": "HJ-99y4pwCkJ",
+      "type": "Html",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233060/",
+      "snippet": "Our current big data landscape prompts us to develop new analytical skills in order to make the best use of the abundance of datasets at hand. Traditionally, SQL databases such as …",
+      "publication_info": {
+        "summary": "JAM Stothers, A Nguyen - AMIA Summits on Translational Science …, 2020 - ncbi.nlm.nih.gov"
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "HTML",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233060/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HJ-99y4pwCkJ",
+        "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233060/",
+        "cited_by": {
+          "total": 23,
+          "link": "https://scholar.google.com/scholar?cites=3008449832785125148&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "3008449832785125148",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3008449832785125148&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HJ-99y4pwCkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=11244155443966484291&engine=google_scholar&hl=en&q=related%3AHJ-99y4pwCkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3008449832785125148&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "3008449832785125148",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3008449832785125148&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A provably secure and public auditing protocol based on the bell triangle for cloud data",
+      "result_id": "EdidjsHd7JQJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S138912862100267X",
+      "snippet": "With the rapid development of cloud computing, cloud storage has been accepted as a convenient service by an increasing number of organizations and individuals. However …",
+      "publication_info": {
+        "summary": "J Tian, H Wang - Computer Networks, 2021 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EdidjsHd7JQJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=10731195835508185105&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "10731195835508185105",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10731195835508185105&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:EdidjsHd7JQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=11244155443966484291&engine=google_scholar&hl=en&q=related%3AEdidjsHd7JQJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Taxonomy on ambient computing: a research methodology perspective",
+      "result_id": "mClMujLFJ6oJ",
+      "link": "https://www.igi-global.com/article/taxonomy-on-ambient-computing/243445",
+      "snippet": "The rise of Internet-of-Things, Cloud infrastructure, and intelligent home solutions has resulted in the growth of Ambient Computing over the past decade. This article is an attempt …",
+      "publication_info": {
+        "summary": "D Sengupta - International Journal of Ambient Computing and …, 2020 - igi-global.com",
+        "authors": [
+          {
+            "name": "D Sengupta",
+            "link": "https://scholar.google.com/citations?user=1q5NzW0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1q5NzW0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1q5NzW0AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "gale.com",
+          "file_format": "HTML",
+          "link": "https://go.gale.com/ps/i.do?id=GALE%7CA759354270&sid=googleScholar&v=2.1&it=r&linkaccess=fulltext&issn=19416237&p=AONE&sw=w"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mClMujLFJ6oJ",
+        "html_version": "https://go.gale.com/ps/i.do?id=GALE%7CA759354270&sid=googleScholar&v=2.1&it=r&linkaccess=fulltext&issn=19416237&p=AONE&sw=w",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=12260985332204054936&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "12260985332204054936",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12260985332204054936&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mClMujLFJ6oJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=11244155443966484291&engine=google_scholar&hl=en&q=related%3AmClMujLFJ6oJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=12260985332204054936&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "12260985332204054936",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12260985332204054936&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "An enumerated analysis of NoSQL data models using statistical tools",
+      "result_id": "G2yyAMbKdlEJ",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00517-8",
+      "snippet": "The digital exploration of data in the modern technological world has paved the way for a new technology—big data. It is good for handling a massive volume and variety of data …",
+      "publication_info": {
+        "summary": "AK Samanta, N Chaki - Innovations in Systems and Software Engineering, 2023 - Springer",
+        "authors": [
+          {
+            "name": "AK Samanta",
+            "link": "https://scholar.google.com/citations?user=usjveasAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=usjveasAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "usjveasAAAAJ"
+          },
+          {
+            "name": "N Chaki",
+            "link": "https://scholar.google.com/citations?user=H4_XbtsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=H4_XbtsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "H4_XbtsAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=G2yyAMbKdlEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:G2yyAMbKdlEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=11244155443966484291&engine=google_scholar&hl=en&q=related%3AG2yyAMbKdlEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5870102116088048667&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "5870102116088048667",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=5870102116088048667&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "search_metadata": {
+    "id": "658dac1cc573d53decd53f3d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c81df3ee9326b046/658dac1cc573d53decd53f3d.json",
+    "created_at": "2023-12-28 17:10:52 UTC",
+    "processed_at": "2023-12-28 17:10:52 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=5059636872057620550&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/c81df3ee9326b046/658dac1cc573d53decd53f3d.html",
+    "total_time_taken": 5.32
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "5059636872057620550",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 5,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=5059636872057620550&hl=en&as_sdt=5,36&sciodt=0,36",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Fabrication and Applications of Wrinkled Soft Substrates: An Overview",
+      "result_id": "iEHeZkPrArIJ",
+      "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/slct.202200714",
+      "snippet": "Morphology of soft materials, including those of natural systems has great influence in controlling their surface functionalities and responses to external stimuli. Surface …",
+      "publication_info": {
+        "summary": "SS Raj, RM Mathew, Y Nair, A ST, V TP - ChemistrySelect, 2022 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "SS Raj",
+            "link": "https://scholar.google.com/citations?user=PhH9TAcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PhH9TAcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PhH9TAcAAAAJ"
+          },
+          {
+            "name": "Y Nair",
+            "link": "https://scholar.google.com/citations?user=gMuSagcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gMuSagcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gMuSagcAAAAJ"
+          },
+          {
+            "name": "V TP",
+            "link": "https://scholar.google.com/citations?user=sYp2p08AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sYp2p08AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sYp2p08AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iEHeZkPrArIJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=12827073363425771912&as_sdt=5,36&sciodt=0,36&hl=en",
+          "cites_id": "12827073363425771912",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=12827073363425771912&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:iEHeZkPrArIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,36&sciodt=0,36",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=5059636872057620550&engine=google_scholar&hl=en&q=related%3AiEHeZkPrArIJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Numerical analysis of electrohydrodynamic instability in dielectric-liquid–gas flows subjected to unipolar injection",
+      "result_id": "2LCHVxv5qEUJ",
+      "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.065109",
+      "snippet": "In this work, the electrohydrodynamic instability induced by a unipolar charge injection is extended from a single-phase dielectric liquid to a two-phase system that consists of a liquid …",
+      "publication_info": {
+        "summary": "Q Liu, AT Pérez, RD Selvakumar, P Yang, J Wu - Physical Review E, 2021 - APS",
+        "authors": [
+          {
+            "name": "RD Selvakumar",
+            "link": "https://scholar.google.com/citations?user=h5h5Ci0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h5h5Ci0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "h5h5Ci0AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2107.10437"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2LCHVxv5qEUJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=5019535680532361432&as_sdt=5,36&sciodt=0,36&hl=en",
+          "cites_id": "5019535680532361432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=5019535680532361432&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2LCHVxv5qEUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,36&sciodt=0,36",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=5059636872057620550&engine=google_scholar&hl=en&q=related%3A2LCHVxv5qEUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=5019535680532361432&hl=en&as_sdt=5,36&sciodt=0,36",
+          "cluster_id": "5019535680532361432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cluster=5019535680532361432&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Analysis of the instability underlying electrostatic suppression of the Leidenfrost state",
+      "result_id": "mKA34zKnKs8J",
+      "link": "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.034001",
+      "snippet": "A liquid droplet on a hot solid can generate enough vapor to prevent its contact on the surface and reduce the rate of heat transfer, the so-called Leidenfrost effect. We show …",
+      "publication_info": {
+        "summary": "A Shahriari, S Das, V Bahadur, RT Bonnecaze - Physical Review Fluids, 2017 - APS",
+        "authors": [
+          {
+            "name": "A Shahriari",
+            "link": "https://scholar.google.com/citations?user=s_4ymToAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s_4ymToAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s_4ymToAAAAJ"
+          },
+          {
+            "name": "S Das",
+            "link": "https://scholar.google.com/citations?user=Ykdsh2cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ykdsh2cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ykdsh2cAAAAJ"
+          },
+          {
+            "name": "V Bahadur",
+            "link": "https://scholar.google.com/citations?user=JlzFIp4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JlzFIp4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JlzFIp4AAAAJ"
+          },
+          {
+            "name": "RT Bonnecaze",
+            "link": "https://scholar.google.com/citations?user=-nnbk7YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-nnbk7YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-nnbk7YAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mKA34zKnKs8J",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=14927927751875207320&as_sdt=5,36&sciodt=0,36&hl=en",
+          "cites_id": "14927927751875207320",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=14927927751875207320&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mKA34zKnKs8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,36&sciodt=0,36",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=5059636872057620550&engine=google_scholar&hl=en&q=related%3AmKA34zKnKs8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=14927927751875207320&hl=en&as_sdt=5,36&sciodt=0,36",
+          "cluster_id": "14927927751875207320",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cluster=14927927751875207320&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Pattern formation in thin polymeric films via electrohydrodynamic patterning",
+      "result_id": "sXFKdo7nJAYJ",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra01109c",
+      "snippet": "The free surface of a thin polymeric film is often unstable and deforms into various micro-/nano-patterns under an externally applied electric field. This paper reviews a recent …",
+      "publication_info": {
+        "summary": "G Lv, H Tian, J Shao, D Yu - RSC advances, 2022 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "G Lv",
+            "link": "https://scholar.google.com/citations?user=9SEBg-oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9SEBg-oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9SEBg-oAAAAJ"
+          },
+          {
+            "name": "J Shao",
+            "link": "https://scholar.google.com/citations?user=efLK4u4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=efLK4u4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "efLK4u4AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra01109c"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sXFKdo7nJAYJ",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra01109c",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=442733262445113777&as_sdt=5,36&sciodt=0,36&hl=en",
+          "cites_id": "442733262445113777",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=442733262445113777&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:sXFKdo7nJAYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,36&sciodt=0,36",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=5059636872057620550&engine=google_scholar&hl=en&q=related%3AsXFKdo7nJAYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=442733262445113777&hl=en&as_sdt=5,36&sciodt=0,36",
+          "cluster_id": "442733262445113777",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cluster=442733262445113777&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Electrostatic control and enhancement of film boiling heat transfer",
+      "result_id": "9RyBN6dA96kJ",
+      "type": "Book",
+      "link": "https://search.proquest.com/openview/32ecf34f260b4746cc32580dcd4a5786/1?pq-origsite=gscholar&cbl=18750&diss=y",
+      "snippet": "Boiling heat transfer is severely degraded at high surface temperatures due to the formation of a vapor layer at the surface, commonly known as the Leidenfrost effect. Heat transfer is …",
+      "publication_info": {
+        "summary": "A Shahriari - 2018 - search.proquest.com",
+        "authors": [
+          {
+            "name": "A Shahriari",
+            "link": "https://scholar.google.com/citations?user=s_4ymToAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s_4ymToAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s_4ymToAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "utexas.edu",
+          "file_format": "PDF",
+          "link": "https://repositories.lib.utexas.edu/bitstream/handle/2152/68226/SHAHRIARI-DISSERTATION-2018.pdf;sequence=1"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9RyBN6dA96kJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=12247328798592277749&as_sdt=5,36&sciodt=0,36&hl=en",
+          "cites_id": "12247328798592277749",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=12247328798592277749&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9RyBN6dA96kJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,36&sciodt=0,36",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cites=5059636872057620550&engine=google_scholar&hl=en&q=related%3A9RyBN6dA96kJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=12247328798592277749&hl=en&as_sdt=5,36&sciodt=0,36",
+          "cluster_id": "12247328798592277749",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C36&cluster=12247328798592277749&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "search_metadata": {
+    "id": "658daeb29c84ac7aee95d249",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ff62580b05a2ad5a/658daeb29c84ac7aee95d249.json",
+    "created_at": "2023-12-28 17:21:54 UTC",
+    "processed_at": "2023-12-28 17:21:54 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=3271103486036213265&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/ff62580b05a2ad5a/658daeb29c84ac7aee95d249.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "3271103486036213265",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=3271103486036213265&hl=en&as_sdt=805&sciodt=0,3",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Queries processing in wireless sensor network",
+      "result_id": "Y9CXW5j7yGsJ",
+      "link": "https://books.google.com/books?hl=en&lr=&id=dG5EEAAAQBAJ&oi=fnd&pg=PA211&ots=2If70E3Xo2&sig=YzyWP-r9qSonSZqE7h2FqRfkJyg",
+      "snippet": "For the super-excellence applications used to control the water level in rivers, temperature handles a very large volume of information and does not stop constantly changing. These …",
+      "publication_info": {
+        "summary": "K Abbassi, T Ezzedine - Wireless Sensor Networks-Design …, 2021 - books.google.com",
+        "authors": [
+          {
+            "name": "K Abbassi",
+            "link": "https://scholar.google.com/citations?user=uQ63IxkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uQ63IxkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uQ63IxkAAAAJ"
+          },
+          {
+            "name": "T Ezzedine",
+            "link": "https://scholar.google.com/citations?user=VUISWcAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VUISWcAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VUISWcAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "intechopen.com",
+          "file_format": "HTML",
+          "link": "https://www.intechopen.com/chapters/74198"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Y9CXW5j7yGsJ",
+        "html_version": "https://www.intechopen.com/chapters/74198",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=7766734189190697059&as_sdt=805&sciodt=0,3&hl=en",
+          "cites_id": "7766734189190697059",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=7766734189190697059&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Y9CXW5j7yGsJ:scholar.google.com/&scioq=&hl=en&as_sdt=805&sciodt=0,3",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=805&cites=3271103486036213265&engine=google_scholar&hl=en&q=related%3AY9CXW5j7yGsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7766734189190697059&hl=en&as_sdt=805&sciodt=0,3",
+          "cluster_id": "7766734189190697059",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cluster=7766734189190697059&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

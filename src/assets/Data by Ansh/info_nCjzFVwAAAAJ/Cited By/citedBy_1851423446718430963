@@ -1,0 +1,149 @@
+{
+  "search_metadata": {
+    "id": "658dad27a1b42386af2000a8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f1e22db71b9295fa/658dad27a1b42386af2000a8.json",
+    "created_at": "2023-12-28 17:15:19 UTC",
+    "processed_at": "2023-12-28 17:15:19 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=1851423446718430963&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/f1e22db71b9295fa/658dad27a1b42386af2000a8.html",
+    "total_time_taken": 1.15
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "1851423446718430963",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=1851423446718430963&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "An animal dynamic migration optimization method for directional association rule mining",
+      "result_id": "zLj1jFHvzNUJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0957417422016669",
+      "snippet": "In the area of association rule mining, many optimization algorithms have been proposed to improve the computational efficiency of rule mining or the quality and diversity of association …",
+      "publication_info": {
+        "summary": "K Hu, L Qiu, S Zhang, Z Wang, N Fang - Expert Systems with Applications, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "Z Wang",
+            "link": "https://scholar.google.com/citations?user=3b7aFBIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3b7aFBIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3b7aFBIAAAAJ"
+          },
+          {
+            "name": "N Fang",
+            "link": "https://scholar.google.com/citations?user=75zeHdAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=75zeHdAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "75zeHdAAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zLj1jFHvzNUJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=15405951558863927500&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "15405951558863927500",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15405951558863927500&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zLj1jFHvzNUJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1851423446718430963&engine=google_scholar&hl=en&q=related%3AzLj1jFHvzNUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15405951558863927500&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "15405951558863927500",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=15405951558863927500&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Efficient Generalized Temporal Pattern Mining in Big Time Series Using Mutual Information",
+      "result_id": "vvqcT1YC9gkJ",
+      "link": "https://arxiv.org/abs/2306.10994",
+      "snippet": "Big time series are increasingly available from an ever wider range of IoT-enabled sensors deployed in various environments. Significant insights can be gained by mining temporal …",
+      "publication_info": {
+        "summary": "VL Ho, N Ho, TB Pedersen, P Papapetrou - arXiv preprint arXiv …, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "VL Ho",
+            "link": "https://scholar.google.com/citations?user=NDQzaIEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NDQzaIEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NDQzaIEAAAAJ"
+          },
+          {
+            "name": "N Ho",
+            "link": "https://scholar.google.com/citations?user=EqPI_E0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EqPI_E0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EqPI_E0AAAAJ"
+          },
+          {
+            "name": "TB Pedersen",
+            "link": "https://scholar.google.com/citations?user=XGzPuKEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XGzPuKEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "XGzPuKEAAAAJ"
+          },
+          {
+            "name": "P Papapetrou",
+            "link": "https://scholar.google.com/citations?user=8qOWtywAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8qOWtywAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8qOWtywAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2306.10994"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vvqcT1YC9gkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:vvqcT1YC9gkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1851423446718430963&engine=google_scholar&hl=en&q=related%3AvvqcT1YC9gkJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:vvqcT1YC9gkJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 2,
+      "title": "A State-of-the-art Association Rule Mining Survey and It's Rare Application, Challenges, Progress",
+      "result_id": "7T5nPv01aFoJ",
+      "type": "Citation",
+      "link": "https://www.worldscientific.com/doi/abs/10.1142/S0218213023500215",
+      "snippet": "In recent years, association rule mining is exploring its popularity in the rule mining research communities. In this paper, we present the taxonomy of association patterns analysis …",
+      "publication_info": {
+        "summary": "S Biswas, D Saha, R Pandit - International Journal on Artificial …, 2022 - World Scientific",
+        "authors": [
+          {
+            "name": "S Biswas",
+            "link": "https://scholar.google.com/citations?user=ded99xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ded99xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ded99xsAAAAJ"
+          },
+          {
+            "name": "D Saha",
+            "link": "https://scholar.google.com/citations?user=f3reD88AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=f3reD88AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "f3reD88AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7T5nPv01aFoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7T5nPv01aFoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1851423446718430963&engine=google_scholar&hl=en&q=related%3A7T5nPv01aFoJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

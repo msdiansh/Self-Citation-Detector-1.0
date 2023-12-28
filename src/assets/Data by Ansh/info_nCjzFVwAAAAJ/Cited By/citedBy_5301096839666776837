@@ -1,0 +1,411 @@
+{
+  "search_metadata": {
+    "id": "658daaae303eb177db59f5b8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e43331f42798a7f8/658daaae303eb177db59f5b8.json",
+    "created_at": "2023-12-28 17:04:46 UTC",
+    "processed_at": "2023-12-28 17:04:46 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=5301096839666776837&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/e43331f42798a7f8/658daaae303eb177db59f5b8.html",
+    "total_time_taken": 3.35
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "5301096839666776837",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 9,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=5301096839666776837&hl=en&as_sdt=5,47&sciodt=0,47",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A survey of multiobjective evolutionary clustering",
+      "result_id": "nb2G2CdmNG8J",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2742642",
+      "snippet": "Data clustering is a popular unsupervised data mining tool that is used for partitioning a given dataset into homogeneous groups based on some similarity/dissimilarity metric …",
+      "publication_info": {
+        "summary": "A Mukhopadhyay, U Maulik… - ACM Computing Surveys …, 2015 - dl.acm.org",
+        "authors": [
+          {
+            "name": "A Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=cCXnE7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cCXnE7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cCXnE7IAAAAJ"
+          },
+          {
+            "name": "U Maulik",
+            "link": "https://scholar.google.com/citations?user=CW6heYUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CW6heYUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CW6heYUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Anirban-Mukhopadhyay-3/publication/277966344_A_Survey_of_Multiobjective_Evolutionary_Clustering/links/5597c35008ae21086d222db8/A-Survey-of-Multiobjective-Evolutionary-Clustering.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nb2G2CdmNG8J",
+        "cited_by": {
+          "total": 166,
+          "link": "https://scholar.google.com/scholar?cites=8013141958321421725&as_sdt=5,47&sciodt=0,47&hl=en",
+          "cites_id": "8013141958321421725",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=8013141958321421725&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nb2G2CdmNG8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3Anb2G2CdmNG8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8013141958321421725&hl=en&as_sdt=5,47&sciodt=0,47",
+          "cluster_id": "8013141958321421725",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=8013141958321421725&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A novel gene ranking method using Wilcoxon rank sum test and genetic algorithm",
+      "result_id": "QlZDIAKYC2EJ",
+      "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2016.078236",
+      "snippet": "Over the last few decades, a large amount of research work has been carried on genomic data. The cancer disease make cells in specific tissues in the body undergo uncontrolled …",
+      "publication_info": {
+        "summary": "S Saha, DB Seal, A Ghosh… - International Journal of …, 2016 - inderscienceonline.com",
+        "authors": [
+          {
+            "name": "S Saha",
+            "link": "https://scholar.google.com/citations?user=F_XYatEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F_XYatEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F_XYatEAAAAJ"
+          },
+          {
+            "name": "DB Seal",
+            "link": "https://scholar.google.com/citations?user=MXgDvsAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MXgDvsAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MXgDvsAAAAAJ"
+          },
+          {
+            "name": "A Ghosh",
+            "link": "https://scholar.google.com/citations?user=uejpl3kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uejpl3kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uejpl3kAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Sujay-Saha/publication/306039527_A_novel_gene_ranking_method_using_Wilcoxon_rank_sum_test_and_genetic_algorithm/links/58d25037aca2720cd05fbd04/A-novel-gene-ranking-method-using-Wilcoxon-rank-sum-test-and-genetic-algorithm.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QlZDIAKYC2EJ",
+        "cited_by": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cites=6992849981321467458&as_sdt=5,47&sciodt=0,47&hl=en",
+          "cites_id": "6992849981321467458",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=6992849981321467458&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:QlZDIAKYC2EJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3AQlZDIAKYC2EJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=6992849981321467458&hl=en&as_sdt=5,47&sciodt=0,47",
+          "cluster_id": "6992849981321467458",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=6992849981321467458&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "An improved fuzzy based missing value estimation in DNA microarray validated by gene ranking",
+      "result_id": "41f9E3q_ymcJ",
+      "type": "Html",
+      "link": "https://www.hindawi.com/journals/afs/2016/6134736/abs/",
+      "snippet": "Most of the gene expression data analysis algorithms require the entire gene expression matrix without any missing values. Hence, it is necessary to devise methods which would …",
+      "publication_info": {
+        "summary": "S Saha, A Ghosh, DB Seal, KN Dey - Advances in Fuzzy Systems, 2016 - hindawi.com",
+        "authors": [
+          {
+            "name": "S Saha",
+            "link": "https://scholar.google.com/citations?user=F_XYatEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F_XYatEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F_XYatEAAAAJ"
+          },
+          {
+            "name": "A Ghosh",
+            "link": "https://scholar.google.com/citations?user=uejpl3kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uejpl3kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uejpl3kAAAAJ"
+          },
+          {
+            "name": "DB Seal",
+            "link": "https://scholar.google.com/citations?user=MXgDvsAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MXgDvsAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MXgDvsAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hindawi.com",
+          "file_format": "HTML",
+          "link": "https://www.hindawi.com/journals/afs/2016/6134736/abs/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=41f9E3q_ymcJ",
+        "html_version": "https://www.hindawi.com/journals/afs/2016/6134736/abs/",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=7479000662244415459&as_sdt=5,47&sciodt=0,47&hl=en",
+          "cites_id": "7479000662244415459",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=7479000662244415459&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:41f9E3q_ymcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3A41f9E3q_ymcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=7479000662244415459&hl=en&as_sdt=5,47&sciodt=0,47",
+          "cluster_id": "7479000662244415459",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=7479000662244415459&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:41f9E3q_ymcJ:scholar.google.com/&hl=en&as_sdt=5,47&sciodt=0,47"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Gene ranking: An entropy & decision tree based approach",
+      "result_id": "NYlxy1FYLyIJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7777837/",
+      "snippet": "The Cancer disease involves abnormal cell growth and has the potential to spread to other parts of the body. Today, technology has provided us with many methods to study the pattern …",
+      "publication_info": {
+        "summary": "DB Seal, S Saha, P Mukherjee… - 2016 IEEE 7th …, 2016 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "DB Seal",
+            "link": "https://scholar.google.com/citations?user=MXgDvsAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MXgDvsAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MXgDvsAAAAAJ"
+          },
+          {
+            "name": "S Saha",
+            "link": "https://scholar.google.com/citations?user=F_XYatEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F_XYatEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F_XYatEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NYlxy1FYLyIJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=2463284629523761461&as_sdt=5,47&sciodt=0,47&hl=en",
+          "cites_id": "2463284629523761461",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=2463284629523761461&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NYlxy1FYLyIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3ANYlxy1FYLyIJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Ranking of cancer mediating genes: a novel approach using genetic algorithm in DNA microarray gene expression dataset",
+      "result_id": "T19Dl8zsNGkJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-13-1813-9_13",
+      "snippet": "Genes need to be investigated either in Gene Interaction Network or in a DNA microarray gene expression data to understand the role they play in complex diseases like cancer. The …",
+      "publication_info": {
+        "summary": "S Saha, P Das, A Ghosh, KN Dey - … 2018, Dehradun, India, April 20-21 …, 2018 - Springer",
+        "authors": [
+          {
+            "name": "S Saha",
+            "link": "https://scholar.google.com/citations?user=F_XYatEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F_XYatEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F_XYatEAAAAJ"
+          },
+          {
+            "name": "P Das",
+            "link": "https://scholar.google.com/citations?user=_Le22EIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_Le22EIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_Le22EIAAAAJ"
+          },
+          {
+            "name": "A Ghosh",
+            "link": "https://scholar.google.com/citations?user=uejpl3kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uejpl3kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uejpl3kAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=T19Dl8zsNGkJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=7580944436226645839&as_sdt=5,47&sciodt=0,47&hl=en",
+          "cites_id": "7580944436226645839",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=7580944436226645839&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:T19Dl8zsNGkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3AT19Dl8zsNGkJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Gene Ranking: A Novel Approach Using Multi-Objective Genetic Algorithm",
+      "result_id": "aStpASzd7FEJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8748348/",
+      "snippet": "In a Gene Co-expression Network, the same or closely related genes are clustered into co-expressed groups. It is necessary to investigate the role that these genes play as far as …",
+      "publication_info": {
+        "summary": "P Das, S Saha, A Ghosh, KN Dey - 2018 7th International …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "P Das",
+            "link": "https://scholar.google.com/citations?user=_Le22EIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_Le22EIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_Le22EIAAAAJ"
+          },
+          {
+            "name": "S Saha",
+            "link": "https://scholar.google.com/citations?user=F_XYatEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F_XYatEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F_XYatEAAAAJ"
+          },
+          {
+            "name": "A Ghosh",
+            "link": "https://scholar.google.com/citations?user=uejpl3kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uejpl3kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uejpl3kAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Anupam-Ghosh-5/publication/334168342_Gene_Ranking_A_Novel_Approach_Using_Multi-Objective_Genetic_Algorithm/links/5d490397299bf1995b69515b/Gene-Ranking-A-Novel-Approach-Using-Multi-Objective-Genetic-Algorithm.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aStpASzd7FEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aStpASzd7FEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3AaStpASzd7FEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5903336392647846761&hl=en&as_sdt=5,47&sciodt=0,47",
+          "cluster_id": "5903336392647846761",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=5903336392647846761&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Forefront of Fuzzy Logic in Data Mining: Theory, Algorithms, and Applications",
+      "result_id": "ZoCDh021i04J",
+      "type": "Pdf",
+      "link": "https://downloads.hindawi.com/journals/specialissues/912897.pdf",
+      "snippet": "A numerical method along with explicit construction to interpolation of fuzzy data through the extension principle results by widely used fuzzy-valued piecewise Hermite polynomial in …",
+      "publication_info": {
+        "summary": "T Allahviranloo - downloads.hindawi.com",
+        "authors": [
+          {
+            "name": "T Allahviranloo",
+            "link": "https://scholar.google.com/citations?user=HjHkaiwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HjHkaiwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HjHkaiwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hindawi.com",
+          "file_format": "PDF",
+          "link": "https://downloads.hindawi.com/journals/specialissues/912897.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZoCDh021i04J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZoCDh021i04J:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3AZoCDh021i04J%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ZoCDh021i04J:scholar.google.com/&hl=en&as_sdt=5,47&sciodt=0,47"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Research Article An Improved Fuzzy Based Missing Value Estimation in DNA Microarray Validated by Gene Ranking",
+      "result_id": "IY9VnS34ZXoJ",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/82965466/15b86391aaa96e666e64bb62e61ee0ad5788.pdf",
+      "snippet": "Most of the gene expression data analysis algorithms require the entire gene expression matrix without any missing values. Hence, it is necessary to devise methods which would …",
+      "publication_info": {
+        "summary": "S Saha, A Ghosh, DB Seal, KN Dey - 2016 - academia.edu",
+        "authors": [
+          {
+            "name": "S Saha",
+            "link": "https://scholar.google.com/citations?user=F_XYatEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F_XYatEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F_XYatEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/82965466/15b86391aaa96e666e64bb62e61ee0ad5788.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IY9VnS34ZXoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IY9VnS34ZXoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3AIY9VnS34ZXoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=8819728320071831329&hl=en&as_sdt=5,47&sciodt=0,47",
+          "cluster_id": "8819728320071831329",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=8819728320071831329&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:IY9VnS34ZXoJ:scholar.google.com/&hl=en&as_sdt=5,47&sciodt=0,47"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Clustering difuso multi-objetivo de genes basado en información biológica externa y datos de expresión génica",
+      "result_id": "K-Rep9XoQP4J",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "JA Párraga Álava - 2017 - Chile/Universidad de Santiago de …",
+        "authors": [
+          {
+            "name": "JA Párraga Álava",
+            "link": "https://scholar.google.com/citations?user=w8fiGu0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w8fiGu0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w8fiGu0AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=K-Rep9XoQP4J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=18320899288476869675&as_sdt=5,47&sciodt=0,47&hl=en",
+          "cites_id": "18320899288476869675",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=18320899288476869675&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:K-Rep9XoQP4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,47&sciodt=0,47",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=5301096839666776837&engine=google_scholar&hl=en&q=related%3AK-Rep9XoQP4J%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

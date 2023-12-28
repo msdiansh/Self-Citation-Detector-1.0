@@ -1,0 +1,195 @@
+{
+  "search_metadata": {
+    "id": "658dac0a9d1586879f38f94f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/799a40538ed7bf63/658dac0a9d1586879f38f94f.json",
+    "created_at": "2023-12-28 17:10:34 UTC",
+    "processed_at": "2023-12-28 17:10:34 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=7899160319573659711&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/799a40538ed7bf63/658dac0a9d1586879f38f94f.html",
+    "total_time_taken": 1.1
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "7899160319573659711",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 5,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=7899160319573659711&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Can Neo4j replace PostgreSQL in healthcare?",
+      "result_id": "HJ-99y4pwCkJ",
+      "type": "Html",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233060/",
+      "snippet": "Our current big data landscape prompts us to develop new analytical skills in order to make the best use of the abundance of datasets at hand. Traditionally, SQL databases such as …",
+      "publication_info": {
+        "summary": "JAM Stothers, A Nguyen - AMIA Summits on Translational Science …, 2020 - ncbi.nlm.nih.gov"
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "HTML",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233060/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HJ-99y4pwCkJ",
+        "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233060/",
+        "cited_by": {
+          "total": 23,
+          "link": "https://scholar.google.com/scholar?cites=3008449832785125148&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "3008449832785125148",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3008449832785125148&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HJ-99y4pwCkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7899160319573659711&engine=google_scholar&hl=en&q=related%3AHJ-99y4pwCkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3008449832785125148&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "3008449832785125148",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3008449832785125148&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "How well a multi-model database performs against its single-model variants: Benchmarking OrientDB with Neo4j and MongoDB",
+      "result_id": "zdcetxNumzAJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9222852/",
+      "snippet": "Digitalization is currently the key factor for progress, with a rising need for storing, collecting, and processing large amounts of data. In this context, NoSQL databases have become a …",
+      "publication_info": {
+        "summary": "M Macak, M Stovcik, B Buhnova… - 2020 15th Conference …, 2020 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Macak",
+            "link": "https://scholar.google.com/citations?user=fon2M1cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fon2M1cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fon2M1cAAAAJ"
+          },
+          {
+            "name": "B Buhnova",
+            "link": "https://scholar.google.com/citations?user=3J7jHK4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3J7jHK4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3J7jHK4AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "annals-csis.org",
+          "file_format": "PDF",
+          "link": "https://annals-csis.org/proceedings/2020/drp/pdf/76.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zdcetxNumzAJ",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=3502514166166378445&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "3502514166166378445",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3502514166166378445&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zdcetxNumzAJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7899160319573659711&engine=google_scholar&hl=en&q=related%3AzdcetxNumzAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=3502514166166378445&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "3502514166166378445",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3502514166166378445&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Smart proxy: Generic cloud middleware framework for improving database performance",
+      "result_id": "rv9mktKPfM0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8386505/",
+      "snippet": "In the last decades, relational databases were the most obvious choice for business applications. Times have changed and we should learn to use new models. Nowadays, we …",
+      "publication_info": {
+        "summary": "M Pustułka, M Trzaska - … on Cloud Computing and Big Data …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Trzaska",
+            "link": "https://scholar.google.com/citations?user=IXjyh1MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IXjyh1MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IXjyh1MAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rv9mktKPfM0J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=14806867809449476014&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "14806867809449476014",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14806867809449476014&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rv9mktKPfM0J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7899160319573659711&engine=google_scholar&hl=en&q=related%3Arv9mktKPfM0J%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Storage efficiency comparison of UML models in selected database technologies",
+      "result_id": "x7oB-EHo65gJ",
+      "link": "https://ph.pollub.pl/index.php/jcsi/article/view/437",
+      "snippet": "The study answers the question which database is the best choice for efficient data storage of UML models. Three products were considered: MongoDB, PostgreSQL and Neo4J. The …",
+      "publication_info": {
+        "summary": "A Filatov, P Flis, B Pańczyk - Journal of Computer Sciences Institute, 2019 - ph.pollub.pl"
+      },
+      "resources": [
+        {
+          "title": "pollub.pl",
+          "file_format": "PDF",
+          "link": "https://ph.pollub.pl/index.php/jcsi/article/download/437/209"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=x7oB-EHo65gJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:x7oB-EHo65gJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7899160319573659711&engine=google_scholar&hl=en&q=related%3Ax7oB-EHo65gJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:x7oB-EHo65gJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Porównanie efektywności składowania modeli UML w wybranych technologiach bazodanowych",
+      "result_id": "g1Y85Zsg18sJ",
+      "type": "Pdf",
+      "link": "https://bibliotekanauki.pl/articles/98400.pdf",
+      "snippet": "Artykuł odpowiada na pytanie, która baza danych jest najlepszym wyborem do efektywnego składowania danych opisujących modele UML. Wzięto pod uwagę trzy produkty: MongoDB …",
+      "publication_info": {
+        "summary": "A Filatov, P Flis, B Pańczyk - Journal of Computer Sciences …, 2019 - bibliotekanauki.pl"
+      },
+      "resources": [
+        {
+          "title": "bibliotekanauki.pl",
+          "file_format": "PDF",
+          "link": "https://bibliotekanauki.pl/articles/98400.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=g1Y85Zsg18sJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:g1Y85Zsg18sJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7899160319573659711&engine=google_scholar&hl=en&q=related%3Ag1Y85Zsg18sJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=14688244563630118531&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "14688244563630118531",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14688244563630118531&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:g1Y85Zsg18sJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    }
+  ]
+}

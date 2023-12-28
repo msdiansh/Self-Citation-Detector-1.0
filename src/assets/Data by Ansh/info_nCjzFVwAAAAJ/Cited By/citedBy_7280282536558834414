@@ -1,0 +1,255 @@
+{
+  "search_metadata": {
+    "id": "658dabe4f0adfbf968e0033c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e73c2a5b563e3723/658dabe4f0adfbf968e0033c.json",
+    "created_at": "2023-12-28 17:09:56 UTC",
+    "processed_at": "2023-12-28 17:09:56 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=7280282536558834414&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/e73c2a5b563e3723/658dabe4f0adfbf968e0033c.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "7280282536558834414",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 5,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=7280282536558834414&hl=en&as_sdt=5,33&sciodt=0,33",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Identification of essential genes associated with SARS-CoV-2 infection as potential drug target candidates with machine learning algorithms",
+      "result_id": "MDfCLnY0h9MJ",
+      "type": "Html",
+      "link": "https://www.nature.com/articles/s41598-023-42127-9",
+      "snippet": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) requires the fast discovery of effective treatments to fight this worldwide concern. Several genes associated with the …",
+      "publication_info": {
+        "summary": "G Taheri, M Habibi - Scientific Reports, 2023 - nature.com",
+        "authors": [
+          {
+            "name": "G Taheri",
+            "link": "https://scholar.google.com/citations?user=JIfbWW8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JIfbWW8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JIfbWW8AAAAJ"
+          },
+          {
+            "name": "M Habibi",
+            "link": "https://scholar.google.com/citations?user=Dq0ycWIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Dq0ycWIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Dq0ycWIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nature.com",
+          "file_format": "HTML",
+          "link": "https://www.nature.com/articles/s41598-023-42127-9"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MDfCLnY0h9MJ",
+        "html_version": "https://www.nature.com/articles/s41598-023-42127-9",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=15242209146053998384&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "15242209146053998384",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15242209146053998384&engine=google_scholar&hl=en"
+        },
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=15242209146053998384&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "15242209146053998384",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=15242209146053998384&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Recognition of co-existence pattern of salt marshes and mangroves for littoral forest restoration",
+      "result_id": "uQJs9nI59GMJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1574954122002199",
+      "snippet": "Climate-change driven sea level rise causes a increase in salinity in coastal wetlands accelerating the alteration of the species composition. It triggers the gradual extinction of …",
+      "publication_info": {
+        "summary": "M Ghosh, KC Mondal, A Roy - Ecological Informatics, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uQJs9nI59GMJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=7202444869995594425&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "7202444869995594425",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=7202444869995594425&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uQJs9nI59GMJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=7280282536558834414&engine=google_scholar&hl=en&q=related%3AuQJs9nI59GMJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7202444869995594425&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "7202444869995594425",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=7202444869995594425&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Introducing suffix forest for mining tri-clusters from time-series data",
+      "result_id": "9y6PqMBWN2kJ",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00489-9",
+      "snippet": "Three-dimensional data is becoming more prevalent these days. Unsupervised data analysis can be used to find hypothesized patterns of interest from the three-dimensional …",
+      "publication_info": {
+        "summary": "KC Mondal, M Ghosh, R Fajriyah, A Roy - Innovations in Systems and …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "M Ghosh",
+            "link": "https://scholar.google.com/citations?user=m0r32sQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m0r32sQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0r32sQAAAAJ"
+          },
+          {
+            "name": "R Fajriyah",
+            "link": "https://scholar.google.com/citations?user=7aOGsPkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7aOGsPkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7aOGsPkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Moumita-Ghosh-14/publication/364091395_Introducing_suffix_forest_for_mining_tri-clusters_from_time-series_data/links/633e7c0976e39959d6a1a581/Introducing-suffix-forest-for-mining-tri-clusters-from-time-series-data.pdf?_sg%5B0%5D=started_experiment_milestone&_sg%5B1%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9y6PqMBWN2kJ",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7581623883163184887&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "7581623883163184887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=7581623883163184887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9y6PqMBWN2kJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=7280282536558834414&engine=google_scholar&hl=en&q=related%3A9y6PqMBWN2kJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Formal Concept Analysis Applications in Bioinformatics",
+      "result_id": "VL1J1fw25QcJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3554728",
+      "snippet": "The bioinformatics discipline seeks to solve problems in biology with computational theories and methods. Formal concept analysis (FCA) is one such theoretical model, based on partial …",
+      "publication_info": {
+        "summary": "S Roscoe, M Khatri, A Voshall, S Batra, S Kaur… - ACM Computing …, 2022 - dl.acm.org",
+        "authors": [
+          {
+            "name": "S Roscoe",
+            "link": "https://scholar.google.com/citations?user=qFi2Q0IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qFi2Q0IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qFi2Q0IAAAAJ"
+          },
+          {
+            "name": "A Voshall",
+            "link": "https://scholar.google.com/citations?user=-9m5QLkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-9m5QLkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-9m5QLkAAAAJ"
+          },
+          {
+            "name": "S Batra",
+            "link": "https://scholar.google.com/citations?user=vqo0Y5EAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vqo0Y5EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vqo0Y5EAAAAJ"
+          },
+          {
+            "name": "S Kaur",
+            "link": "https://scholar.google.com/citations?user=Yv1mVNEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Yv1mVNEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Yv1mVNEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "unl.edu",
+          "file_format": "PDF",
+          "link": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1224&context=computerscidiss"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=VL1J1fw25QcJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=568921387470273876&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "568921387470273876",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=568921387470273876&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:VL1J1fw25QcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=7280282536558834414&engine=google_scholar&hl=en&q=related%3AVL1J1fw25QcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=568921387470273876&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "568921387470273876",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=568921387470273876&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Knowledge discovery of Sundarban Mangrove species: a way forward for managing species biodiversity",
+      "result_id": "l4diSrGqXPoJ",
+      "link": "https://link.springer.com/article/10.1007/s42979-021-00869-1",
+      "snippet": "The Mangrove ecosystem is continuously losing its dignity. A few studies have focused on understanding the changing behavior of Sundarban Mangrove Forest. However, knowledge …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, KC Mondal - SN Computer Science, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=l4diSrGqXPoJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=18040481885773268887&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "18040481885773268887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=18040481885773268887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:l4diSrGqXPoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=7280282536558834414&engine=google_scholar&hl=en&q=related%3Al4diSrGqXPoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=18040481885773268887&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "18040481885773268887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=18040481885773268887&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "search_metadata": {
+    "id": "658daece10d7443eeafd2382",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d376a53b74a81250/658daece10d7443eeafd2382.json",
+    "created_at": "2023-12-28 17:22:22 UTC",
+    "processed_at": "2023-12-28 17:22:22 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=9628160791594762719&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/d376a53b74a81250/658daece10d7443eeafd2382.html",
+    "total_time_taken": 2.29
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "9628160791594762719",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=9628160791594762719&hl=en&as_sdt=5,41&sciodt=0,41",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Knowledge discovery from HIV-1-human PPIs assimilating interaction keywords",
+      "result_id": "xDzdlxrJ2a8J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8009568/",
+      "snippet": "Today's world is gradually getting agitated by Human Immunodeficiency Virus-Type 1 due to its pervasive and death-dealing nature. The virus replicates by exploiting a complex …",
+      "publication_info": {
+        "summary": "D Pal, AS Mondal, KC Mondal - 2016 International Conference …, 2016 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xDzdlxrJ2a8J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=12671380142637792452&as_sdt=5,41&sciodt=0,41&hl=en",
+          "cites_id": "12671380142637792452",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=12671380142637792452&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xDzdlxrJ2a8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=9628160791594762719&engine=google_scholar&hl=en&q=related%3AxDzdlxrJ2a8J%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "search_metadata": {
+    "id": "658dae673e86ac8a5e24fd85",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0f157d69e09572bb/658dae673e86ac8a5e24fd85.json",
+    "created_at": "2023-12-28 17:20:39 UTC",
+    "processed_at": "2023-12-28 17:20:39 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=17743388566833499931&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/0f157d69e09572bb/658dae673e86ac8a5e24fd85.html",
+    "total_time_taken": 0.72
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "17743388566833499931",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.04
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=17743388566833499931&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "An analysis and literature review of algorithms for frequent itemset mining",
+      "result_id": "fry1rw-EUtYJ",
+      "link": "https://search.proquest.com/openview/498720f3f33b0f1c7be45914d31a6888/1?pq-origsite=gscholar&cbl=1626343",
+      "snippet": "The data mining process should be led by domain knowledge. It includes different aspects including the selection of the data, interpretation, extraction, and transformation. In this paper …",
+      "publication_info": {
+        "summary": "M Kumar, AK Dubey - International Journal of Advanced …, 2023 - search.proquest.com",
+        "authors": [
+          {
+            "name": "AK Dubey",
+            "link": "https://scholar.google.com/citations?user=dvlKSCwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dvlKSCwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dvlKSCwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fry1rw-EUtYJ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "search_metadata": {
+    "id": "658daaf7ad7fa9cc73f32390",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5007ae7a5df89c2e/658daaf7ad7fa9cc73f32390.json",
+    "created_at": "2023-12-28 17:05:59 UTC",
+    "processed_at": "2023-12-28 17:05:59 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=15900898023513146342&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/5007ae7a5df89c2e/658daaf7ad7fa9cc73f32390.html",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "15900898023513146342",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 7,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=15900898023513146342&hl=en&as_sdt=5,33&sciodt=0,33",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Calculation of diffusion coefficient of long chain molecules using molecular dynamics",
+      "result_id": "NUCyulphqzcJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1386947715000090",
+      "snippet": "Molecular dynamics (MD) is a powerful tool for calculating several thermo-physical properties of wide range of materials. In this study, the diffusivities (D) of two widely used …",
+      "publication_info": {
+        "summary": "T Chakraborty, A Hens, S Kulashrestha… - Physica E: Low …, 2015 - Elsevier",
+        "authors": [
+          {
+            "name": "T Chakraborty",
+            "link": "https://scholar.google.com/citations?user=9RY7AcEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9RY7AcEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9RY7AcEAAAAJ"
+          },
+          {
+            "name": "A Hens",
+            "link": "https://scholar.google.com/citations?user=McluDEkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=McluDEkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "McluDEkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/45126932/Calculation_of_diffusion_coefficient_of_20160427-4521-pq69pr.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NUCyulphqzcJ",
+        "cited_by": {
+          "total": 49,
+          "link": "https://scholar.google.com/scholar?cites=4011406935410753589&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "4011406935410753589",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=4011406935410753589&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NUCyulphqzcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15900898023513146342&engine=google_scholar&hl=en&q=related%3ANUCyulphqzcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=4011406935410753589&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "4011406935410753589",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=4011406935410753589&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A novel approach to fabricate dye-encapsulated polymeric micro-and nanoparticles by thin film dewetting technique",
+      "result_id": "8bCo_j4yPTAJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0021979717307907",
+      "snippet": "A new method is reported for fabrication of polymeric micro-and nanoparticles from an intermediate patterned surface originated by dewetting of a polymeric thin film. Poly (d, l …",
+      "publication_info": {
+        "summary": "M Chatterjee, A Hens, K Mahato, N Jaiswal… - Journal of colloid and …, 2017 - Elsevier",
+        "authors": [
+          {
+            "name": "M Chatterjee",
+            "link": "https://scholar.google.com/citations?user=6oh0iGUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6oh0iGUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6oh0iGUAAAAJ"
+          },
+          {
+            "name": "A Hens",
+            "link": "https://scholar.google.com/citations?user=McluDEkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=McluDEkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "McluDEkAAAAJ"
+          },
+          {
+            "name": "K Mahato",
+            "link": "https://scholar.google.com/citations?user=HXzO5RIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HXzO5RIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HXzO5RIAAAAJ"
+          },
+          {
+            "name": "N Jaiswal",
+            "link": "https://scholar.google.com/citations?user=uT3-RrIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uT3-RrIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uT3-RrIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8bCo_j4yPTAJ",
+        "cited_by": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cites=3475989733541720305&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "3475989733541720305",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=3475989733541720305&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8bCo_j4yPTAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15900898023513146342&engine=google_scholar&hl=en&q=related%3A8bCo_j4yPTAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=3475989733541720305&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "3475989733541720305",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=3475989733541720305&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Fabrication of functional wrinkled interfaces from polymer blends: Role of the surface functionality on the bacterial adhesion",
+      "result_id": "wZFLFc1pm70J",
+      "link": "https://www.mdpi.com/2073-4360/6/11/2845",
+      "snippet": "The generation of nano-microstructured surfaces is a current challenge in polymer science. The fabrication of such surfaces has been accomplished mainly following two different …",
+      "publication_info": {
+        "summary": "M Palacios-Cuesta, AL Cortajarena, O García… - Polymers, 2014 - mdpi.com",
+        "authors": [
+          {
+            "name": "AL Cortajarena",
+            "link": "https://scholar.google.com/citations?user=vqSw9boAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vqSw9boAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vqSw9boAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2073-4360/6/11/2845/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wZFLFc1pm70J",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=13662630224105017793&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "13662630224105017793",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=13662630224105017793&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wZFLFc1pm70J:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15900898023513146342&engine=google_scholar&hl=en&q=related%3AwZFLFc1pm70J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cluster=13662630224105017793&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "13662630224105017793",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=13662630224105017793&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wZFLFc1pm70J:scholar.google.com/&hl=en&as_sdt=5,33&sciodt=0,33"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Versatile approach for the fabrication of functional wrinkled polymer surfaces",
+      "result_id": "QCZm2G0xvnYJ",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/la502913w",
+      "snippet": "A simple and versatile approach to obtaining patterned surfaces via wrinkle formation with variable dimensions and functionality is described. The method consists of the simultaneous …",
+      "publication_info": {
+        "summary": "M Palacios-Cuesta, M Liras, A del Campo, O García… - Langmuir, 2014 - ACS Publications",
+        "authors": [
+          {
+            "name": "M Liras",
+            "link": "https://scholar.google.com/citations?user=L1fK2bwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=L1fK2bwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "L1fK2bwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QCZm2G0xvnYJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=8556330689902290496&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "8556330689902290496",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=8556330689902290496&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:QCZm2G0xvnYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15900898023513146342&engine=google_scholar&hl=en&q=related%3AQCZm2G0xvnYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=8556330689902290496&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "8556330689902290496",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=8556330689902290496&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Pathways from disordered to ordered nanostructures from defect guided dewetting of ultrathin bilayers",
+      "result_id": "U6PS6zBupO0J",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0021979715303568",
+      "snippet": "Transitions from spinodal to pattern-guided dewetting of a bilayer of ultrathin films (< 10 nm) confined between a pair of patterned surfaces have been explored employing molecular …",
+      "publication_info": {
+        "summary": "A Hens, K Mondal, G Biswas… - Journal of colloid and …, 2016 - Elsevier",
+        "authors": [
+          {
+            "name": "A Hens",
+            "link": "https://scholar.google.com/citations?user=McluDEkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=McluDEkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "McluDEkAAAAJ"
+          },
+          {
+            "name": "K Mondal",
+            "link": "https://scholar.google.com/citations?user=ZNrPD-YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZNrPD-YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZNrPD-YAAAAJ"
+          },
+          {
+            "name": "G Biswas",
+            "link": "https://scholar.google.com/citations?user=dfvFBBMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dfvFBBMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dfvFBBMAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=U6PS6zBupO0J",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=17123932839563404115&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "17123932839563404115",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=17123932839563404115&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:U6PS6zBupO0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15900898023513146342&engine=google_scholar&hl=en&q=related%3AU6PS6zBupO0J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=17123932839563404115&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "17123932839563404115",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=17123932839563404115&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Influence of physical ageing on rim instability during solvent-induced dewetting of a thin polymer film",
+      "result_id": "DndhJfMpP68J",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2016/ra/c5ra24753e",
+      "snippet": "In this work, we use in situ experiments and a molecular dynamics (MD) simulation to study the influence of physical ageing on rim instability during the solvent-induced dewetting. We …",
+      "publication_info": {
+        "summary": "L Xu, H Zhang, M Ding, Y Lai, T Shi - RSC advances, 2016 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "L Xu",
+            "link": "https://scholar.google.com/citations?user=PA70p0cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PA70p0cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PA70p0cAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DndhJfMpP68J",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=12627858004451096334&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "12627858004451096334",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=12627858004451096334&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DndhJfMpP68J:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15900898023513146342&engine=google_scholar&hl=en&q=related%3ADndhJfMpP68J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12627858004451096334&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "12627858004451096334",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=12627858004451096334&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Dewetting of a pre-patterned thin polymer bilayer: influence of the instability mode",
+      "result_id": "Ys5jfSTjADQJ",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra03506c",
+      "snippet": "In this paper, the influence of film thickness on the layer instability mode of a thin polymer bilayer (poly (methylmethacrylate)(PMMA)/polystyrene (PS)/Si substrate) has been …",
+      "publication_info": {
+        "summary": "L Xu, Z Chen, Z Zou - RSC advances, 2017 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "L Xu",
+            "link": "https://scholar.google.com/citations?user=PA70p0cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PA70p0cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PA70p0cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra03506c"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Ys5jfSTjADQJ",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra03506c",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=3747244635834273378&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "3747244635834273378",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=3747244635834273378&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Ys5jfSTjADQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15900898023513146342&engine=google_scholar&hl=en&q=related%3AYs5jfSTjADQJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=3747244635834273378&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "3747244635834273378",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=3747244635834273378&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

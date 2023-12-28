@@ -1,0 +1,236 @@
+{
+  "search_metadata": {
+    "id": "658dabc0c7ad416e003af0da",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d5f615d553e7c565/658dabc0c7ad416e003af0da.json",
+    "created_at": "2023-12-28 17:09:20 UTC",
+    "processed_at": "2023-12-28 17:09:20 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=7996055614696577919&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/d5f615d553e7c565/658dabc0c7ad416e003af0da.html",
+    "total_time_taken": 1.31
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "7996055614696577919",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 6,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=7996055614696577919&hl=en&as_sdt=5,44&sciodt=0,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Cancer characteristic gene selection via sample learning based on deep sparse filtering",
+      "result_id": "pDx724SjNlUJ",
+      "type": "Html",
+      "link": "https://www.nature.com/articles/s41598-018-26666-0",
+      "snippet": "Identification of characteristic genes associated with specific biological processes of different cancers could provide insights into the underlying cancer genetics and cancer prognostic …",
+      "publication_info": {
+        "summary": "J Liu, Y Cheng, X Wang, L Zhang, ZJ Wang - Scientific reports, 2018 - nature.com",
+        "authors": [
+          {
+            "name": "ZJ Wang",
+            "link": "https://scholar.google.com/citations?user=W75uTm8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=W75uTm8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "W75uTm8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nature.com",
+          "file_format": "HTML",
+          "link": "https://www.nature.com/articles/s41598-018-26666-0"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:pDx724SjNlUJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44&scillfp=7808111647463310962&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pDx724SjNlUJ",
+        "html_version": "https://www.nature.com/articles/s41598-018-26666-0",
+        "cited_by": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cites=6140274932979547300&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "6140274932979547300",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6140274932979547300&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:pDx724SjNlUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7996055614696577919&engine=google_scholar&hl=en&q=related%3ApDx724SjNlUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=6140274932979547300&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "6140274932979547300",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=6140274932979547300&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A PSO-based rank aggregation algorithm for ranking genes from microarray data",
+      "result_id": "f5GFq61ePesJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2491845.2491870",
+      "snippet": "In microarray analysis, gene relevance is measured according to the level of differential expression of the gene and this level of differential expression decides the rank of that gene …",
+      "publication_info": {
+        "summary": "M Mandal, A Mukhopadhyay - … of the 17th Panhellenic Conference on …, 2013 - dl.acm.org",
+        "authors": [
+          {
+            "name": "M Mandal",
+            "link": "https://scholar.google.com/citations?user=IOludNoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IOludNoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IOludNoAAAAJ"
+          },
+          {
+            "name": "A Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=cCXnE7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cCXnE7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cCXnE7IAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=f5GFq61ePesJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=16950808672492425599&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "16950808672492425599",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=16950808672492425599&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:f5GFq61ePesJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7996055614696577919&engine=google_scholar&hl=en&q=related%3Af5GFq61ePesJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Partial rank aggregation using multiobjective genetic algorithm: Application in ranking genes",
+      "result_id": "tIDeTMIDrbwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7050707/",
+      "snippet": "Normally, statistical methods are used to generate rankings for genes in terms of their ability to distinguish between normal and malignant tumors from a gene expression dataset …",
+      "publication_info": {
+        "summary": "M Mandal, S Maity… - 2015 Eighth International …, 2015 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Mandal",
+            "link": "https://scholar.google.com/citations?user=IOludNoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IOludNoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IOludNoAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tIDeTMIDrbwJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=13595526983149584564&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "13595526983149584564",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=13595526983149584564&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:tIDeTMIDrbwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7996055614696577919&engine=google_scholar&hl=en&q=related%3AtIDeTMIDrbwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=13595526983149584564&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "13595526983149584564",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=13595526983149584564&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "A multi-objective genetic algorithm with fuzzy relational clustering for automatic data clustering",
+      "result_id": "IB7KzGkxvOwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7391928/",
+      "snippet": "A multi-objective genetic algorithm based fuzzy relational eigen vector centrality based clustering algorithm (FRECCA) called FRECCA-NSGA-1I is proposed for automatic data …",
+      "publication_info": {
+        "summary": "A Kundu, AK Paul, PC Shill… - 2015 2nd International …, 2015 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "PC Shill",
+            "link": "https://scholar.google.com/citations?user=A-y0fZQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A-y0fZQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A-y0fZQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "kuet.ac.bd",
+          "file_format": "PDF",
+          "link": "http://dspace.kuet.ac.bd/bitstream/handle/20.500.12228/357/Full%20Thesis.pdf?sequence=1&isAllowed=y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IB7KzGkxvOwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IB7KzGkxvOwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7996055614696577919&engine=google_scholar&hl=en&q=related%3AIB7KzGkxvOwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=17058563819049721376&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "17058563819049721376",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17058563819049721376&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Partial Rank Aggregation using Multiobjective Genetic Algorithm: Application in Ranking Genes",
+      "result_id": "Du_FTBSPavgJ",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/46408297/Partial_Rank_Aggregation_using_Multiobje20160611-12332-ryrctj.pdf",
+      "snippet": "Normally, statistical methods are used to generate rankings for genes in terms of their ability to distinguish between normal and malignant tumors from a gene expression dataset …",
+      "publication_info": {
+        "summary": "A Mukhopadhyay, M Mandal, S Maity - academia.edu",
+        "authors": [
+          {
+            "name": "A Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=cCXnE7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cCXnE7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cCXnE7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/46408297/Partial_Rank_Aggregation_using_Multiobje20160611-12332-ryrctj.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Du_FTBSPavgJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Du_FTBSPavgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7996055614696577919&engine=google_scholar&hl=en&q=related%3ADu_FTBSPavgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17900276986287615758&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "17900276986287615758",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17900276986287615758&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Du_FTBSPavgJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Meta Search Engine using Multi-Objective Partial Rank Aggregation: Application in Ranking WebPages",
+      "result_id": "HsaLphBjAR0J",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "S Maity"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HsaLphBjAR0J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HsaLphBjAR0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7996055614696577919&engine=google_scholar&hl=en&q=related%3AHsaLphBjAR0J%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1775 @@
+{
+  "search_metadata": {
+    "id": "658da4b7681ebef77498d588",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a61b7d2d34bcfda9/658da4b7681ebef77498d588.json",
+    "created_at": "2023-12-28 16:39:19 UTC",
+    "processed_at": "2023-12-28 16:39:19 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=972427600034217950&hl=en&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/a61b7d2d34bcfda9/658da4b7681ebef77498d588.html",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "972427600034217950",
+    "hl": "en"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 42,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=972427600034217950&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A review of in silico approaches for analysis and prediction of HIV-1-human protein–protein interactions",
+      "result_id": "zoBl9vCe1OgJ",
+      "link": "https://academic.oup.com/bib/article-abstract/16/5/830/216829",
+      "snippet": "The computational or in silico approaches for analysing the HIV-1-human protein–protein interaction (PPI) network, predicting different host cellular factors and PPIs and discovering …",
+      "publication_info": {
+        "summary": "S Bandyopadhyay, S Ray… - Briefings in …, 2015 - academic.oup.com",
+        "authors": [
+          {
+            "name": "S Bandyopadhyay",
+            "link": "https://scholar.google.com/citations?user=mHrEBuUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mHrEBuUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mHrEBuUAAAAJ"
+          },
+          {
+            "name": "S Ray",
+            "link": "https://scholar.google.com/citations?user=P40MbskAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=P40MbskAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P40MbskAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "oup.com",
+          "file_format": "HTML",
+          "link": "https://academic.oup.com/bib/article/16/5/830/216829"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zoBl9vCe1OgJ",
+        "html_version": "https://academic.oup.com/bib/article/16/5/830/216829",
+        "cited_by": {
+          "total": 36,
+          "link": "https://scholar.google.com/scholar?cites=16777209269625127118&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "16777209269625127118",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16777209269625127118&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zoBl9vCe1OgJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AzoBl9vCe1OgJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=16777209269625127118&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "16777209269625127118",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16777209269625127118&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Semi-supervised consensus clustering based on closed patterns",
+      "result_id": "z5msDSfaaJUJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0950705121008613",
+      "snippet": "Semi-supervised consensus clustering, also called semi-supervised ensemble clustering, is a recently emerged technique that integrates prior knowledge into consensus clustering in …",
+      "publication_info": {
+        "summary": "T Yang, N Pasquier, F Precioso - Knowledge-Based Systems, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "T Yang",
+            "link": "https://scholar.google.com/citations?user=-vPBY_cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-vPBY_cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-vPBY_cAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          },
+          {
+            "name": "F Precioso",
+            "link": "https://scholar.google.com/citations?user=-0cKTucAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-0cKTucAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-0cKTucAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "PDF",
+          "link": "https://www.sciencedirect.com/science/article/am/pii/S0950705121008613"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=z5msDSfaaJUJ",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=10766094770497165775&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "10766094770497165775",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10766094770497165775&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:z5msDSfaaJUJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3Az5msDSfaaJUJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=10766094770497165775&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "10766094770497165775",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=10766094770497165775&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Recognition of co-existence pattern of salt marshes and mangroves for littoral forest restoration",
+      "result_id": "uQJs9nI59GMJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1574954122002199",
+      "snippet": "Climate-change driven sea level rise causes a increase in salinity in coastal wetlands accelerating the alteration of the species composition. It triggers the gradual extinction of …",
+      "publication_info": {
+        "summary": "M Ghosh, KC Mondal, A Roy - Ecological Informatics, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uQJs9nI59GMJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=7202444869995594425&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7202444869995594425",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7202444869995594425&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uQJs9nI59GMJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AuQJs9nI59GMJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7202444869995594425&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7202444869995594425",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7202444869995594425&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "A new FCA-based method for identifying biclusters in gene expression data",
+      "result_id": "IELwHg-yQvoJ",
+      "link": "https://link.springer.com/article/10.1007/s13042-018-0794-9",
+      "snippet": "Biclustering has been very relevant within the field of gene expression data analysis. In fact, its main thrust stands in its ability to identify groups of genes that behave in the same way …",
+      "publication_info": {
+        "summary": "A Houari, W Ayadi, S Ben Yahia - International Journal of Machine …, 2018 - Springer",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          },
+          {
+            "name": "W Ayadi",
+            "link": "https://scholar.google.com/citations?user=ToGo8eAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ToGo8eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ToGo8eAAAAAJ"
+          },
+          {
+            "name": "S Ben Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IELwHg-yQvoJ",
+        "cited_by": {
+          "total": 24,
+          "link": "https://scholar.google.com/scholar?cites=18033171635958202912&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "18033171635958202912",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18033171635958202912&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IELwHg-yQvoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AIELwHg-yQvoJ%3Ascholar.google.com%2F"
+      }
+    },
+    {
+      "position": 4,
+      "title": "A novel fuzzy rule extraction approach using Gaussian kernel-based granular computing",
+      "result_id": "pBYEPpeJg-oJ",
+      "link": "https://link.springer.com/article/10.1007/s10115-018-1318-3",
+      "snippet": "In this paper, we present a novel fuzzy rule extraction approach by employing the Gaussian kernels and fuzzy concept lattices. First we introduce the Gaussian kernel to interval type-2 …",
+      "publication_info": {
+        "summary": "G Dai, Y Hu, Y Yang, N Zhang, A Abraham… - … and Information Systems, 2019 - Springer",
+        "authors": [
+          {
+            "name": "A Abraham",
+            "link": "https://scholar.google.com/citations?user=i95DGLQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=i95DGLQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "i95DGLQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "softcomputing.net",
+          "file_format": "PDF",
+          "link": "http://www.softcomputing.net/dai2019.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pBYEPpeJg-oJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=16898501509497755300&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "16898501509497755300",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16898501509497755300&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:pBYEPpeJg-oJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3ApBYEPpeJg-oJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=16898501509497755300&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "16898501509497755300",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16898501509497755300&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Biclustering‐based association rule mining approach for predicting cancer‐associated protein interactions",
+      "result_id": "8UAGTEId0osJ",
+      "link": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-syb.2019.0045",
+      "snippet": "Protein–protein interactions (PPIs) have been widely used to understand different biological processes and cellular functions associated with several diseases like cancer. Although …",
+      "publication_info": {
+        "summary": "L Dey, A Mukhopadhyay - IET Systems Biology, 2019 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "L Dey",
+            "link": "https://scholar.google.com/citations?user=3DyQ8KYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3DyQ8KYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3DyQ8KYAAAAJ"
+          },
+          {
+            "name": "A Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=cCXnE7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cCXnE7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cCXnE7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "wiley.com",
+          "file_format": "PDF",
+          "link": "https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-syb.2019.0045"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:8UAGTEId0osJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5&scillfp=10257324269904744841&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8UAGTEId0osJ",
+        "cited_by": {
+          "total": 14,
+          "link": "https://scholar.google.com/scholar?cites=10075147486961746161&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "10075147486961746161",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10075147486961746161&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8UAGTEId0osJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A8UAGTEId0osJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=10075147486961746161&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "10075147486961746161",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=10075147486961746161&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Frequent itemset mining using FP-tree: a CLA-based approach and its extended application in biodiversity data",
+      "result_id": "G4_WneQtPfYJ",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00500-3",
+      "snippet": "The efficient discovery of frequent itemsets from a transaction database is the fundamental step for association rule mining in data analytics. Interesting associations among the items …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, P Sil, KC Mondal - Innovations in Systems and Software …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "P Sil",
+            "link": "https://scholar.google.com/citations?user=xVoEbssAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xVoEbssAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xVoEbssAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=G4_WneQtPfYJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17743388566833499931&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "17743388566833499931",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17743388566833499931&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:G4_WneQtPfYJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AG4_WneQtPfYJ%3Ascholar.google.com%2F"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Introducing suffix forest for mining tri-clusters from time-series data",
+      "result_id": "9y6PqMBWN2kJ",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00489-9",
+      "snippet": "Three-dimensional data is becoming more prevalent these days. Unsupervised data analysis can be used to find hypothesized patterns of interest from the three-dimensional …",
+      "publication_info": {
+        "summary": "KC Mondal, M Ghosh, R Fajriyah, A Roy - Innovations in Systems and …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "M Ghosh",
+            "link": "https://scholar.google.com/citations?user=m0r32sQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m0r32sQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0r32sQAAAAJ"
+          },
+          {
+            "name": "R Fajriyah",
+            "link": "https://scholar.google.com/citations?user=7aOGsPkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7aOGsPkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7aOGsPkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Moumita-Ghosh-14/publication/364091395_Introducing_suffix_forest_for_mining_tri-clusters_from_time-series_data/links/633e7c0976e39959d6a1a581/Introducing-suffix-forest-for-mining-tri-clusters-from-time-series-data.pdf?_sg%5B0%5D=started_experiment_milestone&_sg%5B1%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9y6PqMBWN2kJ",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7581623883163184887&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7581623883163184887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7581623883163184887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9y6PqMBWN2kJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A9y6PqMBWN2kJ%3Ascholar.google.com%2F"
+      }
+    },
+    {
+      "position": 8,
+      "title": "NBF: an fca-based algorithm to identify negative correlation biclusters of DNA microarray data",
+      "result_id": "Ot67N8G7VA0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8432348/",
+      "snippet": "Biclustering is a popular technique to study gene expression data, especially to identify functionally related groups of genes under subsets of conditions. Nevertheless, most of the …",
+      "publication_info": {
+        "summary": "A Houari, W Ayadi, SB Yahia - 2018 IEEE 32nd International …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          },
+          {
+            "name": "W Ayadi",
+            "link": "https://scholar.google.com/citations?user=ToGo8eAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ToGo8eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ToGo8eAAAAAJ"
+          },
+          {
+            "name": "SB Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Ot67N8G7VA0J",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=960599059074899514&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "960599059074899514",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=960599059074899514&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Ot67N8G7VA0J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AOt67N8G7VA0J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=960599059074899514&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "960599059074899514",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=960599059074899514&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Finding prediction of interaction between SARS-CoV-2 and human protein: a data-driven approach",
+      "result_id": "7rIR-GTCCGUJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s40031-021-00569-7",
+      "snippet": "COVID-19 pandemic defined a worldwide health crisis into a humanitarian crisis. Amid this global emergency, human civilization is under enormous strain since no proper therapeutic …",
+      "publication_info": {
+        "summary": "M Ghosh, P Sil, A Roy, R Fajriyah… - Journal of The Institution of …, 2021 - Springer",
+        "authors": [
+          {
+            "name": "M Ghosh",
+            "link": "https://scholar.google.com/citations?user=m0r32sQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m0r32sQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0r32sQAAAAJ"
+          },
+          {
+            "name": "P Sil",
+            "link": "https://scholar.google.com/citations?user=xVoEbssAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xVoEbssAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xVoEbssAAAAJ"
+          },
+          {
+            "name": "R Fajriyah",
+            "link": "https://scholar.google.com/citations?user=7aOGsPkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7aOGsPkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7aOGsPkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s40031-021-00569-7"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7rIR-GTCCGUJ",
+        "html_version": "https://link.springer.com/article/10.1007/s40031-021-00569-7",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=7280282536558834414&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7280282536558834414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7280282536558834414&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7rIR-GTCCGUJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A7rIR-GTCCGUJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=7280282536558834414&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7280282536558834414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7280282536558834414&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Determining dark diversity of different faunal groups in indian estuarine ecosystem: a new approach with computational biodiversity",
+      "result_id": "uj4lCx-KCv8J",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-16-4435-1_16",
+      "snippet": "Computational Biodiversity can broadly be understood as the effort of computational approaches for exploring, interpreting, and analyzing biodiversity data. An enormous load of …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, KC Mondal - … for IoT Applications: Proceedings of EAIT …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uj4lCx-KCv8J",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=18377653095374339770&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "18377653095374339770",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=18377653095374339770&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uj4lCx-KCv8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3Auj4lCx-KCv8J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=18377653095374339770&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "18377653095374339770",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=18377653095374339770&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Mining negative correlation biclusters from gene expression data using generic association rules",
+      "result_id": "Np1w3cOZk_gJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S187705091731671X",
+      "snippet": "A majority of existing biclustering algorithms for microarrays data focus only on extracting biclusters with positive correlations of genes. Nevertheless, biological studies show that a …",
+      "publication_info": {
+        "summary": "A Houari, W Ayadi, SB Yahia - Procedia computer science, 2017 - Elsevier",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          },
+          {
+            "name": "W Ayadi",
+            "link": "https://scholar.google.com/citations?user=ToGo8eAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ToGo8eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ToGo8eAAAAAJ"
+          },
+          {
+            "name": "SB Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "PDF",
+          "link": "https://www.sciencedirect.com/science/article/pii/S187705091731671X/pdf?md5=7618be359c8ea30b57c467f0039c0bc3&pid=1-s2.0-S187705091731671X-main.pdf&_valck=1"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Np1w3cOZk_gJ",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=17911829209495412022&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "17911829209495412022",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=17911829209495412022&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Np1w3cOZk_gJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3ANp1w3cOZk_gJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17911829209495412022&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "17911829209495412022",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=17911829209495412022&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Algorithms for data mining and bio-informatics",
+      "result_id": "zyG6uo7reHUJ",
+      "link": "https://hal.science/tel-01330152/",
+      "snippet": "Pattern extraction is one of the major topics in the Knowledge Discovery from Data (KDD) and Background Knowledge Integration (BKI) research domains. Extracting patterns from …",
+      "publication_info": {
+        "summary": "KC Mondal - 2013 - hal.science",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://hal.science/tel-01330152/document"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zyG6uo7reHUJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=8464774497893491151&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "8464774497893491151",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=8464774497893491151&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zyG6uo7reHUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AzyG6uo7reHUJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8464774497893491151&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "8464774497893491151",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=8464774497893491151&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zyG6uo7reHUJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Multiple consensuses clustering by iterative merging/splitting of clustering patterns",
+      "result_id": "-RZdxkH50xAJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-41920-6_60",
+      "snippet": "The existence of many clustering algorithms with variable performance on each dataset made the clustering task difficult. Consensus clustering tries to solve this problem by …",
+      "publication_info": {
+        "summary": "A Al-Najdi, N Pasquier, F Precioso - … on Machine Learning and Data Mining …, 2016 - Springer",
+        "authors": [
+          {
+            "name": "A Al-Najdi",
+            "link": "https://scholar.google.com/citations?user=7kIYG0wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7kIYG0wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7kIYG0wAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          },
+          {
+            "name": "F Precioso",
+            "link": "https://scholar.google.com/citations?user=-0cKTucAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-0cKTucAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-0cKTucAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-RZdxkH50xAJ",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=1212586785588975353&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "1212586785588975353",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=1212586785588975353&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-RZdxkH50xAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A-RZdxkH50xAJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=1212586785588975353&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "1212586785588975353",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=1212586785588975353&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Knowledge discovery of Sundarban Mangrove species: a way forward for managing species biodiversity",
+      "result_id": "l4diSrGqXPoJ",
+      "link": "https://link.springer.com/article/10.1007/s42979-021-00869-1",
+      "snippet": "The Mangrove ecosystem is continuously losing its dignity. A few studies have focused on understanding the changing behavior of Sundarban Mangrove Forest. However, knowledge …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, KC Mondal - SN Computer Science, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=l4diSrGqXPoJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=18040481885773268887&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "18040481885773268887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=18040481885773268887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:l4diSrGqXPoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3Al4diSrGqXPoJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=18040481885773268887&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "18040481885773268887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=18040481885773268887&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Frequent closed patterns based multiple consensus clustering",
+      "result_id": "IgrXwCYaXiwJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-39384-1_2",
+      "snippet": "Clustering is one of the major tasks in data mining. However, selecting an algorithm to cluster a dataset is a difficult task, especially if there is no prior knowledge on the structure of …",
+      "publication_info": {
+        "summary": "A Al-Najdi, N Pasquier, F Precioso - … 2016, Zakopane, Poland, June 12-16 …, 2016 - Springer",
+        "authors": [
+          {
+            "name": "A Al-Najdi",
+            "link": "https://scholar.google.com/citations?user=7kIYG0wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7kIYG0wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7kIYG0wAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          },
+          {
+            "name": "F Precioso",
+            "link": "https://scholar.google.com/citations?user=-0cKTucAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-0cKTucAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-0cKTucAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IgrXwCYaXiwJ",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=3197021539226028578&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "3197021539226028578",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=3197021539226028578&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IgrXwCYaXiwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AIgrXwCYaXiwJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3197021539226028578&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "3197021539226028578",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=3197021539226028578&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "A closed patterns-based approach to the consensus clustering problem",
+      "result_id": "-s4kHT14IOkJ",
+      "link": "https://theses.hal.science/tel-01478626/",
+      "snippet": "Clustering is the process of partitioning a dataset into groups, so that the instances in the same group are more similar to each other than to instances in any other group. Many …",
+      "publication_info": {
+        "summary": "A Al-Najdi - 2016 - theses.hal.science",
+        "authors": [
+          {
+            "name": "A Al-Najdi",
+            "link": "https://scholar.google.com/citations?user=7kIYG0wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7kIYG0wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7kIYG0wAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://theses.hal.science/tel-01478626/file/2016AZUR4111.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-s4kHT14IOkJ",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=16798558813969239802&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "16798558813969239802",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=16798558813969239802&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-s4kHT14IOkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A-s4kHT14IOkJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=16798558813969239802&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "16798558813969239802",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=16798558813969239802&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:-s4kHT14IOkJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 7,
+      "title": "FCA-Based Constant and Coherent-Signed Bicluster Identification and Its Application in Biodiversity Study",
+      "result_id": "HfHYmsDmrpoJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-16-5207-3_57",
+      "snippet": "Abstract Ghosh, Moumita Roy, Anirban Mondal, Kartick Chandra The data mining task of finding coherent-signed bicluster is not new in the field of gene expression data. It could also …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, KC Mondal - Proceedings of International Conference on …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HfHYmsDmrpoJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=11146099842694574365&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "11146099842694574365",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=11146099842694574365&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HfHYmsDmrpoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AHfHYmsDmrpoJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=11146099842694574365&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "11146099842694574365",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=11146099842694574365&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Predicting novel interactions from HIV-1-human PPI data integrated with protein signatures and GO annotations",
+      "result_id": "4KLdXJ3uOAsJ",
+      "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2021.120536",
+      "snippet": "The research on host-pathogen protein-protein interactions (PPIs), specifically HIV1-human PPIs becomes one of the most challenging areas of medical science for antiviral drug …",
+      "publication_info": {
+        "summary": "D Pal, KC Mondal - International Journal of Bioinformatics …, 2021 - inderscienceonline.com",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4KLdXJ3uOAsJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=808658492748309216&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "808658492748309216",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=808658492748309216&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4KLdXJ3uOAsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A4KLdXJ3uOAsJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=808658492748309216&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "808658492748309216",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=808658492748309216&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Analysis of Indian estuarine data of flora & fauna",
+      "result_id": "KZriCL0Qg5QJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-16-5348-3_31",
+      "snippet": "Abstract Ghosh, Moumita Roy, Anirban Mondal, Kartick Chandra Estuaries represent the transitional ecosystem between freshwater and marine environment. Being dominated by …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, KC Mondal - … on Data Science and Applications: ICDSA …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Moumita-Ghosh-14/publication/356471900_Analysis_of_Indian_Estuarine_Data_of_Flora_Fauna/links/6228411684ce8e5b4d122def/Analysis-of-Indian-Estuarine-Data-of-Flora-Fauna.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KZriCL0Qg5QJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=10701415543646362153&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "10701415543646362153",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10701415543646362153&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:KZriCL0Qg5QJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AKZriCL0Qg5QJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=10701415543646362153&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "10701415543646362153",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=10701415543646362153&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Partial Orders and Progressive Blocking: A Matching-based Framework for Large-scale Entity Resolution in Bibliographic Data",
+      "result_id": "ZJWU1K2ah78J",
+      "type": "Pdf",
+      "link": "https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-67085",
+      "snippet": "Entity resolution (ER) is the task of grouping entity mentions by the real-world object they refer to. It is central to ordering and aggregating knowledge in the growing amount of …",
+      "publication_info": {
+        "summary": "T Backes - 2023 - docserv.uni-duesseldorf.de"
+      },
+      "resources": [
+        {
+          "title": "uni-duesseldorf.de",
+          "file_format": "PDF",
+          "link": "https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-67085"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZJWU1K2ah78J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZJWU1K2ah78J:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AZJWU1K2ah78J%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=13801169654486701412&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "13801169654486701412",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=13801169654486701412&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ZJWU1K2ah78J:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Customer Choice Modelling: A Multi-Level Consensus Clustering Approach",
+      "result_id": "i42q3R24L-IJ",
+      "link": "http://aetic.theiaer.org/archive/v5/v5n2/p9.html",
+      "snippet": "Customer Choice Modeling aims to model the decision-making process of customers, or segments of customers, through their choices and preferences identified by the analysis of …",
+      "publication_info": {
+        "summary": "N Pasquier, S Chatterjee - Annals of Emerging Technologies in …, 2021 - aetic.theiaer.org",
+        "authors": [
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          },
+          {
+            "name": "S Chatterjee",
+            "link": "https://scholar.google.com/citations?user=MNfTUwEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MNfTUwEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MNfTUwEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "theiaer.org",
+          "file_format": "PDF",
+          "link": "http://aetic.theiaer.org/archive/v5/v5n2/p9.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=i42q3R24L-IJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=16298448014889618827&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "16298448014889618827",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=16298448014889618827&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:i42q3R24L-IJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3Ai42q3R24L-IJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=16298448014889618827&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "16298448014889618827",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=16298448014889618827&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:i42q3R24L-IJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 2,
+      "title": "An Introduction to KDB: Knowledge Discovery in Biodiversity",
+      "result_id": "B33RqxHPttsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-48879-5_24",
+      "snippet": "The most basic method of experimentation using data mining algorithms is the command prompt. A convenient approach of interactive graphical user interfaces can be supplied for …",
+      "publication_info": {
+        "summary": "M Ghosh, S Mondal, A Roy, KC Mondal - International Conference on …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=B33RqxHPttsJ"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Using Frequent Closed Pattern Mining to Solve a Consensus Clustering Problem.",
+      "result_id": "UYcY1S0jHLEJ",
+      "type": "Pdf",
+      "link": "https://ksiresearch.org/seke/seke16paper/seke16paper_117.pdf",
+      "snippet": "Clustering is the process of partitioning a dataset into groups based on the similarity between the instances. Many clustering algorithms were proposed, but none of them proved …",
+      "publication_info": {
+        "summary": "A Al-Najdi, N Pasquier, F Precioso - SEKE, 2016 - ksiresearch.org",
+        "authors": [
+          {
+            "name": "A Al-Najdi",
+            "link": "https://scholar.google.com/citations?user=7kIYG0wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7kIYG0wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7kIYG0wAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          },
+          {
+            "name": "F Precioso",
+            "link": "https://scholar.google.com/citations?user=-0cKTucAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-0cKTucAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-0cKTucAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ksiresearch.org",
+          "file_format": "PDF",
+          "link": "https://ksiresearch.org/seke/seke16paper/seke16paper_117.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=UYcY1S0jHLEJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=12762114123816798033&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "12762114123816798033",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=12762114123816798033&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:UYcY1S0jHLEJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AUYcY1S0jHLEJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=12762114123816798033&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "12762114123816798033",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=12762114123816798033&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:UYcY1S0jHLEJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Discovering low overlapping biclusters in gene expression data through generic association rules",
+      "result_id": "oQohtAaO2hQJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-23781-7_12",
+      "snippet": "Biclustering is a thriving and of paramount task in many biomedical applications. Indeed, the biclusters aim, among-others, the discovery of unveiling principles of cellular organizations …",
+      "publication_info": {
+        "summary": "A Houari, W Ayadi, SB Yahia - … MEDI 2015, Rhodes, Greece, September 26 …, 2015 - Springer",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          },
+          {
+            "name": "W Ayadi",
+            "link": "https://scholar.google.com/citations?user=ToGo8eAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ToGo8eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ToGo8eAAAAAJ"
+          },
+          {
+            "name": "SB Yahia",
+            "link": "https://scholar.google.com/citations?user=uJwhmiUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uJwhmiUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uJwhmiUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Sadok-Ben-Yahia/publication/295819551_Discovering_Low_Overlapping_Biclusters_in_Gene_Expression_Data_Through_Generic_Association_Rules/links/59cf7a5f0f7e9b4fd7f31323/Discovering-Low-Overlapping-Biclusters-in-Gene-Expression-Data-Through-Generic-Association-Rules.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oQohtAaO2hQJ",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=1502669585124493985&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "1502669585124493985",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=1502669585124493985&engine=google_scholar&hl=en"
+        },
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=1502669585124493985&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "1502669585124493985",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=1502669585124493985&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:oQohtAaO2hQJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AoQohtAaO2hQJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Visualization of statistical information in concept lattice diagrams",
+      "result_id": "cjUca_TjRmcJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-77867-5_13",
+      "snippet": "We propose a method of visualizing statistical information in concept lattice diagrams. To this end, we examine the characteristics of support, confidence, and lift, which are …",
+      "publication_info": {
+        "summary": "J Klimpke, S Rudolph - … , ICFCA 2021, Strasbourg, France, June 29–July 2 …, 2021 - Springer",
+        "authors": [
+          {
+            "name": "S Rudolph",
+            "link": "https://scholar.google.com/citations?user=b3qVb6IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=b3qVb6IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "b3qVb6IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "tu-dresden.de",
+          "file_format": "PDF",
+          "link": "https://iccl.inf.tu-dresden.de/w/images/9/9c/KR-ICFCA2021.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=cjUca_TjRmcJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=7441886073184859506&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "7441886073184859506",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7441886073184859506&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:cjUca_TjRmcJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AcjUca_TjRmcJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7441886073184859506&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "7441886073184859506",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=7441886073184859506&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Using Closed Patterns to Solve the Consensus Clustering Problem",
+      "result_id": "jnvNJIAJtjEJ",
+      "link": "https://www.worldscientific.com/doi/abs/10.1142/S021819401640009X",
+      "snippet": "Clustering is the process of partitioning a dataset into groups based on the similarity between the instances. Many clustering algorithms were proposed, but none of them proved …",
+      "publication_info": {
+        "summary": "A Al-Najdi, N Pasquier, F Precioso - International Journal of …, 2016 - World Scientific",
+        "authors": [
+          {
+            "name": "A Al-Najdi",
+            "link": "https://scholar.google.com/citations?user=7kIYG0wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7kIYG0wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7kIYG0wAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          },
+          {
+            "name": "F Precioso",
+            "link": "https://scholar.google.com/citations?user=-0cKTucAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-0cKTucAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-0cKTucAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jnvNJIAJtjEJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=3582060999597718414&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "3582060999597718414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=3582060999597718414&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:jnvNJIAJtjEJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AjnvNJIAJtjEJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3582060999597718414&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "3582060999597718414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=3582060999597718414&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "The bioket biodiversity data warehouse: data and knowledge integration and extraction",
+      "result_id": "Rw0GFkSc1fsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-12571-8_12",
+      "snippet": "Biodiversity datasets are generally stored in different formats. This makes it difficult for biologists to combine and integrate them to retrieve useful information for the purpose of, for …",
+      "publication_info": {
+        "summary": "S Inthasone, N Pasquier, AGB Tettamanzi… - Advances in Intelligent …, 2014 - Springer",
+        "authors": [
+          {
+            "name": "S Inthasone",
+            "link": "https://scholar.google.com/citations?user=PHqxQ2AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PHqxQ2AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PHqxQ2AAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          },
+          {
+            "name": "AGB Tettamanzi",
+            "link": "https://scholar.google.com/citations?user=_UEWjDoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_UEWjDoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_UEWjDoAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://hal.science/hal-01084440/file/BioKET_Technical_Paper_Springer_LNCS.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Rw0GFkSc1fsJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=18146582089800486215&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "18146582089800486215",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=18146582089800486215&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Rw0GFkSc1fsJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3ARw0GFkSc1fsJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=18146582089800486215&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "18146582089800486215",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=18146582089800486215&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "A Multi-level Consensus Clustering Framework for Customer Choice Modelling in Travel Industry",
+      "result_id": "5arspfwGftEJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-60036-5_10",
+      "snippet": "In the travel industry context, customer segmentation, that is the clustering of travelers to distinguish segments of customers with similar needs and desires, is a major issue for …",
+      "publication_info": {
+        "summary": "S Chatterjee, N Pasquier - … Conference, iCETiC 2020, London, UK, August …, 2020 - Springer",
+        "authors": [
+          {
+            "name": "S Chatterjee",
+            "link": "https://scholar.google.com/citations?user=MNfTUwEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MNfTUwEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MNfTUwEAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5arspfwGftEJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=15095510683177757413&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "15095510683177757413",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=15095510683177757413&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5arspfwGftEJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A5arspfwGftEJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15095510683177757413&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "15095510683177757413",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=15095510683177757413&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Semi-supervised clustering applied in revenue accounting",
+      "result_id": "qw4vV4QK8UoJ",
+      "link": "https://theses.hal.science/tel-03590698/",
+      "snippet": "The Amadeus Revenue Accounting workflow automatically process tickets until an error occurs. The workflow is then interrupted and user action is required to correct the error. The …",
+      "publication_info": {
+        "summary": "T Yang - 2021 - theses.hal.science",
+        "authors": [
+          {
+            "name": "T Yang",
+            "link": "https://scholar.google.com/citations?user=-vPBY_cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-vPBY_cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-vPBY_cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://theses.hal.science/tel-03590698/file/2021COAZ4101.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qw4vV4QK8UoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:qw4vV4QK8UoJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3Aqw4vV4QK8UoJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=5400108991708597931&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "5400108991708597931",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=5400108991708597931&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qw4vV4QK8UoJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Knowledge discovery from HIV-1-human PPIs assimilating interaction keywords",
+      "result_id": "xDzdlxrJ2a8J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8009568/",
+      "snippet": "Today's world is gradually getting agitated by Human Immunodeficiency Virus-Type 1 due to its pervasive and death-dealing nature. The virus replicates by exploiting a complex …",
+      "publication_info": {
+        "summary": "D Pal, AS Mondal, KC Mondal - 2016 International Conference …, 2016 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xDzdlxrJ2a8J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=12671380142637792452&as_sdt=5,48&sciodt=0,48&hl=en",
+          "cites_id": "12671380142637792452",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=12671380142637792452&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xDzdlxrJ2a8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AxDzdlxrJ2a8J%3Ascholar.google.com%2F&start=30"
+      }
+    },
+    {
+      "position": 1,
+      "title": "A Closed Patterns-based Approach to the Consensus Clustering Problem",
+      "result_id": "3OUK6ORhs7EJ",
+      "type": "Pdf",
+      "link": "https://theses.hal.science/tel-01478626/preview/2016AZUR4111.pdf",
+      "snippet": "Clustering is the process of partitioning a dataset into groups, so that the instances in the same group are more similar to each other than to instances in any other group. Many …",
+      "publication_info": {
+        "summary": "ALN Atheer - theses.hal.science"
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://theses.hal.science/tel-01478626/preview/2016AZUR4111.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3OUK6ORhs7EJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:3OUK6ORhs7EJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A3OUK6ORhs7EJ%3Ascholar.google.com%2F&start=30",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:3OUK6ORhs7EJ:scholar.google.com/&hl=en&as_sdt=5,48&sciodt=0,48"
+      }
+    },
+    {
+      "position": 2,
+      "title": "A complete review of computational methods for human and HIV-1 protein interaction prediction",
+      "result_id": "34FZTzoZnoUJ",
+      "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2016.075396",
+      "snippet": "Human Immunodeficiency Virus Type 1 (HIV-1) has grabbed the attention of virologists in recent times owing to its life-threatening nature and epidemic spread throughout the globe …",
+      "publication_info": {
+        "summary": "D Pal, KC Mondal - International Journal of Bioinformatics …, 2016 - inderscienceonline.com",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=34FZTzoZnoUJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=9628160791594762719&as_sdt=5,48&sciodt=0,48&hl=en",
+          "cites_id": "9628160791594762719",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=9628160791594762719&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:34FZTzoZnoUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A34FZTzoZnoUJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9628160791594762719&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "9628160791594762719",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=9628160791594762719&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Le clustering semi-supervisé appliqué à la comptabilité des revenus",
+      "result_id": "5cKDna-nCOQJ",
+      "link": "https://www.theses.fr/2021COAZ4101",
+      "snippet": "Résumé Le flux de travail du système de comptabilisation des recettes (Revenue Accounting Workflow) de Amadeus traite automatiquement les tickets comptables jusqu'à ce …",
+      "publication_info": {
+        "summary": "T Yang - 2021 - theses.fr",
+        "authors": [
+          {
+            "name": "T Yang",
+            "link": "https://scholar.google.com/citations?user=-vPBY_cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-vPBY_cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-vPBY_cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "theses.fr",
+          "file_format": "PDF",
+          "link": "https://www.theses.fr/2021COAZ4101.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5cKDna-nCOQJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5cKDna-nCOQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A5cKDna-nCOQJ%3Ascholar.google.com%2F&start=30",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:5cKDna-nCOQJ:scholar.google.com/&hl=en&as_sdt=5,48&sciodt=0,48"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Contributions to Biclustering of Microarray Data Using Formal Concept Analysis",
+      "result_id": "ujRVIA5BQngJ",
+      "link": "https://arxiv.org/abs/1811.09562",
+      "snippet": "Biclustering is an unsupervised data mining technique that aims to unveil patterns (biclusters) from gene expression data matrices. In the framework of this thesis, we propose …",
+      "publication_info": {
+        "summary": "A Houari - arXiv preprint arXiv:1811.09562, 2018 - arxiv.org",
+        "authors": [
+          {
+            "name": "A Houari",
+            "link": "https://scholar.google.com/citations?user=7_qwMZwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7_qwMZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7_qwMZwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/1811.09562"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ujRVIA5BQngJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ujRVIA5BQngJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AujRVIA5BQngJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=8665560161942058170&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "8665560161942058170",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=8665560161942058170&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ujRVIA5BQngJ:scholar.google.com/&hl=en&as_sdt=5,48&sciodt=0,48"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Fault Analysis and Trend Prediction in Telecommunication Using Pattern Detection: Architecture, Case Study and Experimentation",
+      "result_id": "ZoQFhoa4AKsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-13-8578-0_24",
+      "snippet": "In recent years, almost every industry especially digital, e-commerce and telecommunication experienced exponential growth of data. Harvesting knowledge in these highly dynamic …",
+      "publication_info": {
+        "summary": "KC Mondal, HB Barua - … Conference, CICBA 2018, Kalyani, India, July 27 …, 2019 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/333997699_Fault_Analysis_and_Trend_Prediction_in_Telecommunication_Using_Pattern_Detection_Architecture_Case_Study_and_Experimentation/links/5e9e1cdba6fdcca7892bca8d/Fault-Analysis-and-Trend-Prediction-in-Telecommunication-Using-Pattern-Detection-Architecture-Case-Study-and-Experimentation.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZoQFhoa4AKsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZoQFhoa4AKsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AZoQFhoa4AKsJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=12322051468399314022&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "12322051468399314022",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=12322051468399314022&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Le Clustering Semi-supervisé Appliqué à la Comptabilité des Revenus",
+      "result_id": "NJnMyrG-8PoJ",
+      "type": "Pdf",
+      "link": "https://theses.hal.science/tel-03590698/preview/2021COAZ4101.pdf",
+      "snippet": "Le flux de travail du systeme de comptabilisation des recettes (Revenue Accounting Workflow) de Amadeus traite automatiquement les tickets comptables jusqu'a ce qu'une …",
+      "publication_info": {
+        "summary": "Y Tianshu - theses.hal.science"
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://theses.hal.science/tel-03590698/preview/2021COAZ4101.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NJnMyrG-8PoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NJnMyrG-8PoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3ANJnMyrG-8PoJ%3Ascholar.google.com%2F&start=30",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NJnMyrG-8PoJ:scholar.google.com/&hl=en&as_sdt=5,48&sciodt=0,48"
+      }
+    },
+    {
+      "position": 7,
+      "title": "A suffix tree based parallel approach for association rule mining and biclustering",
+      "result_id": "DqW-pdXwqpIJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8009578/",
+      "snippet": "Data mining is the process of analyzing raw data from very large databases to turn them into useful and previously unknown information. This helps in finding out interesting patterns …",
+      "publication_info": {
+        "summary": "KC Mondal, S Bhattacharya… - … Conference on Computer …, 2016 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DqW-pdXwqpIJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DqW-pdXwqpIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3ADqW-pdXwqpIJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=10568524275977725198&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "10568524275977725198",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=10568524275977725198&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Closure Based Integrated Approach for Associative Classifier",
+      "result_id": "5XBWbi2wP_sJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-10-2035-3_24",
+      "snippet": "Building a classifier using association rules for classification task is a supervised data mining technique called Associative Classification (AC). Experiments show that AC has …",
+      "publication_info": {
+        "summary": "SB Chowdhury, D Pal, A Sarkar, KC Mondal - Proceedings of the First …, 2017 - Springer",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "A Sarkar",
+            "link": "https://scholar.google.com/citations?user=gzLAXNEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gzLAXNEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gzLAXNEAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ethernet.edu.et",
+          "file_format": "PDF",
+          "link": "http://ndl.ethernet.edu.et/bitstream/123456789/21153/1/174.pdf#page=236"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5XBWbi2wP_sJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5XBWbi2wP_sJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3A5XBWbi2wP_sJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=18104382736223858917&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "18104382736223858917",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=18104382736223858917&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "MultiCons: Multiple Consensus Clustering Method Using Frequent Closed Pattern Mining",
+      "result_id": "gOBHYSU-PaAJ",
+      "link": "https://hal.science/hal-01245704/",
+      "snippet": "Clustering, which aim is to identify groups of similar instances in a dataset, is one of the important tasks in data mining. Many clustering algorithms were developed in the last 50 …",
+      "publication_info": {
+        "summary": "A Al-Najdi, N Pasquier, F Precioso - 2015 - hal.science",
+        "authors": [
+          {
+            "name": "A Al-Najdi",
+            "link": "https://scholar.google.com/citations?user=7kIYG0wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7kIYG0wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7kIYG0wAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          },
+          {
+            "name": "F Precioso",
+            "link": "https://scholar.google.com/citations?user=-0cKTucAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-0cKTucAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-0cKTucAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://hal.science/hal-01245704/document"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gOBHYSU-PaAJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:gOBHYSU-PaAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AgOBHYSU-PaAJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=11546453349914632320&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "11546453349914632320",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=11546453349914632320&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:gOBHYSU-PaAJ:scholar.google.com/&hl=en&as_sdt=5,48&sciodt=0,48"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Une approche basée sur les motifs fermés pour résoudre le problème de clustering par consensus",
+      "result_id": "NGVtLrbHNfwJ",
+      "link": "https://www.theses.fr/2016AZUR4111",
+      "snippet": "Le clustering est le processus de partitionnement d'un ensemble de données en groupes, de sorte que les instances du même groupe sont plus semblables les unes aux autres …",
+      "publication_info": {
+        "summary": "A Al-Najdi - 2016 - theses.fr",
+        "authors": [
+          {
+            "name": "A Al-Najdi",
+            "link": "https://scholar.google.com/citations?user=7kIYG0wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7kIYG0wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7kIYG0wAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "theses.fr",
+          "file_format": "PDF",
+          "link": "https://www.theses.fr/2016AZUR4111.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NGVtLrbHNfwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NGVtLrbHNfwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3ANGVtLrbHNfwJ%3Ascholar.google.com%2F&start=40",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NGVtLrbHNfwJ:scholar.google.com/&hl=en&as_sdt=5,33&sciodt=0,33"
+      }
+    },
+    {
+      "position": 1,
+      "title": "A Comprehensive Review of HIV-1 and Human Protein-Protein Interaction Prediction",
+      "result_id": "riMVwrSBCBcJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "D Pal, KC Mondal",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=riMVwrSBCBcJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:riMVwrSBCBcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=972427600034217950&engine=google_scholar&hl=en&q=related%3AriMVwrSBCBcJ%3Ascholar.google.com%2F&start=40"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=972427600034217950&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=972427600034217950&scipsc=1",
+      "3": "https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=972427600034217950&scipsc=1",
+      "4": "https://scholar.google.com/scholar?start=30&hl=en&as_sdt=2005&sciodt=0,5&cites=972427600034217950&scipsc=1",
+      "5": "https://scholar.google.com/scholar?start=40&hl=en&as_sdt=2005&sciodt=0,5&cites=972427600034217950&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&start=30",
+      "5": "https://serpapi.com/search.json?as_sdt=2005&cites=972427600034217950&engine=google_scholar&hl=en&start=40"
+    }
+  }
+}
