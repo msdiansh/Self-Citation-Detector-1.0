@@ -16,23 +16,54 @@
         <div class="scholar-details-btm">
             <table class="scholar-articles">
                 <tr class="scholar-article-hd" style="background-color: #2f7efd; color: white; ">
-                    <th style="width: 45%">TITLE</th>
-                    <th style="width: 19%">TOTAL CITATIONS</th>
-                    <th style="width: 19%">SELF-CITATIONS</th>
-                    <th style="width: 9%">YEAR</th>
+                    <th style="width: 40%">TITLE</th>
+                    <th style="width: 9%">TOTAL CITATIONS</th>
+                    <th style="width: 9%">SELF CITATIONS</th>
+                    <th style="width: 9%">OTHER CITATIONS</th>
+                    <th style="width: 9%">SOR</th>
+                    <th style="width: 9%">SAR</th>
+                    <th style="width: 9%">OAR</th>
                 </tr>
                 <tr class="scholar-article-det" *ngFor="let art of articleData; index as i;">
                     <td class="title">{{art.title}}</td>
                     <td style="text-align: center;" class="cited-by">{{art.totalCitations}}</td>
                     <td style="text-align: center;" class="self-cited">{{art.selfCitations}}</td>
-                    <td style="text-align: center;" class="year">{{art.year}}</td>
+                    <td style="text-align: center;" class="year">{{art.otherCitations}}</td>
+                    <td style="text-align: center;" class="year">{{art.selfOtherRatio}}</td>
+                    <td style="text-align: center;" class="year">{{art.selfAllRatio}}</td>
+                    <td style="text-align: center;" class="year">{{art.otherAllRatio}}</td>
                 </tr>                
             </table>
         </div>
     </div>
     <div class="scholar-container-right">
-        <div class="scholar-det-graph" style="height: 15rem;">
-
+        <div class="scholar-det-table" style="padding: 15px 0px">
+            <table class="scholar-articles">
+                <tr class="scholar-article-hd" style="background-color: #2f7efd; color: white; ">
+                    <th style="width: 35%">INDEX</th>
+                    <th style="width: 20%">TOTAL CITATIONS</th>
+                    <th style="width: 20%">SELF CITATIONS</th>
+                    <th style="width: 20%">OTHER CITATIONS</th>
+                </tr>
+                <tr class="scholar-article-det">
+                    <td style="text-align: center; font-weight: 600;" class="title">Citations</td>
+                    <td style="text-align: center;" class="total-citation-count">{{countData[0]}}</td>
+                    <td style="text-align: center;" class="self-citation-count">{{countData[1]}}</td>
+                    <td style="text-align: center;" class="other-citation-count">{{countData[2]}}</td>
+                </tr>  
+                <tr class="scholar-article-det">
+                    <td style="text-align: center; font-weight: 600;" class="title">h-index</td>
+                    <td style="text-align: center;" class="total-citation-h-index">{{hData[0]}}</td>
+                    <td style="text-align: center;" class="self-citation-h-index">{{hData[1]}}</td>
+                    <td style="text-align: center;" class="other-citation-h-index">{{hData[2]}}</td>
+                </tr>  
+                <tr class="scholar-article-det">
+                    <td style="text-align: center; font-weight: 600;" class="title">i10-index</td>
+                    <td style="text-align: center;" class="total-citation-i10-index">{{i10Data[0]}}</td>
+                    <td style="text-align: center;" class="self-citation-i10-index">{{i10Data[1]}}</td>
+                    <td style="text-align: center;" class="other-citation-i10-index">{{i10Data[2]}}</td>
+                </tr>  
+            </table>
         </div>
         <div class="scholar-coauthors">
             <p class="scholar-coauthors-hd">Co-Authors: </p>
