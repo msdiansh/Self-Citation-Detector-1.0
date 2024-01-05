@@ -1,0 +1,80 @@
+{
+  "search_metadata": {
+    "id": "6598103fdefa1317b862223f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dfee948609bea433/6598103fdefa1317b862223f.json",
+    "created_at": "2024-01-05 14:20:47 UTC",
+    "processed_at": "2024-01-05 14:20:47 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:hqOjcs7Dif8C",
+    "raw_html_file": "https://serpapi.com/searches/dfee948609bea433/6598103fdefa1317b862223f.html",
+    "total_time_taken": 1.53
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:hqOjcs7Dif8C"
+  },
+  "citation": {
+    "title": "A hybrid intrusion detection system for hierarchical filtration of anomalies",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-13-1742-2_41",
+    "authors": "Pragma Kar, Soumya Banerjee, Kartick Chandra Mondal, Gautam Mahapatra, Samiran Chattopadhyay",
+    "publication_date": "2019",
+    "conference": "Information and Communication Technology for Intelligent Systems: Proceedings of ICTIS 2018, Volume 1",
+    "pages": "417-426",
+    "publisher": "Springer Singapore",
+    "description": "Network Intrusion Detection System (NIDS) deals with perusal of network traffics for the revelation of malicious activities and network attacks. The diversity of approaches related to NIDS, however, is commensurable with the drawbacks associated with the techniques. In this paper, an NIDS has been proposed that aims at hierarchical filtration of intrusions. The experimental analysis has been performed using KDD Cup’99 and NSL-KDD, from which, it can be clearly inferred that the proposed technique detects the attacks with high accuracy rates, high detection rates, and low false alarm. The run-time analysis of the proposed algorithm depicts the feasibility of its usage and its improvement over existing algorithms.",
+    "total_citations": {
+      "cited_by": {
+        "total": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6769526216182155158&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6769526216182155158&engine=google_scholar&hl=en",
+        "cites_id": "6769526216182155158"
+      },
+      "table": [
+        {
+          "year": 2019,
+          "citations": 1
+        },
+        {
+          "year": 2020,
+          "citations": 4
+        },
+        {
+          "year": 2021,
+          "citations": 4
+        },
+        {
+          "year": 2022,
+          "citations": 3
+        },
+        {
+          "year": 2023,
+          "citations": 2
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "A hybrid intrusion detection system for hierarchical filtration of anomalies",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=6769526216182155158&btnI=1&hl=en",
+        "authors": "P Kar, S Banerjee, KC Mondal, G Mahapatra… - … and Communication Technology for Intelligent Systems …, 2019",
+        "cited_by": {
+          "total": 14,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6769526216182155158&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6769526216182155158&engine=google_scholar&hl=en",
+          "cites_id": "6769526216182155158"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:lkc7JTow8l0J:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6769526216182155158",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=6769526216182155158&engine=google_scholar&hl=en",
+          "cluster_id": "6769526216182155158"
+        }
+      }
+    ]
+  }
+}

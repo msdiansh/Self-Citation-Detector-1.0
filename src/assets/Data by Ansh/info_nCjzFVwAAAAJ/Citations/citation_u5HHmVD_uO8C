@@ -1,0 +1,111 @@
+{
+  "search_metadata": {
+    "id": "65980e59f636ff697ee80627",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0490d6eaf8d882c8/65980e59f636ff697ee80627.json",
+    "created_at": "2024-01-05 14:12:41 UTC",
+    "processed_at": "2024-01-05 14:12:41 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:u5HHmVD_uO8C",
+    "raw_html_file": "https://serpapi.com/searches/0490d6eaf8d882c8/65980e59f636ff697ee80627.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:u5HHmVD_uO8C"
+  },
+  "citation": {
+    "title": "A new approach for association rule mining and bi-clustering using formal concept analysis",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-642-31537-4_8",
+    "resources": [
+      {
+        "title": "from academia.edu",
+        "file_format": "PDF",
+        "link": "https://www.academia.edu/download/45296613/A_new_approach_for_association_rule_mini20160502-77491-15480in.pdf"
+      }
+    ],
+    "authors": "Kartick Chandra Mondal, Nicolas Pasquier, Anirban Mukhopadhyay, Ujjwal Maulik, Sanghamitra Bandhopadyay",
+    "publication_date": "2012",
+    "conference": "Machine Learning and Data Mining in Pattern Recognition: 8th International Conference, MLDM 2012, Berlin, Germany, July 13-20, 2012. Proceedings 8",
+    "pages": "86-101",
+    "publisher": "Springer Berlin Heidelberg",
+    "description": "Association rule mining and bi-clustering are data mining tasks that have become very popular in many application domains, particularly in bioinformatics. However, to our knowledge, no algorithm was introduced for performing these two tasks in one process. We propose a new approach called FIST for extracting bases of extended association rules and conceptual bi-clusters conjointly. This approach is based on the frequent closed itemsets framework and requires a unique scan of the database. It uses a new suffix tree based data structure to reduce memory usage and improve the extraction efficiency, allowing parallel processing of the tree branches. Experiments conducted to assess its applicability to very large datasets show that FIST memory requirements and execution times are in most cases equivalent to frequent closed itemsets based algorithms and lower than frequent itemsets based algorithms.",
+    "total_citations": {
+      "cited_by": {
+        "total": 42,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=972427600034217950&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=972427600034217950&engine=google_scholar&hl=en",
+        "cites_id": "972427600034217950"
+      },
+      "table": [
+        {
+          "year": 2013,
+          "citations": 1
+        },
+        {
+          "year": 2014,
+          "citations": 2
+        },
+        {
+          "year": 2015,
+          "citations": 3
+        },
+        {
+          "year": 2016,
+          "citations": 9
+        },
+        {
+          "year": 2017,
+          "citations": 2
+        },
+        {
+          "year": 2018,
+          "citations": 3
+        },
+        {
+          "year": 2019,
+          "citations": 3
+        },
+        {
+          "year": 2020,
+          "citations": 1
+        },
+        {
+          "year": 2021,
+          "citations": 6
+        },
+        {
+          "year": 2022,
+          "citations": 7
+        },
+        {
+          "year": 2023,
+          "citations": 5
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "A new approach for association rule mining and bi-clustering using formal concept analysis",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=972427600034217950&btnI=1&hl=en",
+        "authors": "KC Mondal, N Pasquier, A Mukhopadhyay, U Maulik… - Machine Learning and Data Mining in Pattern …, 2012",
+        "cited_by": {
+          "total": 42,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=972427600034217950&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=972427600034217950&engine=google_scholar&hl=en",
+          "cites_id": "972427600034217950"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:3j_TBcDBfg0J:scholar.google.com/"
+        },
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=972427600034217950",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=972427600034217950&engine=google_scholar&hl=en",
+          "cluster_id": "972427600034217950"
+        }
+      }
+    ]
+  }
+}

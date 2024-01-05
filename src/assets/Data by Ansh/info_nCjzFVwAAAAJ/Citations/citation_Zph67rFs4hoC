@@ -1,0 +1,66 @@
+{
+  "search_metadata": {
+    "id": "65981070b5961eef41a88ad9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c0ba2c7938b8aa90/65981070b5961eef41a88ad9.json",
+    "created_at": "2024-01-05 14:21:36 UTC",
+    "processed_at": "2024-01-05 14:21:36 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:Zph67rFs4hoC",
+    "raw_html_file": "https://serpapi.com/searches/c0ba2c7938b8aa90/65981070b5961eef41a88ad9.html",
+    "total_time_taken": 0.53
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:Zph67rFs4hoC"
+  },
+  "citation": {
+    "title": "Empirical analysis of programmable ETL tools",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-13-8581-0_22",
+    "authors": "Neepa Biswas, Anamitra Sarkar, Kartick Chandra Mondal",
+    "publication_date": "2019",
+    "conference": "Computational Intelligence, Communications, and Business Analytics: Second International Conference, CICBA 2018, Kalyani, India, July 27–28, 2018, Revised Selected Papers, Part II 2",
+    "pages": "267-277",
+    "publisher": "Springer Singapore",
+    "description": "ETL (Extract Transform Load) is the widely used standard process for creating and maintaining a Data Warehouse (DW). ETL is the most resource, cost and time demanding process in DW implementation and maintenance . Now a days, many Graphical User Interfaces (GUI) based solutions are available to facilitate the ETL processes. In spite of the high popularity of GUI based tool, there is still some downside of such approach. This paper focuses on alternative ETL developmental approach taken by hand coding. In some context, it is appropriate to custom develop an ETL code which can be cheaper, faster and maintainable. Some well-known code based open source ETL tool (Pygrametl, Petl, Scriptella, R_etl) developed by the academic world has been studied in this article. Their architecture and implementation details are addressed here. The aim of this paper is to present a comparative evaluation of …",
+    "total_citations": {
+      "cited_by": {
+        "total": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1212189934269348565&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1212189934269348565&engine=google_scholar&hl=en",
+        "cites_id": "1212189934269348565"
+      },
+      "table": [
+        {
+          "year": 2020,
+          "citations": 3
+        },
+        {
+          "year": 2021,
+          "citations": 4
+        },
+        {
+          "year": 2022,
+          "citations": 3
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Empirical analysis of programmable ETL tools",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=1212189934269348565&btnI=1&hl=en",
+        "authors": "N Biswas, A Sarkar, KC Mondal - … International Conference, CICBA 2018, Kalyani, India …, 2019",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1212189934269348565&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=1212189934269348565&engine=google_scholar&hl=en",
+          "cites_id": "1212189934269348565"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:1bptoFKQ0hAJ:scholar.google.com/"
+        }
+      }
+    ]
+  }
+}

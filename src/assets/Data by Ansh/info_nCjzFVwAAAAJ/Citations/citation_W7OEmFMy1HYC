@@ -1,0 +1,74 @@
+{
+  "search_metadata": {
+    "id": "6598101179627c371fac7883",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bd92414cdf0a5d2c/6598101179627c371fac7883.json",
+    "created_at": "2024-01-05 14:20:01 UTC",
+    "processed_at": "2024-01-05 14:20:01 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:W7OEmFMy1HYC",
+    "raw_html_file": "https://serpapi.com/searches/bd92414cdf0a5d2c/6598101179627c371fac7883.html",
+    "total_time_taken": 0.83
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:W7OEmFMy1HYC"
+  },
+  "citation": {
+    "title": "SysML based conceptual ETL process modeling",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-10-6430-2_19",
+    "authors": "Neepa Biswas, Samiran Chattopadhyay, Gautam Mahapatra, Santanu Chatterjee, Kartick Chandra Mondal",
+    "publication_date": "2017",
+    "conference": "Computational Intelligence, Communications, and Business Analytics: First International Conference, CICBA 2017, Kolkata, India, March 24–25, 2017, Revised Selected Papers, Part II",
+    "pages": "242-255",
+    "publisher": "Springer Singapore",
+    "description": "Data generated from various sources can be erroneous or incomplete which can have direct impact over business analysis. ETL (Extraction-Transformation-Loading) is a well-known process which extract data from different sources, transform those data into required format and finally load it into target data warehouse (DW). ETL performs an important role in data warehouse environment. Configuring an ETL process is one of the key factor having direct impact over cost, time and effort for establishment of a successful data warehouse. Conceptual modeling of ETL can give a high-level view of the system activities. It provides the advantage of pre-identification of system error, cost minimization, scope, risk assessment etc. Some research development has been done for modeling ETL process by applying UML, BPMN and Semantic Web at conceptual level. In this paper, we propose a new approach for …",
+    "total_citations": {
+      "cited_by": {
+        "total": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11726855803944442872&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11726855803944442872&engine=google_scholar&hl=en",
+        "cites_id": "11726855803944442872"
+      },
+      "table": [
+        {
+          "year": 2019,
+          "citations": 2
+        },
+        {
+          "year": 2020,
+          "citations": 2
+        },
+        {
+          "year": 2021,
+          "citations": 5
+        },
+        {
+          "year": 2022,
+          "citations": 5
+        },
+        {
+          "year": 2023,
+          "citations": 2
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "SysML based conceptual ETL process modeling",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=11726855803944442872&btnI=1&hl=en",
+        "authors": "N Biswas, S Chattopadhyay, G Mahapatra… - … , and Business Analytics: First International Conference …, 2017",
+        "cited_by": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11726855803944442872&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=11726855803944442872&engine=google_scholar&hl=en",
+          "cites_id": "11726855803944442872"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:-BtW3jgpvqIJ:scholar.google.com/"
+        }
+      }
+    ]
+  }
+}
