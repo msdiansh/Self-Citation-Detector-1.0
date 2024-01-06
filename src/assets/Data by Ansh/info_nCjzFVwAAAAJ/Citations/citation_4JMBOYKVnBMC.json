@@ -1,0 +1,65 @@
+{
+  "search_metadata": {
+    "id": "6598f64a8e02e4eeadc99fdd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1d69a200ef0faa91/6598f64a8e02e4eeadc99fdd.json",
+    "created_at": "2024-01-06 06:42:18 UTC",
+    "processed_at": "2024-01-06 06:42:18 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:4JMBOYKVnBMC",
+    "raw_html_file": "https://serpapi.com/searches/1d69a200ef0faa91/6598f64a8e02e4eeadc99fdd.html",
+    "total_time_taken": 5.21
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:4JMBOYKVnBMC"
+  },
+  "citation": {
+    "title": "A double threshold-based power-aware honey bee cloud load balancing algorithm",
+    "link": "https://link.springer.com/article/10.1007/s42979-021-00771-w",
+    "authors": "Anindita Sarkar Mondal, Somnath Mukhopadhyay, Kartick Chandra Mondal, Samiran Chattopadhyay",
+    "publication_date": "2021/9",
+    "journal": "SN Computer Science",
+    "volume": "2",
+    "pages": "1-16",
+    "publisher": "Springer Singapore",
+    "description": "Present-day advancement in cloud computing provides ICT infrastructure as a service on a pay per use. Cloud computing provides this infrastructure as a service and as service demand increases, service providers organize large-scale data centers with a lot of resources, and cause of huge greenhouse gases’ emission. This data center’s huge power demand necessitates the balancing of cloud load. To attain the optimum resource utilization, least processing time of CPU, minimal average response time, and avoiding over-load, cloud load balancing algorithms distributes workload across virtual machines. The key challenge here is to develop such a load balancing algorithm which consumes the least resources to fulfill the service demands. In this paper, a double threshold-based power-aware honey bee load balancing algorithm is proposed for the fair and even distribution of the incoming task requests to …",
+    "total_citations": {
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15272383927506862659&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15272383927506862659&engine=google_scholar&hl=en",
+        "cites_id": "15272383927506862659"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 2
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "A double threshold-based power-aware honey bee cloud load balancing algorithm",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=15272383927506862659&btnI=1&hl=en",
+        "authors": "AS Mondal, S Mukhopadhyay, KC Mondal… - SN Computer Science, 2021",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15272383927506862659&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15272383927506862659&engine=google_scholar&hl=en",
+          "cites_id": "15272383927506862659"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:Q4Ju-ENo8tMJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15272383927506862659",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=15272383927506862659&engine=google_scholar&hl=en",
+          "cluster_id": "15272383927506862659"
+        }
+      }
+    ]
+  }
+}

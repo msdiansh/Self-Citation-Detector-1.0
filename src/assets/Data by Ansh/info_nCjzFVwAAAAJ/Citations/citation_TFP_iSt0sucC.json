@@ -1,0 +1,71 @@
+{
+  "search_metadata": {
+    "id": "6598f27724e88e4837f6a6ed",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2e594cdb73db63e3/6598f27724e88e4837f6a6ed.json",
+    "created_at": "2024-01-06 06:25:59 UTC",
+    "processed_at": "2024-01-06 06:25:59 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:TFP_iSt0sucC",
+    "raw_html_file": "https://serpapi.com/searches/2e594cdb73db63e3/6598f27724e88e4837f6a6ed.html",
+    "total_time_taken": 0.26
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:TFP_iSt0sucC"
+  },
+  "citation": {
+    "title": "Computational Biodiversity",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-16-5207-3_60",
+    "resources": [
+      {
+        "title": "from researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Moumita-Ghosh-14/publication/356505828_Computational_Biodiversity/links/63a9289b03aad5368e3f8a40/Computational-Biodiversity.pdf"
+      }
+    ],
+    "authors": "Moumita Ghosh, Kartick Chandra Mondal",
+    "publication_date": "2022",
+    "conference": "Proceedings of International Conference on Advanced Computing Applications: ICACA 2021",
+    "pages": "739-750",
+    "publisher": "Springer Singapore",
+    "description": "Ghosh, MoumitaMondal, Kartick ChandraThe term computational biodiversity is a new phrase. Since the last few decades, biodiversity is declining globally, and its shrinking rate poses threat to many species. Therefore, there is an evolving need to recognize and evaluate complex ecological problems. Along with the statistical measures securing by the ecologists, computer science researchers have perceived the prospect of algorithmic solutions in coming up against the adverse environmental issues. Thus, the application of various computational methodologies in biodiversity may coin the term computational biodiversity. In this paper, we perform a comprehensive study on recent progress made toward the protection of biodiversity and thus highlight the importance of the collaboration between ecologists and computer science researchers. We found that the recent computational approaches have broadened the …",
+    "total_citations": {
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10692840662455875768&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10692840662455875768&engine=google_scholar&hl=en",
+        "cites_id": "10692840662455875768"
+      },
+      "table": [
+        {
+          "year": 2023,
+          "citations": 2
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Computational Biodiversity",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=10692840662455875768&btnI=1&hl=en",
+        "authors": "M Ghosh, KC Mondal - Proceedings of International Conference on Advanced …, 2022",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10692840662455875768&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=10692840662455875768&engine=google_scholar&hl=en",
+          "cites_id": "10692840662455875768"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:uPiI7e2ZZJQJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=10692840662455875768",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=10692840662455875768&engine=google_scholar&hl=en",
+          "cluster_id": "10692840662455875768"
+        }
+      }
+    ]
+  }
+}

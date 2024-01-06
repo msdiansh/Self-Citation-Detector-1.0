@@ -1,0 +1,81 @@
+{
+  "search_metadata": {
+    "id": "6598f20cca968fec204fd448",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/71fe490fe142e896/6598f20cca968fec204fd448.json",
+    "created_at": "2024-01-06 06:24:12 UTC",
+    "processed_at": "2024-01-06 06:24:12 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:4TOpqqG69KYC",
+    "raw_html_file": "https://serpapi.com/searches/71fe490fe142e896/6598f20cca968fec204fd448.html",
+    "total_time_taken": 0.95
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:4TOpqqG69KYC"
+  },
+  "citation": {
+    "title": "Parallel and distributed association rule mining algorithms: a recent survey",
+    "link": "https://www.academia.edu/download/73119008/2790.pdf",
+    "resources": [
+      {
+        "title": "from academia.edu",
+        "file_format": "PDF",
+        "link": "https://www.academia.edu/download/73119008/2790.pdf"
+      }
+    ],
+    "authors": "Sudarsan Biswas, Neepa Biswas, Kartick Chandra Mondal",
+    "publication_date": "2019/9",
+    "source": "Information Management and Computer Science (IMCS)",
+    "volume": "2",
+    "issue": "1",
+    "pages": "15-24",
+    "publisher": "Zibeline International Publishing",
+    "description": "Data investigation is an essential key factor now a days due to rapidly growing electronic technology. It generates a large number of transactional data logs from a range of sources devices. Parallel and distributed computing is a useful approach for enhancing the data mining process. The aim of this research is to present a systematic review of parallel association rule mining (PARM) and distributed association rule mining (DARM) approaches. We have observed that the parallelized nature of Apriori, Equivalence class, Hadoop (MapReduce), and Spark proves to be very efficient in PARM and DARM environment. We conclude that this comprehensive review, references cited in this article will convey foremost hypothetical issues and a guideline to the researcher an interesting research direction. The most important hypothetical issue and challenges include the large size of databases, dimensionality of data, indexing schemes of data in the database, data skewness, database location, load balancing strategies, methods of adaptability in incremental databases and orientation of the database.",
+    "total_citations": {
+      "cited_by": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17488921216944184424&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17488921216944184424&engine=google_scholar&hl=en",
+        "cites_id": "17488921216944184424"
+      },
+      "table": [
+        {
+          "year": 2021,
+          "citations": 1
+        },
+        {
+          "year": 2022,
+          "citations": 1
+        },
+        {
+          "year": 2023,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Parallel and distributed association rule mining algorithms: a recent survey",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=17488921216944184424&btnI=1&hl=en",
+        "authors": "S Biswas, N Biswas, KC Mondal - Information Management and Computer Science …, 2019",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17488921216944184424&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=17488921216944184424&engine=google_scholar&hl=en",
+          "cites_id": "17488921216944184424"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:aBzAwC8htfIJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17488921216944184424",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=17488921216944184424&engine=google_scholar&hl=en",
+          "cluster_id": "17488921216944184424"
+        }
+      }
+    ]
+  }
+}

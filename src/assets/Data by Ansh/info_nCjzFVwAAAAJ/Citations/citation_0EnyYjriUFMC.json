@@ -1,0 +1,47 @@
+{
+  "search_metadata": {
+    "id": "6598f8fc2c68782bdeb1b88b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cc2d1778d8870aed/6598f8fc2c68782bdeb1b88b.json",
+    "created_at": "2024-01-06 06:53:48 UTC",
+    "processed_at": "2024-01-06 06:53:48 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:0EnyYjriUFMC",
+    "raw_html_file": "https://serpapi.com/searches/cc2d1778d8870aed/6598f8fc2c68782bdeb1b88b.html",
+    "total_time_taken": 9.22
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:0EnyYjriUFMC"
+  },
+  "citation": {
+    "title": "MOSCFRA: A Genetic Approach for Simultanious Clustering and Gene Ranking",
+    "link": "https://www.academia.edu/download/46408490/MOSCFRA_A_Multi-objective_Genetic_Approa20160611-88057-30yfh.pdf",
+    "resources": [
+      {
+        "title": "from academia.edu",
+        "file_format": "PDF",
+        "link": "https://www.academia.edu/download/46408490/MOSCFRA_A_Multi-objective_Genetic_Approa20160611-88057-30yfh.pdf"
+      }
+    ],
+    "authors": "Kartick Chandra Mondal, Anirban Mukhopadhyay, Ujjwal Maulik, Sanghamitra Bandhyapadhyay, Nicolas Pasquier",
+    "description": "Microarray experiments generate a large amount of data which is used to discover the genetic background of diseases and to know the gene characteristics. Clustering the tissue samples is an important tool for partitioning the dataset according to co-expression patterns. This clustering task is even more difficult when we try to find the rank of each gene (Gene Ranking) according to their abilities to distinguish different classes of samples. Finding clusters for samples and rank of each gene for a specific gene expression data in a single process is always better. In the literature many algorithms are available for finding the clusters and gene ranking or selection separately. A few algorithms for simultaneous clustering and feature selection are also available. In this article, we propose a new approach to cluster the samples and rank the genes, simultaneously. A novel encoding technique is proposed here for the problem of simultaneous clustering and ranking. Results have been demonstrated for both artificial and real-life gene expression data sets.",
+    "scholar_articles": [
+      {
+        "title": "MOSCFRA: A Genetic Approach for Simultanious Clustering and Gene Ranking",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=10904295411331901466&btnI=1&hl=en",
+        "authors": "KC Mondal, A Mukhopadhyay, U Maulik…",
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:GihcNufWU5cJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=10904295411331901466",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=10904295411331901466&engine=google_scholar&hl=en",
+          "cluster_id": "10904295411331901466"
+        }
+      }
+    ]
+  }
+}

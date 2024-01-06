@@ -1,0 +1,79 @@
+{
+  "search_metadata": {
+    "id": "6598ef921071f47cc3e434ce",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8c8f866fd200e567/6598ef921071f47cc3e434ce.json",
+    "created_at": "2024-01-06 06:13:38 UTC",
+    "processed_at": "2024-01-06 06:13:38 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:roLk4NBRz8UC",
+    "raw_html_file": "https://serpapi.com/searches/8c8f866fd200e567/6598ef921071f47cc3e434ce.html",
+    "total_time_taken": 1.27
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:roLk4NBRz8UC"
+  },
+  "citation": {
+    "title": "A factual analysis of improved python implementation of Apriori algorithm",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-13-2345-4_11",
+    "resources": [
+      {
+        "title": "from researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Biswajit-Biswas-19/publication/327805805_Load_Balancing_of_Unbalanced_Matrix_Problem_of_the_Sufficient_Machines_with_Min-Min_Algorithm/links/63315acc6063772afd92bc86/Load-Balancing-of-Unbalanced-Matrix-Problem-of-the-Sufficient-Machines-with-Min-Min-Algorithm.pdf#page=148"
+      }
+    ],
+    "authors": "Kartick Chandra Mondal, Biswadeep Deb Nandy, Arunima Baidya",
+    "publication_date": "2018",
+    "journal": "Methodologies and Application Issues of Contemporary Computing Framework",
+    "pages": "139-151",
+    "publisher": "Springer Singapore",
+    "description": "Data mining has been proven as a useful tool for data analysis. Association rule mining is one of the important tasks in data mining for finding meaningful and hidden relationship in data. Apriori is the first attempt to do association rule mining using frequent itemset mining over transactional databases. Several implementations of the algorithm in various languages have been done so far for performing this task. In this paper, we are dealing with comparative study and critical analysis of various implementations of Apriori algorithm present in different Python packages and implemented another version of the algorithm which is at per with the existing algorithms but without using any existing libraries available in python. A detailed conclusion has been drawn on our empirical study of Apriori algorithm which will help the researcher to understand and use different packages for data analysis.",
+    "total_citations": {
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13045576604649496446&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13045576604649496446&engine=google_scholar&hl=en",
+        "cites_id": "13045576604649496446"
+      },
+      "table": [
+        {
+          "year": 2020,
+          "citations": 2
+        },
+        {
+          "year": 2021,
+          "citations": 2
+        },
+        {
+          "year": 2022,
+          "citations": 2
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "A factual analysis of improved python implementation of Apriori algorithm",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=13045576604649496446&btnI=1&hl=en",
+        "authors": "KC Mondal, BD Nandy, A Baidya - … and Application Issues of Contemporary Computing …, 2018",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13045576604649496446&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=13045576604649496446&engine=google_scholar&hl=en",
+          "cites_id": "13045576604649496446"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:fp9Hss0yC7UJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13045576604649496446",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=13045576604649496446&engine=google_scholar&hl=en",
+          "cluster_id": "13045576604649496446"
+        }
+      }
+    ]
+  }
+}
