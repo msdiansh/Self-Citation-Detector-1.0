@@ -1,0 +1,44 @@
+{
+  "search_metadata": {
+    "id": "6598f82edefa13172082ee26",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ea2fad0426485b6b/6598f82edefa13172082ee26.json",
+    "created_at": "2024-01-06 06:50:22 UTC",
+    "processed_at": "2024-01-06 06:50:22 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:hFOr9nPyWt4C",
+    "raw_html_file": "https://serpapi.com/searches/ea2fad0426485b6b/6598f82edefa13172082ee26.html",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:hFOr9nPyWt4C"
+  },
+  "citation": {
+    "title": "TV White Spectrum for Wireless Broadband Internet Connectivity (WBIC): A theoretical analysis of utilizing TV White Spectrum for Wireless Broadband Internet Connectivity (WBIC …",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7813975/",
+    "authors": "Kartick Mondal, Md Salim Zahan, Tania Khadem, Ahmed Al Amin, Md Shoriful Islam",
+    "publication_date": "2016/4/29",
+    "conference": "2016 International Conference on Computing, Communication and Automation (ICCCA)",
+    "pages": "1573-1578",
+    "publisher": "IEEE",
+    "description": "TV White Spectrum utilization has become a major concern in the field of communication sector throughout the world. This research paper focuses on utilizing the TV White Spectrum for Wireless Broadband Internet Connectivity (WBIC) on the basis of availability. For reference, a practical scenario has been considered. The scenario represents the TV White Spectrum of Bangladesh Television (National Television Channel of Bangladesh) and utilizes the unused bandwidth for Wireless Broadband Internet Connectivity (WBIC). Bangladesh government has allocated 56 MHz of Bandwidth among 200GHz of total bandwidth for communication purposes of Bangladesh for BTV (Bangladesh Television) broadcasting. But, BTV is using only 6 MHz of the available 50MHz frequency. So, the rest of the 50 MHz frequency remains unused. This paper, explains how this unused 50MHz frequency can be used for Wireless …",
+    "scholar_articles": [
+      {
+        "title": "TV White Spectrum for Wireless Broadband Internet Connectivity (WBIC): A theoretical analysis of utilizing TV White Spectrum for Wireless Broadband Internet Connectivity (WBIC) on the basis of availability in the perspective of Bangladesh",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=7851446344025316454&btnI=1&hl=en",
+        "authors": "K Mondal, MS Zahan, T Khadem, A Al Amin, MS Islam - 2016 International Conference on Computing …, 2016",
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:Zhyr5Nnw9WwJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=7851446344025316454",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=7851446344025316454&engine=google_scholar&hl=en",
+          "cluster_id": "7851446344025316454"
+        }
+      }
+    ]
+  }
+}

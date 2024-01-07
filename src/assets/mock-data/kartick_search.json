@@ -1,0 +1,346 @@
+{
+  "search_metadata": {
+    "id": "658d9d285fc493281b526edd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3dff20b82e87e05d/658d9d285fc493281b526edd.json",
+    "created_at": "2023-12-28 16:07:04 UTC",
+    "processed_at": "2023-12-28 16:07:04 UTC",
+    "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=kartick+chandra&view_op=search_authors&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/3dff20b82e87e05d/658d9d285fc493281b526edd.html",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_scholar_profiles",
+    "mauthors": "kartick chandra",
+    "hl": "en"
+  },
+  "profiles": [
+    {
+      "name": "Kartick Chandra Jana",
+      "link": "https://scholar.google.com/citations?hl=en&user=9JjHMHYAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=9JjHMHYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "9JjHMHYAAAAJ",
+      "affiliations": "Associate Professor, IIT(ISM) Dhanbad",
+      "email": "Verified email at iitism.ac.in",
+      "cited_by": 1238,
+      "interests": [
+        {
+          "title": "Power Electronics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apower_electronics",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:power_electronics"
+        },
+        {
+          "title": "Multilevel converters",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultilevel_converters",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:multilevel_converters"
+        },
+        {
+          "title": "Machine Drives",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_drives",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_drives"
+        },
+        {
+          "title": "Renewable Energy Extractions",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arenewable_energy_extractions",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:renewable_energy_extractions"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9JjHMHYAAAAJ&citpid=21"
+    },
+    {
+      "name": "Kartick Chandra Mondal",
+      "link": "https://scholar.google.com/citations?hl=en&user=nCjzFVwAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "nCjzFVwAAAAJ",
+      "affiliations": "Assistant Professor of Information Technology, Jadavpur University, Kolkata",
+      "email": "Verified email at jadavpuruniversity.in",
+      "cited_by": 444,
+      "interests": [
+        {
+          "title": "Data Mining",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_mining"
+        },
+        {
+          "title": "Bioinformatics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abioinformatics",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:bioinformatics"
+        },
+        {
+          "title": "Biodiversity",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiodiversity",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biodiversity"
+        },
+        {
+          "title": "Data Analytics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_analytics",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_analytics"
+        },
+        {
+          "title": "Data Storage",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_storage",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_storage"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nCjzFVwAAAAJ&citpid=3"
+    },
+    {
+      "name": "Kartick Chandra Pal",
+      "link": "https://scholar.google.com/citations?hl=en&user=GONTaaEAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=GONTaaEAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "GONTaaEAAAAJ",
+      "affiliations": "Assistant Professor of Chemistry",
+      "cited_by": 429,
+      "interests": [
+        {
+          "title": "Environmental Science and Chemistry",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenvironmental_science_and_chemistry",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:environmental_science_and_chemistry"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GONTaaEAAAAJ&citpid=1"
+    },
+    {
+      "name": "Dr. Kartick Chandra Majhi",
+      "link": "https://scholar.google.com/citations?hl=en&user=K48Tbi4AAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=K48Tbi4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "K48Tbi4AAAAJ",
+      "affiliations": "Post Doc City Uni. of Hong Kong, Former Post Doc IISER-K, Ph.D. IIT Dhanbad, M.Sc. IIT G …",
+      "email": "Verified email at cityu.edu.hk",
+      "cited_by": 425,
+      "interests": [
+        {
+          "title": "Material Science",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amaterial_science",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:material_science"
+        },
+        {
+          "title": "Electrocatalyst",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aelectrocatalyst",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electrocatalyst"
+        },
+        {
+          "title": "Water Splitting",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awater_splitting",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:water_splitting"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=K48Tbi4AAAAJ&citpid=10"
+    },
+    {
+      "name": "Kartick Chandra Bhowmick",
+      "link": "https://scholar.google.com/citations?hl=en&user=CcsGxBoAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=CcsGxBoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "CcsGxBoAAAAJ",
+      "affiliations": "Visva-Bharati University",
+      "email": "Verified email at visva-bharati.ac.in",
+      "cited_by": 377,
+      "interests": [
+        {
+          "title": "Organic Chemistry",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aorganic_chemistry",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:organic_chemistry"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CcsGxBoAAAAJ&citpid=3"
+    },
+    {
+      "name": "Kartick Chandra Sarkar",
+      "link": "https://scholar.google.com/citations?hl=en&user=nT1-4mEAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=nT1-4mEAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "nT1-4mEAAAAJ",
+      "affiliations": "Assistant Professor, IIT Kanpur",
+      "email": "Verified email at iitk.ac.in",
+      "cited_by": 283,
+      "interests": [
+        {
+          "title": "Astrophysics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aastrophysics",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:astrophysics"
+        },
+        {
+          "title": "Astronomy",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aastronomy",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:astronomy"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nT1-4mEAAAAJ&citpid=1"
+    },
+    {
+      "name": "Kartik Chandra",
+      "link": "https://scholar.google.com/citations?hl=en&user=oVcz4nIAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=oVcz4nIAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "oVcz4nIAAAAJ",
+      "affiliations": "MIT",
+      "email": "Verified email at cs.stanford.edu",
+      "cited_by": 180,
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oVcz4nIAAAAJ&citpid=3"
+    },
+    {
+      "name": "Kartik Chandra Patra",
+      "link": "https://scholar.google.com/citations?hl=en&user=AZBDEicAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=AZBDEicAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "AZBDEicAAAAJ",
+      "affiliations": "CV Raman Global University",
+      "email": "Verified email at cvrce.edu.in",
+      "cited_by": 119,
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AZBDEicAAAAJ&citpid=1"
+    },
+    {
+      "name": "Kartik Chandra Guchhait",
+      "link": "https://scholar.google.com/citations?hl=en&user=HNZdszAAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=HNZdszAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "HNZdszAAAAAJ",
+      "affiliations": "Dept. of Human Physiology, Vidyasagar University, India",
+      "email": "Verified email at mail.vidyasagar.ac.in",
+      "cited_by": 50,
+      "interests": [
+        {
+          "title": "Molecular microbiology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amolecular_microbiology",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:molecular_microbiology"
+        },
+        {
+          "title": "Bacterial cloning",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abacterial_cloning",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:bacterial_cloning"
+        },
+        {
+          "title": "Biofilm",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiofilm",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biofilm"
+        },
+        {
+          "title": "Natural plant products",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_plant_products",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_plant_products"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HNZdszAAAAAJ&citpid=2"
+    },
+    {
+      "name": "Kartick Chandra Pal",
+      "link": "https://scholar.google.com/citations?hl=en&user=zlxCFlEAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=zlxCFlEAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "zlxCFlEAAAAJ",
+      "affiliations": "Associate Professor, Ramakrishna Mission Vidyamandira",
+      "email": "Verified email at vidyamandira.ac.in",
+      "cited_by": 12,
+      "interests": [
+        {
+          "title": "Visco-elasticity",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avisco_elasticity",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:visco_elasticity"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zlxCFlEAAAAJ&citpid=1"
+    },
+    {
+      "name": "Dr.Kartick Chandra Barman",
+      "link": "https://scholar.google.com/citations?hl=en&user=tfWiCTgAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=tfWiCTgAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "tfWiCTgAAAAJ",
+      "affiliations": "Assistant Professor in History, K.CC, Burdwan University",
+      "email": "Verified email at krishnachandracollege.in",
+      "cited_by": 11,
+      "interests": [
+        {
+          "title": "History of North Bengal",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Ahistory_of_north_bengal",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:history_of_north_bengal"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tfWiCTgAAAAJ&citpid=4"
+    },
+    {
+      "name": "Kartik Chandra Sarkar",
+      "link": "https://scholar.google.com/citations?hl=en&user=Z4lICAcAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Z4lICAcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Z4lICAcAAAAJ",
+      "affiliations": "Govt Teachers' Training College, Malda, Inida",
+      "cited_by": 5,
+      "interests": [
+        {
+          "title": "Education",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Aeducation",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:education"
+        },
+        {
+          "title": "Mathematics",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Amathematics",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:mathematics"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Z4lICAcAAAAJ&citpid=1"
+    },
+    {
+      "name": "Kartik Chandra Bhagat",
+      "link": "https://scholar.google.com/citations?hl=en&user=4OFac4IAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=4OFac4IAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "4OFac4IAAAAJ",
+      "affiliations": "Research Scholar",
+      "email": "Verified email at niamt.ac.in",
+      "cited_by": 2,
+      "interests": [
+        {
+          "title": "Thermal",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Athermal",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:thermal"
+        },
+        {
+          "title": "Manufacturing",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Amanufacturing",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:manufacturing"
+        },
+        {
+          "title": "Automobile",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Aautomobile",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:automobile"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4OFac4IAAAAJ&citpid=1"
+    },
+    {
+      "name": "Kartik Chandra Sahu",
+      "link": "https://scholar.google.com/citations?hl=en&user=KO0mM4sAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=KO0mM4sAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "KO0mM4sAAAAJ",
+      "affiliations": "Ph.D Scholar, Botany",
+      "cited_by": 2,
+      "interests": [
+        {
+          "title": "Biological",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Abiological",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biological"
+        }
+      ],
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Kartik Chandra Sutradhar",
+      "link": "https://scholar.google.com/citations?hl=en&user=639nOgwAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=639nOgwAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "639nOgwAAAAJ",
+      "affiliations": "Coochbehar Panchanan Barma University, Coochbehar, WB, India",
+      "email": "Verified email at cbpbu.ac.in",
+      "cited_by": null,
+      "interests": [
+        {
+          "title": "History of Bengal",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Ahistory_of_bengal",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:history_of_bengal"
+        },
+        {
+          "title": "Social and Cultural History",
+          "serpapi_link": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_and_cultural_history",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_and_cultural_history"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=639nOgwAAAAJ&citpid=2"
+    }
+  ],
+  "pagination": {
+    "next": "https://serpapi.com/search.json?after_author=HQ8vAfH___8J&engine=google_scholar_profiles&hl=en&mauthors=kartick+chandra",
+    "next_page_token": "HQ8vAfH___8J"
+  }
+}

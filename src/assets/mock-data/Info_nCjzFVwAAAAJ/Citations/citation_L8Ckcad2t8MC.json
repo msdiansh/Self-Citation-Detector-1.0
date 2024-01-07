@@ -1,0 +1,42 @@
+{
+  "search_metadata": {
+    "id": "6598f8542c08442ec0c7f7fc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f77fa5791ab30f77/6598f8542c08442ec0c7f7fc.json",
+    "created_at": "2024-01-06 06:51:00 UTC",
+    "processed_at": "2024-01-06 06:51:00 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:L8Ckcad2t8MC",
+    "raw_html_file": "https://serpapi.com/searches/f77fa5791ab30f77/6598f8542c08442ec0c7f7fc.html",
+    "total_time_taken": 0.28
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:L8Ckcad2t8MC"
+  },
+  "citation": {
+    "title": "Feasibility Analysis of FDM Technique for Visible Light Communication (VLC) System",
+    "link": "https://www.researchgate.net/profile/Ahmed-Al-Amin-3/publication/293484021_Feasibility_Analysis_of_FDM_Technique_for_Visible_Light_Communication_VLC_System/links/56b8b72d08ae5ad3605f5171/Feasibility-Analysis-of-FDM-Technique-for-Visible-Light-Communication-VLC-System.pdf",
+    "resources": [
+      {
+        "title": "from researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Ahmed-Al-Amin-3/publication/293484021_Feasibility_Analysis_of_FDM_Technique_for_Visible_Light_Communication_VLC_System/links/56b8b72d08ae5ad3605f5171/Feasibility-Analysis-of-FDM-Technique-for-Visible-Light-Communication-VLC-System.pdf"
+      }
+    ],
+    "authors": "Ahmed Al Amin, Md Shoriful Islam, Kartick Mondal",
+    "publication_date": "2016",
+    "description": "High speed communication is now a day’s very vital issue in every aspect of life. People checking their email whether at the same time they have attend any conference through video conferencing with flexibility and efficiently. But due to limited version of Radio Frequency (RF) spectrums and high interference at restricted area, visible light communication (VLC) is a good solution in case of wireless communication. VLC can provide Terabit per second (Tbps) data rate without interfere with other electromagnetic waves. To reduce the number of multiple devices and cost optimization, multiplexing can be implemented in case of VLC system. Hence the main objective of this paper is to check the feasibility of Frequency Division Multiplexing (FDM) in case of On-Off Keying (OOK) modulated signal of the system.",
+    "scholar_articles": [
+      {
+        "title": "Feasibility Analysis of FDM Technique for Visible Light Communication (VLC) System",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=923160392707141768&btnI=1&hl=en",
+        "authors": "A Al Amin, MS Islam, K Mondal - 2016",
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:iPAEbny5zwwJ:scholar.google.com/"
+        }
+      }
+    ]
+  }
+}

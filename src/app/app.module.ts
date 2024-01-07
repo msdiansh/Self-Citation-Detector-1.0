@@ -11,6 +11,7 @@ import { AddScholarComponent } from './add-scholar/add-scholar.component';
 import { ScholarComponent } from './scholar/scholar.component';
 import { HeaderComponent } from './header/header.component';
 import { ScholarService } from './scholar/scholar.service';
+import { SearchListService } from './search-list/search-list.service';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { ScholarService } from './scholar/scholar.service';
     HttpClientModule
   ],
   providers: [
-    ScholarService
+    ScholarService,
+    SearchListService
   ],
   bootstrap: [AppComponent]
 })

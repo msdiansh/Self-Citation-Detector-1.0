@@ -1,0 +1,70 @@
+{
+  "search_metadata": {
+    "id": "6598f2ba1c450a41ad5d6c5d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dff2a67c67aff2c2/6598f2ba1c450a41ad5d6c5d.json",
+    "created_at": "2024-01-06 06:27:06 UTC",
+    "processed_at": "2024-01-06 06:27:06 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:iH-uZ7U-co4C",
+    "raw_html_file": "https://serpapi.com/searches/dff2a67c67aff2c2/6598f2ba1c450a41ad5d6c5d.html",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:iH-uZ7U-co4C"
+  },
+  "citation": {
+    "title": "Knowledge discovery of Sundarban Mangrove species: a way forward for managing species biodiversity",
+    "link": "https://link.springer.com/article/10.1007/s42979-021-00869-1",
+    "authors": "Moumita Ghosh, Anirban Roy, Kartick Chandra Mondal",
+    "publication_date": "2022/1",
+    "journal": "SN Computer Science",
+    "volume": "3",
+    "issue": "1",
+    "pages": "18",
+    "publisher": "Springer Singapore",
+    "description": "The Mangrove ecosystem is continuously losing its dignity. A few studies have focused on understanding the changing behavior of Sundarban Mangrove Forest. However, knowledge-based database interpretation and employable pattern extraction may be an efficient approach to stand against the degrading nature of the mangrove ecosystem. Comprehending the gravity of the present scenario, the main contribution of this paper lies in the task of information retrieval by assessing the natural growth of native mangrove species of Sundarban. We have followed a methodology that makes use of association rule mining and biclustering approaches in order to come up with an off-the-shelf mechanism to analyze the data. This explores rules showing the effect of soil pH, water salinity on mangrove community structure, and on individual mangrove species and finds relation to biodiversity indices. The rules can …",
+    "total_citations": {
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18040481885773268887&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18040481885773268887&engine=google_scholar&hl=en",
+        "cites_id": "18040481885773268887"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 1
+        },
+        {
+          "year": 2023,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Knowledge discovery of Sundarban Mangrove species: a way forward for managing species biodiversity",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=18040481885773268887&btnI=1&hl=en",
+        "authors": "M Ghosh, A Roy, KC Mondal - SN Computer Science, 2022",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18040481885773268887&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=18040481885773268887&engine=google_scholar&hl=en",
+          "cites_id": "18040481885773268887"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:l4diSrGqXPoJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=18040481885773268887",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=18040481885773268887&engine=google_scholar&hl=en",
+          "cluster_id": "18040481885773268887"
+        }
+      }
+    ]
+  }
+}

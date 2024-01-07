@@ -1,0 +1,44 @@
+{
+  "search_metadata": {
+    "id": "6598f8c23944b09fa5e19258",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/305f0f9901cac804/6598f8c23944b09fa5e19258.json",
+    "created_at": "2024-01-06 06:52:50 UTC",
+    "processed_at": "2024-01-06 06:52:50 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:ZeXyd9-uunAC",
+    "raw_html_file": "https://serpapi.com/searches/305f0f9901cac804/6598f8c23944b09fa5e19258.html",
+    "total_time_taken": 0.29
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:ZeXyd9-uunAC"
+  },
+  "citation": {
+    "title": "Hybrid Beamforming Technique in Millimeter-Wave Communication for Massive MIMO System",
+    "link": "https://www.researchgate.net/profile/Kartick-Mondal/publication/305168034_Hybrid_Beamforming_Technique_in_Millimeter-_Wave_Communication_for_Massive_MIMO_System/links/5783d3db08ae37d3af6c105e/Hybrid-Beamforming-Technique-in-Millimeter-Wave-Communication-for-Massive-MIMO-System.pdf",
+    "resources": [
+      {
+        "title": "from researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Kartick-Mondal/publication/305168034_Hybrid_Beamforming_Technique_in_Millimeter-_Wave_Communication_for_Massive_MIMO_System/links/5783d3db08ae37d3af6c105e/Hybrid-Beamforming-Technique-in-Millimeter-Wave-Communication-for-Massive-MIMO-System.pdf"
+      }
+    ],
+    "authors": "Md Shoriful Islam, Tazkia Jessy, Md Sabuj Hassan, Kartick Mondal, Tosikur Rahman",
+    "journal": "wireless communications",
+    "volume": "3",
+    "pages": "4",
+    "description": "5th Generation mobile network (5G) announce the next evolution of mobile telecommunications will exceed the current 4th Generation mobile communication. 5G system will achieve more than 10 Gbps which will implement within 2020. Therefore few major problems have to be solved for getting this super speed. However to achieve this super speed a high frequency wave is required to transmit data through wider bandwidth. Massive MIMO Beamforming (BF) is one of the promising technologies to develop this system and Mm wave can be used to provide higher frequency. Conventional BF is capable to provide CSI (Channel State Information) from the transmitter to the receiver but adaptive BF is not capable to do so. However adaptive BF is very much effective to change it behavior according to the required of the channel. In that case a hybrid BF technology could be very much effective to implement 5G technology which will use both analog and digital BF technology to receive the reference signal without distortion. To find out the best beamforming technique is one the major challenge to implement 5G communication and In this paper the performance of conventional, adaptive and hybrid beamforming technique has been simulated specially for 5G communication to find out the best beamforming technique.",
+    "scholar_articles": [
+      {
+        "title": "Hybrid Beamforming Technique in Millimeter-Wave Communication for Massive MIMO System",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=2337936423593430330&btnI=1&hl=en",
+        "authors": "MS Islam, T Jessy, MS Hassan, K Mondal, T Rahman - wireless communications",
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:Os27U8oEciAJ:scholar.google.com/"
+        }
+      }
+    ]
+  }
+}

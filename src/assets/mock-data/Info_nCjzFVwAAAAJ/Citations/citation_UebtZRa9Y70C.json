@@ -1,0 +1,81 @@
+{
+  "search_metadata": {
+    "id": "6598f164c47d3c2a378d77c0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/32406dd4aca97c1e/6598f164c47d3c2a378d77c0.json",
+    "created_at": "2024-01-06 06:21:24 UTC",
+    "processed_at": "2024-01-06 06:21:24 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:UebtZRa9Y70C",
+    "raw_html_file": "https://serpapi.com/searches/32406dd4aca97c1e/6598f164c47d3c2a378d77c0.html",
+    "total_time_taken": 1.94
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:UebtZRa9Y70C"
+  },
+  "citation": {
+    "title": "Performance analysis of structured, un-structured, and cloud storage systems",
+    "link": "https://www.igi-global.com/article/performance-analysis-of-structured-un-structured-and-cloud-storage-systems/216467",
+    "resources": [
+      {
+        "title": "from researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/330049417_Performance_Analysis_of_Structured_Un-Structured_and_Cloud_Storage_Systems/links/5ea073b7299bf143893d3731/Performance-Analysis-of-Structured-Un-Structured-and-Cloud-Storage-Systems.pdf"
+      }
+    ],
+    "authors": "Anindita Sarkar Mondal, Madhupa Sanyal, Samiran Chattapadhyay, Kartick Chandra Mondal",
+    "publication_date": "2019/1/1",
+    "journal": "International Journal of Ambient Computing and Intelligence (IJACI)",
+    "volume": "10",
+    "issue": "1",
+    "pages": "1-29",
+    "publisher": "IGI Global",
+    "description": "Big Data management is an interesting research challenge for all storage vendors. Since data can be structured or unstructured, hence variety of storage systems has been designed to meet storage requirement as per organization's demands. The article focuses on different kinds of storage systems, their architecture and implementations. The first portion of the article describes different examples of structured (PostgreSQL) and unstructured databases (MongoDB, OrientDB and Neo4j) along with data models and comparative performance analysis between them. The second portion of the paper focuses on cloud storage systems. As an example of cloud storage, Google Cloud Storage and mainly its implementation details have been discussed. The aim of the article is not to eulogize any particular storage system, but to clearly point out that every storage has a role to play in the industry. It depends on the enterprise …",
+    "total_citations": {
+      "cited_by": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11244155443966484291&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11244155443966484291&engine=google_scholar&hl=en",
+        "cites_id": "11244155443966484291"
+      },
+      "table": [
+        {
+          "year": 2020,
+          "citations": 2
+        },
+        {
+          "year": 2021,
+          "citations": 1
+        },
+        {
+          "year": 2022,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Performance analysis of structured, un-structured, and cloud storage systems",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=11244155443966484291&btnI=1&hl=en",
+        "authors": "AS Mondal, M Sanyal, S Chattapadhyay, KC Mondal - International Journal of Ambient Computing and …, 2019",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11244155443966484291&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=11244155443966484291&engine=google_scholar&hl=en",
+          "cites_id": "11244155443966484291"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:Q5_lXM1DC5wJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11244155443966484291",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=11244155443966484291&engine=google_scholar&hl=en",
+          "cluster_id": "11244155443966484291"
+        }
+      }
+    ]
+  }
+}

@@ -26,6 +26,7 @@ export class ScholarComponent{
     public hData: any = [];
     public i10Data: any = [];
     public countData: any = [];
+    public authorScore: any = ['—', '—', '—'];
     public coAuthorMap: Map<string, string> = {
         clear: function (): void {
             throw new Error("Function not implemented.");
@@ -71,16 +72,15 @@ export class ScholarComponent{
         console.log(this.authorId);
         try {
             const res = await this.ss.getAuthorDetails(this.commonUrl + 'Info_' + this.authorId + '/' + this.authorId + '.json');
-            // console.log(res);
+            console.log(res);
             this.authorDetails = res.author;
-            // console.log(this.authorDetails);
+            console.log(this.authorDetails);
             this.interests = this.authorDetails.interests;
 
             this.coauthors = res.co_authors;
-            // console.log(this.coauthors);
+            console.log(this.coauthors);
 
             this.articles = res.articles;
-            // console.log(this.articles);
 
             for(var article of this.articles) {
                 var data: ArticleInfo = {
@@ -97,12 +97,13 @@ export class ScholarComponent{
                     data.totalCitations = article.cited_by.value;
                 this.articleData.push(data);
             }
-
+            console.log(this.articleData);
             let coAuthMap = new Map<string, string>();
-            for(var c of this.coauthors) {
-                coAuthMap.set(c.name, c.author_id);
+            if(this.coauthors != undefined) {
+                for(var c of this.coauthors) {
+                    coAuthMap.set(c.name, c.author_id);
+                }
             }
-            // console.log(coAuthMap);
 
             var index: number = -1;
             for (var article of this.articles) {
@@ -143,7 +144,6 @@ export class ScholarComponent{
                         }
                     }
                     this.articleData[index].selfCitations = count;
-                    this.articleData[index].otherCitations = this.articleData[index].totalCitations - count;
                 }
                 catch (error) {
                     console.log("Error: Self Citations unavailable.");
@@ -152,6 +152,7 @@ export class ScholarComponent{
 
             var total = [], self = [], other = [];
             for(var art of this.articleData) {
+                art.otherCitations = art.totalCitations - art.selfCitations;
                 total.push(art.totalCitations);
                 self.push(art.selfCitations);
                 other.push(art.otherCitations);
@@ -234,6 +235,22 @@ export class ScholarComponent{
             }
             this.countData.push(count);
             console.log(this.countData);
+            if(this.countData[0] != 0) {
+                var x = ((this.countData[1]/this.countData[2]).toFixed(4)).toString();
+                if(x == 'Infinity' || x == "NaN")
+                    x = '∞';
+                this.authorScore[0] = x;
+
+                var x = ((this.countData[1]/this.countData[0]).toFixed(4)).toString();
+                if(x == 'Infinity' || x == "NaN")
+                    x = '∞';
+                this.authorScore[1] = x;
+
+                var x = ((this.countData[2]/this.countData[0]).toFixed(4)).toString();
+                if(x == 'Infinity' || x == "NaN")
+                    x = '∞';
+                this.authorScore[2] = x;
+            }
             console.log(this.hData);
             console.log(this.i10Data);
         } 
