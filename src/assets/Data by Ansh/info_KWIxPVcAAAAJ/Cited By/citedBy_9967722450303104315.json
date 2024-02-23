@@ -1,0 +1,321 @@
+{
+  "search_metadata": {
+    "id": "65d4dae418ca865090858409",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b84fc0b53bd94817/65d4dae418ca865090858409.json",
+    "created_at": "2024-02-20 17:01:24 UTC",
+    "processed_at": "2024-02-20 17:01:24 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=9967722450303104315&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/b84fc0b53bd94817/65d4dae418ca865090858409.html",
+    "total_time_taken": 1.7
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "9967722450303104315",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 9,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=9967722450303104315&hl=en&as_sdt=5,34&sciodt=0,34",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Community-acquired pneumonia recognition by wavelet entropy and cat swarm optimization",
+      "result_id": "mjoysLI3d9YJ",
+      "link": "https://link.springer.com/article/10.1007/s11036-021-01897-0",
+      "snippet": "Community-acquired pneumonia (CAP) is a type of pneumonia acquired outside the hospital. To recognize CAP more efficiently and more precisely, we propose a novel method …",
+      "publication_info": {
+        "summary": "SH Wang, J Zhou, YD Zhang - Mobile Networks and Applications, 2022 - Springer",
+        "authors": [
+          {
+            "name": "SH Wang",
+            "link": "https://scholar.google.com/citations?user=B-3bq-IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=B-3bq-IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "B-3bq-IAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mjoysLI3d9YJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=15453881886944934554&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "15453881886944934554",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=15453881886944934554&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mjoysLI3d9YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3AmjoysLI3d9YJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=15453881886944934554&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "15453881886944934554",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=15453881886944934554&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A novel constraints model of credibility-fuzzy for reliability redundancy allocation problem by simplified swarm optimization",
+      "result_id": "u5kiHA5iV68J",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2076-3417/11/22/10765",
+      "snippet": "A novel constraints model of credibility-fuzzy for the reliability redundancy allocation problem (RRAP) is studied in this work. The RRAP that must simultaneously decide …",
+      "publication_info": {
+        "summary": "HCS Lin, CL Huang, WC Yeh - Applied Sciences, 2021 - mdpi.com",
+        "authors": [
+          {
+            "name": "WC Yeh",
+            "link": "https://scholar.google.com/citations?user=xb-DXXEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xb-DXXEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xb-DXXEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2076-3417/11/22/10765"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=u5kiHA5iV68J",
+        "html_version": "https://www.mdpi.com/2076-3417/11/22/10765",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=12634675092352309691&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "12634675092352309691",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=12634675092352309691&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:u5kiHA5iV68J:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3Au5kiHA5iV68J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12634675092352309691&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "12634675092352309691",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=12634675092352309691&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:u5kiHA5iV68J:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Micro-structural characteristics of asphalt mixture and its effect to mechanical performance based on two-stage mixing method",
+      "result_id": "TtfDz5SUDosJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0950061823039764",
+      "snippet": "Conventional asphalt mixtures are prone to material separation during mixing, causing rutting, loosening, and cracking of the pavement. This study proposes a two-stage mixing …",
+      "publication_info": {
+        "summary": "J Sun, H Zhang, D Liu, M Yu, R Lv, Y Liu - Construction and Building …, 2024 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TtfDz5SUDosJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TtfDz5SUDosJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3ATtfDz5SUDosJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=10020109587807721294&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "10020109587807721294",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=10020109587807721294&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Exploring entanglement dynamics in an optomechanical cavity with a type-V qutrit and quantized two-mode field",
+      "result_id": "htcf0CFap2UJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0378437124000220",
+      "snippet": "In this work, the main objective is to measure the degree of interaction of a type-V qutrit with a two-mode quantized field in an optomechanical cavity. To achieve this objective, we first …",
+      "publication_info": {
+        "summary": "MA Medina-Armendariz, LF Quezada, GH Sun… - Physica A: Statistical …, 2024 - Elsevier",
+        "authors": [
+          {
+            "name": "MA Medina-Armendariz",
+            "link": "https://scholar.google.com/citations?user=4TA2xt8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4TA2xt8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4TA2xt8AAAAJ"
+          },
+          {
+            "name": "GH Sun",
+            "link": "https://scholar.google.com/citations?user=ZybdqLYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZybdqLYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZybdqLYAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=htcf0CFap2UJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:htcf0CFap2UJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3Ahtcf0CFap2UJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=7324922420213569414&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "7324922420213569414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=7324922420213569414&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Face Image Segmentation Using Boosted Grey Wolf Optimizer",
+      "result_id": "E4v3a76cAroJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2313-7673/8/6/484",
+      "snippet": "Image segmentation methods have received widespread attention in face image recognition, which can divide each pixel in the image into different regions and effectively …",
+      "publication_info": {
+        "summary": "H Zhang, Z Cai, L Xiao, AA Heidari, H Chen, D Zhao… - Biomimetics, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "H Chen",
+            "link": "https://scholar.google.com/citations?user=IORgLocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IORgLocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IORgLocAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2313-7673/8/6/484"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=E4v3a76cAroJ",
+        "html_version": "https://www.mdpi.com/2313-7673/8/6/484",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:E4v3a76cAroJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3AE4v3a76cAroJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=13403447782677121811&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "13403447782677121811",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=13403447782677121811&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:E4v3a76cAroJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 5,
+      "title": "A Two-Step Ensemble-Based Genetic Algorithm for Land Cover Classification",
+      "result_id": "in8kk9zF6iwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9966803/",
+      "snippet": "Accurate land use and land cover (LULC) maps are effective tools to help achieve sound urban planning and precision agriculture. As an intelligent optimization technology, genetic …",
+      "publication_info": {
+        "summary": "Y Cao, W Feng, Y Quan, W Bao… - IEEE Journal of …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "W Feng",
+            "link": "https://scholar.google.com/citations?user=PRAeQh8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PRAeQh8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PRAeQh8AAAAJ"
+          },
+          {
+            "name": "Y Quan",
+            "link": "https://scholar.google.com/citations?user=u7SS0KYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=u7SS0KYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "u7SS0KYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/4609443/9973430/09966803.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=in8kk9zF6iwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:in8kk9zF6iwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3Ain8kk9zF6iwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=3236616833371242378&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "3236616833371242378",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=3236616833371242378&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Multi-level quantum inspired metaheuristics for automatic clustering of hyperspectral images",
+      "result_id": "uRrA3aL3I94J",
+      "link": "https://link.springer.com/article/10.1007/s42484-023-00110-7",
+      "snippet": "Hyperspectral images contain large spectral information with an abundance of redundancy and a curse of dimensionality. Due to the absence of prior knowledge or availability of …",
+      "publication_info": {
+        "summary": "T Dutta, S Bhattacharyya, BK Panigrahi… - Quantum Machine …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "T Dutta",
+            "link": "https://scholar.google.com/citations?user=WEumy7MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WEumy7MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WEumy7MAAAAJ"
+          },
+          {
+            "name": "S Bhattacharyya",
+            "link": "https://scholar.google.com/citations?user=Kgi8QZIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Kgi8QZIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Kgi8QZIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uRrA3aL3I94J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uRrA3aL3I94J:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3AuRrA3aL3I94J%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Improved African vultures optimization algorithm for medical image segmentation",
+      "result_id": "-GhgDVfQbYkJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-17189-6",
+      "snippet": "Multi-level threshold image segmentation is widely used in medical image segmentation. Traditional methods for selecting optimal thresholds suffer from exponentially increasing …",
+      "publication_info": {
+        "summary": "L Lan, S Wang - Multimedia Tools and Applications, 2023 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-GhgDVfQbYkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-GhgDVfQbYkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3A-GhgDVfQbYkJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 8,
+      "title": "An Animation Model Generation Method Based on Gaussian Mutation Genetic Algorithm to Optimize Neural Network",
+      "result_id": "5kwYNHYrYAUJ",
+      "type": "Html",
+      "link": "https://www.hindawi.com/journals/cin/2022/5106942/",
+      "snippet": "With the rapid development of computer graphics, 3D animation has been applied to all fields of people's lives, especially in the industries of film and television works, games, and …",
+      "publication_info": {
+        "summary": "J Liu, Q Chen, Y Zhang, X Tian - Computational Intelligence and …, 2022 - hindawi.com"
+      },
+      "resources": [
+        {
+          "title": "hindawi.com",
+          "file_format": "HTML",
+          "link": "https://www.hindawi.com/journals/cin/2022/5106942/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5kwYNHYrYAUJ",
+        "html_version": "https://www.hindawi.com/journals/cin/2022/5106942/",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5kwYNHYrYAUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9967722450303104315&engine=google_scholar&hl=en&q=related%3A5kwYNHYrYAUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=387357354634005734&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "387357354634005734",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=387357354634005734&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:5kwYNHYrYAUJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    }
+  ]
+}

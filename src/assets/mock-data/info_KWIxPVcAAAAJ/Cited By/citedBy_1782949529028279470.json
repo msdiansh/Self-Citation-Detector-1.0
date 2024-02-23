@@ -1,0 +1,90 @@
+{
+  "search_metadata": {
+    "id": "65d4dc82d737d756209cfee7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/62f2190288b8d8b3/65d4dc82d737d756209cfee7.json",
+    "created_at": "2024-02-20 17:08:18 UTC",
+    "processed_at": "2024-02-20 17:08:18 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=1782949529028279470&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/62f2190288b8d8b3/65d4dc82d737d756209cfee7.html",
+    "total_time_taken": 3.24
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "1782949529028279470",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=1782949529028279470&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Advances in Modelling and Analysis D",
+      "result_id": "e_9HqgxH4wkJ",
+      "type": "Pdf",
+      "link": "https://www.iieta.org/sites/default/files/Journals/AMA/AMA_D/23.01_03.pdf",
+      "snippet": "Low noise, low power, minimum delay and smaller area are the prime factors in the current VLSI system design. There are many sources for noises that exhibit various types of noise …",
+      "publication_info": {
+        "summary": "S Seenuvasamurthi, G Nagarajan - … : http://iieta. org/Journals/AMA/AMA_D, 2018 - iieta.org",
+        "authors": [
+          {
+            "name": "G Nagarajan",
+            "link": "https://scholar.google.com/citations?user=KEO-g3cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KEO-g3cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KEO-g3cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "iieta.org",
+          "file_format": "PDF",
+          "link": "https://www.iieta.org/sites/default/files/Journals/AMA/AMA_D/23.01_03.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=e_9HqgxH4wkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:e_9HqgxH4wkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1782949529028279470&engine=google_scholar&hl=en&q=related%3Ae_9HqgxH4wkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=712491285776695163&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "712491285776695163",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=712491285776695163&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:e_9HqgxH4wkJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 1,
+      "title": "A Low Noise Low Power 45 Nm Technology Based Simultaneous Switching Noise (Ssn) Reduction Model for Mixed Signal Vlsi Circuits A Low Noise Low …",
+      "result_id": "1Cd5-noVLkoJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "S Seenuvasamurthi, G Nagarajan",
+        "authors": [
+          {
+            "name": "G Nagarajan",
+            "link": "https://scholar.google.com/citations?user=KEO-g3cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KEO-g3cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KEO-g3cAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1Cd5-noVLkoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1Cd5-noVLkoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1782949529028279470&engine=google_scholar&hl=en&q=related%3A1Cd5-noVLkoJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

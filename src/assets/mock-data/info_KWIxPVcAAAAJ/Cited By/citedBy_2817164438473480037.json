@@ -1,0 +1,458 @@
+{
+  "search_metadata": {
+    "id": "65d4daa58ccee0887bd1716d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d8bb98ee1f716506/65d4daa58ccee0887bd1716d.json",
+    "created_at": "2024-02-20 17:00:21 UTC",
+    "processed_at": "2024-02-20 17:00:21 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=2817164438473480037&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/d8bb98ee1f716506/65d4daa58ccee0887bd1716d.html",
+    "total_time_taken": 2.54
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "2817164438473480037",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 10,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=2817164438473480037&hl=en&as_sdt=5,44&sciodt=0,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Tea leaf disease detection using multi-objective image segmentation",
+      "result_id": "W2Pdz6lO_GwJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-020-09567-1",
+      "snippet": "Tea leaves' diseases caused by constant exposure to pathogens lead to significant crop yield loss globally. Diagnosing the tea leave disease at an early stage minimizes the tea …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, M Paul, R Pal, D De - Multimedia Tools and …, 2021 - Springer",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "R Pal",
+            "link": "https://scholar.google.com/citations?user=6LikYjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6LikYjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6LikYjcAAAAJ"
+          },
+          {
+            "name": "D De",
+            "link": "https://scholar.google.com/citations?user=-DwFWo0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-DwFWo0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-DwFWo0AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=W2Pdz6lO_GwJ",
+        "cited_by": {
+          "total": 65,
+          "link": "https://scholar.google.com/scholar?cites=7853238341471134555&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "7853238341471134555",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7853238341471134555&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:W2Pdz6lO_GwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3AW2Pdz6lO_GwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=7853238341471134555&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "7853238341471134555",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7853238341471134555&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Very high-resolution satellite image segmentation using variable-length multi-objective genetic clustering for multi-class change detection",
+      "result_id": "FV9yFy8RfzkJ",
+      "type": "Html",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1319157821003694",
+      "snippet": "The baseline approaches on satellite image segmentation problem suffer from issues like sensitivity towards initialization, local optima solutions, a predefined number of output …",
+      "publication_info": {
+        "summary": "R Pal, S Mukhopadhyay, D Chakraborty… - Journal of King Saud …, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "R Pal",
+            "link": "https://scholar.google.com/citations?user=6LikYjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6LikYjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6LikYjcAAAAJ"
+          },
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "HTML",
+          "link": "https://www.sciencedirect.com/science/article/pii/S1319157821003694"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FV9yFy8RfzkJ",
+        "html_version": "https://www.sciencedirect.com/science/article/pii/S1319157821003694",
+        "cited_by": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?cites=4143049076158652181&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "4143049076158652181",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=4143049076158652181&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:FV9yFy8RfzkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3AFV9yFy8RfzkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4143049076158652181&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "4143049076158652181",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=4143049076158652181&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Denoising of digital images through pso based pixel classification",
+      "result_id": "GWXCPM0DTVAJ",
+      "link": "https://www.degruyter.com/document/doi/10.2478/s13537-013-0111-3/html",
+      "snippet": "This paper proposes a de-noising method where the detection and filtering is based on unsupervised classification of pixels. The noisy image is grouped into subsets of pixels with …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, J Mandal - Open Computer Science, 2013 - degruyter.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "J Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "degruyter.com",
+          "file_format": "PDF",
+          "link": "https://www.degruyter.com/document/doi/10.2478/s13537-013-0111-3/pdf"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:GWXCPM0DTVAJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44&scillfp=17597660831414065896&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GWXCPM0DTVAJ",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=5786285276263507225&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "5786285276263507225",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=5786285276263507225&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GWXCPM0DTVAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3AGWXCPM0DTVAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=5786285276263507225&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "5786285276263507225",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=5786285276263507225&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Different length genetic algorithm-based clustering of Indian stocks for portfolio optimization",
+      "result_id": "LH4ltS94qTYJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-10-8974-9_3",
+      "snippet": "In this chapter, we propose a model for portfolio construction using different length genetic algorithm (GA)-based clustering of Indian stocks. First, stocks of different companies, chosen …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, TD Chaudhuri - Advances in intelligent computing, 2019 - Springer",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LH4ltS94qTYJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=3938811495410138668&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "3938811495410138668",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3938811495410138668&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:LH4ltS94qTYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3ALH4ltS94qTYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3938811495410138668&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "3938811495410138668",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3938811495410138668&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Image clustering based on different length particle swarm optimization (DPSO)",
+      "result_id": "2eYm8qx9tzYJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-11933-5_80",
+      "snippet": "Partitioning image pixels into several homogeneous regions is treated as the problem of clustering the pixels in the image matrix. This paper proposes an image clustering algorithm …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, P Mandal, T Pal… - Proceedings of the 3rd …, 2015 - Springer",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "T Pal",
+            "link": "https://scholar.google.com/citations?user=RNlxZkkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RNlxZkkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RNlxZkkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2eYm8qx9tzYJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=3942758180536641241&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "3942758180536641241",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3942758180536641241&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2eYm8qx9tzYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3A2eYm8qx9tzYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3942758180536641241&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "3942758180536641241",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3942758180536641241&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Computer and Information Sciences",
+      "result_id": "Fysa3iMUoyQJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Ramen-Pal/publication/358095630_Very_high-resolution_satellite_image_segmentation_using_variable-length_multi-objective_genetic_clustering_for_multi-class_change_detection/links/61f4d78e11a1090a79bb32d8/Very-high-resolution-satellite-image-segmentation-using-variable-length-multi-objective-genetic-clustering-for-multi-class-change-detection.pdf",
+      "snippet": "abstract The baseline approaches on satellite image segmentation problem suffer from issues like sensitivity towards initialization, local optima solutions, a predefined number of …",
+      "publication_info": {
+        "summary": "R Pal, S Mukhopadhyay, D Chakraborty… - 2022 - researchgate.net",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Ramen-Pal/publication/358095630_Very_high-resolution_satellite_image_segmentation_using_variable-length_multi-objective_genetic_clustering_for_multi-class_change_detection/links/61f4d78e11a1090a79bb32d8/Very-high-resolution-satellite-image-segmentation-using-variable-length-multi-objective-genetic-clustering-for-multi-class-change-detection.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Fysa3iMUoyQJ",
+        "versions": {
+          "total": null,
+          "link": "https://www.researchgate.net/profile/Ramen-Pal/publication/358095630_Very_high-resolution_satellite_image_segmentation_using_variable-length_multi-objective_genetic_clustering_for_multi-class_change_detection/links/61f4d78e11a1090a79bb32d8/Very-high-resolution-satellite-image-segmentation-using-variable-length-multi-objective-genetic-clustering-for-multi-class-change-detection.pdf"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Fysa3iMUoyQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3AFysa3iMUoyQJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Fysa3iMUoyQJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+      }
+    },
+    {
+      "position": 6,
+      "title": "A hybrid PSO-fuzzy based algorithm for clustering Indian stock market data",
+      "result_id": "TeI-rCuB1EIJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-10-6430-2_37",
+      "snippet": "Partitioning data points into several homogeneous sets is known as clustering. This paper proposes a hybrid clustering algorithm based on Different Length Particle Swarm …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, TD Chaudhuri, JK Mandal - … , and Business Analytics, 2017 - Springer",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TeI-rCuB1EIJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=4815615926139281997&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "4815615926139281997",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=4815615926139281997&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TeI-rCuB1EIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3ATeI-rCuB1EIJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 7,
+      "title": "An Improved Facial Expression Recognition Method Using Combined Hog and Gabor Features",
+      "result_id": "56L4p7LKucQJ",
+      "link": "http://sjuoz.uoz.edu.krd/index.php/sjuoz/article/view/897",
+      "snippet": "Lately, face recognition technology has been a significant study and a topic for generations. It remains a difficult task because of the variability of wide interclass. The subject of facial …",
+      "publication_info": {
+        "summary": "ZF Hasan - Science Journal of University of Zakho, 2022 - sjuoz.uoz.edu.krd"
+      },
+      "resources": [
+        {
+          "title": "edu.krd",
+          "file_format": "PDF",
+          "link": "http://sjuoz.uoz.edu.krd/index.php/sjuoz/article/download/897/519"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=56L4p7LKucQJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:56L4p7LKucQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3A56L4p7LKucQJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=14175584170796425959&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "14175584170796425959",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=14175584170796425959&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:56L4p7LKucQJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Variable length PSO-based image clustering for image denoising",
+      "result_id": "GL5e9cjxq4gJ",
+      "link": "https://www.igi-global.com/chapter/variable-length-pso-based-image-clustering-for-image-denoising/153818",
+      "snippet": "This chapter proposed a variable length Particle Swarm Optimization based image clustering technique for restoration of noises from digital images. Here in this two step noise …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal, T Pal - Handbook of Research on …, 2016 - igi-global.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          },
+          {
+            "name": "T Pal",
+            "link": "https://scholar.google.com/citations?user=RNlxZkkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RNlxZkkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RNlxZkkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/69536924/141ea7eec49fa698c4e45e86f975133ab81e.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GL5e9cjxq4gJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=9848230855588101656&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "9848230855588101656",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=9848230855588101656&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GL5e9cjxq4gJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3AGL5e9cjxq4gJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9848230855588101656&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "9848230855588101656",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=9848230855588101656&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Algorithms for Denoising Medical and Digital Images",
+      "result_id": "-OhodaFhyawJ",
+      "type": "Pdf",
+      "link": "http://jkmandal.com/pdf/somnath_report2.pdf",
+      "snippet": "Two algorithms have been devised for denoising the digital images corrupted by salt-and-pepper noise and randomvalued-noise and the medical images from Gaussian white noise …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal - 2014 - jkmandal.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "jkmandal.com",
+          "file_format": "PDF",
+          "link": "http://jkmandal.com/pdf/somnath_report2.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-OhodaFhyawJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12450589990929885432&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "12450589990929885432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12450589990929885432&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-OhodaFhyawJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2817164438473480037&engine=google_scholar&hl=en&q=related%3A-OhodaFhyawJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12450589990929885432&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "12450589990929885432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12450589990929885432&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:-OhodaFhyawJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+      }
+    }
+  ]
+}

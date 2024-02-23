@@ -1,0 +1,106 @@
+{
+  "search_metadata": {
+    "id": "65d4dbce2fe3027ad7fd4fa6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7035d009dc8f7483/65d4dbce2fe3027ad7fd4fa6.json",
+    "created_at": "2024-02-20 17:05:18 UTC",
+    "processed_at": "2024-02-20 17:05:18 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=3743819771999117683&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/7035d009dc8f7483/65d4dbce2fe3027ad7fd4fa6.html",
+    "total_time_taken": 2.47
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "3743819771999117683",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3,
+    "time_taken_displayed": 0.05
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=3743819771999117683&hl=en&as_sdt=805&sciodt=0,3",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Efficient Decoder and Intermediate Domain for Semantic Segmentation in Adverse Conditions",
+      "result_id": "jDAKtjUTARMJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2624-6511/7/1/11",
+      "snippet": "In smart city contexts, traditional methods for semantic segmentation are affected by adverse conditions, such as rain, fog, or darkness. One challenge is the limited availability of …",
+      "publication_info": {
+        "summary": "X Chen, N Jiang, Y Li, G Cheng, Z Liang, Z Ying… - Smart Cities, 2024 - mdpi.com",
+        "authors": [
+          {
+            "name": "Z Ying",
+            "link": "https://scholar.google.com/citations?user=HEI-s9sAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HEI-s9sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HEI-s9sAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2624-6511/7/1/11"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jDAKtjUTARMJ",
+        "html_version": "https://www.mdpi.com/2624-6511/7/1/11",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:jDAKtjUTARMJ:scholar.google.com/&scioq=&hl=en&as_sdt=805&sciodt=0,3",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=805&cites=3743819771999117683&engine=google_scholar&hl=en&q=related%3AjDAKtjUTARMJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:jDAKtjUTARMJ:scholar.google.com/&hl=en&as_sdt=805&sciodt=0,3"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Semantic land cover change detection using harDNet and dual path coronet",
+      "result_id": "cPFdjjl3gV4J",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/01431161.2023.2288946",
+      "snippet": "Monitoring the spatial and temporal trends of land use land cover (LULC) change is significant for protecting land assets sustainably. However, complicated scenarios in …",
+      "publication_info": {
+        "summary": "JV Durga Prasad, M Sreelatha… - International Journal of …, 2023 - Taylor & Francis"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=cPFdjjl3gV4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:cPFdjjl3gV4J:scholar.google.com/&scioq=&hl=en&as_sdt=805&sciodt=0,3",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=805&cites=3743819771999117683&engine=google_scholar&hl=en&q=related%3AcPFdjjl3gV4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=6809855200646263152&hl=en&as_sdt=805&sciodt=0,3",
+          "cluster_id": "6809855200646263152",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cluster=6809855200646263152&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Assessment on the Impact of Land Use, Land Cover in the Upstream of the Adyar River Basin, Tamil Nadu, India",
+      "result_id": "2FRyCWCpIUkJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-6229-7_14",
+      "snippet": "Globally, significant factors such as the economy, population growth, and climate change have resulted in dramatic changes to Earth's LULC, over the last few decades of Earth …",
+      "publication_info": {
+        "summary": "UM Kannapiran, AS Bhaskar - International Conference on Civil …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "AS Bhaskar",
+            "link": "https://scholar.google.com/citations?user=OGKJ8wcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OGKJ8wcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OGKJ8wcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2FRyCWCpIUkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2FRyCWCpIUkJ:scholar.google.com/&scioq=&hl=en&as_sdt=805&sciodt=0,3",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=805&cites=3743819771999117683&engine=google_scholar&hl=en&q=related%3A2FRyCWCpIUkJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

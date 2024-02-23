@@ -1,0 +1,219 @@
+{
+  "search_metadata": {
+    "id": "65d4db3f5119a62b1f5c7b2a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3be984e8bf974e6b/65d4db3f5119a62b1f5c7b2a.json",
+    "created_at": "2024-02-20 17:02:55 UTC",
+    "processed_at": "2024-02-20 17:02:55 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=1831576043832973492&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/3be984e8bf974e6b/65d4db3f5119a62b1f5c7b2a.html",
+    "total_time_taken": 1.21
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "1831576043832973492",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 6,
+    "time_taken_displayed": 0.07
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=1831576043832973492&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A novel image steganography algorithm based on hybrid machine leaning and its application in cyberspace security",
+      "result_id": "EZxAMJSTsGMJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0167739X23001206",
+      "snippet": "As an important technology in the field of cyberspace security, image steganography is of great strategic significance to the research of image steganography. With the wider …",
+      "publication_info": {
+        "summary": "A Yang, Y Bai, T Xue, Y Li, J Li - Future Generation Computer Systems, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "A Yang",
+            "link": "https://scholar.google.com/citations?user=xmsNDTYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xmsNDTYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xmsNDTYAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EZxAMJSTsGMJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=7183403670329924625&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7183403670329924625",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7183403670329924625&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:EZxAMJSTsGMJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1831576043832973492&engine=google_scholar&hl=en&q=related%3AEZxAMJSTsGMJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7183403670329924625&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7183403670329924625",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7183403670329924625&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Octagon Shell Based Image Steganography for Avoiding Human Visual System with Lower Computational Time",
+      "result_id": "IaFiV8EHwbUJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9807950/",
+      "snippet": "Steganography is a method of hiding secret or sensitive information into a cover picture for digital photos. Aside from hiding capacity, the most essential factors for determining the …",
+      "publication_info": {
+        "summary": "S Mukherjee, S Sarkar… - … on Advances in …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Sarkar",
+            "link": "https://scholar.google.com/citations?user=aAn2d2gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aAn2d2gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aAn2d2gAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IaFiV8EHwbUJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=13096757718346277153&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "13096757718346277153",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13096757718346277153&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IaFiV8EHwbUJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1831576043832973492&engine=google_scholar&hl=en&q=related%3AIaFiV8EHwbUJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Personal Social Network Profile Authentication through Image Steganography",
+      "result_id": "QVMEh8jXiGkJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2673-4591/56/1/129",
+      "snippet": "In the era of digital communication and social networking, the authenticity and integrity of personal social network profiles have become crucial for establishing trust and ensuring …",
+      "publication_info": {
+        "summary": "S Mukherjee, S Mukhopadhyay, S Sarkar - Engineering Proceedings, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "S Sarkar",
+            "link": "https://scholar.google.com/citations?user=aAn2d2gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aAn2d2gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aAn2d2gAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2673-4591/56/1/129"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QVMEh8jXiGkJ",
+        "html_version": "https://www.mdpi.com/2673-4591/56/1/129",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:QVMEh8jXiGkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1831576043832973492&engine=google_scholar&hl=en&q=related%3AQVMEh8jXiGkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7604565227073721153&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7604565227073721153",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7604565227073721153&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:QVMEh8jXiGkJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Pixel Interpolation Followed by Prediction Error Expansion-Based Reversible Information Hiding Algorithm for Securing Healthcare Data",
+      "result_id": "a9ZiJF3tADsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-19-5191-6_31",
+      "snippet": "Reversible information hiding is a type of data concealing in which the cover picture can be retrieved after the embedded data has been extracted. We presented an information …",
+      "publication_info": {
+        "summary": "S Bandyopadhyay, S Sarkar, S Mukherjee… - Frontiers of ICT in …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "S Sarkar",
+            "link": "https://scholar.google.com/citations?user=aAn2d2gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aAn2d2gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aAn2d2gAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=a9ZiJF3tADsJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=4251659032535946859&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "4251659032535946859",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4251659032535946859&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:a9ZiJF3tADsJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1831576043832973492&engine=google_scholar&hl=en&q=related%3Aa9ZiJF3tADsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4251659032535946859&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "4251659032535946859",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=4251659032535946859&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Hiding Secret Data Using AES Encryption and DFS Graph Traversal in 3D Images",
+      "result_id": "ajlcFyRarHkJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10156957/",
+      "snippet": "3D models have taken centre stage in a variety of applications across numerous industries as a outcome of the enormous advancements in multimedia communications. As a result …",
+      "publication_info": {
+        "summary": "S Bandyopadhyay, S Sarkar… - 2023 Second …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Sarkar",
+            "link": "https://scholar.google.com/citations?user=aAn2d2gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aAn2d2gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aAn2d2gAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ajlcFyRarHkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ajlcFyRarHkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1831576043832973492&engine=google_scholar&hl=en&q=related%3AajlcFyRarHkJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 5,
+      "title": "ChatGPT Based Image Steganography (CGIS): A Novel Intelligent Information Hiding Approach to Achieve Secure Covert Communication",
+      "result_id": "j5297O6tjHwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10370937/",
+      "snippet": "Covert communication refers to the practice of exchanging information or messages in a discreet or secretive manner, with the intent of keeping the communication hidden from …",
+      "publication_info": {
+        "summary": "S Mukherjee, S Mukhopadhyay… - 2023 First International …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=j5297O6tjHwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:j5297O6tjHwJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1831576043832973492&engine=google_scholar&hl=en&q=related%3Aj5297O6tjHwJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

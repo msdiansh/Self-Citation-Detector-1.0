@@ -1,0 +1,199 @@
+{
+  "search_metadata": {
+    "id": "65d4db4ca74fe06333ab1504",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/abf8b27afb539596/65d4db4ca74fe06333ab1504.json",
+    "created_at": "2024-02-20 17:03:08 UTC",
+    "processed_at": "2024-02-20 17:03:08 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=7201542687276074781&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/abf8b27afb539596/65d4db4ca74fe06333ab1504.html",
+    "total_time_taken": 0.54
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "7201542687276074781",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 5,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=7201542687276074781&hl=en&as_sdt=20000005&sciodt=0,21",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Personal Social Network Profile Authentication through Image Steganography",
+      "result_id": "QVMEh8jXiGkJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2673-4591/56/1/129",
+      "snippet": "In the era of digital communication and social networking, the authenticity and integrity of personal social network profiles have become crucial for establishing trust and ensuring …",
+      "publication_info": {
+        "summary": "S Mukherjee, S Mukhopadhyay, S Sarkar - Engineering Proceedings, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "S Sarkar",
+            "link": "https://scholar.google.com/citations?user=aAn2d2gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aAn2d2gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aAn2d2gAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2673-4591/56/1/129"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QVMEh8jXiGkJ",
+        "html_version": "https://www.mdpi.com/2673-4591/56/1/129",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:QVMEh8jXiGkJ:scholar.google.com/&scioq=&hl=en&as_sdt=20000005&sciodt=0,21",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=20000005&cites=7201542687276074781&engine=google_scholar&hl=en&q=related%3AQVMEh8jXiGkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7604565227073721153&hl=en&as_sdt=20000005&sciodt=0,21",
+          "cluster_id": "7604565227073721153",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=7604565227073721153&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:QVMEh8jXiGkJ:scholar.google.com/&hl=en&as_sdt=20000005&sciodt=0,21"
+      }
+    },
+    {
+      "position": 1,
+      "title": "A Steganographic Method for Color Images using the Salp Swarm Algorithm and Chaotic Maps",
+      "result_id": "xJzR0sEKFCMJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10223367/",
+      "snippet": "The availability of high resolution images allows for using steganography to hide the presence of secret information. An issue of importance is to guarantee that the hidden data …",
+      "publication_info": {
+        "summary": "A Jaradat, M Mowafi, E Taqieddin - 2023 IEEE 48th …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "A Jaradat",
+            "link": "https://scholar.google.com/citations?user=Yft_1ugAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Yft_1ugAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Yft_1ugAAAAJ"
+          },
+          {
+            "name": "M Mowafi",
+            "link": "https://scholar.google.com/citations?user=Zhib8zkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Zhib8zkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Zhib8zkAAAAJ"
+          },
+          {
+            "name": "E Taqieddin",
+            "link": "https://scholar.google.com/citations?user=BFnvjr8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BFnvjr8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BFnvjr8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xJzR0sEKFCMJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xJzR0sEKFCMJ:scholar.google.com/&scioq=&hl=en&as_sdt=20000005&sciodt=0,21",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=20000005&cites=7201542687276074781&engine=google_scholar&hl=en&q=related%3AxJzR0sEKFCMJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2527657118443609284&hl=en&as_sdt=20000005&sciodt=0,21",
+          "cluster_id": "2527657118443609284",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=2527657118443609284&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Hiding Secret Data Using AES Encryption and DFS Graph Traversal in 3D Images",
+      "result_id": "ajlcFyRarHkJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10156957/",
+      "snippet": "3D models have taken centre stage in a variety of applications across numerous industries as a outcome of the enormous advancements in multimedia communications. As a result …",
+      "publication_info": {
+        "summary": "S Bandyopadhyay, S Sarkar… - 2023 Second …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Sarkar",
+            "link": "https://scholar.google.com/citations?user=aAn2d2gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aAn2d2gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aAn2d2gAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ajlcFyRarHkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ajlcFyRarHkJ:scholar.google.com/&scioq=&hl=en&as_sdt=20000005&sciodt=0,21",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=20000005&cites=7201542687276074781&engine=google_scholar&hl=en&q=related%3AajlcFyRarHkJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 3,
+      "title": "ChatGPT Based Image Steganography (CGIS): A Novel Intelligent Information Hiding Approach to Achieve Secure Covert Communication",
+      "result_id": "j5297O6tjHwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10370937/",
+      "snippet": "Covert communication refers to the practice of exchanging information or messages in a discreet or secretive manner, with the intent of keeping the communication hidden from …",
+      "publication_info": {
+        "summary": "S Mukherjee, S Mukhopadhyay… - 2023 First International …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=j5297O6tjHwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:j5297O6tjHwJ:scholar.google.com/&scioq=&hl=en&as_sdt=20000005&sciodt=0,21",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=20000005&cites=7201542687276074781&engine=google_scholar&hl=en&q=related%3Aj5297O6tjHwJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 4,
+      "title": "FMDB Transactions on Sustainable Computing Systems",
+      "result_id": "Er7E8uG2KR8J",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Andras-Szeberenyi/publication/376379654_Fortifying_Data_Security_A_Multifaceted_Approach_with_MFA_Cryptography_and_Steganography/links/657ded8432bc453821f00ab9/Fortifying-Data-Security-A-Multifaceted-Approach-with-MFA-Cryptography-and-Steganography.pdf",
+      "snippet": "Multi-factor authentication is a useful method of strengthening authentication to avoid brute force attacks and make a strong layer of protection. Verifications and validations have been …",
+      "publication_info": {
+        "summary": "KD Jasper, R Neha, A Szeberényi - 2023 - researchgate.net",
+        "authors": [
+          {
+            "name": "A Szeberényi",
+            "link": "https://scholar.google.com/citations?user=mnBPV4QAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mnBPV4QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mnBPV4QAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Andras-Szeberenyi/publication/376379654_Fortifying_Data_Security_A_Multifaceted_Approach_with_MFA_Cryptography_and_Steganography/links/657ded8432bc453821f00ab9/Fortifying-Data-Security-A-Multifaceted-Approach-with-MFA-Cryptography-and-Steganography.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Er7E8uG2KR8J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Er7E8uG2KR8J:scholar.google.com/&scioq=&hl=en&as_sdt=20000005&sciodt=0,21",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=20000005&cites=7201542687276074781&engine=google_scholar&hl=en&q=related%3AEr7E8uG2KR8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=2245526970777779730&hl=en&as_sdt=20000005&sciodt=0,21",
+          "cluster_id": "2245526970777779730",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=2245526970777779730&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Er7E8uG2KR8J:scholar.google.com/&hl=en&as_sdt=20000005&sciodt=0,21"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "search_metadata": {
+    "id": "65d4dca4272aa5890780ba30",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0db07795adffd55e/65d4dca4272aa5890780ba30.json",
+    "created_at": "2024-02-20 17:08:52 UTC",
+    "processed_at": "2024-02-20 17:08:52 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=13091420395761482276&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/0db07795adffd55e/65d4dca4272aa5890780ba30.html",
+    "total_time_taken": 3.2
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "13091420395761482276",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=13091420395761482276&hl=en&as_sdt=5,34&sciodt=0,34",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A Novel Trust Based Routing Protocol For Wireless Sensor Networks",
+      "result_id": "IwjCmmw1hIYJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "H Vignesh Ramamoorthy, DR Gunavathi - International Journal of Scientific and …, 2019",
+        "authors": [
+          {
+            "name": "H Vignesh Ramamoorthy",
+            "link": "https://scholar.google.com/citations?user=vo-afwkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vo-afwkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vo-afwkAAAAJ"
+          },
+          {
+            "name": "DR Gunavathi",
+            "link": "https://scholar.google.com/citations?user=KNBcdXIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KNBcdXIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KNBcdXIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IwjCmmw1hIYJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=9692931038577297443&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "9692931038577297443",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9692931038577297443&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IwjCmmw1hIYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=13091420395761482276&engine=google_scholar&hl=en&q=related%3AIwjCmmw1hIYJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

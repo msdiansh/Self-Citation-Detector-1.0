@@ -1,0 +1,179 @@
+{
+  "search_metadata": {
+    "id": "65d4dbb08b7ed2b2c600814e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4952141fc2f2c302/65d4dbb08b7ed2b2c600814e.json",
+    "created_at": "2024-02-20 17:04:48 UTC",
+    "processed_at": "2024-02-20 17:04:48 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=17548733364875959358&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/4952141fc2f2c302/65d4dbb08b7ed2b2c600814e.html",
+    "total_time_taken": 1.03
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "17548733364875959358",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=17548733364875959358&hl=en&as_sdt=80000005&sciodt=0,23",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Multilevel Quantum Evolutionary Butterfly Optimization Algorithm for Automatic Clustering of Hyperspectral Images",
+      "result_id": "A0actJL6YUYJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-27762-7_48",
+      "snippet": "Hyperspectral images contain a huge amount of spectral and spatial information. Automatic clustering of such images is a difficult task. Two algorithms viz., Qubit Evolutionary Butterfly …",
+      "publication_info": {
+        "summary": "T Dutta, S Bhattacharyya, BK Panigrahi - The International Conference on …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "T Dutta",
+            "link": "https://scholar.google.com/citations?user=WEumy7MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WEumy7MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WEumy7MAAAAJ"
+          },
+          {
+            "name": "S Bhattacharyya",
+            "link": "https://scholar.google.com/citations?user=Kgi8QZIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Kgi8QZIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Kgi8QZIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=A0actJL6YUYJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=5071610163398198787&as_sdt=80000005&sciodt=0,23&hl=en",
+          "cites_id": "5071610163398198787",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=5071610163398198787&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:A0actJL6YUYJ:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=17548733364875959358&engine=google_scholar&hl=en&q=related%3AA0actJL6YUYJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Multi-level quantum inspired metaheuristics for automatic clustering of hyperspectral images",
+      "result_id": "uRrA3aL3I94J",
+      "link": "https://link.springer.com/article/10.1007/s42484-023-00110-7",
+      "snippet": "Hyperspectral images contain large spectral information with an abundance of redundancy and a curse of dimensionality. Due to the absence of prior knowledge or availability of …",
+      "publication_info": {
+        "summary": "T Dutta, S Bhattacharyya, BK Panigrahi… - Quantum Machine …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "T Dutta",
+            "link": "https://scholar.google.com/citations?user=WEumy7MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WEumy7MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WEumy7MAAAAJ"
+          },
+          {
+            "name": "S Bhattacharyya",
+            "link": "https://scholar.google.com/citations?user=Kgi8QZIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Kgi8QZIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Kgi8QZIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uRrA3aL3I94J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uRrA3aL3I94J:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=17548733364875959358&engine=google_scholar&hl=en&q=related%3AuRrA3aL3I94J%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 2,
+      "title": "A Review of Quantum-Inspired Metaheuristic Algorithms for Automatic Clustering",
+      "result_id": "AK7nVefPi9IJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2227-7390/11/9/2018",
+      "snippet": "In real-world scenarios, identifying the optimal number of clusters in a dataset is a difficult task due to insufficient knowledge. Therefore, the indispensability of sophisticated automatic …",
+      "publication_info": {
+        "summary": "A Dey, S Bhattacharyya, S Dey, D Konar, J Platos… - Mathematics, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "A Dey",
+            "link": "https://scholar.google.com/citations?user=8qU6GjkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8qU6GjkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8qU6GjkAAAAJ"
+          },
+          {
+            "name": "S Bhattacharyya",
+            "link": "https://scholar.google.com/citations?user=Kgi8QZIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Kgi8QZIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Kgi8QZIAAAAJ"
+          },
+          {
+            "name": "D Konar",
+            "link": "https://scholar.google.com/citations?user=bCnfPpoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bCnfPpoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bCnfPpoAAAAJ"
+          },
+          {
+            "name": "J Platos",
+            "link": "https://scholar.google.com/citations?user=L4aisKYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=L4aisKYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "L4aisKYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2227-7390/11/9/2018"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AK7nVefPi9IJ",
+        "html_version": "https://www.mdpi.com/2227-7390/11/9/2018",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:AK7nVefPi9IJ:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=17548733364875959358&engine=google_scholar&hl=en&q=related%3AAK7nVefPi9IJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=15171448362213289472&hl=en&as_sdt=80000005&sciodt=0,23",
+          "cluster_id": "15171448362213289472",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cluster=15171448362213289472&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:AK7nVefPi9IJ:scholar.google.com/&hl=en&as_sdt=80000005&sciodt=0,23"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Automatic Clustering of Hyperspectral Images Using Quantum Reptile Search Algorithm",
+      "result_id": "w90Gr5vujNkJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-3416-4_52",
+      "snippet": "Hyperspectral images are rich in spectral and spatial content, along with the presence of redundant data. Ground truth images are also scarcely available. Hence, automatic cluster …",
+      "publication_info": {
+        "summary": "T Dutta, S Bhattacharyya, BK Panigrahi… - … of the Sun and sun-like …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "T Dutta",
+            "link": "https://scholar.google.com/citations?user=WEumy7MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WEumy7MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WEumy7MAAAAJ"
+          },
+          {
+            "name": "S Bhattacharyya",
+            "link": "https://scholar.google.com/citations?user=Kgi8QZIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Kgi8QZIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Kgi8QZIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w90Gr5vujNkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:w90Gr5vujNkJ:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=17548733364875959358&engine=google_scholar&hl=en&q=related%3Aw90Gr5vujNkJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

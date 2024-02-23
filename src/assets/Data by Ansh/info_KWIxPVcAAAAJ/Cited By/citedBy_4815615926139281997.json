@@ -1,0 +1,148 @@
+{
+  "search_metadata": {
+    "id": "65d4dbf8351764a914f9f87c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4d7c41b847c3f9b8/65d4dbf8351764a914f9f87c.json",
+    "created_at": "2024-02-20 17:06:00 UTC",
+    "processed_at": "2024-02-20 17:06:00 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=4815615926139281997&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/4d7c41b847c3f9b8/65d4dbf8351764a914f9f87c.html",
+    "total_time_taken": 8.41
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "4815615926139281997",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=4815615926139281997&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A survey on partitional clustering using single-objective metaheuristic approach",
+      "result_id": "JTZb1jGlQNkJ",
+      "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJICA.2019.103395",
+      "snippet": "Clustering is one of the important functions of data mining, which is used to analyse a large amount of data. It groups these set of data according to some similarity property such that …",
+      "publication_info": {
+        "summary": "PP Mohanty, SK Nayak… - … Journal of Innovative …, 2019 - inderscienceonline.com",
+        "authors": [
+          {
+            "name": "SK Nayak",
+            "link": "https://scholar.google.com/citations?user=As88tYcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=As88tYcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "As88tYcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JTZb1jGlQNkJ",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=15654693938208126501&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "15654693938208126501",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15654693938208126501&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:JTZb1jGlQNkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4815615926139281997&engine=google_scholar&hl=en&q=related%3AJTZb1jGlQNkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=15654693938208126501&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "15654693938208126501",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=15654693938208126501&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A New Approach for Optimizing Initial Parameters of Lorenz Attractor and Its Application in PRNG",
+      "result_id": "DGEBIJOBG08J",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-15-1041-0_11",
+      "snippet": "Abstract Pal, Ramen Mukhopadhyay, Somnath Lorenz attractors are sensitive to its initial parameter values. The values of the initial parameters or seeds are very important in terms …",
+      "publication_info": {
+        "summary": "R Pal, S Mukhopadhyay - Algorithms in Machine Learning Paradigms, 2020 - Springer",
+        "authors": [
+          {
+            "name": "R Pal",
+            "link": "https://scholar.google.com/citations?user=6LikYjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6LikYjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6LikYjcAAAAJ"
+          },
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Ramen-Pal/publication/338368333_A_New_Approach_for_Optimizing_Initial_Parameters_of_Lorenz_Attractor_and_Its_Application_in_PRNG/links/5e1b72f74585159aa4cb50a5/A-New-Approach-for-Optimizing-Initial-Parameters-of-Lorenz-Attractor-and-Its-Application-in-PRNG.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DGEBIJOBG08J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DGEBIJOBG08J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4815615926139281997&engine=google_scholar&hl=en&q=related%3ADGEBIJOBG08J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=5700292222264631564&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "5700292222264631564",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=5700292222264631564&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "A Hybrid Model for Optimal Pseudorandom Bit Sequence Generation",
+      "result_id": "oS2r7eDAq0AJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-13-8578-0_14",
+      "snippet": "Chaotic map gained its importance in the field of cryptography, due to its properties like, randomness, unpredictability, sensitivity on initial condition, aperiodicity, which is used to …",
+      "publication_info": {
+        "summary": "R Pal, S Mukhopadhyay - … Conference, CICBA 2018, Kalyani, India, July …, 2019 - Springer",
+        "authors": [
+          {
+            "name": "R Pal",
+            "link": "https://scholar.google.com/citations?user=6LikYjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6LikYjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6LikYjcAAAAJ"
+          },
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Ramen-Pal/publication/333987444_A_Hybrid_Model_for_Optimal_Pseudorandom_Bit_Sequence_Generation/links/5d945418458515202b7a5be4/A-Hybrid-Model-for-Optimal-Pseudorandom-Bit-Sequence-Generation.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oS2r7eDAq0AJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:oS2r7eDAq0AJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4815615926139281997&engine=google_scholar&hl=en&q=related%3AoS2r7eDAq0AJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4660030311737535905&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "4660030311737535905",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=4660030311737535905&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "search_metadata": {
+    "id": "65d4dab91071f439efe6688c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a238d30d0ebf8af3/65d4dab91071f439efe6688c.json",
+    "created_at": "2024-02-20 17:00:41 UTC",
+    "processed_at": "2024-02-20 17:00:41 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=11223533620747076970&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/a238d30d0ebf8af3/65d4dab91071f439efe6688c.html",
+    "total_time_taken": 8.59
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "11223533620747076970",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 10,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=11223533620747076970&hl=en&as_sdt=10005&sciodt=0,8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Medical image denoising based on 2D discrete cosine transform via ant colony optimization",
+      "result_id": "Hv23e_bANOcJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0030402617316881",
+      "snippet": "In medical imaging, researchers usually encounter with different types of noise; for eliminating this noise, different methods have been suggested in both spatial and frequency …",
+      "publication_info": {
+        "summary": "A Miri, S Sharifian, S Rashidi, M Ghods - Optik, 2018 - Elsevier",
+        "authors": [
+          {
+            "name": "A Miri",
+            "link": "https://scholar.google.com/citations?user=6cV-GesAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6cV-GesAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6cV-GesAAAAJ"
+          },
+          {
+            "name": "S Sharifian",
+            "link": "https://scholar.google.com/citations?user=qNCI10IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qNCI10IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qNCI10IAAAAJ"
+          },
+          {
+            "name": "S Rashidi",
+            "link": "https://scholar.google.com/citations?user=Kq7qrmwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Kq7qrmwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Kq7qrmwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Hv23e_bANOcJ",
+        "cited_by": {
+          "total": 25,
+          "link": "https://scholar.google.com/scholar?cites=16660153086420450590&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "16660153086420450590",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=16660153086420450590&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Hv23e_bANOcJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3AHv23e_bANOcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=16660153086420450590&hl=en&as_sdt=10005&sciodt=0,8",
+          "cluster_id": "16660153086420450590",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cluster=16660153086420450590&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Wavelet based denoising of medical images using sub-band adaptive thresholding through genetic algorithm",
+      "result_id": "TY7wav6U6FUJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2212017313005720",
+      "snippet": "Generally medical images have poor contrast along with serious types of noises. The suppression of noise in medical images corrupted by Gaussian white noise is a major issue …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal - Procedia technology, 2013 - Elsevier",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "PDF",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2212017313005720/pdf?md5=e4ec2b48e4b4abfb140f7cca5b52873d&pid=1-s2.0-S2212017313005720-main.pdf&_valck=1"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TY7wav6U6FUJ",
+        "cited_by": {
+          "total": 44,
+          "link": "https://scholar.google.com/scholar?cites=6190361508257500749&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "6190361508257500749",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=6190361508257500749&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TY7wav6U6FUJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3ATY7wav6U6FUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=6190361508257500749&hl=en&as_sdt=10005&sciodt=0,8",
+          "cluster_id": "6190361508257500749",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cluster=6190361508257500749&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Denoising of digital images through pso based pixel classification",
+      "result_id": "GWXCPM0DTVAJ",
+      "link": "https://www.degruyter.com/document/doi/10.2478/s13537-013-0111-3/html",
+      "snippet": "This paper proposes a de-noising method where the detection and filtering is based on unsupervised classification of pixels. The noisy image is grouped into subsets of pixels with …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, J Mandal - Open Computer Science, 2013 - degruyter.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "J Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "degruyter.com",
+          "file_format": "PDF",
+          "link": "https://www.degruyter.com/document/doi/10.2478/s13537-013-0111-3/pdf"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:GWXCPM0DTVAJ:scholar.google.com/&hl=en&as_sdt=10005&sciodt=0,8&scillfp=17597660831414065896&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GWXCPM0DTVAJ",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=5786285276263507225&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "5786285276263507225",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=5786285276263507225&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GWXCPM0DTVAJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3AGWXCPM0DTVAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=5786285276263507225&hl=en&as_sdt=10005&sciodt=0,8",
+          "cluster_id": "5786285276263507225",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cluster=5786285276263507225&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "A fuzzy switching median filter of impulses in digital imagery (FSMF)",
+      "result_id": "NEoG4vIPm5YJ",
+      "link": "https://link.springer.com/article/10.1007/s00034-014-9739-z",
+      "snippet": "This paper proposed a fuzzy-based switching technique that aims at detection and filtering of impulse noises from digital images. Two types of noise models are used to obtain the …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal - Circuits, Systems, and Signal Processing, 2014 - Springer",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NEoG4vIPm5YJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=10852285262927907380&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "10852285262927907380",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=10852285262927907380&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NEoG4vIPm5YJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3ANEoG4vIPm5YJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=10852285262927907380&hl=en&as_sdt=10005&sciodt=0,8",
+          "cluster_id": "10852285262927907380",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cluster=10852285262927907380&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Adaptive median filtering based on unsupervised classification of pixels",
+      "result_id": "ZRcTfSGUGCcJ",
+      "link": "https://www.igi-global.com/chapter/content/72497",
+      "snippet": "This chapter deals with a novel approach which aims at detection and filtering of impulses in digital images through unsupervised classification of pixels. This approach coagulates …",
+      "publication_info": {
+        "summary": "JK Mandal, S Mukhopadhyay - Handbook of Research on …, 2013 - igi-global.com",
+        "authors": [
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          },
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZRcTfSGUGCcJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=2817164438473480037&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "2817164438473480037",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=2817164438473480037&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZRcTfSGUGCcJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3AZRcTfSGUGCcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2817164438473480037&hl=en&as_sdt=10005&sciodt=0,8",
+          "cluster_id": "2817164438473480037",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cluster=2817164438473480037&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Variable length PSO-based image clustering for image denoising",
+      "result_id": "GL5e9cjxq4gJ",
+      "link": "https://www.igi-global.com/chapter/variable-length-pso-based-image-clustering-for-image-denoising/153818",
+      "snippet": "This chapter proposed a variable length Particle Swarm Optimization based image clustering technique for restoration of noises from digital images. Here in this two step noise …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal, T Pal - Handbook of Research on …, 2016 - igi-global.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          },
+          {
+            "name": "T Pal",
+            "link": "https://scholar.google.com/citations?user=RNlxZkkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RNlxZkkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RNlxZkkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/69536924/141ea7eec49fa698c4e45e86f975133ab81e.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GL5e9cjxq4gJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=9848230855588101656&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "9848230855588101656",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=9848230855588101656&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GL5e9cjxq4gJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3AGL5e9cjxq4gJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9848230855588101656&hl=en&as_sdt=10005&sciodt=0,8",
+          "cluster_id": "9848230855588101656",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cluster=9848230855588101656&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Image denoising based on sub-image restoration through threshold optimisation",
+      "result_id": "xW0crpSh_ScJ",
+      "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJCISTUDIES.2015.072874",
+      "snippet": "This paper proposed a novel approach for detection and filtering of impulses in digital images through median filtering based on optimisation through particle swarm optimisation …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal - International Journal of …, 2015 - inderscienceonline.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/92136297/ijcistudies.2015.07287420221008-1-jqqzvp.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xW0crpSh_ScJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2881636996535315909&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "2881636996535315909",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=2881636996535315909&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xW0crpSh_ScJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3AxW0crpSh_ScJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=2881636996535315909&hl=en&as_sdt=10005&sciodt=0,8",
+          "cluster_id": "2881636996535315909",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cluster=2881636996535315909&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Algorithms for Denoising Medical and Digital Images",
+      "result_id": "-OhodaFhyawJ",
+      "type": "Pdf",
+      "link": "http://jkmandal.com/pdf/somnath_report2.pdf",
+      "snippet": "Two algorithms have been devised for denoising the digital images corrupted by salt-and-pepper noise and randomvalued-noise and the medical images from Gaussian white noise …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal - 2014 - jkmandal.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "jkmandal.com",
+          "file_format": "PDF",
+          "link": "http://jkmandal.com/pdf/somnath_report2.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-OhodaFhyawJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12450589990929885432&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "12450589990929885432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=12450589990929885432&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-OhodaFhyawJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3A-OhodaFhyawJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12450589990929885432&hl=en&as_sdt=10005&sciodt=0,8",
+          "cluster_id": "12450589990929885432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cluster=12450589990929885432&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:-OhodaFhyawJ:scholar.google.com/&hl=en&as_sdt=10005&sciodt=0,8"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Adaptive Threshoding for Wavelet Denoising on Medical Images through PSO Algorithm",
+      "result_id": "O45nf8zvZVsJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "MP Dansena, MO Dewangan - International Journal of Advanced Research in …, 2015",
+        "authors": [
+          {
+            "name": "MO Dewangan",
+            "link": "https://scholar.google.com/citations?user=wmb7zJ4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wmb7zJ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wmb7zJ4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=O45nf8zvZVsJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=6585933691689078331&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "6585933691689078331",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=6585933691689078331&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:O45nf8zvZVsJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3AO45nf8zvZVsJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Comparision and analysis Of Wavelet based Image denoising techniques",
+      "result_id": "t_DMG4h58_QJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "P Dansena, O Dewangan - International Journal of Advanced Research in …, 2015",
+        "authors": [
+          {
+            "name": "O Dewangan",
+            "link": "https://scholar.google.com/citations?user=wmb7zJ4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wmb7zJ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wmb7zJ4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=t_DMG4h58_QJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17650584990084034743&as_sdt=10005&sciodt=0,8&hl=en",
+          "cites_id": "17650584990084034743",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=17650584990084034743&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:t_DMG4h58_QJ:scholar.google.com/&scioq=&hl=en&as_sdt=10005&sciodt=0,8",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11223533620747076970&engine=google_scholar&hl=en&q=related%3At_DMG4h58_QJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}
