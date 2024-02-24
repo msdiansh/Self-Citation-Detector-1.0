@@ -1,0 +1,258 @@
+{
+  "search_metadata": {
+    "id": "658daac5116a55d7916be93b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d9f2ba4b401d175b/658daac5116a55d7916be93b.json",
+    "created_at": "2023-12-28 17:05:09 UTC",
+    "processed_at": "2023-12-28 17:05:09 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=504251211697650284&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/d9f2ba4b401d175b/658daac5116a55d7916be93b.html",
+    "total_time_taken": 2.56
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "504251211697650284",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 7,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=504251211697650284&hl=en&as_sdt=80005&sciodt=0,11",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Detecting Lung Cancer Using Machine Learning Techniques.",
+      "result_id": "l6-iQjegqPYJ",
+      "type": "Pdf",
+      "link": "https://cdn.techscience.cn/ueditor/files/iasc/TSP_IASC-31-2/TSP_IASC_19778/TSP_IASC_19778.pdf",
+      "snippet": "In recent days, Internet of Things (IoT) based image classification technique in the healthcare services is becoming a familiar concept that supports the process of detecting …",
+      "publication_info": {
+        "summary": "AK Dutta - Intelligent Automation & Soft Computing, 2022 - cdn.techscience.cn",
+        "authors": [
+          {
+            "name": "AK Dutta",
+            "link": "https://scholar.google.com/citations?user=ODe8E8gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ODe8E8gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ODe8E8gAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "techscience.cn",
+          "file_format": "PDF",
+          "link": "https://cdn.techscience.cn/ueditor/files/iasc/TSP_IASC-31-2/TSP_IASC_19778/TSP_IASC_19778.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=l6-iQjegqPYJ",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=17773632088619265943&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "17773632088619265943",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=17773632088619265943&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:l6-iQjegqPYJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=504251211697650284&engine=google_scholar&hl=en&q=related%3Al6-iQjegqPYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=17773632088619265943&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "17773632088619265943",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=17773632088619265943&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:l6-iQjegqPYJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Leveraging genetic reports and electronic health records for the prediction of primary cancers: algorithm development and validation study",
+      "result_id": "9KXAhxI8-WgJ",
+      "type": "Html",
+      "link": "https://medinform.jmir.org/2021/5/e23586/",
+      "snippet": "Background: Precision oncology has the potential to leverage clinical and genomic data in advancing disease prevention, diagnosis, and treatment. A key research area focuses on …",
+      "publication_info": {
+        "summary": "N Zong, V Ngo, DJ Stone, A Wen, Y Zhao… - JMIR Medical …, 2021 - medinform.jmir.org",
+        "authors": [
+          {
+            "name": "N Zong",
+            "link": "https://scholar.google.com/citations?user=FlhnNP8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FlhnNP8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FlhnNP8AAAAJ"
+          },
+          {
+            "name": "A Wen",
+            "link": "https://scholar.google.com/citations?user=ipa09SEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ipa09SEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ipa09SEAAAAJ"
+          },
+          {
+            "name": "Y Zhao",
+            "link": "https://scholar.google.com/citations?user=05nPWPYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=05nPWPYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "05nPWPYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "jmir.org",
+          "file_format": "HTML",
+          "link": "https://medinform.jmir.org/2021/5/e23586/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9KXAhxI8-WgJ",
+        "html_version": "https://medinform.jmir.org/2021/5/e23586/",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=7564143099430086132&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "7564143099430086132",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7564143099430086132&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9KXAhxI8-WgJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=504251211697650284&engine=google_scholar&hl=en&q=related%3A9KXAhxI8-WgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=7564143099430086132&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "7564143099430086132",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=7564143099430086132&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:9KXAhxI8-WgJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Multiobjective energy efficient street lighting framework: A data analysis approach",
+      "result_id": "e1GyAlsbsr0J",
+      "link": "https://link.springer.com/article/10.1007/s10489-022-03398-3",
+      "snippet": "A data analysis approach for designing an energy efficient street lighting framework is proposed to maximize both energy efficiency and uniformity of the system. A multiobjective …",
+      "publication_info": {
+        "summary": "PL Sikdar, S Kar, PKG Thakurta - Applied Intelligence, 2022 - Springer",
+        "authors": [
+          {
+            "name": "PL Sikdar",
+            "link": "https://scholar.google.com/citations?user=4R45jJ4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4R45jJ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4R45jJ4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=e1GyAlsbsr0J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=13669017896724091259&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "13669017896724091259",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=13669017896724091259&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:e1GyAlsbsr0J:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=504251211697650284&engine=google_scholar&hl=en&q=related%3Ae1GyAlsbsr0J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=13669017896724091259&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "13669017896724091259",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=13669017896724091259&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Improving Cancer Classification Using Deep Reinforcement Learning with Convolutional LSTM Networks.",
+      "result_id": "CZb89d4nb7kJ",
+      "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=0992499X&AN=173573111&h=0nKquNQZbOwz58MWAUiIjc7zRXekzSaVAHRkCaPqNKsXkrY68IifdjEE9lEW%2FXoY25ws%2FQhjsYGssSwxcfktYA%3D%3D&crl=c",
+      "snippet": "Abstract Gene Expression Microarray (GEM) data is biological data that contains valuable hidden information genes. The gene information extracted from variations of gene …",
+      "publication_info": {
+        "summary": "S Ganesh, M Nachimuthu - Revue d'Intelligence Artificielle, 2023 - search.ebscohost.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CZb89d4nb7kJ"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Unleashing the Power of OpenAI in Shaping the Future of Cancer Research",
+      "result_id": "8f7cl6DvUgcJ",
+      "link": "https://qaaspa.com/index.php/bmtj/article/view/bmtj.112",
+      "snippet": "Artificial intelligence (AI) is rapidly changing cancer research and treatment development. OpenAI, a pioneer in AI research, is at the vanguard of this revolution. This review article …",
+      "publication_info": {
+        "summary": "RM Abdullah, HDI Masseh, A Salihi, BM Faraj - BioMed Target Journal, 2023 - qaaspa.com",
+        "authors": [
+          {
+            "name": "A Salihi",
+            "link": "https://scholar.google.com/citations?user=Q3XRBDMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Q3XRBDMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q3XRBDMAAAAJ"
+          },
+          {
+            "name": "BM Faraj",
+            "link": "https://scholar.google.com/citations?user=GyRRkkEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GyRRkkEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GyRRkkEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8f7cl6DvUgcJ",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8f7cl6DvUgcJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 5,
+      "title": "PROPOSED CANCER DISEASE PREDICTION MODEL USING MACHINE LEARNING.",
+      "result_id": "ZAPjDUN28F0J",
+      "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15247252&AN=154576655&h=aN2N5DQjo2NiIUEQU2UnwADHIj19IaGdvnt9OzcKzE121%2FjgVl2r6yGWIZlMlgtVp2xjz7ggnjoIE3INlhckkA%3D%3D&crl=c",
+      "snippet": "The attention to the Artificial Intelligence field has been grown in the last few years. The ability to connect Artificial Intelligence in medical matters has been an important topic since …",
+      "publication_info": {
+        "summary": "MSE Alhammadi, MU Tariq - Journal of Management …, 2022 - search.ebscohost.com",
+        "authors": [
+          {
+            "name": "MU Tariq",
+            "link": "https://scholar.google.com/citations?user=KN-Bz6AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KN-Bz6AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KN-Bz6AAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZAPjDUN28F0J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZAPjDUN28F0J:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=504251211697650284&engine=google_scholar&hl=en&q=related%3AZAPjDUN28F0J%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Research on data mining and bioinformatics in breast cancer prediction",
+      "result_id": "fXx1HNFoqogJ",
+      "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12168/121682C/Research-on-data-mining-and-bioinformatics-in-breast-cancer-prediction/10.1117/12.2631122.short",
+      "snippet": "Cancer has now become a prevalent disease that affects people's daily life. Generally speaking, a woman has a 13% chance of suffering breast cancer at some point in her life …",
+      "publication_info": {
+        "summary": "B Lu, E Natarajan - International Conference on Computer …, 2022 - spiedigitallibrary.org",
+        "authors": [
+          {
+            "name": "E Natarajan",
+            "link": "https://scholar.google.com/citations?user=NRRdKjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NRRdKjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NRRdKjcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fXx1HNFoqogJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:fXx1HNFoqogJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=504251211697650284&engine=google_scholar&hl=en&q=related%3AfXx1HNFoqogJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9847798782533926013&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "9847798782533926013",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=9847798782533926013&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

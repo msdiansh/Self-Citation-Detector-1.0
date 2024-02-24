@@ -1,0 +1,301 @@
+{
+  "search_metadata": {
+    "id": "658dab88c99903615fbafa43",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7b323c8feafede99/658dab88c99903615fbafa43.json",
+    "created_at": "2023-12-28 17:08:24 UTC",
+    "processed_at": "2023-12-28 17:08:24 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=12770749255902278628&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/7b323c8feafede99/658dab88c99903615fbafa43.html",
+    "total_time_taken": 2.82
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "12770749255902278628",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 6,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=12770749255902278628&hl=en&as_sdt=205&sciodt=0,1",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Translating 2d director profile to 3d topography in a liquid crystal polymer",
+      "result_id": "aBz8QSNrsGoJ",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202004749",
+      "snippet": "Morphological properties of surfaces play a key role in natural and man‐made objects. The development of robust methods to fabricate micro/nano surface structures has been a long …",
+      "publication_info": {
+        "summary": "P Lv, Y You, J Li, Y Zhang, DJ Broer, J Chen… - Advanced …, 2021 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "DJ Broer",
+            "link": "https://scholar.google.com/citations?user=JVNvvUAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JVNvvUAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JVNvvUAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "wiley.com",
+          "file_format": "PDF",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202004749"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:aBz8QSNrsGoJ:scholar.google.com/&hl=en&as_sdt=205&sciodt=0,1&scillfp=10796489271714375684&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aBz8QSNrsGoJ",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=7687762363096505448&as_sdt=205&sciodt=0,1&hl=en",
+          "cites_id": "7687762363096505448",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cites=7687762363096505448&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aBz8QSNrsGoJ:scholar.google.com/&scioq=&hl=en&as_sdt=205&sciodt=0,1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=205&cites=12770749255902278628&engine=google_scholar&hl=en&q=related%3AaBz8QSNrsGoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=7687762363096505448&hl=en&as_sdt=205&sciodt=0,1",
+          "cluster_id": "7687762363096505448",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cluster=7687762363096505448&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "The bimodal instability of thermal convection in a tall vertical annulus",
+      "result_id": "TV74YHyi8zIJ",
+      "link": "https://pubs.aip.org/aip/pof/article/34/10/104102/2847330",
+      "snippet": "We pursue a three-dimensional linear stability analysis to investigate the convective stability in a cylindrical annulus imposed with a horizontal temperature gradient. The investigation …",
+      "publication_info": {
+        "summary": "CC Wang, F Chen - Physics of Fluids, 2022 - pubs.aip.org"
+      },
+      "resources": [
+        {
+          "title": "archive.org",
+          "file_format": "PDF",
+          "link": "https://scholar.archive.org/work/sxzxi745hrbv5pwvfw77p6ovi4/access/wayback/https://aip.scitation.org/doi/pdf/10.1063/5.0105030"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TV74YHyi8zIJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=3671456776323620429&as_sdt=205&sciodt=0,1&hl=en",
+          "cites_id": "3671456776323620429",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cites=3671456776323620429&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TV74YHyi8zIJ:scholar.google.com/&scioq=&hl=en&as_sdt=205&sciodt=0,1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=205&cites=12770749255902278628&engine=google_scholar&hl=en&q=related%3ATV74YHyi8zIJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=3671456776323620429&hl=en&as_sdt=205&sciodt=0,1",
+          "cluster_id": "3671456776323620429",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cluster=3671456776323620429&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Phase transition and dewetting of a 5CB liquid crystal thin film on a topographically patterned substrate",
+      "result_id": "mqxmeyYB9y8J",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2019/ra/c9ra02552a",
+      "snippet": "We report thermally induced nematic to isotropic (N–I) phase transition as well as dewetting of 5CB Liquid Crystal (LC) thin films coated on flat and topographically patterned substrates …",
+      "publication_info": {
+        "summary": "P Dhara, R Mukherjee - RSC advances, 2019 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "P Dhara",
+            "link": "https://scholar.google.com/citations?user=vyuwPjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vyuwPjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vyuwPjcAAAAJ"
+          },
+          {
+            "name": "R Mukherjee",
+            "link": "https://scholar.google.com/citations?user=ecalMYAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ecalMYAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ecalMYAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2019/ra/c9ra02552a"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mqxmeyYB9y8J",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2019/ra/c9ra02552a",
+        "cited_by": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?cites=3456232503820856474&as_sdt=205&sciodt=0,1&hl=en",
+          "cites_id": "3456232503820856474",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cites=3456232503820856474&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mqxmeyYB9y8J:scholar.google.com/&scioq=&hl=en&as_sdt=205&sciodt=0,1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=205&cites=12770749255902278628&engine=google_scholar&hl=en&q=related%3AmqxmeyYB9y8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=3456232503820856474&hl=en&as_sdt=205&sciodt=0,1",
+          "cluster_id": "3456232503820856474",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cluster=3456232503820856474&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Numerical analysis of electrohydrodynamic instability in dielectric-liquid–gas flows subjected to unipolar injection",
+      "result_id": "2LCHVxv5qEUJ",
+      "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.065109",
+      "snippet": "In this work, the electrohydrodynamic instability induced by a unipolar charge injection is extended from a single-phase dielectric liquid to a two-phase system that consists of a liquid …",
+      "publication_info": {
+        "summary": "Q Liu, AT Pérez, RD Selvakumar, P Yang, J Wu - Physical Review E, 2021 - APS",
+        "authors": [
+          {
+            "name": "RD Selvakumar",
+            "link": "https://scholar.google.com/citations?user=h5h5Ci0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h5h5Ci0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "h5h5Ci0AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2107.10437"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2LCHVxv5qEUJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=5019535680532361432&as_sdt=205&sciodt=0,1&hl=en",
+          "cites_id": "5019535680532361432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cites=5019535680532361432&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2LCHVxv5qEUJ:scholar.google.com/&scioq=&hl=en&as_sdt=205&sciodt=0,1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=205&cites=12770749255902278628&engine=google_scholar&hl=en&q=related%3A2LCHVxv5qEUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=5019535680532361432&hl=en&as_sdt=205&sciodt=0,1",
+          "cluster_id": "5019535680532361432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cluster=5019535680532361432&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Fabrication of pixelated liquid crystal nanostructures employing the contact line instabilities of droplets",
+      "result_id": "QlPYwm4tGG8J",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2018/nr/c8nr08400a",
+      "snippet": "A liquid crystal (LC) droplet resting on a poly-dimethylsiloxane substrate could rapidly spread upon solvent vapour annealing to form a non-uniform film. While the solvophobic …",
+      "publication_info": {
+        "summary": "B Ravi, M Bhattacharjee, A Ghosh, D Bandyopadhyay - Nanoscale, 2019 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "B Ravi",
+            "link": "https://scholar.google.com/citations?user=A0oc_1YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A0oc_1YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A0oc_1YAAAAJ"
+          },
+          {
+            "name": "M Bhattacharjee",
+            "link": "https://scholar.google.com/citations?user=8ntd0jAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8ntd0jAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8ntd0jAAAAAJ"
+          },
+          {
+            "name": "A Ghosh",
+            "link": "https://scholar.google.com/citations?user=FxStdVMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FxStdVMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FxStdVMAAAAJ"
+          },
+          {
+            "name": "D Bandyopadhyay",
+            "link": "https://scholar.google.com/citations?user=or43e_kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=or43e_kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "or43e_kAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QlPYwm4tGG8J",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=8005198291389666114&as_sdt=205&sciodt=0,1&hl=en",
+          "cites_id": "8005198291389666114",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cites=8005198291389666114&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:QlPYwm4tGG8J:scholar.google.com/&scioq=&hl=en&as_sdt=205&sciodt=0,1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=205&cites=12770749255902278628&engine=google_scholar&hl=en&q=related%3AQlPYwm4tGG8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8005198291389666114&hl=en&as_sdt=205&sciodt=0,1",
+          "cluster_id": "8005198291389666114",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cluster=8005198291389666114&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Electric field mediated elastic contact lithography of thin viscoelastic films for miniaturized and multiscale patterns",
+      "result_id": "E_G-5qZtAe8J",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2018/sm/c8sm00428e",
+      "snippet": "Elastic contact lithography (ECL) and electric field lithography (EFL) have both shown significant potential to develop large-area micropatterns on polymeric surfaces. Recently …",
+      "publication_info": {
+        "summary": "A Ghosh, D Bandyopadhyay, A Sharma - Soft Matter, 2018 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "A Ghosh",
+            "link": "https://scholar.google.com/citations?user=FxStdVMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FxStdVMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FxStdVMAAAAJ"
+          },
+          {
+            "name": "D Bandyopadhyay",
+            "link": "https://scholar.google.com/citations?user=or43e_kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=or43e_kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "or43e_kAAAAJ"
+          },
+          {
+            "name": "A Sharma",
+            "link": "https://scholar.google.com/citations?user=MmjJMlIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MmjJMlIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MmjJMlIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=E_G-5qZtAe8J",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=17222167013644759315&as_sdt=205&sciodt=0,1&hl=en",
+          "cites_id": "17222167013644759315",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cites=17222167013644759315&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:E_G-5qZtAe8J:scholar.google.com/&scioq=&hl=en&as_sdt=205&sciodt=0,1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=205&cites=12770749255902278628&engine=google_scholar&hl=en&q=related%3AE_G-5qZtAe8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=17222167013644759315&hl=en&as_sdt=205&sciodt=0,1",
+          "cluster_id": "17222167013644759315",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=205&cluster=17222167013644759315&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

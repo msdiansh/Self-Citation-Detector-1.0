@@ -1,0 +1,312 @@
+{
+  "search_metadata": {
+    "id": "658daa9a5119a6733a60d3ec",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2394408d8d3bb340/658daa9a5119a6733a60d3ec.json",
+    "created_at": "2023-12-28 17:04:26 UTC",
+    "processed_at": "2023-12-28 17:04:26 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=17327634899350757657&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/2394408d8d3bb340/658daa9a5119a6733a60d3ec.html",
+    "total_time_taken": 1.31
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "17327634899350757657",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 9,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=17327634899350757657&hl=en&as_sdt=40005&sciodt=0,10",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Dynamic multi-variant relational scheme-based intelligent ETL framework for healthcare management",
+      "result_id": "vPDMi7htPMEJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s00500-022-06938-8",
+      "snippet": "The growth of information technology has opened the gate for the organizations to maintain their data in various forms and at various volumes. This increases the volume and …",
+      "publication_info": {
+        "summary": "V Manickam, M Rajasekaran Indra - Soft Computing, 2023 - Springer"
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s00500-022-06938-8"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vPDMi7htPMEJ",
+        "html_version": "https://link.springer.com/article/10.1007/s00500-022-06938-8",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=13924124787309605052&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "13924124787309605052",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=13924124787309605052&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:vPDMi7htPMEJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=17327634899350757657&engine=google_scholar&hl=en&q=related%3AvPDMi7htPMEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=13924124787309605052&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "13924124787309605052",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=13924124787309605052&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Automated credit assessment framework using ETL process and machine learning",
+      "result_id": "rqPtkcmvMH4J",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00522-x",
+      "snippet": "In the current business scenario, real-time analysis of enterprise data through Business Intelligence (BI) is crucial for supporting operational activities and taking any strategic …",
+      "publication_info": {
+        "summary": "N Biswas, AS Mondal, A Kusumastuti, S Saha… - Innovations in Systems …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "N Biswas",
+            "link": "https://scholar.google.com/citations?user=YAt97FEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YAt97FEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YAt97FEAAAAJ"
+          },
+          {
+            "name": "A Kusumastuti",
+            "link": "https://scholar.google.com/citations?user=lseo98AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lseo98AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lseo98AAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s11334-022-00522-x"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rqPtkcmvMH4J",
+        "html_version": "https://link.springer.com/article/10.1007/s11334-022-00522-x",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=9092960927932588974&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "9092960927932588974",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=9092960927932588974&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rqPtkcmvMH4J:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=17327634899350757657&engine=google_scholar&hl=en&q=related%3ArqPtkcmvMH4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=9092960927932588974&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "9092960927932588974",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=9092960927932588974&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Anomaly Detection for ETL Packages Runtime: A Machine Learning Approach",
+      "result_id": "g-u4qWW68toJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10286586/",
+      "snippet": "In today's dynamic business environment., financial institutions and banks use ETL (Extract, Transform, Load) packages to perform data integration and optimize business processes …",
+      "publication_info": {
+        "summary": "B Alak, A Revanbahş, N Argün… - 2023 8th International …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "N Argün",
+            "link": "https://scholar.google.com/citations?user=HU0yImEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HU0yImEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HU0yImEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=g-u4qWW68toJ"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Mobile and Cooperative Agent Based Approach for Intelligent Integration of Complex Data",
+      "result_id": "pI4MDceHo7gJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-35510-3_30",
+      "snippet": "Since many years, data integration has become a delicate task in the data-warehousing process. Indeed, the collected data (from various applications and existing in different forms) …",
+      "publication_info": {
+        "summary": "K Gouasmia, W Mefteh, F Gargouri - International Conference on …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "W Mefteh",
+            "link": "https://scholar.google.com/citations?user=0bwb2a4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0bwb2a4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0bwb2a4AAAAJ"
+          },
+          {
+            "name": "F Gargouri",
+            "link": "https://scholar.google.com/citations?user=w41C1-MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w41C1-MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w41C1-MAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pI4MDceHo7gJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:pI4MDceHo7gJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=17327634899350757657&engine=google_scholar&hl=en&q=related%3ApI4MDceHo7gJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Business Intelligence and Analytics–a key driver for efficient production?: An empirical study in the food industry",
+      "result_id": "wTaWy7AccN8J",
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1794928",
+      "snippet": "Organizational decisions are significant to an organizations' future. Research shows that many organizations tend to make decisions based on previous experiences,'gut feeling'and …",
+      "publication_info": {
+        "summary": "S Dahlström, E Hasslid - 2023 - diva-portal.org"
+      },
+      "resources": [
+        {
+          "title": "diva-portal.org",
+          "file_format": "PDF",
+          "link": "https://www.diva-portal.org/smash/get/diva2:1794928/FULLTEXT01.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wTaWy7AccN8J",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wTaWy7AccN8J:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Intelligent Assistance with ML in Data Mapping ETL Processing",
+      "result_id": "W8zkNEsEY_EJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10118369/",
+      "snippet": "The ETL is a major component in the construction of a data warehouse. This element acts as an intermediary between data sources and data storage. It groups the data collection and …",
+      "publication_info": {
+        "summary": "AB Younes, LB Ayed, M Najjar - 2022 IEEE Information …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "LB Ayed",
+            "link": "https://scholar.google.com/citations?user=yO1cMDwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yO1cMDwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yO1cMDwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=W8zkNEsEY_EJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:W8zkNEsEY_EJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=17327634899350757657&engine=google_scholar&hl=en&q=related%3AW8zkNEsEY_EJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Dimensions of Automated ETL Management: A Contemporary Literature Review",
+      "result_id": "WYMYYbLUd-MJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10029274/",
+      "snippet": "ETL solutions are becoming more widely used because of the increasing complexity of data systems and the importance of high-quality data sources and data processing for making …",
+      "publication_info": {
+        "summary": "GSS Kumar, MR Kumar - 2022 International Conference on …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "GSS Kumar",
+            "link": "https://scholar.google.com/citations?user=Xhe_gbsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xhe_gbsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Xhe_gbsAAAAJ"
+          },
+          {
+            "name": "MR Kumar",
+            "link": "https://scholar.google.com/citations?user=Y7tx9cAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y7tx9cAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Y7tx9cAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "helixscientific.pub",
+          "file_format": "PDF",
+          "link": "https://helixscientific.pub/index.php/home/article/download/375/315"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WYMYYbLUd-MJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=16390803231436473177&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "16390803231436473177",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=16390803231436473177&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:WYMYYbLUd-MJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=17327634899350757657&engine=google_scholar&hl=en&q=related%3AWYMYYbLUd-MJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=16390803231436473177&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "16390803231436473177",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=16390803231436473177&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Fallacies and pitfalls of large-scale DevOps pipelines: an industrial proof-of-concept study",
+      "result_id": "YFIsOiK4hj4J",
+      "link": "https://www.politesi.polimi.it/handle/10589/209974",
+      "snippet": "DevOps is practice that enforces collaboration and automation in software development, guaranteeing high product quality and reliability. This discipline covers many aspects of …",
+      "publication_info": {
+        "summary": "M Tonnarelli - 2022 - politesi.polimi.it"
+      },
+      "resources": [
+        {
+          "title": "polimi.it",
+          "file_format": "PDF",
+          "link": "https://www.politesi.polimi.it/bitstream/10589/209974/1/2023_10_Tonnarelli.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YFIsOiK4hj4J",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4505490934375141984&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "4505490934375141984",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=4505490934375141984&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:YFIsOiK4hj4J:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 8,
+      "title": "THESIS/THÈSE",
+      "result_id": "zu0whzqvG9sJ",
+      "type": "Pdf",
+      "link": "https://pure.unamur.be/ws/portalfiles/portal/84064988/Jordan_ABRAS_1034503_assignsubmission_file_Memoire_2023_Jordan_ABRAS.pdf",
+      "snippet": "Nowadays, decision-making is increasingly relying on Business Intelligence (BI) systems. These systems however may be perceived risky due to the effort and investment needed to …",
+      "publication_info": {
+        "summary": "J ABRAS - pure.unamur.be"
+      },
+      "resources": [
+        {
+          "title": "unamur.be",
+          "file_format": "PDF",
+          "link": "https://pure.unamur.be/ws/portalfiles/portal/84064988/Jordan_ABRAS_1034503_assignsubmission_file_Memoire_2023_Jordan_ABRAS.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zu0whzqvG9sJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15788405584588500430&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "15788405584588500430",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=15788405584588500430&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zu0whzqvG9sJ:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    }
+  ]
+}

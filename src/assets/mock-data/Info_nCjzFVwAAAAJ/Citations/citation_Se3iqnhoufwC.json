@@ -1,0 +1,78 @@
+{
+  "search_metadata": {
+    "id": "65980f865f220331bc212f94",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/64f3bb81e758cb78/65980f865f220331bc212f94.json",
+    "created_at": "2024-01-05 14:17:42 UTC",
+    "processed_at": "2024-01-05 14:17:42 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:Se3iqnhoufwC",
+    "raw_html_file": "https://serpapi.com/searches/64f3bb81e758cb78/65980f865f220331bc212f94.html",
+    "total_time_taken": 1.08
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:Se3iqnhoufwC"
+  },
+  "citation": {
+    "title": "A new approach for conceptual extraction-transformation-loading process modeling",
+    "link": "https://www.igi-global.com/article/a-new-approach-for-conceptual-extraction-transformation-loading-process-modeling/216468",
+    "authors": "Neepa Biswas, Samiran Chattapadhyay, Gautam Mahapatra, Santanu Chatterjee, Kartick Chandra Mondal",
+    "publication_date": "2019/1/1",
+    "journal": "International Journal of Ambient Computing and Intelligence (IJACI)",
+    "volume": "10",
+    "issue": "1",
+    "pages": "30-45",
+    "publisher": "IGI Global",
+    "description": "Erroneous or incomplete data generated from various sources can have direct impact in business analysis. Extracted data from sources need to load into data warehouse after required transformation to reduce error and minimize data loss. This process is also known as Extraction-Transformation-Loading (ETL). High-level view of the system activities can be visualized by conceptual modeling of ETL process. It provides the advantage of pre-identification of system error, cost minimization, scope and risk assessment etc. A new modeling approach is proposed for conceptualization ETL process by using a standard Systems Modeling Language (SysML). For handling increasing complexity of any system model, it is preferable to go through verification and validation process in early stage of system development. In this article, the authors' previous work is extended by presenting a MBSE based approach to automate the …",
+    "total_citations": {
+      "cited_by": {
+        "total": 20,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6282523063265191940&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6282523063265191940&engine=google_scholar&hl=en",
+        "cites_id": "6282523063265191940"
+      },
+      "table": [
+        {
+          "year": 2020,
+          "citations": 6
+        },
+        {
+          "year": 2021,
+          "citations": 2
+        },
+        {
+          "year": 2022,
+          "citations": 8
+        },
+        {
+          "year": 2023,
+          "citations": 4
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "A new approach for conceptual extraction-transformation-loading process modeling",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=6282523063265191940&btnI=1&hl=en",
+        "authors": "N Biswas, S Chattapadhyay, G Mahapatra… - International Journal of Ambient Computing and …, 2019",
+        "cited_by": {
+          "total": 20,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6282523063265191940&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6282523063265191940&engine=google_scholar&hl=en",
+          "cites_id": "6282523063265191940"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:BOgel3ABMFcJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6282523063265191940",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=6282523063265191940&engine=google_scholar&hl=en",
+          "cluster_id": "6282523063265191940"
+        }
+      }
+    ]
+  }
+}

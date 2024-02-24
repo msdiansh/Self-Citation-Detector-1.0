@@ -1,0 +1,281 @@
+{
+  "search_metadata": {
+    "id": "65c5b62b3d691910f1b180c6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1b70874e68f544ea/65c5b62b3d691910f1b180c6.json",
+    "created_at": "2024-02-09 05:20:43 UTC",
+    "processed_at": "2024-02-09 05:20:43 UTC",
+    "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Somnath+mukhopadhyay&view_op=search_authors&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/1b70874e68f544ea/65c5b62b3d691910f1b180c6.html",
+    "total_time_taken": 1.24
+  },
+  "search_parameters": {
+    "engine": "google_scholar_profiles",
+    "mauthors": "Somnath mukhopadhyay",
+    "hl": "en"
+  },
+  "profiles": [
+    {
+      "name": "Somnath Mukhopadhyay",
+      "link": "https://scholar.google.com/citations?hl=en&user=T5tmhrsAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=T5tmhrsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "T5tmhrsAAAAJ",
+      "affiliations": "Chair of Paediatrics, Brighton and Sussex Medical School",
+      "email": "Verified email at bsms.ac.uk",
+      "cited_by": 7922,
+      "interests": [
+        {
+          "title": "Paediatrics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apaediatrics",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:paediatrics"
+        },
+        {
+          "title": "allergy",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aallergy",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:allergy"
+        },
+        {
+          "title": "asthma",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aasthma",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:asthma"
+        },
+        {
+          "title": "precision medicine",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprecision_medicine",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:precision_medicine"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=T5tmhrsAAAAJ&citpid=2"
+    },
+    {
+      "name": "somnath mukherjee",
+      "link": "https://scholar.google.com/citations?hl=en&user=dh7HDkAAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=dh7HDkAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "dh7HDkAAAAAJ",
+      "affiliations": "professor, civil engg jadavpur university",
+      "email": "Verified email at civil.jdvu.ac.in",
+      "cited_by": 2138,
+      "interests": [
+        {
+          "title": "Environmental engg",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenvironmental_engg",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:environmental_engg"
+        }
+      ],
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Somnath Mukhopadhyay",
+      "link": "https://scholar.google.com/citations?hl=en&user=Bb9qSHgAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Bb9qSHgAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Bb9qSHgAAAAJ",
+      "affiliations": "The University of Texas at El Paso",
+      "email": "Verified email at utep.edu",
+      "cited_by": 1121,
+      "interests": [
+        {
+          "title": "Forecasting for business problems",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aforecasting_for_business_problems",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:forecasting_for_business_problems"
+        }
+      ],
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Somnath Mukherjee",
+      "link": "https://scholar.google.com/citations?hl=en&user=UcUoug8AAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=UcUoug8AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "UcUoug8AAAAJ",
+      "affiliations": "Research Professional, University of Chicago",
+      "email": "Verified email at uchicago.edu",
+      "cited_by": 882,
+      "interests": [
+        {
+          "title": "Protein engineering",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprotein_engineering",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:protein_engineering"
+        },
+        {
+          "title": "structural biology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astructural_biology",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:structural_biology"
+        },
+        {
+          "title": "antibody engineering",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aantibody_engineering",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:antibody_engineering"
+        },
+        {
+          "title": "biophysics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiophysics",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biophysics"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UcUoug8AAAAJ&citpid=1"
+    },
+    {
+      "name": "Somnath Mukhopadhyay",
+      "link": "https://scholar.google.com/citations?hl=en&user=KWIxPVcAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "KWIxPVcAAAAJ",
+      "affiliations": "Assistant Professor, Dept. of Computer Science & Engineering, Assam University Silchar",
+      "email": "Verified email at aus.ac.in",
+      "cited_by": 411,
+      "interests": [
+        {
+          "title": "ANN",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aann",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ann"
+        },
+        {
+          "title": "Fuzzy Logic",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afuzzy_logic",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fuzzy_logic"
+        },
+        {
+          "title": "Digital Image Processing",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adigital_image_processing",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:digital_image_processing"
+        },
+        {
+          "title": "Genetic Algorithm",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agenetic_algorithm",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:genetic_algorithm"
+        },
+        {
+          "title": "Multi-objective Optimization",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amulti_objective_optimization",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:multi_objective_optimization"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KWIxPVcAAAAJ&citpid=7"
+    },
+    {
+      "name": "Somnath Mukherjee",
+      "link": "https://scholar.google.com/citations?hl=en&user=ecwaygkAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ecwaygkAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "ecwaygkAAAAJ",
+      "affiliations": "Additional Professor in Transfusion Medicine",
+      "cited_by": 323,
+      "interests": [
+        {
+          "title": "Immunohaematology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimmunohaematology",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:immunohaematology"
+        },
+        {
+          "title": "Stem Cell Biology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astem_cell_biology",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:stem_cell_biology"
+        },
+        {
+          "title": "Cellular Therapy",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acellular_therapy",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cellular_therapy"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ecwaygkAAAAJ&citpid=5"
+    },
+    {
+      "name": "Somnath Mukherjee",
+      "link": "https://scholar.google.com/citations?hl=en&user=d0DG3nMAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=d0DG3nMAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "d0DG3nMAAAAJ",
+      "affiliations": "Assistant Professor, Birla Institute of Technology",
+      "email": "Verified email at bitmesra.ac.in",
+      "cited_by": 213,
+      "interests": [
+        {
+          "title": "Marketing",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amarketing",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:marketing"
+        },
+        {
+          "title": "Brand Management",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abrand_management",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:brand_management"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=d0DG3nMAAAAJ&citpid=1"
+    },
+    {
+      "name": "Dr. Somnath Mukhopadhyay",
+      "link": "https://scholar.google.com/citations?hl=en&user=Rze3kesAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Rze3kesAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Rze3kesAAAAJ",
+      "affiliations": "Assistant Professor, NIT Tiruchirappalli, Tamil Nadu - 620015",
+      "email": "Verified email at nitt.edu",
+      "cited_by": 85,
+      "interests": [
+        {
+          "title": "White Dwarfs",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awhite_dwarfs",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:white_dwarfs"
+        },
+        {
+          "title": "Neutron Stars",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneutron_stars",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:neutron_stars"
+        },
+        {
+          "title": "Equation of State",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aequation_of_state",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:equation_of_state"
+        },
+        {
+          "title": "Gravitational Waves",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agravitational_waves",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:gravitational_waves"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Rze3kesAAAAJ&citpid=1"
+    },
+    {
+      "name": "Somnath Mukherjee",
+      "link": "https://scholar.google.com/citations?hl=en&user=i3kbDhsAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=i3kbDhsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "i3kbDhsAAAAJ",
+      "affiliations": "Department of Physics, Dharsa Mihirlal Khan Institution, PO-GIP Colony, Howrah-711112 …",
+      "cited_by": 33,
+      "interests": [
+        {
+          "title": "cosmology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acosmology",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cosmology"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=i3kbDhsAAAAJ&citpid=1"
+    },
+    {
+      "name": "Dr. Somnath Mukherjee",
+      "link": "https://scholar.google.com/citations?hl=en&user=04UFUcQAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=04UFUcQAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "04UFUcQAAAAJ",
+      "affiliations": "Associate Professor of Geography, Bankura Christian College",
+      "email": "Verified email at bankurachristiancollege.in",
+      "cited_by": 13,
+      "interests": [
+        {
+          "title": "Tribes",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atribes",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:tribes"
+        },
+        {
+          "title": "Social Ecology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_ecology",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:social_ecology"
+        },
+        {
+          "title": "Remote Sensing and GIS",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aremote_sensing_and_gis",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:remote_sensing_and_gis"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=04UFUcQAAAAJ&citpid=1"
+    }
+  ],
+  "pagination": {
+    "next": "https://serpapi.com/search.json?after_author=pRUiAPD___8J&engine=google_scholar_profiles&hl=en&mauthors=Somnath+mukhopadhyay",
+    "next_page_token": "pRUiAPD___8J"
+  }
+}

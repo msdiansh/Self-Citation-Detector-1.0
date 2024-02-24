@@ -1,0 +1,18 @@
+{
+  "search_metadata": {
+    "id": "65980f1fe815af7694661216",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b727fe48e0c78719/65980f1fe815af7694661216.json",
+    "created_at": "2024-01-05 14:15:59 UTC",
+    "processed_at": "2024-01-05 14:15:59 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:8k81kl-MbHgC-",
+    "raw_html_file": "https://serpapi.com/searches/b727fe48e0c78719/65980f1fe815af7694661216.html",
+    "total_time_taken": 0.53
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:8k81kl-MbHgC-"
+  }
+}

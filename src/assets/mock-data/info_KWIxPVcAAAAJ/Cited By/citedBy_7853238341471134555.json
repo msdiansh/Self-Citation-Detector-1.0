@@ -1,0 +1,2459 @@
+{
+  "search_metadata": {
+    "id": "65d42d582236e2e4323322ed",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4b1b987fcdb3664b/65d42d582236e2e4323322ed.json",
+    "created_at": "2024-02-20 04:40:56 UTC",
+    "processed_at": "2024-02-20 04:40:56 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=7853238341471134555&hl=en&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/4b1b987fcdb3664b/65d42d582236e2e4323322ed.html",
+    "total_time_taken": 0.38
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "7853238341471134555",
+    "hl": "en"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 65,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=7853238341471134555&hl=en&as_sdt=80005&sciodt=0,11",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Plant disease recognition model based on improved YOLOv5",
+      "result_id": "KAqQlI0MyDYJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2073-4395/12/2/365",
+      "snippet": "To accurately recognize plant diseases under complex natural conditions, an improved plant disease-recognition model based on the original YOLOv5 network model was established …",
+      "publication_info": {
+        "summary": "Z Chen, R Wu, Y Lin, C Li, S Chen, Z Yuan, S Chen… - Agronomy, 2022 - mdpi.com"
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2073-4395/12/2/365"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KAqQlI0MyDYJ",
+        "html_version": "https://www.mdpi.com/2073-4395/12/2/365",
+        "cited_by": {
+          "total": 151,
+          "link": "https://scholar.google.com/scholar?cites=3947418875612629544&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "3947418875612629544",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=3947418875612629544&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:KAqQlI0MyDYJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AKAqQlI0MyDYJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=3947418875612629544&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "3947418875612629544",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=3947418875612629544&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:KAqQlI0MyDYJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Recognition of leaf disease using hybrid convolutional neural network by applying feature reduction",
+      "result_id": "YF-0mwJ9mZsJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/1424-8220/22/2/575",
+      "snippet": "Agriculture is crucial to the economic prosperity and development of India. Plant diseases can have a devastating influence towards food safety and a considerable loss in the …",
+      "publication_info": {
+        "summary": "P Kaur, S Harnal, R Tiwari, S Upadhyay, S Bhatia… - Sensors, 2022 - mdpi.com",
+        "authors": [
+          {
+            "name": "P Kaur",
+            "link": "https://scholar.google.com/citations?user=1ywGdWkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1ywGdWkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1ywGdWkAAAAJ"
+          },
+          {
+            "name": "S Harnal",
+            "link": "https://scholar.google.com/citations?user=JGy-OJYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JGy-OJYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JGy-OJYAAAAJ"
+          },
+          {
+            "name": "R Tiwari",
+            "link": "https://scholar.google.com/citations?user=sBnAPl4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sBnAPl4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sBnAPl4AAAAJ"
+          },
+          {
+            "name": "S Upadhyay",
+            "link": "https://scholar.google.com/citations?user=Jz5vRTAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Jz5vRTAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Jz5vRTAAAAAJ"
+          },
+          {
+            "name": "S Bhatia",
+            "link": "https://scholar.google.com/citations?user=KhBSd0AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KhBSd0AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KhBSd0AAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/1424-8220/22/2/575"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YF-0mwJ9mZsJ",
+        "html_version": "https://www.mdpi.com/1424-8220/22/2/575",
+        "cited_by": {
+          "total": 91,
+          "link": "https://scholar.google.com/scholar?cites=11212130197471256416&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "11212130197471256416",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=11212130197471256416&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:YF-0mwJ9mZsJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AYF-0mwJ9mZsJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=11212130197471256416&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "11212130197471256416",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=11212130197471256416&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:YF-0mwJ9mZsJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review",
+      "result_id": "R1T086FHTmQJ",
+      "link": "https://arxiv.org/abs/2311.03240",
+      "snippet": "Tea leaf diseases are a major challenge to agricultural productivity, with far-reaching implications for yield and quality in the tea industry. The rise of machine learning has …",
+      "publication_info": {
+        "summary": "F Ahmed, MT Ahad, YR Emon - arXiv preprint arXiv:2311.03240, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "F Ahmed",
+            "link": "https://scholar.google.com/citations?user=8jcz_7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8jcz_7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8jcz_7IAAAAJ"
+          },
+          {
+            "name": "MT Ahad",
+            "link": "https://scholar.google.com/citations?user=fI2JargAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fI2JargAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fI2JargAAAAJ"
+          },
+          {
+            "name": "YR Emon",
+            "link": "https://scholar.google.com/citations?user=16_BMKUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=16_BMKUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "16_BMKUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2311.03240"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=R1T086FHTmQJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=7227793212884407367&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "7227793212884407367",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7227793212884407367&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:R1T086FHTmQJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AR1T086FHTmQJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7227793212884407367&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "7227793212884407367",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=7227793212884407367&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:R1T086FHTmQJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 3,
+      "title": "OPNN: optimized probabilistic neural network based automatic detection of maize plant disease detection",
+      "result_id": "KiFely9VqggJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9358763/",
+      "snippet": "Agriculture is one of the important ant sectors of the Indian economy and also an important source of income for Indian people. Approximately 50% of employees worked in the Indian …",
+      "publication_info": {
+        "summary": "E Akanksha, N Sharma, K Gulati - 2021 6th international …, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "E Akanksha",
+            "link": "https://scholar.google.com/citations?user=NIZhyrUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIZhyrUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIZhyrUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Kamal-Gulati/publication/349659378_OPNN_Optimized_Probabilistic_Neural_Network_based_Automatic_Detection_of_Maize_Plant_Disease_Detection/links/60b095b7a6fdcc647ee35c38/OPNN-Optimized-Probabilistic-Neural-Network-based-Automatic-Detection-of-Maize-Plant-Disease-Detection.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KiFely9VqggJ",
+        "cited_by": {
+          "total": 62,
+          "link": "https://scholar.google.com/scholar?cites=624405161235587370&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "624405161235587370",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=624405161235587370&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:KiFely9VqggJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AKiFely9VqggJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=624405161235587370&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "624405161235587370",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=624405161235587370&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "The Application Status and Trends of Machine Vision in Tea Production",
+      "result_id": "6h4zTgwF1ZIJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2076-3417/13/19/10744",
+      "snippet": "The construction of standardized tea gardens is the main trend in the development of modern agriculture worldwide. As one of the most important economic crops, tea has …",
+      "publication_info": {
+        "summary": "Z Yang, W Ma, J Lu, Z Tian, K Peng - Applied Sciences, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "Z Tian",
+            "link": "https://scholar.google.com/citations?user=4DY3Q9AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4DY3Q9AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4DY3Q9AAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2076-3417/13/19/10744"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6h4zTgwF1ZIJ",
+        "html_version": "https://www.mdpi.com/2076-3417/13/19/10744",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=10580368449986567914&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "10580368449986567914",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=10580368449986567914&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6h4zTgwF1ZIJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A6h4zTgwF1ZIJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=10580368449986567914&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "10580368449986567914",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=10580368449986567914&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6h4zTgwF1ZIJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Convolutional neural network based tea leaf disease prediction system on smart phone using paas cloud",
+      "result_id": "hJwDmrZKtFAJ",
+      "link": "https://link.springer.com/article/10.1007/s00521-022-07743-y",
+      "snippet": "Abstract Machine learning (ML) and cloud computing are modern and fast-growing areas across all domains of applications. In agriculture, automated detection and diagnosis of …",
+      "publication_info": {
+        "summary": "MG Lanjewar, KG Panchbhai - Neural Computing and Applications, 2023 - Springer",
+        "authors": [
+          {
+            "name": "MG Lanjewar",
+            "link": "https://scholar.google.com/citations?user=zAxjtukAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zAxjtukAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zAxjtukAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hJwDmrZKtFAJ",
+        "cited_by": {
+          "total": 21,
+          "link": "https://scholar.google.com/scholar?cites=5815355166970584196&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "5815355166970584196",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=5815355166970584196&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:hJwDmrZKtFAJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AhJwDmrZKtFAJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5815355166970584196&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "5815355166970584196",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=5815355166970584196&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Lightweight tea bud recognition network integrating GhostNet and YOLOv5",
+      "result_id": "-udc3ZKDuhsJ",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36654027/",
+      "snippet": "Aiming at the problems of low detection accuracy and slow speed caused by the complex background of tea sprouts and the small target size, this paper proposes a tea bud detection …",
+      "publication_info": {
+        "summary": "M Cao, H Fu, J Zhu, C Cai - Mathematical biosciences and …, 2022 - pubmed.ncbi.nlm.nih.gov"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-udc3ZKDuhsJ",
+        "cited_by": {
+          "total": 27,
+          "link": "https://scholar.google.com/scholar?cites=1998054051494553594&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "1998054051494553594",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=1998054051494553594&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-udc3ZKDuhsJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A-udc3ZKDuhsJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=1998054051494553594&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "1998054051494553594",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=1998054051494553594&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "An intelligent approach using boosted support vector machine based arithmetic optimization algorithm for accurate detection of plant leaf disease",
+      "result_id": "CQS1ApCZs44J",
+      "link": "https://link.springer.com/article/10.1007/s10044-022-01086-z",
+      "snippet": "Leaf disease is considered a serious threat which affects agricultural productivity and ultimately reduces the GDP of the Indian economy. The precise detection and timely …",
+      "publication_info": {
+        "summary": "M Prabu, BJ Chelliah - Pattern Analysis and Applications, 2023 - Springer",
+        "authors": [
+          {
+            "name": "BJ Chelliah",
+            "link": "https://scholar.google.com/citations?user=GykRcwkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GykRcwkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GykRcwkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CQS1ApCZs44J",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=10282731218016732169&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "10282731218016732169",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=10282731218016732169&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:CQS1ApCZs44J:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3ACQS1ApCZs44J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=10282731218016732169&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "10282731218016732169",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=10282731218016732169&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "PlaNet: a robust deep convolutional neural network model for plant leaves disease recognition",
+      "result_id": "0-jZWM6cikIJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-15809-9",
+      "snippet": "Researchers are looking for new ideas that can greatly increase the amount of food grown while also cutting costs. For precision agriculture to work, pests, weeds, and diseases must …",
+      "publication_info": {
+        "summary": "M Khanna, LK Singh, S Thawkar, M Goyal - Multimedia Tools and …, 2024 - Springer",
+        "authors": [
+          {
+            "name": "LK Singh",
+            "link": "https://scholar.google.com/citations?user=VwlHeMcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VwlHeMcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VwlHeMcAAAAJ"
+          },
+          {
+            "name": "S Thawkar",
+            "link": "https://scholar.google.com/citations?user=x-vkkxcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=x-vkkxcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x-vkkxcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0-jZWM6cikIJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=4794817163357186259&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "4794817163357186259",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=4794817163357186259&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0-jZWM6cikIJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A0-jZWM6cikIJ%3Ascholar.google.com%2F"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Portfolio formation and optimization with continuous realignment: a suggested method for choosing the best portfolio of stocks using variable length NSGA-II",
+      "result_id": "4E9CRVmsR4wJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S095741742101112X",
+      "snippet": "In this paper, we introduce a method of portfolio formation through vertical and horizontal clustering. The clustering algorithm incorporates sufficiently diversified number of stocks in …",
+      "publication_info": {
+        "summary": "R Pal, TD Chaudhuri, S Mukhopadhyay - Expert Systems with Applications, 2021 - Elsevier",
+        "authors": [
+          {
+            "name": "R Pal",
+            "link": "https://scholar.google.com/citations?user=6LikYjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6LikYjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6LikYjcAAAAJ"
+          },
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4E9CRVmsR4wJ",
+        "cited_by": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cites=10108237388070408160&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "10108237388070408160",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=10108237388070408160&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4E9CRVmsR4wJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A4E9CRVmsR4wJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=10108237388070408160&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "10108237388070408160",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=10108237388070408160&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Computer aided agriculture development for crop disease detection by segmentation and classification using deep learning architectures",
+      "result_id": "Mcu9czTKuOoJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0045790622005742",
+      "snippet": "The growth of the Indian economy is mainly based on agricultural production. A method for crop disease detection based on pre-processing and segmentation processes using filtering …",
+      "publication_info": {
+        "summary": "N Raj, S Perumal, S Singla, GK Sharma… - Computers and …, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "GK Sharma",
+            "link": "https://scholar.google.com/citations?user=Y4_XOP4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y4_XOP4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Y4_XOP4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Mcu9czTKuOoJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=16913490727218826033&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "16913490727218826033",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=16913490727218826033&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Mcu9czTKuOoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AMcu9czTKuOoJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=16913490727218826033&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "16913490727218826033",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=16913490727218826033&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A novel residual learning-based deep learning model integrated with attention mechanism and SVM for identifying tea plant diseases",
+      "result_id": "J8pafEAeOIEJ",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/1206212X.2023.2235750",
+      "snippet": "Tea is one of the most valuable crops in many tea-producing countries. However, tea plants are vulnerable to various diseases, which reduce tea production. Early diagnosis of …",
+      "publication_info": {
+        "summary": "M Nath, P Mitra, D Kumar - International Journal of Computers and …, 2023 - Taylor & Francis",
+        "authors": [
+          {
+            "name": "D Kumar",
+            "link": "https://scholar.google.com/citations?user=WiZS9kMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WiZS9kMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WiZS9kMAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=J8pafEAeOIEJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=9311225491901565479&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "9311225491901565479",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9311225491901565479&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:J8pafEAeOIEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AJ8pafEAeOIEJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=9311225491901565479&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "9311225491901565479",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=9311225491901565479&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Machine learning for leaf disease classification: data, techniques and applications",
+      "result_id": "M8J8jdgj9nUJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s10462-023-10610-4",
+      "snippet": "The growing demand for sustainable development brings a series of information technologies to help agriculture production. Especially, the emergence of machine learning …",
+      "publication_info": {
+        "summary": "J Yao, SN Tran, S Sawyer, S Garg - Artificial Intelligence Review, 2023 - Springer",
+        "authors": [
+          {
+            "name": "J Yao",
+            "link": "https://scholar.google.com/citations?user=xqMDw_4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xqMDw_4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xqMDw_4AAAAJ"
+          },
+          {
+            "name": "SN Tran",
+            "link": "https://scholar.google.com/citations?user=h82eCK8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h82eCK8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "h82eCK8AAAAJ"
+          },
+          {
+            "name": "S Garg",
+            "link": "https://scholar.google.com/citations?user=Npd4ZzgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Npd4ZzgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Npd4ZzgAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s10462-023-10610-4"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=M8J8jdgj9nUJ",
+        "html_version": "https://link.springer.com/article/10.1007/s10462-023-10610-4",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=8500020759702061619&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "8500020759702061619",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=8500020759702061619&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:M8J8jdgj9nUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AM8J8jdgj9nUJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=8500020759702061619&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "8500020759702061619",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=8500020759702061619&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Design and operation of a deep-learning-based fresh tea-leaf sorting robot",
+      "result_id": "PJAW0CYdyBwJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0168169923000522",
+      "snippet": "Tea is one of the most popular beverages worldwide. It is rich in substances, such as tea polyphenols and polysaccharides, that are closely related to human health. However, fresh …",
+      "publication_info": {
+        "summary": "X Zhang, Z Wu, C Cao, K Luo, K Qin, Y Huang… - … and Electronics in …, 2023 - Elsevier"
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Xuechen-Zhang-12/publication/368667060_Design_and_operation_of_a_deep-learning-based_fresh_tea-leaf_sorting_robot/links/63f485380cf1030a563dbb04/Design-and-operation-of-a-deep-learning-based-fresh-tea-leaf-sorting-robot.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=PJAW0CYdyBwJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=2073939680941215804&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "2073939680941215804",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=2073939680941215804&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:PJAW0CYdyBwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3APJAW0CYdyBwJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=2073939680941215804&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "2073939680941215804",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=2073939680941215804&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Multilevel thresholding for crop image segmentation based on recursive minimum cross entropy using a swarm-based technique",
+      "result_id": "_LpHYpcaLHIJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0168169922007967",
+      "snippet": "The segmentation of crop images is the most sought-after technology in the field of computer vision and pattern recognition. The multilevel thresholding (MLT) of crop images is a tedious …",
+      "publication_info": {
+        "summary": "A Kumar, A Kumar, A Vishwakarma… - Computers and Electronics …, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "A Kumar",
+            "link": "https://scholar.google.com/citations?user=ZSoIalcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZSoIalcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZSoIalcAAAAJ"
+          },
+          {
+            "name": "A Kumar",
+            "link": "https://scholar.google.com/citations?user=sW5cJ10AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sW5cJ10AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sW5cJ10AAAAJ"
+          },
+          {
+            "name": "A Vishwakarma",
+            "link": "https://scholar.google.com/citations?user=7zJ4VroAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7zJ4VroAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7zJ4VroAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_LpHYpcaLHIJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=8226979856790305532&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "8226979856790305532",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=8226979856790305532&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:_LpHYpcaLHIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A_LpHYpcaLHIJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=8226979856790305532&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "8226979856790305532",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=8226979856790305532&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Deep Learning for Plant Identification and Disease Classification from Leaf Images: Multi-prediction Approaches",
+      "result_id": "FHhlItMfGbkJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3639816",
+      "snippet": "Deep learning plays an important role in modern agriculture, especially in plant pathology using leaf images where convolutional neural networks (CNN) are attracting a lot of …",
+      "publication_info": {
+        "summary": "J Yao, SN Tran, S Garg, S Sawyer - ACM Computing Surveys, 2023 - dl.acm.org",
+        "authors": [
+          {
+            "name": "J Yao",
+            "link": "https://scholar.google.com/citations?user=xqMDw_4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xqMDw_4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xqMDw_4AAAAJ"
+          },
+          {
+            "name": "SN Tran",
+            "link": "https://scholar.google.com/citations?user=h82eCK8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h82eCK8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "h82eCK8AAAAJ"
+          },
+          {
+            "name": "S Garg",
+            "link": "https://scholar.google.com/citations?user=Npd4ZzgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Npd4ZzgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Npd4ZzgAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "acm.org",
+          "file_format": "PDF",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/3639816"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FHhlItMfGbkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:FHhlItMfGbkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AFHhlItMfGbkJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=13337726763110070292&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "13337726763110070292",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=13337726763110070292&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Tender Leaf Identification for Early-Spring Green Tea Based on Semi-Supervised Learning and Image Processing",
+      "result_id": "HLZ6ZKAjnswJ",
+      "link": "https://www.mdpi.com/2073-4395/12/8/1958",
+      "snippet": "Tea is one of the most common beverages in the world. Automated machinery that is suitable for plucking high-quality green tea is necessary for tea plantations and the …",
+      "publication_info": {
+        "summary": "J Yang, Y Chen - Agronomy, 2022 - mdpi.com"
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2073-4395/12/8/1958/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HLZ6ZKAjnswJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=14744261401845085724&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "14744261401845085724",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=14744261401845085724&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HLZ6ZKAjnswJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AHLZ6ZKAjnswJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=14744261401845085724&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "14744261401845085724",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=14744261401845085724&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:HLZ6ZKAjnswJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 7,
+      "title": "An improved segmentation technique for multilevel thresholding of crop image using cuckoo search algorithm based on recursive minimum cross entropy",
+      "result_id": "JaDlSIEGB-4J",
+      "link": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/sil2.12148",
+      "snippet": "Crop image segmentation is widely used for the analysis of crops. A wide variety of crops are present in the agriculture field, which varies in intensity and complex backgrounds. The …",
+      "publication_info": {
+        "summary": "A Kumar, A Kumar, A Vishwakarma… - IET Signal …, 2022 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "A Kumar",
+            "link": "https://scholar.google.com/citations?user=ZqaQIcoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZqaQIcoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZqaQIcoAAAAJ"
+          },
+          {
+            "name": "A Kumar",
+            "link": "https://scholar.google.com/citations?user=Xqz4P2AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xqz4P2AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Xqz4P2AAAAAJ"
+          },
+          {
+            "name": "A Vishwakarma",
+            "link": "https://scholar.google.com/citations?user=7zJ4VroAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7zJ4VroAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7zJ4VroAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "wiley.com",
+          "file_format": "PDF",
+          "link": "https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/sil2.12148"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:JaDlSIEGB-4J:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34&scillfp=2328545235365037127&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JaDlSIEGB-4J",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=17151684858207379493&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "17151684858207379493",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=17151684858207379493&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:JaDlSIEGB-4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AJaDlSIEGB-4J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17151684858207379493&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "17151684858207379493",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=17151684858207379493&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Artificial intelligence-based detection of fava bean rust disease in agricultural settings: an innovative approach",
+      "result_id": "q6wtCDVja6QJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Hicham-Slimani/publication/372179959_Artificial_Intelligence-based_Detection_of_Fava_Bean_Rust_Disease_in_Agricultural_Settings_An_Innovative_Approach/links/650a33ad82f01628f032d322/Artificial-Intelligence-based-Detection-of-Fava-Bean-Rust-Disease-in-Agricultural-Settings-An-Innovative-Approach.pdf",
+      "snippet": "The traditional methods used to identify plant diseases mostly rely on expert opinion, which causes long waits and enormous expenses in the control of crop diseases and field …",
+      "publication_info": {
+        "summary": "H Slimani, J El Mhamdi, A Jilbab - International Journal of …, 2023 - researchgate.net",
+        "authors": [
+          {
+            "name": "H Slimani",
+            "link": "https://scholar.google.com/citations?user=-mQ2CZkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-mQ2CZkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-mQ2CZkAAAAJ"
+          },
+          {
+            "name": "J El Mhamdi",
+            "link": "https://scholar.google.com/citations?user=kD1vGUMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kD1vGUMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kD1vGUMAAAAJ"
+          },
+          {
+            "name": "A Jilbab",
+            "link": "https://scholar.google.com/citations?user=c4NhQpsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=c4NhQpsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "c4NhQpsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Hicham-Slimani/publication/372179959_Artificial_Intelligence-based_Detection_of_Fava_Bean_Rust_Disease_in_Agricultural_Settings_An_Innovative_Approach/links/650a33ad82f01628f032d322/Artificial-Intelligence-based-Detection-of-Fava-Bean-Rust-Disease-in-Agricultural-Settings-An-Innovative-Approach.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=q6wtCDVja6QJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=11847672324149849259&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "11847672324149849259",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=11847672324149849259&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:q6wtCDVja6QJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3Aq6wtCDVja6QJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=11847672324149849259&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "11847672324149849259",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=11847672324149849259&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:q6wtCDVja6QJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 9,
+      "title": "An improved YOLOv5-based tapping trajectory detection method for natural rubber trees",
+      "result_id": "aEzxivN5gz0J",
+      "link": "https://www.mdpi.com/2077-0472/12/9/1309",
+      "snippet": "The object detection algorithm is one of the core technologies of the intelligent rubber tapping robot, but most of the existing detection algorithms cannot effectively meet the …",
+      "publication_info": {
+        "summary": "Z Sun, H Yang, Z Zhang, J Liu, X Zhang - Agriculture, 2022 - mdpi.com"
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2077-0472/12/9/1309/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aEzxivN5gz0J",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=4432520545177783400&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "4432520545177783400",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=4432520545177783400&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aEzxivN5gz0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AaEzxivN5gz0J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=4432520545177783400&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "4432520545177783400",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=4432520545177783400&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:aEzxivN5gz0J:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Tea leaf disease detection and identification based on YOLOv7 (YOLO-T)",
+      "result_id": "a8T8XInhpWIJ",
+      "type": "Html",
+      "link": "https://www.nature.com/articles/s41598-023-33270-4",
+      "snippet": "A reliable and accurate diagnosis and identification system is required to prevent and manage tea leaf diseases. Tea leaf diseases are detected manually, increasing time and …",
+      "publication_info": {
+        "summary": "MJA Soeb, MF Jubayer, TA Tarin, MR Al Mamun… - Scientific reports, 2023 - nature.com",
+        "authors": [
+          {
+            "name": "MJA Soeb",
+            "link": "https://scholar.google.com/citations?user=-5cOd1EAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-5cOd1EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-5cOd1EAAAAJ"
+          },
+          {
+            "name": "MF Jubayer",
+            "link": "https://scholar.google.com/citations?user=HdWnC2oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HdWnC2oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HdWnC2oAAAAJ"
+          },
+          {
+            "name": "MR Al Mamun",
+            "link": "https://scholar.google.com/citations?user=fVuqrVgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fVuqrVgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fVuqrVgAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nature.com",
+          "file_format": "HTML",
+          "link": "https://www.nature.com/articles/s41598-023-33270-4"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=a8T8XInhpWIJ",
+        "html_version": "https://www.nature.com/articles/s41598-023-33270-4",
+        "cited_by": {
+          "total": 21,
+          "link": "https://scholar.google.com/scholar?cites=7108335566961034347&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7108335566961034347",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7108335566961034347&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:a8T8XInhpWIJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3Aa8T8XInhpWIJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=7108335566961034347&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7108335566961034347",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7108335566961034347&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Automatic detection of diseases in leaves of medicinal plants using modified logistic regression algorithm",
+      "result_id": "P0qkc3f0C5AJ",
+      "link": "https://link.springer.com/article/10.1007/s11277-023-10555-5",
+      "snippet": "Medicinal plants are now more widely used by people than ever before, and are used in food products, cosmetics, religious deities, and especially in medical treatments. In …",
+      "publication_info": {
+        "summary": "T Meenakshi - Wireless Personal Communications, 2023 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=P0qkc3f0C5AJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=10379658560083872319&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "10379658560083872319",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10379658560083872319&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:P0qkc3f0C5AJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AP0qkc3f0C5AJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=10379658560083872319&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "10379658560083872319",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=10379658560083872319&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Domain Generalization for Crop Segmentation with Knowledge Distillation",
+      "result_id": "z83aS_qQjoQJ",
+      "link": "https://arxiv.org/abs/2304.01029",
+      "snippet": "In recent years, precision agriculture has gradually oriented farming closer to automation processes to support all the activities related to field management. Service robotics plays a …",
+      "publication_info": {
+        "summary": "S Angarano, M Martini, A Navone… - arXiv preprint arXiv …, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "S Angarano",
+            "link": "https://scholar.google.com/citations?user=OtQ7O7QAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OtQ7O7QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OtQ7O7QAAAAJ"
+          },
+          {
+            "name": "M Martini",
+            "link": "https://scholar.google.com/citations?user=BIDUZq0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BIDUZq0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BIDUZq0AAAAJ"
+          },
+          {
+            "name": "A Navone",
+            "link": "https://scholar.google.com/citations?user=PPBQ8YAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PPBQ8YAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PPBQ8YAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2304.01029"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=z83aS_qQjoQJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=9551731264388255183&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "9551731264388255183",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9551731264388255183&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:z83aS_qQjoQJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3Az83aS_qQjoQJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=9551731264388255183&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "9551731264388255183",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=9551731264388255183&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:z83aS_qQjoQJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Performance analysis of segmentation models to detect leaf diseases in tomato plant",
+      "result_id": "rMvzQRm4m84J",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-16238-4",
+      "snippet": "In agriculture around 22% of crop yield loss is due to living and non-living organisms such as biotic and abiotic stress/disease. The early-stage diagnosis of these stresses is an …",
+      "publication_info": {
+        "summary": "P Kaur, S Harnal, V Gautam, MP Singh… - Multimedia Tools and …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "P Kaur",
+            "link": "https://scholar.google.com/citations?user=1ywGdWkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1ywGdWkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1ywGdWkAAAAJ"
+          },
+          {
+            "name": "S Harnal",
+            "link": "https://scholar.google.com/citations?user=JGy-OJYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JGy-OJYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JGy-OJYAAAAJ"
+          },
+          {
+            "name": "V Gautam",
+            "link": "https://scholar.google.com/citations?user=usUG7PYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=usUG7PYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "usUG7PYAAAAJ"
+          },
+          {
+            "name": "MP Singh",
+            "link": "https://scholar.google.com/citations?user=5Jfcy6MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5Jfcy6MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5Jfcy6MAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rMvzQRm4m84J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=14887695411823496108&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "14887695411823496108",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14887695411823496108&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rMvzQRm4m84J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3ArMvzQRm4m84J%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Mango Leaf Stress Identification Using Deep Neural Network.",
+      "result_id": "bSH7Bqdjh6UJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Vinay-Gautam-9/publication/360364260_Mango_Leaf_Stress_Identification_Using_Deep_Neural_Network/links/6384db437b0e356feb92cceb/Mango-Leaf-Stress-Identification-Using-Deep-Neural-Network.pdf",
+      "snippet": "Mango is a widely growing and consumable fruit crop. The quantity and quality of production are most important to satisfy the needs of the huge population. Numerous research has …",
+      "publication_info": {
+        "summary": "V Gautam, J Rani - Intelligent Automation & Soft Computing, 2022 - researchgate.net",
+        "authors": [
+          {
+            "name": "V Gautam",
+            "link": "https://scholar.google.com/citations?user=usUG7PYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=usUG7PYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "usUG7PYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Vinay-Gautam-9/publication/360364260_Mango_Leaf_Stress_Identification_Using_Deep_Neural_Network/links/6384db437b0e356feb92cceb/Mango-Leaf-Stress-Identification-Using-Deep-Neural-Network.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bSH7Bqdjh6UJ",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=11927611707141857645&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "11927611707141857645",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11927611707141857645&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:bSH7Bqdjh6UJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AbSH7Bqdjh6UJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=11927611707141857645&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "11927611707141857645",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11927611707141857645&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:bSH7Bqdjh6UJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Systematic study on deep learning-based plant disease detection or classification",
+      "result_id": "Px7xbLRmP9kJ",
+      "link": "https://link.springer.com/article/10.1007/s10462-023-10517-0",
+      "snippet": "Plant diseases impact extensively on agricultural production growth. It results in a price hike on food grains and vegetables. To reduce economic loss and to predict yield loss, early …",
+      "publication_info": {
+        "summary": "CK Sunil, CD Jaidhar, N Patil - Artificial Intelligence Review, 2023 - Springer",
+        "authors": [
+          {
+            "name": "CK Sunil",
+            "link": "https://scholar.google.com/citations?user=3el_vnsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3el_vnsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3el_vnsAAAAJ"
+          },
+          {
+            "name": "CD Jaidhar",
+            "link": "https://scholar.google.com/citations?user=1gCq_eAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1gCq_eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1gCq_eAAAAAJ"
+          },
+          {
+            "name": "N Patil",
+            "link": "https://scholar.google.com/citations?user=e6JJVooAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=e6JJVooAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "e6JJVooAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Px7xbLRmP9kJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Px7xbLRmP9kJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3APx7xbLRmP9kJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 6,
+      "title": "DELM: Deep Ensemble Learning Model for Multiclass Classification of Super-Resolution Leaf Disease Images",
+      "result_id": "0m9MlZBMRmQJ",
+      "type": "Pdf",
+      "link": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3122&context=agriculture",
+      "snippet": "Tomato plant leaf diseases are the main risk factor for plant growth. Detection of diseases at the initial stage is the main and most complex task for farmers due to common morphological …",
+      "publication_info": {
+        "summary": "P KAUR, MP SINGH, AM MISHRA… - Turkish Journal of …, 2023 - journals.tubitak.gov.tr",
+        "authors": [
+          {
+            "name": "P KAUR",
+            "link": "https://scholar.google.com/citations?user=1ywGdWkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1ywGdWkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1ywGdWkAAAAJ"
+          },
+          {
+            "name": "MP SINGH",
+            "link": "https://scholar.google.com/citations?user=5Jfcy6MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5Jfcy6MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5Jfcy6MAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "tubitak.gov.tr",
+          "file_format": "PDF",
+          "link": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3122&context=agriculture"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0m9MlZBMRmQJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=7225546836026355666&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7225546836026355666",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7225546836026355666&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0m9MlZBMRmQJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A0m9MlZBMRmQJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7225546836026355666&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7225546836026355666",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7225546836026355666&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Prediction of maize leaf disease detection to improve crop yield using machine learning based models",
+      "result_id": "tHtzdUFSTKQJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9782023/",
+      "snippet": "In India, agricultural crops such as rice, wheat, cotton and maize are largely produced, which leads to a rise in the Indian economy, where most Indian people are largely dependent on …",
+      "publication_info": {
+        "summary": "R Kilaru, KM Raju - … Conference on Recent Trends in Computer …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "KM Raju",
+            "link": "https://scholar.google.com/citations?user=NS6ztP8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NS6ztP8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NS6ztP8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tHtzdUFSTKQJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=11838927961547045812&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "11838927961547045812",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11838927961547045812&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:tHtzdUFSTKQJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AtHtzdUFSTKQJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 8,
+      "title": "ESDNN: A novel ensembled stack deep neural network for mango leaf disease classification and detection",
+      "result_id": "iOaz0iX7XNsJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-16012-6",
+      "snippet": "The mango crop production and quality are affected by several factors. Plant disease is one of the prime factors that impact crop yield. The disease impacts all parts of plants such as …",
+      "publication_info": {
+        "summary": "V Gautam, RK Ranjan, P Dahiya, A Kumar - Multimedia Tools and …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "V Gautam",
+            "link": "https://scholar.google.com/citations?user=usUG7PYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=usUG7PYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "usUG7PYAAAAJ"
+          },
+          {
+            "name": "RK Ranjan",
+            "link": "https://scholar.google.com/citations?user=Cd82pCYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Cd82pCYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Cd82pCYAAAAJ"
+          },
+          {
+            "name": "P Dahiya",
+            "link": "https://scholar.google.com/citations?user=Ky7urboAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ky7urboAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ky7urboAAAAJ"
+          },
+          {
+            "name": "A Kumar",
+            "link": "https://scholar.google.com/citations?user=nBA-Mb0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nBA-Mb0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nBA-Mb0AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iOaz0iX7XNsJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=15806784932030965384&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "15806784932030965384",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15806784932030965384&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:iOaz0iX7XNsJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AiOaz0iX7XNsJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 9,
+      "title": "A review on the application of computer vision and machine learning in the tea industry",
+      "result_id": "fNm7AbpAsMwJ",
+      "type": "Html",
+      "link": "https://www.frontiersin.org/articles/10.3389/fsufs.2023.1172543/full",
+      "snippet": "Tea is rich in polyphenols, vitamins, and protein, which is good for health and tastes great. As a result, tea is very popular and has become the second most popular beverage in the …",
+      "publication_info": {
+        "summary": "H Wang, J Gu, M Wang - Frontiers in Sustainable Food Systems, 2023 - frontiersin.org"
+      },
+      "resources": [
+        {
+          "title": "frontiersin.org",
+          "file_format": "HTML",
+          "link": "https://www.frontiersin.org/articles/10.3389/fsufs.2023.1172543/full"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fNm7AbpAsMwJ",
+        "html_version": "https://www.frontiersin.org/articles/10.3389/fsufs.2023.1172543/full",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=14749359947275557244&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "14749359947275557244",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14749359947275557244&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:fNm7AbpAsMwJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AfNm7AbpAsMwJ%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:fNm7AbpAsMwJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 0,
+      "title": "A novel approach for the detection of tea leaf disease using deep neural network",
+      "result_id": "lfon1jkL0VgJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S187705092300203X",
+      "snippet": "India is among the biggest tea exporter in the world. However, tea leaf diseases caused by persistent pathogen exposure result in considerable crop yield losses around the world …",
+      "publication_info": {
+        "summary": "S Datta, N Gupta - Procedia Computer Science, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "N Gupta",
+            "link": "https://scholar.google.com/citations?user=WvQ8HogAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WvQ8HogAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WvQ8HogAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "PDF",
+          "link": "https://www.sciencedirect.com/science/article/pii/S187705092300203X/pdf?md5=5d5d72e008456731b33550da63752b72&pid=1-s2.0-S187705092300203X-main.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lfon1jkL0VgJ",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=6399908888504171157&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "6399908888504171157",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=6399908888504171157&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:lfon1jkL0VgJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3Alfon1jkL0VgJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=6399908888504171157&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "6399908888504171157",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=6399908888504171157&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A leaf disease classification model in betel vine using machine learning techniques",
+      "result_id": "y8UyOr8CdN0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9331142/",
+      "snippet": "Betel vine leaves diseases caused by regular endangerment to bacteria which causes a huge yield loss globally. Machine learning, the latest breakthrough in computer vision, is …",
+      "publication_info": {
+        "summary": "MZ Hasan, N Zeba, MA Malek… - 2021 2nd International …, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "MZ Hasan",
+            "link": "https://scholar.google.com/citations?user=NcOmrd4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NcOmrd4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NcOmrd4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=y8UyOr8CdN0J",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=15957382400018925003&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "15957382400018925003",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=15957382400018925003&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:y8UyOr8CdN0J:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3Ay8UyOr8CdN0J%3Ascholar.google.com%2F&start=30"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Grey Blight Disease Detection on Tea Leaves Using Improved Deep Convolutional Neural Network",
+      "result_id": "nFF1ZYMaVyoJ",
+      "type": "Html",
+      "link": "https://www.hindawi.com/journals/cin/2023/7876302/",
+      "snippet": "We proposed a novel deep convolutional neural network (DCNN) using inverted residuals and linear bottleneck layers for diagnosing grey blight disease on tea leaves. The proposed …",
+      "publication_info": {
+        "summary": "JA Pandian, SN Nisha, K Kanchanadevi… - Computational …, 2023 - hindawi.com",
+        "authors": [
+          {
+            "name": "JA Pandian",
+            "link": "https://scholar.google.com/citations?user=Lt94FW0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Lt94FW0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Lt94FW0AAAAJ"
+          },
+          {
+            "name": "SN Nisha",
+            "link": "https://scholar.google.com/citations?user=bVsigkMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bVsigkMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bVsigkMAAAAJ"
+          },
+          {
+            "name": "K Kanchanadevi",
+            "link": "https://scholar.google.com/citations?user=MAyyl38AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MAyyl38AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MAyyl38AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hindawi.com",
+          "file_format": "HTML",
+          "link": "https://www.hindawi.com/journals/cin/2023/7876302/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nFF1ZYMaVyoJ",
+        "html_version": "https://www.hindawi.com/journals/cin/2023/7876302/",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=3050936424212025756&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "3050936424212025756",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=3050936424212025756&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nFF1ZYMaVyoJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AnFF1ZYMaVyoJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=3050936424212025756&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "3050936424212025756",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=3050936424212025756&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:nFF1ZYMaVyoJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 3,
+      "title": "An Automatic-Segmentation-and Hyper-Parameter-Optimization-Based Artificial Rabbits Algorithm for Leaf Disease Classification",
+      "result_id": "xEq1cZq4sysJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2313-7673/8/5/438",
+      "snippet": "In recent years, disease attacks have posed continuous threats to agriculture and caused substantial losses in the economy. Thus, early detection and classification could minimize …",
+      "publication_info": {
+        "summary": "IR Khan, MS Sangari, PK Shukla, A Aleryani… - Biomimetics, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "IR Khan",
+            "link": "https://scholar.google.com/citations?user=tu31W0MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tu31W0MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tu31W0MAAAAJ"
+          },
+          {
+            "name": "MS Sangari",
+            "link": "https://scholar.google.com/citations?user=W6vEljEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=W6vEljEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "W6vEljEAAAAJ"
+          },
+          {
+            "name": "PK Shukla",
+            "link": "https://scholar.google.com/citations?user=OsI4tysAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OsI4tysAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OsI4tysAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2313-7673/8/5/438"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xEq1cZq4sysJ",
+        "html_version": "https://www.mdpi.com/2313-7673/8/5/438",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xEq1cZq4sysJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AxEq1cZq4sysJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=3149063537934289604&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "3149063537934289604",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=3149063537934289604&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xEq1cZq4sysJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 4,
+      "title": "MACHINE LEARNING TECHNIQUES IN PLANT DISEASE DETECTION AND CLASSIFICATION-A STATE OF THE ART.",
+      "result_id": "djLyU7lRffwJ",
+      "type": "Pdf",
+      "link": "https://api.inmateh.eu/public/uploads/65-38-N504-Sreya-John8f447c1c-fb14-4df9-9937-c2df4bf7fc7f.pdf",
+      "snippet": "As we belong to a developing country, the agricultural importance is a known criterion. Majority of the Indians depend on agriculture for their basic living. It also serves as the …",
+      "publication_info": {
+        "summary": "S John, AL Rose - INMATEH-Agricultural Engineering, 2021 - api.inmateh.eu",
+        "authors": [
+          {
+            "name": "S John",
+            "link": "https://scholar.google.com/citations?user=ziV1_BAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ziV1_BAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ziV1_BAAAAAJ"
+          },
+          {
+            "name": "AL Rose",
+            "link": "https://scholar.google.com/citations?user=aipaW2cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aipaW2cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aipaW2cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "inmateh.eu",
+          "file_format": "PDF",
+          "link": "https://api.inmateh.eu/public/uploads/65-38-N504-Sreya-John8f447c1c-fb14-4df9-9937-c2df4bf7fc7f.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=djLyU7lRffwJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=18193787926065853046&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "18193787926065853046",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=18193787926065853046&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:djLyU7lRffwJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AdjLyU7lRffwJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=18193787926065853046&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "18193787926065853046",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=18193787926065853046&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:djLyU7lRffwJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 5,
+      "title": "A study and comparison of deep learning based potato leaf disease detection and classification techniques using explainable AI",
+      "result_id": "sowh0--sSAsJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-17235-3",
+      "snippet": "The goal of artificial intelligence (AI), a field with a solid scientific foundation, is to enable machines to simulate human intelligence and problem-solving abilities. AI focuses on the …",
+      "publication_info": {
+        "summary": "H Paul, S Ghatak, S Chakraborty, SK Pandey… - Multimedia Tools and …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "S Chakraborty",
+            "link": "https://scholar.google.com/citations?user=vtUt3S4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vtUt3S4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vtUt3S4AAAAJ"
+          },
+          {
+            "name": "SK Pandey",
+            "link": "https://scholar.google.com/citations?user=r-H2lhIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=r-H2lhIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "r-H2lhIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sowh0--sSAsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:sowh0--sSAsJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3Asowh0--sSAsJ%3Ascholar.google.com%2F&start=30"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Multiclass variance based variational decomposition system for image segmentation",
+      "result_id": "Nn2p6X0R5tsJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-14593-w",
+      "snippet": "Thresholding-based approaches are widely used for image segmentation due to their low computational cost and complexity and ease of implementation. We proposed a novel …",
+      "publication_info": {
+        "summary": "N Singh, AK Bhandari - Multimedia Tools and Applications, 2023 - Springer",
+        "authors": [
+          {
+            "name": "N Singh",
+            "link": "https://scholar.google.com/citations?user=fF9SC4EAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fF9SC4EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fF9SC4EAAAAJ"
+          },
+          {
+            "name": "AK Bhandari",
+            "link": "https://scholar.google.com/citations?user=rYxRC7UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rYxRC7UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rYxRC7UAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Nn2p6X0R5tsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Nn2p6X0R5tsJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3ANn2p6X0R5tsJ%3Ascholar.google.com%2F&start=30"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Res4net-CBAM: a deep cnn with convolution block attention module for tea leaf disease diagnosis",
+      "result_id": "LyCxUNXga88J",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-17472-6",
+      "snippet": "Early detection of tea leaf diseases is crucial for maintaining crop yield and agricultural production. However, manual inspection is a time-consuming and error-prone process …",
+      "publication_info": {
+        "summary": "P Bhuyan, PK Singh, SK Das - Multimedia Tools and Applications, 2023 - Springer",
+        "authors": [
+          {
+            "name": "P Bhuyan",
+            "link": "https://scholar.google.com/citations?user=X5zc0mEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=X5zc0mEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "X5zc0mEAAAAJ"
+          },
+          {
+            "name": "PK Singh",
+            "link": "https://scholar.google.com/citations?user=B5TQgRcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=B5TQgRcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "B5TQgRcAAAAJ"
+          },
+          {
+            "name": "SK Das",
+            "link": "https://scholar.google.com/citations?user=Ur8ZPKkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ur8ZPKkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ur8ZPKkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LyCxUNXga88J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:LyCxUNXga88J:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3ALyCxUNXga88J%3Ascholar.google.com%2F&start=30"
+      }
+    },
+    {
+      "position": 8,
+      "title": "YR2S: Efficient Deep Learning Technique for Detecting and Classifying Plant Leaf Diseases",
+      "result_id": "qVglU2gHRHoJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10360826/",
+      "snippet": "Most plant diseases have observable symptoms, and the widely used approach to recognize plant leaf disease is by visually examining the affected plant leaves. A model that might …",
+      "publication_info": {
+        "summary": "C Madhurya, EA Jubilson - IEEE Access, 2023 - ieeexplore.ieee.org"
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/10360826.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qVglU2gHRHoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:qVglU2gHRHoJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AqVglU2gHRHoJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=8810174915696482473&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "8810174915696482473",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=8810174915696482473&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "A new AI-based approach for automatic identification of tea leaf disease using deep neural network based on hybrid pooling",
+      "result_id": "AN8Xh5CS-2kJ",
+      "type": "Html",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2405844024024964",
+      "snippet": "The degree of production efficiency and the quality of the commodities produced may both be directly impacted by the presence of illnesses in tea leaves. These days, this procedure …",
+      "publication_info": {
+        "summary": "Q Heng, S Yu, Y Zhang - Heliyon, 2024 - Elsevier"
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "HTML",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2405844024024964"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AN8Xh5CS-2kJ",
+        "html_version": "https://www.sciencedirect.com/science/article/pii/S2405844024024964",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:AN8Xh5CS-2kJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AAN8Xh5CS-2kJ%3Ascholar.google.com%2F&start=30"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Applications of CNN in leaf diseases: A critical survey",
+      "result_id": "fsA2734Q29MJ",
+      "link": "https://www.itm-conferences.org/articles/itmconf/abs/2023/04/itmconf_I3cs2023_01014/itmconf_I3cs2023_01014.html",
+      "snippet": "Crop diseases can significantly impact crop yield and overall productivity, posing challenges for farmers in increasing output and market prices. Early detection of these diseases is …",
+      "publication_info": {
+        "summary": "LV Satyanarayana, DC Rao - ITM Web of Conferences, 2023 - itm-conferences.org"
+      },
+      "resources": [
+        {
+          "title": "itm-conferences.org",
+          "file_format": "PDF",
+          "link": "https://www.itm-conferences.org/articles/itmconf/pdf/2023/04/itmconf_I3cs2023_01014.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fsA2734Q29MJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=15265813499267694718&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "15265813499267694718",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15265813499267694718&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:fsA2734Q29MJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AfsA2734Q29MJ%3Ascholar.google.com%2F&start=40"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Improved Plant Disease Detection Techniques using Convolutional Neural Networks: A Survey",
+      "result_id": "GUcIveUl5VoJ",
+      "link": "https://journal.ijresm.com/index.php/ijresm/article/view/1951",
+      "snippet": "Predicting and detection of plant disease has always been a very serious problem faced in agricultural field. People with low financial backgrounds cannot bear the expenses of …",
+      "publication_info": {
+        "summary": "D Kumari, HJ Bharath, J Srivastava… - … Journal of Research …, 2022 - journal.ijresm.com"
+      },
+      "resources": [
+        {
+          "title": "ijresm.com",
+          "file_format": "PDF",
+          "link": "https://journal.ijresm.com/index.php/ijresm/article/download/1951/1891"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GUcIveUl5VoJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=6549682901729429273&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "6549682901729429273",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6549682901729429273&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GUcIveUl5VoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AGUcIveUl5VoJ%3Ascholar.google.com%2F&start=40",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:GUcIveUl5VoJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Tea Bud Recognition Based on Machine Learning",
+      "result_id": "5cfaAv1DtWMJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9902610/",
+      "snippet": "Due to the low efficiency and high cost of manual tea picking, as well as the development and application of machine vision and image recognition technology, the mechanization and …",
+      "publication_info": {
+        "summary": "G Wang, Z Wang, Y Zhao… - 2022 41st Chinese Control …, 2022 - ieeexplore.ieee.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5cfaAv1DtWMJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=7184723534493173733&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7184723534493173733",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7184723534493173733&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5cfaAv1DtWMJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A5cfaAv1DtWMJ%3Ascholar.google.com%2F&start=40"
+      }
+    },
+    {
+      "position": 3,
+      "title": "vCrop: an automated plant disease prediction using deep ensemble framework using real field images",
+      "result_id": "xbEQldxlNX8J",
+      "link": "https://link.springer.com/article/10.1007/s12046-022-02041-8",
+      "snippet": "Plant disease monitoring and management are essential for ensuring reliable and lucrative crop production in all kinds of plantations and guaranteeing sustainable agriculture …",
+      "publication_info": {
+        "summary": "KL Ramanadham, N Savarimuthu - Sādhanā, 2022 - Springer",
+        "authors": [
+          {
+            "name": "N Savarimuthu",
+            "link": "https://scholar.google.com/citations?user=KRyal9cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KRyal9cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KRyal9cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ias.ac.in",
+          "file_format": "PDF",
+          "link": "https://www.ias.ac.in/article/fulltext/sadh/047/0268"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xbEQldxlNX8J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=9166344614650622405&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "9166344614650622405",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9166344614650622405&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xbEQldxlNX8J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AxbEQldxlNX8J%3Ascholar.google.com%2F&start=40",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=9166344614650622405&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "9166344614650622405",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=9166344614650622405&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Automated G-4 Disease Identification Agricultural Intelligent System: An impression and survey",
+      "result_id": "nZ45Is7eeVYJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9754145/",
+      "snippet": "Detection of diseases in plants in the preliminary phase is crucial to achieve management and control of the disease. This requires specialists with the skill set to distinguish the …",
+      "publication_info": {
+        "summary": "SDCSE Araujo, VS Malemathh… - 2022 2nd International …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "SDCSE Araujo",
+            "link": "https://scholar.google.com/citations?user=3loEn68AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3loEn68AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3loEn68AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nZ45Is7eeVYJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=6231256536362622621&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "6231256536362622621",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6231256536362622621&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nZ45Is7eeVYJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AnZ45Is7eeVYJ%3Ascholar.google.com%2F&start=40"
+      }
+    },
+    {
+      "position": 5,
+      "title": "TeaDiseaseNet: multi-scale self-attentive tea disease detection",
+      "result_id": "yCMfcMEvhosJ",
+      "type": "Html",
+      "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1257212",
+      "snippet": "Accurate detection of tea diseases is essential for optimizing tea yield and quality, improving production, and minimizing economic losses. In this paper, we introduce TeaDiseaseNet, a …",
+      "publication_info": {
+        "summary": "Y Sun, F Wu, H Guo, R Li - Frontiers in Plant Science, 2023 - frontiersin.org"
+      },
+      "resources": [
+        {
+          "title": "frontiersin.org",
+          "file_format": "HTML",
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1257212"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=yCMfcMEvhosJ",
+        "html_version": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1257212",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:yCMfcMEvhosJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AyCMfcMEvhosJ%3Ascholar.google.com%2F&start=40",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=10053775726007493576&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "10053775726007493576",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=10053775726007493576&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:yCMfcMEvhosJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Edge Directed Radial Basis Function based Interpolation Towards PCA based PAN-sharpening",
+      "result_id": "wdQdkPSFumwJ",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/01431161.2021.1981560",
+      "snippet": "In this research, we proposed a new PAN-sharpening algorithm by using edge-directed Gaussian Radial Basis Function (RBF) and Principal Component Analysis (PCA). Up …",
+      "publication_info": {
+        "summary": "R Pal, H Begum, S Mukhopadhyay… - … Journal of Remote …, 2021 - Taylor & Francis",
+        "authors": [
+          {
+            "name": "R Pal",
+            "link": "https://scholar.google.com/citations?user=6LikYjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6LikYjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6LikYjcAAAAJ"
+          },
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wdQdkPSFumwJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=7834721787200787649&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7834721787200787649",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7834721787200787649&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wdQdkPSFumwJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AwdQdkPSFumwJ%3Ascholar.google.com%2F&start=40",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7834721787200787649&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7834721787200787649",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7834721787200787649&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Evaluating Deep CNNs and Vision Transformers for Plant Leaf Disease Classification",
+      "result_id": "XILXuwX0ZCkJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-50583-6_20",
+      "snippet": "The foundation of each nation's economy has always been agriculture and related sectors. Smart Agriculture is the most recent hot research topic because of its usefulness in different …",
+      "publication_info": {
+        "summary": "P Bhuyan, PK Singh - International Conference on Distributed Computing …, 2024 - Springer",
+        "authors": [
+          {
+            "name": "P Bhuyan",
+            "link": "https://scholar.google.com/citations?user=X5zc0mEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=X5zc0mEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "X5zc0mEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XILXuwX0ZCkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:XILXuwX0ZCkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AXILXuwX0ZCkJ%3Ascholar.google.com%2F&start=40",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2982777158689587804&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "2982777158689587804",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=2982777158689587804&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "A Robust and Accurate Potato Leaf Disease Detection System Using Modified AlexNet Model",
+      "result_id": "5a9EH_UzM-oJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10246064/",
+      "snippet": "This research addresses the economic and ecological losses caused by diseases that damage potato leaves, such as Late Blight, Early Blight, Septoria leaf spots, curly leaves …",
+      "publication_info": {
+        "summary": "A Bajpai, M Tyagi, M Khare… - 2023 9th International …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "A Bajpai",
+            "link": "https://scholar.google.com/citations?user=0Dn-kvQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0Dn-kvQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0Dn-kvQAAAAJ"
+          },
+          {
+            "name": "M Khare",
+            "link": "https://scholar.google.com/citations?user=01GxUGIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=01GxUGIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "01GxUGIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Abhishek-Bajpai-3/publication/373969650_A_Robust_and_Accurate_Potato_Leaf_Disease_Detection_System_Using_Modified_AlexNet_Model/links/6508957d61f18040c20b653a/A-Robust-and-Accurate-Potato-Leaf-Disease-Detection-System-Using-Modified-AlexNet-Model.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5a9EH_UzM-oJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5a9EH_UzM-oJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A5a9EH_UzM-oJ%3Ascholar.google.com%2F&start=40",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=16875889356571979749&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "16875889356571979749",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16875889356571979749&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "An intelligent convolution based graph cut segmentation for potato leaf disease severity prediction",
+      "result_id": "5hYN_dq0ZFQJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-16718-7",
+      "snippet": "Nowadays, all survival applications are digitalized by smart facilities. Hence, potato leaves disease prediction is considered for this study. Several imaging models and intelligent …",
+      "publication_info": {
+        "summary": "A Rapaka - Multimedia Tools and Applications, 2023 - Springer",
+        "authors": [
+          {
+            "name": "A Rapaka",
+            "link": "https://scholar.google.com/citations?user=PIUpVxQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PIUpVxQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PIUpVxQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "archive.org",
+          "file_format": "PDF",
+          "link": "https://scholar.archive.org/work/6tu2salfofa7dpzrcelcnpfq34/access/wayback/https://assets.researchsquare.com/files/rs-1722231/v1_covered.pdf?c=1654545019"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5hYN_dq0ZFQJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5hYN_dq0ZFQJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A5hYN_dq0ZFQJ%3Ascholar.google.com%2F&start=40",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=6081184249498375910&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "6081184249498375910",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=6081184249498375910&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Crop Disease Detection Using 2D CNN Based Deep Learning Architecture",
+      "result_id": "8tu3bJ7tDB8J",
+      "link": "https://www.ijisae.org/index.php/IJISAE/article/view/2655",
+      "snippet": "Growth in the economy of the nation is mainly based on agricultural production. Harmful plant areas are recognized as the major reason for crop productivity. Huge time, very hard …",
+      "publication_info": {
+        "summary": "PD Kumar, A Suhasini, D Anand - International Journal of Intelligent …, 2023 - ijisae.org",
+        "authors": [
+          {
+            "name": "A Suhasini",
+            "link": "https://scholar.google.com/citations?user=7fEuUyIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7fEuUyIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7fEuUyIAAAAJ"
+          },
+          {
+            "name": "D Anand",
+            "link": "https://scholar.google.com/citations?user=ocr1DvwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ocr1DvwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ocr1DvwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ijisae.org",
+          "file_format": "PDF",
+          "link": "https://www.ijisae.org/index.php/IJISAE/article/download/2655/1237"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8tu3bJ7tDB8J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2237424379580898290&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "2237424379580898290",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=2237424379580898290&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8tu3bJ7tDB8J:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A8tu3bJ7tDB8J%3Ascholar.google.com%2F&start=50",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2237424379580898290&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "2237424379580898290",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=2237424379580898290&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8tu3bJ7tDB8J:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Leaf Spot Disease Severity Measurement in Terminalia Arjuna Using Optimized Superpixels",
+      "result_id": "Qc5Es2KAMuEJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-31417-9_55",
+      "snippet": "Early diagnosis of plant leaf disease, ie, detection in the initial development stage, is a promising area of research focusing on smart agriculture involving computer vision …",
+      "publication_info": {
+        "summary": "S Samanta, S Pratihar, S Chatterji - International Conference on Computer …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "S Samanta",
+            "link": "https://scholar.google.com/citations?user=nZQ9wmwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nZQ9wmwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nZQ9wmwAAAAJ"
+          },
+          {
+            "name": "S Chatterji",
+            "link": "https://scholar.google.com/citations?user=7G3OjHgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7G3OjHgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7G3OjHgAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Qc5Es2KAMuEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Qc5Es2KAMuEJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AQc5Es2KAMuEJ%3Ascholar.google.com%2F&start=50"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Recent Technological Advances in Tea Quality and Safety",
+      "result_id": "REJgtz6AIq4J",
+      "link": "https://link.springer.com/content/pdf/10.1007/978-3-031-04195-2_35-1.pdf",
+      "snippet": "Tea is one of the world's three most popular beverages, so the detection of its quality (physical, chemical, microbiological, and classified parameters), as well as its safety …",
+      "publication_info": {
+        "summary": "X Li, A Sanaeifar, S Zhang, Z Zhan, Y He - Natural Products in Beverages …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "A Sanaeifar",
+            "link": "https://scholar.google.com/citations?user=QRqxfIQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QRqxfIQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QRqxfIQAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=REJgtz6AIq4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:REJgtz6AIq4J:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AREJgtz6AIq4J%3Ascholar.google.com%2F&start=50"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Rose Leaf Disease Detection Using CNN",
+      "result_id": "Hz0ZdekOc78J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9929547/",
+      "snippet": "As Bangladesh is fully dependent on agriculture so identifying the diseases of the plants will aid the farmers for better productivity. This paper elucidates the recognition of rose leaf …",
+      "publication_info": {
+        "summary": "SH Khan, MN Hossain, S Mozumder… - … and Internet-of …, 2021 - ieeexplore.ieee.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Hz0ZdekOc78J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=13795386479420718367&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "13795386479420718367",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=13795386479420718367&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Hz0ZdekOc78J:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AHz0ZdekOc78J%3Ascholar.google.com%2F&start=50"
+      }
+    },
+    {
+      "position": 4,
+      "title": "A survey on plant diseases detection using different ML/DL techniques",
+      "result_id": "oZUgXaq4TZIJ",
+      "link": "https://pubs.aip.org/aip/acp/article/2802/1/120037/3127116",
+      "snippet": "Farmers grind away in the fields to take home just an exiguous income. Now, the agriculture industry is already a burdened industry with uncertainties from all directions. One of the …",
+      "publication_info": {
+        "summary": "S Asvitha, T Dhivyaa, H Divyasree… - AIP Conference …, 2024 - pubs.aip.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oZUgXaq4TZIJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:oZUgXaq4TZIJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AoZUgXaq4TZIJ%3Ascholar.google.com%2F&start=50"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Prediction of Plant diseases using feature optimization and Machine Learning Techniques",
+      "result_id": "wFkleTyA8vIJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Sharmila-Imam/publication/363039879_Prediction_of_Plant_diseases_using_feature_optimization_and_Machine_Learning_Techniques/links/6375ed7a1766b34c542fb8fc/Prediction-of-Plant-diseases-using-feature-optimization-and-Machine-Learning-Techniques.pdf",
+      "snippet": "Plant diseases are adverse elements that significantly reduce crop quality and yield. Observing plants for disease with the naked eye is a common practice among seasoned …",
+      "publication_info": {
+        "summary": "S Sivakumar, SBS Imam - NeuroQuantology, 2022 - researchgate.net",
+        "authors": [
+          {
+            "name": "S Sivakumar",
+            "link": "https://scholar.google.com/citations?user=Eq9ZgiIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Eq9ZgiIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Eq9ZgiIAAAAJ"
+          },
+          {
+            "name": "SBS Imam",
+            "link": "https://scholar.google.com/citations?user=23sL7foAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=23sL7foAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "23sL7foAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Sharmila-Imam/publication/363039879_Prediction_of_Plant_diseases_using_feature_optimization_and_Machine_Learning_Techniques/links/6375ed7a1766b34c542fb8fc/Prediction-of-Plant-diseases-using-feature-optimization-and-Machine-Learning-Techniques.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wFkleTyA8vIJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17506195698761423296&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "17506195698761423296",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=17506195698761423296&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wFkleTyA8vIJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AwFkleTyA8vIJ%3Ascholar.google.com%2F&start=50",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=17506195698761423296&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "17506195698761423296",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=17506195698761423296&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wFkleTyA8vIJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Proposed CNN Model for Tea Leaf Disease Classification",
+      "result_id": "zobajGf6SMMJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10140680/",
+      "snippet": "Tea leaf diseases have had a substantial impact both on the quantity and quality of the tea produced. The high-precision automatic detection and identification of illnesses that can be …",
+      "publication_info": {
+        "summary": "R Singh, N Sharma, R Gupta - 2023 2nd International …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "R Singh",
+            "link": "https://scholar.google.com/citations?user=keNq-EQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=keNq-EQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "keNq-EQAAAAJ"
+          },
+          {
+            "name": "R Gupta",
+            "link": "https://scholar.google.com/citations?user=w8_CuaYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w8_CuaYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w8_CuaYAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zobajGf6SMMJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=14071772358370821838&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "14071772358370821838",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=14071772358370821838&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zobajGf6SMMJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AzobajGf6SMMJ%3Ascholar.google.com%2F&start=50"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Automatic Tealeaf Disease Detection Using Machine and Deep Learning Method",
+      "result_id": "sLNgfIOBPD0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10200312/",
+      "snippet": "Agriculture is a main source of livelihood. In everyday life, the tea plant is the most cultivatable plant in the highlands. Most farmers in India have turned to manual labor due to …",
+      "publication_info": {
+        "summary": "RD Praba, K Kavitha, S Abinaya… - … on Advancements in …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "RD Praba",
+            "link": "https://scholar.google.com/citations?user=Y8aNAZ4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y8aNAZ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Y8aNAZ4AAAAJ"
+          },
+          {
+            "name": "K Kavitha",
+            "link": "https://scholar.google.com/citations?user=-9j22CoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-9j22CoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-9j22CoAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sLNgfIOBPD0J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:sLNgfIOBPD0J:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AsLNgfIOBPD0J%3Ascholar.google.com%2F&start=50"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Transfer learning based recognition algorithm for common tea disease",
+      "result_id": "dt3dE9J9h5gJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3500931.3500994",
+      "snippet": "The technology of recognition for tea disease is help to increase the efficiency of disease control. On the basis of extensive analyses, a transfer learning based recognition algorithm …",
+      "publication_info": {
+        "summary": "B Tian - Proceedings of the 2nd International Symposium on …, 2021 - dl.acm.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=dt3dE9J9h5gJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=10990891756850896246&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "10990891756850896246",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=10990891756850896246&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:dt3dE9J9h5gJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3Adt3dE9J9h5gJ%3Ascholar.google.com%2F&start=50"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Yolo for Detecting Plant Diseases",
+      "result_id": "FvDwbLVlFyIJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10073875/",
+      "snippet": "Identifying diseases on crops is an essential but time-consuming process in farming methods. Along with competent labor, it takes a lot of time. The existing systems like K-mean …",
+      "publication_info": {
+        "summary": "CL KR, B Praveena, G Sahaana… - … and Smart Energy …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "CL KR",
+            "link": "https://scholar.google.com/citations?user=l0bDHhkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=l0bDHhkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "l0bDHhkAAAAJ"
+          },
+          {
+            "name": "B Praveena",
+            "link": "https://scholar.google.com/citations?user=NYWl0NoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NYWl0NoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NYWl0NoAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FvDwbLVlFyIJ",
+        "cited_by": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cites=2456543951645110294&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "2456543951645110294",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=2456543951645110294&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:FvDwbLVlFyIJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AFvDwbLVlFyIJ%3Ascholar.google.com%2F&start=50"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Enhancing Tea Disease Identification with Lightweight MobileNetV2",
+      "result_id": "6XHuX6bxfTgJ",
+      "link": "https://www.researchsquare.com/article/rs-3565337/latest",
+      "snippet": "Plant diseases in tea trees can result in significant losses in both the quality and quantity of tea production. Regular monitoring can prevent the occurrence of large-scale diseases in …",
+      "publication_info": {
+        "summary": "Z Li, Y Li, C Yan, P Yan, X Li, M Yu, T Wen, B Xie - 2023 - researchsquare.com"
+      },
+      "resources": [
+        {
+          "title": "researchsquare.com",
+          "file_format": "PDF",
+          "link": "https://www.researchsquare.com/article/rs-3565337/latest.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6XHuX6bxfTgJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6XHuX6bxfTgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,43&sciodt=0,43",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C43&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3A6XHuX6bxfTgJ%3Ascholar.google.com%2F&start=60",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4070675335089123817&hl=en&as_sdt=5,43&sciodt=0,43",
+          "cluster_id": "4070675335089123817",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C43&cluster=4070675335089123817&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6XHuX6bxfTgJ:scholar.google.com/&hl=en&as_sdt=5,43&sciodt=0,43"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Automatic Method for Red Spider Detection in Images",
+      "result_id": "QTinUggUDk4J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10036216/",
+      "snippet": "We present a fast and efficient automatic red spider detection method, namely RS-AD, by filtering out target samples containing red spiders from massive amounts of images on the …",
+      "publication_info": {
+        "summary": "Z Yang, K Shi - 2022 2nd International Conference on …, 2022 - ieeexplore.ieee.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QTinUggUDk4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:QTinUggUDk4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,43&sciodt=0,43",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C43&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AQTinUggUDk4J%3Ascholar.google.com%2F&start=60"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Paddy Pro: A MobileNetV3-Based App to Identify Paddy Leaf Diseases",
+      "result_id": "KE8M9qlV3TYJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-1479-1_16",
+      "snippet": "The crop disease and the plant disease are a major issue affecting the food quality and quantity in agriculture. The lack in detecting the crop disease impacts the crop yield and the …",
+      "publication_info": {
+        "summary": "S Asvitha, T Dhivya, H Dhivyasree… - … , and Cyber-Security, 2022 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KE8M9qlV3TYJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:KE8M9qlV3TYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,43&sciodt=0,43",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C43&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AKE8M9qlV3TYJ%3Ascholar.google.com%2F&start=60",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3953410236366999336&hl=en&as_sdt=5,43&sciodt=0,43",
+          "cluster_id": "3953410236366999336",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C43&cluster=3953410236366999336&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Automated Groundnut Leaf Disease Recognition Using Whale Optimization Algorithm with Deep Learning Model",
+      "result_id": "ixmxNGoCU10J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10010713/",
+      "snippet": "Groundnut is a significant oilseed crop in the world, and India is the second-largest producer of groundnuts. This crop can be attacked by several diseases that are predominant factors …",
+      "publication_info": {
+        "summary": "G Suresh, K Seetharaman - 2022 International Conference on …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "K Seetharaman",
+            "link": "https://scholar.google.com/citations?user=_svuOL8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_svuOL8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_svuOL8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ixmxNGoCU10J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=6724721323768093067&as_sdt=5,43&sciodt=0,43&hl=en",
+          "cites_id": "6724721323768093067",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C43&cites=6724721323768093067&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ixmxNGoCU10J:scholar.google.com/&scioq=&hl=en&as_sdt=5,43&sciodt=0,43",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C43&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3AixmxNGoCU10J%3Ascholar.google.com%2F&start=60"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Advanced Disease Detection Techniques in Plants Using Leaf Disease Detection and Soil's Nutrient Deficiency",
+      "result_id": "TPsAJZcpdoAJ",
+      "link": "https://journal.ijresm.com/index.php/ijresm/article/view/2188",
+      "snippet": "Plant disease prediction and detection has long been a major issue in the agricultural field. People with limited financial resources cannot afford to have their crops and fields inspected …",
+      "publication_info": {
+        "summary": "D Kumari, HJ Bharath, J Srivastava… - … Journal of Research …, 2022 - journal.ijresm.com"
+      },
+      "resources": [
+        {
+          "title": "ijresm.com",
+          "file_format": "PDF",
+          "link": "https://journal.ijresm.com/index.php/ijresm/article/download/2188/2126"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TPsAJZcpdoAJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TPsAJZcpdoAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,43&sciodt=0,43",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C43&cites=7853238341471134555&engine=google_scholar&hl=en&q=related%3ATPsAJZcpdoAJ%3Ascholar.google.com%2F&start=60",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:TPsAJZcpdoAJ:scholar.google.com/&hl=en&as_sdt=5,43&sciodt=0,43"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=80005&sciodt=0,11&cites=7853238341471134555&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=80005&sciodt=0,11&cites=7853238341471134555&scipsc=1",
+      "3": "https://scholar.google.com/scholar?start=20&hl=en&as_sdt=80005&sciodt=0,11&cites=7853238341471134555&scipsc=1",
+      "4": "https://scholar.google.com/scholar?start=30&hl=en&as_sdt=80005&sciodt=0,11&cites=7853238341471134555&scipsc=1",
+      "5": "https://scholar.google.com/scholar?start=40&hl=en&as_sdt=80005&sciodt=0,11&cites=7853238341471134555&scipsc=1",
+      "6": "https://scholar.google.com/scholar?start=50&hl=en&as_sdt=80005&sciodt=0,11&cites=7853238341471134555&scipsc=1",
+      "7": "https://scholar.google.com/scholar?start=60&hl=en&as_sdt=80005&sciodt=0,11&cites=7853238341471134555&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&start=30",
+      "5": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&start=40",
+      "6": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&start=50",
+      "7": "https://serpapi.com/search.json?as_sdt=80005&cites=7853238341471134555&engine=google_scholar&hl=en&start=60"
+    }
+  }
+}

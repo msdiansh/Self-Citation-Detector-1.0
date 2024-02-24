@@ -1,0 +1,71 @@
+{
+  "search_metadata": {
+    "id": "6598f250477c0e28d2007ba8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fe5b11a0cfac9096/6598f250477c0e28d2007ba8.json",
+    "created_at": "2024-01-06 06:25:20 UTC",
+    "processed_at": "2024-01-06 06:25:20 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:9ZlFYXVOiuMC",
+    "raw_html_file": "https://serpapi.com/searches/fe5b11a0cfac9096/6598f250477c0e28d2007ba8.html",
+    "total_time_taken": 0.28
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:9ZlFYXVOiuMC"
+  },
+  "citation": {
+    "title": "Cloud big data mining and analytics: Bringing greenness and acceleration in the cloud",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-031-24628-9_22",
+    "resources": [
+      {
+        "title": "from arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2104.05765"
+      }
+    ],
+    "authors": "Hrishav Bakul Barua, Kartick Chandra Mondal",
+    "publication_date": "2023/2/26",
+    "book": "Machine Learning for Data Science Handbook: Data Mining and Knowledge Discovery Handbook",
+    "pages": "491-510",
+    "publisher": "Springer International Publishing",
+    "description": "Big data is gaining overwhelming attention since the last decade. Almost all the fields of science and technology have experienced a considerable impact from it. The cloud computing paradigm has been targeted for big data processing and mining in a more efficient manner using the plethora of resources available from computing nodes to efficient storage. Cloud data mining introduces the concept of performing data mining and analytics of huge data in the cloud availing the cloud resources. But can we do better? Yes, of course! The main contribution of this chapter is the identification of four game-changing technologies for the acceleration of computing and analysis of data mining tasks in the cloud. Graphics Processing Units can be used to further accelerate the mining or analytic process, which is called GPU accelerated analytics. Further, Approximate Computing can also be introduced in big data analytics for …",
+    "total_citations": {
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12682330071293901214&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12682330071293901214&engine=google_scholar&hl=en",
+        "cites_id": "12682330071293901214"
+      },
+      "table": [
+        {
+          "year": 2022,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Cloud big data mining and analytics: Bringing greenness and acceleration in the cloud",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=12682330071293901214&btnI=1&hl=en",
+        "authors": "HB Barua, KC Mondal - Machine Learning for Data Science Handbook: Data …, 2023",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12682330071293901214&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=12682330071293901214&engine=google_scholar&hl=en",
+          "cites_id": "12682330071293901214"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:njm6hwGwALAJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12682330071293901214",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=12682330071293901214&engine=google_scholar&hl=en",
+          "cluster_id": "12682330071293901214"
+        }
+      }
+    ]
+  }
+}

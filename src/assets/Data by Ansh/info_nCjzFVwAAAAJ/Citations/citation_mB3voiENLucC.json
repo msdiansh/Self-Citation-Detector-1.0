@@ -1,0 +1,34 @@
+{
+  "search_metadata": {
+    "id": "6598f8a6d04d6d5181a4b085",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4900ae80f8de95d6/6598f8a6d04d6d5181a4b085.json",
+    "created_at": "2024-01-06 06:52:22 UTC",
+    "processed_at": "2024-01-06 06:52:22 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:mB3voiENLucC",
+    "raw_html_file": "https://serpapi.com/searches/4900ae80f8de95d6/6598f8a6d04d6d5181a4b085.html",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:mB3voiENLucC"
+  },
+  "citation": {
+    "title": "MORPHOMETRIC ANALYSIS AND RIVER BEHAVIOR OF AJAY BASIN BY USING GEOSPATIAL TECHNIQUES",
+    "link": "https://scholar.google.com/scholar?cluster=8781303154363395350&hl=en&oi=scholarr",
+    "authors": "Kartick Chandra Mondal, Sutapa Saha, Pritam Aitch",
+    "description": "River basin is a unique identity of nature where hydro-geomorphologic features are best allied with present geology, atmosphere and landscape. Quantitative study of a river basin depicts the forms and processes operating on ground level and gives the satisfactory result to analyze the geo-environment of the region. Morphometric analysis means the quantitative measurement of a spatial unit on the basis of selected parameters. Therefore morphometric analysis of a basin gives a primary idea about drainage character and litho-geological integration of the basin which helps in sustainable management of the spatial unit. At present Remote Sensing and GIS are very useful tools for the reverine planning. Morphometric analysis is done by using the SRTM DEM data which is reliable and significant for the riverine planning. By acquiring the basin layout and channel from DEM data morphometric parameters can be easily extracted. The present study worked on the morphometric characteristics of the Ajay river basin in the Remote Sensing and GIS (RS & GIS) platform. Ajay is a significant basin in aspect of litho-geological conditions and the occurrences of hydro morphological hazards which affect the surroundings environment and rural livelihoods. In order to understand the hydro geological regime of this basin, the study of morphometric characteristics are of paramount importance. It helps in the formulation of specific hazards management strategy and its necessary implementation. The result is depicting that the drainage pattern is dendretic in nature and highly elongated in shape and",
+    "scholar_articles": [
+      {
+        "title": "MORPHOMETRIC ANALYSIS AND RIVER BEHAVIOR OF AJAY BASIN BY USING GEOSPATIAL TECHNIQUES",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=8781303154363395350&btnI=1&hl=en",
+        "authors": "KC Mondal, S Saha, P Aitch",
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:Fu3YjLF03XkJ:scholar.google.com/"
+        }
+      }
+    ]
+  }
+}

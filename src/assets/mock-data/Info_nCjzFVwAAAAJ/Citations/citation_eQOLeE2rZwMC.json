@@ -1,0 +1,103 @@
+{
+  "search_metadata": {
+    "id": "65980ffcb7b1ccb76872a2e2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/afd3ae837ccad191/65980ffcb7b1ccb76872a2e2.json",
+    "created_at": "2024-01-05 14:19:40 UTC",
+    "processed_at": "2024-01-05 14:19:40 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:eQOLeE2rZwMC",
+    "raw_html_file": "https://serpapi.com/searches/afd3ae837ccad191/65980ffcb7b1ccb76872a2e2.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:eQOLeE2rZwMC"
+  },
+  "citation": {
+    "title": "Prediction of protein interactions on HIV-1-human PPI data using a novel closure-based integrated approach",
+    "link": "https://air.unimi.it/handle/2434/170865",
+    "resources": [
+      {
+        "title": "from unimi.it",
+        "file_format": "PDF",
+        "link": "https://air.unimi.it/bitstream/2434/170865/2/MondalPasquierMukhopadhyayPereiraMaulikTettamanzi2012.pdf"
+      }
+    ],
+    "authors": "Kartick Chandra Mondal, Nicolas Pasquier, Anirban Mukhopadhyay, Célia da Costa Pereira, Ujjwal Maulik, Andrea GB Tettamanzi",
+    "publication_date": "2012",
+    "book": "Proceedings of the International conference on bioinformatics models, methods and algorithms: BIOINFORMATICS 2012: Vilamoura, Portugal, february 1–4, 2012",
+    "pages": "164-173",
+    "publisher": "SciTePress",
+    "description": "Discovering Protein-Protein Interactions (PPI) is a new interesting challenge in computational biology. Identifying interactions among proteins was shown to be useful for finding new drugs and preventing several kinds of diseases. The identification of interactions between HIV-1 proteins and Human proteins is a particular PPI problem whose study might lead to the discovery of drugs and important interactions responsible for AIDS. We present the FIST algorithm for extracting hierarchical bi-clusters and minimal covers of association rules in one process. This algorithm is based on the frequent closed itemsets framework to efficiently generate a hierarchy of conceptual clusters and non-redundant sets of association rules with supporting object lists. Experiments conducted on a HIV-1 and Human proteins interaction dataset show that the approach efficiently identifies interactions previously predicted in the literature and can be used to predict new interactions based on previous biological knowledge.",
+    "total_citations": {
+      "cited_by": {
+        "total": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18068002421025430672&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18068002421025430672&engine=google_scholar&hl=en",
+        "cites_id": "18068002421025430672"
+      },
+      "table": [
+        {
+          "year": 2013,
+          "citations": 2
+        },
+        {
+          "year": 2014,
+          "citations": 1
+        },
+        {
+          "year": 2015,
+          "citations": 2
+        },
+        {
+          "year": 2016,
+          "citations": 2
+        },
+        {
+          "year": 2017,
+          "citations": 2
+        },
+        {
+          "year": 2018,
+          "citations": 1
+        },
+        {
+          "year": 2019,
+          "citations": 3
+        },
+        {
+          "year": 2020,
+          "citations": 2
+        },
+        {
+          "year": 2021,
+          "citations": 2
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Prediction of protein interactions on HIV-1-human PPI data using a novel closure-based integrated approach",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=18068002421025430672&btnI=1&hl=en",
+        "authors": "KC Mondal, N Pasquier, A Mukhopadhyay… - Proceedings of the International conference on …, 2012",
+        "cited_by": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18068002421025430672&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=18068002421025430672&engine=google_scholar&hl=en",
+          "cites_id": "18068002421025430672"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:kFweOnlwvvoJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=18068002421025430672",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=18068002421025430672&engine=google_scholar&hl=en",
+          "cluster_id": "18068002421025430672"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1121 @@
+{
+  "search_metadata": {
+    "id": "658d9efb95bf9297f78f1a97",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d2cb868faa218481/658d9efb95bf9297f78f1a97.json",
+    "created_at": "2023-12-28 16:14:51 UTC",
+    "processed_at": "2023-12-28 16:14:51 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/d2cb868faa218481/658d9efb95bf9297f78f1a97.html",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "nCjzFVwAAAAJ",
+    "hl": "en"
+  },
+  "author": {
+    "name": "Kartick Chandra Mondal",
+    "affiliations": "Assistant Professor of Information Technology, Jadavpur University, Kolkata",
+    "email": "Verified email at jadavpuruniversity.in",
+    "website": "http://kcmondal.in/",
+    "interests": [
+      {
+        "title": "Data Mining",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_mining",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining"
+      },
+      {
+        "title": "Bioinformatics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bioinformatics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abioinformatics"
+      },
+      {
+        "title": "Biodiversity",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biodiversity",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiodiversity"
+      },
+      {
+        "title": "Data Analytics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_analytics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_analytics"
+      },
+      {
+        "title": "Data Storage",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_storage",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_storage"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nCjzFVwAAAAJ&citpid=3"
+  },
+  "articles": [
+    {
+      "title": "Approximate computing: A survey of recent trends—bringing greenness to computing and communication",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:kNdYIx-mwKoC",
+      "citation_id": "nCjzFVwAAAAJ:kNdYIx-mwKoC",
+      "authors": "HB Barua, KC Mondal",
+      "publication": "Journal of The Institution of Engineers (India): Series B 100 (6), 619-626, 2019",
+      "cited_by": {
+        "value": 57,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14136534331017924556",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14136534331017924556&engine=google_scholar&hl=en",
+        "cites_id": "14136534331017924556"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "A new approach for association rule mining and bi-clustering using formal concept analysis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "nCjzFVwAAAAJ:u5HHmVD_uO8C",
+      "authors": "KC Mondal, N Pasquier, A Mukhopadhyay, U Maulik, S Bandhopadyay",
+      "publication": "Machine Learning and Data Mining in Pattern Recognition: 8th International …, 2012",
+      "cited_by": {
+        "value": 42,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=972427600034217950",
+        "serpapi_link": "https://serpapi.com/search.json?cites=972427600034217950&engine=google_scholar&hl=en",
+        "cites_id": "972427600034217950"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Efficient incremental loading in ETL processing for real-time data integration",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:8k81kl-MbHgC",
+      "citation_id": "nCjzFVwAAAAJ:8k81kl-MbHgC-",
+      "authors": "N Biswas, A Sarkar, KC Mondal",
+      "publication": "Innovations in Systems and Software Engineering 16, 53-61, 2020",
+      "cited_by": {
+        "value": 40,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9776636979047456051",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9776636979047456051&engine=google_scholar&hl=en",
+        "cites_id": "9776636979047456051"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "A comprehensive survey on cloud data mining (CDM) frameworks and algorithms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:YOwf2qJgpHMC",
+      "citation_id": "nCjzFVwAAAAJ:YOwf2qJgpHMC",
+      "authors": "HB Barua, KC Mondal",
+      "publication": "ACM Computing Surveys (CSUR) 52 (5), 1-62, 2019",
+      "cited_by": {
+        "value": 30,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=232965886830973926",
+        "serpapi_link": "https://serpapi.com/search.json?cites=232965886830973926&engine=google_scholar&hl=en",
+        "cites_id": "232965886830973926"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "A new approach for conceptual extraction-transformation-loading process modeling",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:Se3iqnhoufwC",
+      "citation_id": "nCjzFVwAAAAJ:Se3iqnhoufwC",
+      "authors": "N Biswas, S Chattapadhyay, G Mahapatra, S Chatterjee, KC Mondal",
+      "publication": "International Journal of Ambient Computing and Intelligence (IJACI) 10 (1 …, 2019",
+      "cited_by": {
+        "value": 20,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6282523063265191940",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6282523063265191940&engine=google_scholar&hl=en",
+        "cites_id": "6282523063265191940"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Electric field induced instabilities of thin leaky bilayers: Pathways to unique morphologies and miniaturization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:TQgYirikUcIC",
+      "citation_id": "nCjzFVwAAAAJ:TQgYirikUcIC",
+      "authors": "K Mondal, P Kumar, D Bandyopadhyay",
+      "publication": "The Journal of Chemical Physics 138 (2), 2013",
+      "cited_by": {
+        "value": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10136497318683568581",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10136497318683568581&engine=google_scholar&hl=en",
+        "cites_id": "10136497318683568581"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Prediction of protein interactions on HIV-1-human PPI data using a novel closure-based integrated approach",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:eQOLeE2rZwMC",
+      "citation_id": "nCjzFVwAAAAJ:eQOLeE2rZwMC",
+      "authors": "KC Mondal, N Pasquier, A Mukhopadhyay, C da Costa Pereira, U Maulik, ...",
+      "publication": "Proceedings of the International conference on bioinformatics models …, 2012",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18068002421025430672",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18068002421025430672&engine=google_scholar&hl=en",
+        "cites_id": "18068002421025430672"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "SysML based conceptual ETL process modeling",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:W7OEmFMy1HYC",
+      "citation_id": "nCjzFVwAAAAJ:W7OEmFMy1HYC",
+      "authors": "N Biswas, S Chattopadhyay, G Mahapatra, S Chatterjee, KC Mondal",
+      "publication": "Computational Intelligence, Communications, and Business Analytics: First …, 2017",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11726855803944442872",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11726855803944442872&engine=google_scholar&hl=en",
+        "cites_id": "11726855803944442872"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "A hybrid intrusion detection system for hierarchical filtration of anomalies",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "nCjzFVwAAAAJ:hqOjcs7Dif8C",
+      "authors": "P Kar, S Banerjee, KC Mondal, G Mahapatra, S Chattopadhyay",
+      "publication": "Information and Communication Technology for Intelligent Systems …, 2019",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6769526216182155158",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6769526216182155158&engine=google_scholar&hl=en",
+        "cites_id": "6769526216182155158"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Suitable beamforming technique for 5G wireless communications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:IWHjjKOFINEC",
+      "citation_id": "nCjzFVwAAAAJ:IWHjjKOFINEC",
+      "authors": "MS Islam, T Jessy, MS Hassan, K Mondal, T Rahman",
+      "publication": "2016 International Conference on Computing, Communication and Automation …, 2016",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2939090968254499023",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2939090968254499023&engine=google_scholar&hl=en",
+        "cites_id": "2939090968254499023"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Empirical analysis of programmable ETL tools",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:Zph67rFs4hoC",
+      "citation_id": "nCjzFVwAAAAJ:Zph67rFs4hoC",
+      "authors": "N Biswas, A Sarkar, KC Mondal",
+      "publication": "Computational Intelligence, Communications, and Business Analytics: Second …, 2019",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1212189934269348565",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1212189934269348565&engine=google_scholar&hl=en",
+        "cites_id": "1212189934269348565"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Galois closure based association rule mining from biological data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:d1gkVwhDpl0C",
+      "citation_id": "nCjzFVwAAAAJ:d1gkVwhDpl0C",
+      "authors": "KC Mondal, N Pasquier",
+      "publication": "Biological knowledge discovery handbook, 761-802, 2013",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6579650535814239794",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6579650535814239794&engine=google_scholar&hl=en",
+        "cites_id": "6579650535814239794"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Algorithms for data mining and bio-informatics",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:UeHWp8X0CEIC",
+      "citation_id": "nCjzFVwAAAAJ:UeHWp8X0CEIC",
+      "authors": "KC Mondal",
+      "publication": "Université Nice Sophia Antipolis, 2013",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8464774497893491151",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8464774497893491151&engine=google_scholar&hl=en",
+        "cites_id": "8464774497893491151"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Role of machine learning in ETL automation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:aqlVkmm33-oC",
+      "citation_id": "nCjzFVwAAAAJ:aqlVkmm33-oC",
+      "authors": "KC Mondal, N Biswas, S Saha",
+      "publication": "Proceedings of the 21st international conference on distributed computing …, 2020",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17327634899350757657",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17327634899350757657&engine=google_scholar&hl=en",
+        "cites_id": "17327634899350757657"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "MOSCFRA: a multi-objective genetic approach for simultaneous clustering and gene ranking",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:Y0pCki6q_DkC",
+      "citation_id": "nCjzFVwAAAAJ:Y0pCki6q_DkC",
+      "authors": "KC Mondal, A Mukhopadhyay, U Maulik, S Bandhyapadhyay, N Pasquier",
+      "publication": "Computational Intelligence Methods for Bioinformatics and Biostatistics: 7th …, 2011",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5301096839666776837",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5301096839666776837&engine=google_scholar&hl=en",
+        "cites_id": "5301096839666776837"
+      },
+      "year": "2011"
+    },
+    {
+      "title": "A survey on cancer prediction and detection with data analysis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:_kc_bZDykSQC",
+      "citation_id": "nCjzFVwAAAAJ:_kc_bZDykSQC",
+      "authors": "AS Nath, A Pal, S Mukhopadhyay, KC Mondal",
+      "publication": "Innovations in Systems and Software Engineering 16 (3), 231-243, 2020",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=504251211697650284",
+        "serpapi_link": "https://serpapi.com/search.json?cites=504251211697650284&engine=google_scholar&hl=en",
+        "cites_id": "504251211697650284"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Green data mining using approximate computing: An experimental analysis with rule mining",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:5nxA0vEk-isC",
+      "citation_id": "nCjzFVwAAAAJ:5nxA0vEk-isC",
+      "authors": "HB Barua, KC Mondal",
+      "publication": "2018 International conference on computing, power and communication …, 2018",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10052916504376459259",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10052916504376459259&engine=google_scholar&hl=en",
+        "cites_id": "10052916504376459259"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Self-organized pathways to nanopatterns exploiting the instabilities of ultrathin confined bilayers",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:_Qo2XoVZTnwC",
+      "citation_id": "nCjzFVwAAAAJ:_Qo2XoVZTnwC",
+      "authors": "A Hens, K Mondal, D Bandyopadhyay",
+      "publication": "Physical Review E 87 (2), 022405, 2013",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15900898023513146342",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15900898023513146342&engine=google_scholar&hl=en",
+        "cites_id": "15900898023513146342"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Electric-field-mediated instability modes and Fréedericksz transition of thin nematic films",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:R3hNpaxXUhUC",
+      "citation_id": "nCjzFVwAAAAJ:R3hNpaxXUhUC",
+      "authors": "K Mondal, A Ghosh, J Chaudhuri, D Bandyopadhyay",
+      "publication": "Journal of Fluid Mechanics 834, 464-509, 2018",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12770749255902278628",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12770749255902278628&engine=google_scholar&hl=en",
+        "cites_id": "12770749255902278628"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "A factual analysis of improved python implementation of Apriori algorithm",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&citation_for_view=nCjzFVwAAAAJ:roLk4NBRz8UC",
+      "citation_id": "nCjzFVwAAAAJ:roLk4NBRz8UC",
+      "authors": "KC Mondal, BD Nandy, A Baidya",
+      "publication": "Methodologies and Application Issues of Contemporary Computing Framework …, 2018",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13045576604649496446",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13045576604649496446&engine=google_scholar&hl=en",
+        "cites_id": "13045576604649496446"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "RCA as a data transforming method: a comparison with propositionalisation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:9yKSN-GCB0IC",
+      "citation_id": "nCjzFVwAAAAJ:9yKSN-GCB0IC",
+      "authors": "X Dolques, KC Mondal, A Braud, M Huchard, F Le Ber",
+      "publication": "Formal Concept Analysis: 12th International Conference, ICFCA 2014, Cluj …, 2014",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6971404529633882819",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6971404529633882819&engine=google_scholar&hl=en",
+        "cites_id": "6971404529633882819"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Simultaneous clustering and gene ranking: A multiobjective genetic approach",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:qjMakFHDy7sC",
+      "citation_id": "nCjzFVwAAAAJ:qjMakFHDy7sC",
+      "authors": "KC Mondal, A Mukhopadhyay, U Maulik, S Bandhyapadhyay, N Pasquier",
+      "publication": "International Conference on Computational Intelligence for Bioinformatics …, 2010",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7996055614696577919",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7996055614696577919&engine=google_scholar&hl=en",
+        "cites_id": "7996055614696577919"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Green computing for big data and machine learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:k_IJM867U9cC",
+      "citation_id": "nCjzFVwAAAAJ:k_IJM867U9cC",
+      "authors": "HB Barua, KC Mondal, S Khatua",
+      "publication": "5th Joint International Conference on Data Science & Management of Data (9th …, 2022",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15634348514165450316",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15634348514165450316&engine=google_scholar&hl=en",
+        "cites_id": "15634348514165450316"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Finding prediction of interaction between SARS-CoV-2 and human protein: a data-driven approach",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:Wp0gIr-vW9MC",
+      "citation_id": "nCjzFVwAAAAJ:Wp0gIr-vW9MC",
+      "authors": "M Ghosh, P Sil, A Roy, R Fajriyah, KC Mondal",
+      "publication": "Journal of The Institution of Engineers (India): Series B 102 (6), 1293-1302, 2021",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7280282536558834414",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7280282536558834414&engine=google_scholar&hl=en",
+        "cites_id": "7280282536558834414"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Comparative analysis of structured and un-structured databases",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "nCjzFVwAAAAJ:2osOgNQ5qMEC",
+      "authors": "AS Mondal, M Sanyal, S Chattopadhyay, KC Mondal",
+      "publication": "Computational Intelligence, Communications, and Business Analytics: First …, 2017",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7899160319573659711",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7899160319573659711&engine=google_scholar&hl=en",
+        "cites_id": "7899160319573659711"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Electro-capillary instabilities of thin leaky elastic-viscous bilayers",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:hC7cP41nSMkC",
+      "citation_id": "nCjzFVwAAAAJ:hC7cP41nSMkC",
+      "authors": "K Mondal, D Bandyopadhyay",
+      "publication": "Physics of Fluids 26 (12), 2014",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5059636872057620550",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5059636872057620550&engine=google_scholar&hl=en",
+        "cites_id": "5059636872057620550"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Recognition of co-existence pattern of salt marshes and mangroves for littoral forest restoration",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:JV2RwH3_ST0C",
+      "citation_id": "nCjzFVwAAAAJ:JV2RwH3_ST0C",
+      "authors": "M Ghosh, KC Mondal, A Roy",
+      "publication": "Ecological Informatics 71, 101769, 2022",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7202444869995594425",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7202444869995594425&engine=google_scholar&hl=en",
+        "cites_id": "7202444869995594425"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Determining dark diversity of different faunal groups in indian estuarine ecosystem: a new approach with computational biodiversity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:j3f4tGmQtD8C",
+      "citation_id": "nCjzFVwAAAAJ:j3f4tGmQtD8C",
+      "authors": "M Ghosh, A Roy, KC Mondal",
+      "publication": "Advanced Techniques for IoT Applications: Proceedings of EAIT 2020, 147-158, 2022",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18377653095374339770",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18377653095374339770&engine=google_scholar&hl=en",
+        "cites_id": "18377653095374339770"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Fact-based expert system for supplier selection with ERP data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:qxL8FJ1GzNcC",
+      "citation_id": "nCjzFVwAAAAJ:qxL8FJ1GzNcC",
+      "authors": "KC Mondal, BD Nandy, A Baidya",
+      "publication": "Algorithms in Machine Learning Paradigms, 43-55, 2020",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=151387484126114737",
+        "serpapi_link": "https://serpapi.com/search.json?cites=151387484126114737&engine=google_scholar&hl=en",
+        "cites_id": "151387484126114737"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Performance analysis of structured, un-structured, and cloud storage systems",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:UebtZRa9Y70C",
+      "citation_id": "nCjzFVwAAAAJ:UebtZRa9Y70C",
+      "authors": "AS Mondal, M Sanyal, S Chattapadhyay, KC Mondal",
+      "publication": "International Journal of Ambient Computing and Intelligence (IJACI) 10 (1), 1-29, 2019",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11244155443966484291",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11244155443966484291&engine=google_scholar&hl=en",
+        "cites_id": "11244155443966484291"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Pathways from disordered to ordered nanostructures from defect guided dewetting of ultrathin bilayers",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:RHpTSmoSYBkC",
+      "citation_id": "nCjzFVwAAAAJ:RHpTSmoSYBkC",
+      "authors": "A Hens, K Mondal, G Biswas, D Bandyopadhyay",
+      "publication": "Journal of colloid and interface science 465, 128-139, 2016",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17123932839563404115",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17123932839563404115&engine=google_scholar&hl=en",
+        "cites_id": "17123932839563404115"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Performance analysis of ternary content addressable memory (TCAM)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:-f6ydRqryjwC",
+      "citation_id": "nCjzFVwAAAAJ:-f6ydRqryjwC",
+      "authors": "MA Foysal, MZ Anam, MS Islam, I Tahmid, K Mondal",
+      "publication": "2015 International Conference on Advances in Electrical Engineering (ICAEE …, 2015",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5888012189101398916",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5888012189101398916&engine=google_scholar&hl=en",
+        "cites_id": "5888012189101398916"
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Root mealy bug (Paraputo sp.) of mulberry in darjeeling hills: Its severity, biology and control",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:mVmsd5A6BfQC",
+      "citation_id": "nCjzFVwAAAAJ:mVmsd5A6BfQC",
+      "authors": "S BISWAS, D Das, S Chattopadhyay, SK Das, K Mandal",
+      "publication": "Sericologia 42 (1), 39-52, 2002",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12189281030672023341",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12189281030672023341&engine=google_scholar&hl=en",
+        "cites_id": "12189281030672023341"
+      },
+      "year": "2002"
+    },
+    {
+      "title": "FCA-Based Constant and Coherent-Signed Bicluster Identification and Its Application in Biodiversity Study",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:isC4tDSrTZIC",
+      "citation_id": "nCjzFVwAAAAJ:isC4tDSrTZIC",
+      "authors": "M Ghosh, A Roy, KC Mondal",
+      "publication": "Proceedings of International Conference on Advanced Computing Applications …, 2022",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11146099842694574365",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11146099842694574365&engine=google_scholar&hl=en",
+        "cites_id": "11146099842694574365"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Integration of ETL in Cloud Using Spark for Streaming Data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:r0BpntZqJG4C",
+      "citation_id": "nCjzFVwAAAAJ:r0BpntZqJG4C",
+      "authors": "N Biswas, KC Mondal",
+      "publication": "Advanced Techniques for IoT Applications: Proceedings of EAIT 2020, 172-182, 2022",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5484974450905041884",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5484974450905041884&engine=google_scholar&hl=en",
+        "cites_id": "5484974450905041884"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Parallel and distributed association rule mining algorithms: a recent survey",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:4TOpqqG69KYC",
+      "citation_id": "nCjzFVwAAAAJ:4TOpqqG69KYC",
+      "authors": "S Biswas, N Biswas, KC Mondal",
+      "publication": "Information Management and Computer Science (IMCS) 2 (1), 15-24, 2019",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17488921216944184424",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17488921216944184424&engine=google_scholar&hl=en",
+        "cites_id": "17488921216944184424"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Dynamic fp tree based rare pattern mining using multiple item supports constraints",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:KlAtU1dfN6UC",
+      "citation_id": "nCjzFVwAAAAJ:KlAtU1dfN6UC",
+      "authors": "S Biswas, KC Mondal",
+      "publication": "Computational Intelligence, Communications, and Business Analytics: Second …, 2019",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1851423446718430963",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1851423446718430963&engine=google_scholar&hl=en",
+        "cites_id": "1851423446718430963"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Parallel Apriori based distributed association rule mining: A comprehensive survey",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:3fE2CSJIrl8C",
+      "citation_id": "nCjzFVwAAAAJ:3fE2CSJIrl8C",
+      "authors": "S Biswas, N Biswas, KC Mondal",
+      "publication": "2018 Fourth International Conference on Research in Computational …, 2018",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14949215834018423757",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14949215834018423757&engine=google_scholar&hl=en",
+        "cites_id": "14949215834018423757"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Cloud big data mining and analytics: Bringing greenness and acceleration in the cloud",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:9ZlFYXVOiuMC",
+      "citation_id": "nCjzFVwAAAAJ:9ZlFYXVOiuMC",
+      "authors": "HB Barua, KC Mondal",
+      "publication": "Machine Learning for Data Science Handbook: Data Mining and Knowledge …, 2023",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12682330071293901214",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12682330071293901214&engine=google_scholar&hl=en",
+        "cites_id": "12682330071293901214"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Automated credit assessment framework using ETL process and machine learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=20&citation_for_view=nCjzFVwAAAAJ:NMxIlDl6LWMC",
+      "citation_id": "nCjzFVwAAAAJ:NMxIlDl6LWMC",
+      "authors": "N Biswas, AS Mondal, A Kusumastuti, S Saha, KC Mondal",
+      "publication": "Innovations in Systems and Software Engineering, 1-14, 2022",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9092960927932588974",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9092960927932588974&engine=google_scholar&hl=en",
+        "cites_id": "9092960927932588974"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Computational Biodiversity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:TFP_iSt0sucC",
+      "citation_id": "nCjzFVwAAAAJ:TFP_iSt0sucC",
+      "authors": "M Ghosh, KC Mondal",
+      "publication": "Proceedings of International Conference on Advanced Computing Applications …, 2022",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10692840662455875768",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10692840662455875768&engine=google_scholar&hl=en",
+        "cites_id": "10692840662455875768"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Analysis of Indian estuarine data of flora & fauna",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:bEWYMUwI8FkC",
+      "citation_id": "nCjzFVwAAAAJ:bEWYMUwI8FkC",
+      "authors": "M Ghosh, A Roy, KC Mondal",
+      "publication": "Proceedings of International Conference on Data Science and Applications …, 2022",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10701415543646362153",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10701415543646362153&engine=google_scholar&hl=en",
+        "cites_id": "10701415543646362153"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Knowledge discovery of Sundarban Mangrove species: a way forward for managing species biodiversity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:iH-uZ7U-co4C",
+      "citation_id": "nCjzFVwAAAAJ:iH-uZ7U-co4C",
+      "authors": "M Ghosh, A Roy, KC Mondal",
+      "publication": "SN Computer Science 3 (1), 18, 2022",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18040481885773268887",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18040481885773268887&engine=google_scholar&hl=en",
+        "cites_id": "18040481885773268887"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "A double threshold-based power-aware honey bee cloud load balancing algorithm",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:4JMBOYKVnBMC",
+      "citation_id": "nCjzFVwAAAAJ:4JMBOYKVnBMC",
+      "authors": "AS Mondal, S Mukhopadhyay, KC Mondal, S Chattopadhyay",
+      "publication": "SN Computer Science 2, 1-16, 2021",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15272383927506862659",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15272383927506862659&engine=google_scholar&hl=en",
+        "cites_id": "15272383927506862659"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Predicting novel interactions from HIV-1-human PPI data integrated with protein signatures and GO annotations",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:maZDTaKrznsC",
+      "citation_id": "nCjzFVwAAAAJ:maZDTaKrznsC",
+      "authors": "D Pal, KC Mondal",
+      "publication": "International Journal of Bioinformatics Research and Applications 17 (6 …, 2021",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=808658492748309216",
+        "serpapi_link": "https://serpapi.com/search.json?cites=808658492748309216&engine=google_scholar&hl=en",
+        "cites_id": "808658492748309216"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Application of remote sensing and GIS in flood vulnerability assessment—a case study of lower Ajay Basin, India",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:M3ejUd6NZC8C",
+      "citation_id": "nCjzFVwAAAAJ:M3ejUd6NZC8C",
+      "authors": "KC Mondal, S Saha, P Aitch, G Bhandari",
+      "publication": "An Interdisciplinary Approach for Disaster Resilience and Sustainability …, 2020",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12425950381133388810",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12425950381133388810&engine=google_scholar&hl=en",
+        "cites_id": "12425950381133388810"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Knowledge discovery from HIV-1-human PPIs assimilating interaction keywords",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:YsMSGLbcyi4C",
+      "citation_id": "nCjzFVwAAAAJ:YsMSGLbcyi4C",
+      "authors": "D Pal, AS Mondal, KC Mondal",
+      "publication": "2016 International Conference on Computer, Electrical & Communication …, 2016",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12671380142637792452",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12671380142637792452&engine=google_scholar&hl=en",
+        "cites_id": "12671380142637792452"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Frequent itemset mining using FP-tree: a CLA-based approach and its extended application in biodiversity data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:hMod-77fHWUC",
+      "citation_id": "nCjzFVwAAAAJ:hMod-77fHWUC",
+      "authors": "M Ghosh, A Roy, P Sil, KC Mondal",
+      "publication": "Innovations in Systems and Software Engineering 19 (3), 283-301, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17743388566833499931",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17743388566833499931&engine=google_scholar&hl=en",
+        "cites_id": "17743388566833499931"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Optimization of coverage hole identification in 5G SON using data mining",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:dhFuZR0502QC",
+      "citation_id": "nCjzFVwAAAAJ:dhFuZR0502QC",
+      "authors": "BD Nandy, KC Mondal",
+      "publication": "Emerging Technologies in Data Mining and Information Security: Proceedings …, 2021",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4053954497225523266",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4053954497225523266&engine=google_scholar&hl=en",
+        "cites_id": "4053954497225523266"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Design and implementation of an improved data warehouse on clinical data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:ULOm3_A8WrAC",
+      "citation_id": "nCjzFVwAAAAJ:ULOm3_A8WrAC",
+      "authors": "N Garain, S Chattopadhyay, G Mahapatra, S Chatterjee, KC Mondal",
+      "publication": "Computational Intelligence, Communications, and Business Analytics: Second …, 2019",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3271103486036213265",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3271103486036213265&engine=google_scholar&hl=en",
+        "cites_id": "3271103486036213265"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "A complete review of computational methods for human and HIV-1 protein interaction prediction",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "nCjzFVwAAAAJ:zYLM7Y9cAGgC",
+      "authors": "D Pal, KC Mondal",
+      "publication": "International Journal of Bioinformatics Research and Applications 12 (1), 19-46, 2016",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9628160791594762719",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9628160791594762719&engine=google_scholar&hl=en",
+        "cites_id": "9628160791594762719"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Non-exhaust particulate pollution in Asian countries: A comprehensive review of sources, composition, and health effects",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:GnPB-g6toBAC",
+      "citation_id": "nCjzFVwAAAAJ:GnPB-g6toBAC",
+      "authors": "A Roy, M Mandal, S Das, M Kumar, R Popek, A Awasthi, BS Giri, ...",
+      "publication": "Environmental Engineering Research 29 (3), 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Period wise future distribution and range-shift estimation using shared socioeconomic pathways on Taxus wallichiana medicinal plant",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:YFjsv_pBGBYC",
+      "citation_id": "nCjzFVwAAAAJ:YFjsv_pBGBYC",
+      "authors": "D Chakraborty, KC Mondal, S Mukhopadhyay",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Data Integration Process Automation Using Machine Learning: Issues and Solution",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:BqipwSGYUEgC",
+      "citation_id": "nCjzFVwAAAAJ:BqipwSGYUEgC",
+      "authors": "KC Mondal, S Saha",
+      "publication": "Machine Learning for Data Science Handbook: Data Mining and Knowledge …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "An Introduction to KDB: Knowledge Discovery in Biodiversity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:ns9cj8rnVeAC",
+      "citation_id": "nCjzFVwAAAAJ:ns9cj8rnVeAC",
+      "authors": "M Ghosh, S Mondal, A Roy, KC Mondal",
+      "publication": "International Conference on Computational Intelligence in Communications and …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Regression Analysis for Finding Correlation on Indian Agricultural Data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:O3NaXMp0MMsC",
+      "citation_id": "nCjzFVwAAAAJ:O3NaXMp0MMsC",
+      "authors": "S Hazra, KC Mondal",
+      "publication": "International Conference on Computational Intelligence in Communications and …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Introducing suffix forest for mining tri-clusters from time-series data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:blknAaTinKkC",
+      "citation_id": "nCjzFVwAAAAJ:blknAaTinKkC",
+      "authors": "KC Mondal, M Ghosh, R Fajriyah, A Roy",
+      "publication": "Innovations in Systems and Software Engineering, 1-23, 2022",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Cloud Big Data Mining and Analytics: Bringing Greenness and Acceleration in the Cloud",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:QIV2ME_5wuYC",
+      "citation_id": "nCjzFVwAAAAJ:QIV2ME_5wuYC",
+      "authors": "H Bakul Barua, KC Mondal",
+      "publication": "arXiv e-prints, arXiv: 2104.05765, 2021",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Empirical Study of Propositionalization Approaches",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:7PzlFSSx8tAC",
+      "citation_id": "nCjzFVwAAAAJ:7PzlFSSx8tAC",
+      "authors": "K Chandra Mondal, T Chakraborty, S Mukhopadhyay",
+      "publication": "Emerging Technologies in Data Mining and Information Security: Proceedings …, 2021",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2021"
+    },
+    {
+      "title": "International Journal of Ambient Computing and Intelligence",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=40&citation_for_view=nCjzFVwAAAAJ:4DMP91E08xMC",
+      "citation_id": "nCjzFVwAAAAJ:4DMP91E08xMC",
+      "authors": "S Mukhopadhyay, AS Mondal, M Sanyal, S Chattapadhyay, KC Mondal, ...",
+      "publication": "International Journal 10 (1), 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Fault Analysis and Trend Prediction in Telecommunication Using Pattern Detection: Architecture, Case Study and Experimentation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:LkGwnXOMwfcC",
+      "citation_id": "nCjzFVwAAAAJ:LkGwnXOMwfcC",
+      "authors": "KC Mondal, HB Barua",
+      "publication": "Computational Intelligence, Communications, and Business Analytics: Second …, 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Closure Based Integrated Approach for Associative Classifier",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:ufrVoPGSRksC",
+      "citation_id": "nCjzFVwAAAAJ:ufrVoPGSRksC",
+      "authors": "SB Chowdhury, D Pal, A Sarkar, KC Mondal",
+      "publication": "Proceedings of the First International Conference on Intelligent Computing …, 2017",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Comparative Study of Parallelism on Data Mining",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:WF5omc3nYNoC",
+      "citation_id": "nCjzFVwAAAAJ:WF5omc3nYNoC",
+      "authors": "KC Mondal, S Bhattacharya, A Sarkar",
+      "publication": "Proceedings of the First International Conference on Intelligent Computing …, 2017",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Brief Review on Optimal Suffix Data Structures",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:IjCSPb-OGe4C",
+      "citation_id": "nCjzFVwAAAAJ:IjCSPb-OGe4C",
+      "authors": "KC Mondal, A Paul, A Sarkar",
+      "publication": "Proceedings of the First International Conference on Intelligent Computing …, 2017",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "A suffix tree based parallel approach for association rule mining and biclustering",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "nCjzFVwAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "KC Mondal, S Bhattacharya, AS Mondal",
+      "publication": "2016 International Conference on Computer, Electrical & Communication …, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "TV White Spectrum for Wireless Broadband Internet Connectivity (WBIC): A theoretical analysis of utilizing TV White Spectrum for Wireless Broadband Internet Connectivity (WBIC …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:hFOr9nPyWt4C",
+      "citation_id": "nCjzFVwAAAAJ:hFOr9nPyWt4C",
+      "authors": "K Mondal, MS Zahan, T Khadem, A Al Amin, MS Islam",
+      "publication": "2016 International Conference on Computing, Communication and Automation …, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Search for lepton flavour violating decays of heavy resonances and quantum black holes to an e-mu pair in proton-proton collisions at sqrt (s)= 8 TeV",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:M3NEmzRMIkIC",
+      "citation_id": "nCjzFVwAAAAJ:M3NEmzRMIkIC",
+      "authors": "S Basegmez, C Beluffi, O Bondu, S Brochet, G Bruno, A Caudron, L Ceard, ...",
+      "publication": "European Physical Journal C. Particles and Fields, 317, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Feasibility Analysis of FDM Technique for Visible Light Communication (VLC) System",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:L8Ckcad2t8MC",
+      "citation_id": "nCjzFVwAAAAJ:L8Ckcad2t8MC",
+      "authors": "A Al Amin, MS Islam, K Mondal",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Self-organized Interfacial Instabilities of Thin Films: Influence of Charge Leakage, Dielectric Anisotropy, and Confinement",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:qUcmZB5y_30C",
+      "citation_id": "nCjzFVwAAAAJ:qUcmZB5y_30C",
+      "authors": "K Mondal",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Algorithmes pour la fouille de données et la bio-informatique",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:_FxGoFyzp5QC",
+      "citation_id": "nCjzFVwAAAAJ:_FxGoFyzp5QC",
+      "authors": "KC Mondal",
+      "publication": "Nice, 2013",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Influence of Slippage and Charge Leakage on the Electric Field Induced Patterns in Thin Bilayers",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:e5wmG9Sq2KIC",
+      "citation_id": "nCjzFVwAAAAJ:e5wmG9Sq2KIC",
+      "authors": "K Mondal, S Sen, P Kumar, D Bandyopadhyay",
+      "publication": "ECS Meeting Abstracts, 2763, 2012",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "TV White Spectrum for Wireless Broadband Internet Connectivity (WBIC)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:HDshCWvjkbEC",
+      "citation_id": "nCjzFVwAAAAJ:HDshCWvjkbEC",
+      "authors": "K Mondal, MS Zahan, T Khadem, A Al Amin, MS Islam",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "MORPHOMETRIC ANALYSIS AND RIVER BEHAVIOR OF AJAY BASIN BY USING GEOSPATIAL TECHNIQUES",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:mB3voiENLucC",
+      "citation_id": "nCjzFVwAAAAJ:mB3voiENLucC",
+      "authors": "KC Mondal, S Saha, P Aitch",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Hybrid Beamforming Technique in Millimeter-Wave Communication for Massive MIMO System",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:ZeXyd9-uunAC",
+      "citation_id": "nCjzFVwAAAAJ:ZeXyd9-uunAC",
+      "authors": "MS Islam, T Jessy, MS Hassan, K Mondal, T Rahman",
+      "publication": "wireless communications 3, 4, 0",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Computational Intelligence and Communication Networks (ICRCICN)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:MXK_kJrjxJIC",
+      "citation_id": "nCjzFVwAAAAJ:MXK_kJrjxJIC",
+      "authors": "AD Kulkarni, D Chakravarty, A Jain, D Palanisamy, AS Thakur, D Ghosh, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "MOSCFRA: A Genetic Approach for Simultanious Clustering and Gene Ranking",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:0EnyYjriUFMC",
+      "citation_id": "nCjzFVwAAAAJ:0EnyYjriUFMC",
+      "authors": "KC Mondal, A Mukhopadhyay, U Maulik, S Bandhyapadhyay, N Pasquier",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "A Comprehensive Review of HIV-1 and Human Protein-Protein Interaction Prediction",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nCjzFVwAAAAJ&cstart=60&citation_for_view=nCjzFVwAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "nCjzFVwAAAAJ:u-x6o8ySG0sC",
+      "authors": "D Pal, KC Mondal",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 444,
+          "since_2018": 374
+        }
+      },
+      {
+        "h_index": {
+          "all": 10,
+          "since_2018": 10
+        }
+      },
+      {
+        "i10_index": {
+          "all": 13,
+          "since_2018": 10
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2013,
+        "citations": 6
+      },
+      {
+        "year": 2014,
+        "citations": 11
+      },
+      {
+        "year": 2015,
+        "citations": 14
+      },
+      {
+        "year": 2016,
+        "citations": 26
+      },
+      {
+        "year": 2017,
+        "citations": 13
+      },
+      {
+        "year": 2018,
+        "citations": 16
+      },
+      {
+        "year": 2019,
+        "citations": 17
+      },
+      {
+        "year": 2020,
+        "citations": 51
+      },
+      {
+        "year": 2021,
+        "citations": 66
+      },
+      {
+        "year": 2022,
+        "citations": 129
+      },
+      {
+        "year": 2023,
+        "citations": 92
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=nCjzFVwAAAAJ",
+    "available": 5,
+    "not_available": 8
+  },
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en&start=20"
+  }
+}

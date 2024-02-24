@@ -1,0 +1,293 @@
+{
+  "search_metadata": {
+    "id": "658dabafc640d26b257be53d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/678defe34548807a/658dabafc640d26b257be53d.json",
+    "created_at": "2023-12-28 17:09:03 UTC",
+    "processed_at": "2023-12-28 17:09:03 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=6971404529633882819&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/678defe34548807a/658dabafc640d26b257be53d.html",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "6971404529633882819",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 6,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=6971404529633882819&hl=en&as_sdt=5,48&sciodt=0,48",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Performance-friendly rule extraction in large water data-sets with AOC posets and relational concept analysis",
+      "result_id": "mFAMZTdvpzcJ",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/03081079.2015.1072927",
+      "snippet": "In this paper, we consider data analysis methods for knowledge extraction from large water data-sets. More specifically, we try to connect physico-chemical parameters and the …",
+      "publication_info": {
+        "summary": "X Dolques, F Le Ber, M Huchard… - International Journal of …, 2016 - Taylor & Francis",
+        "authors": [
+          {
+            "name": "M Huchard",
+            "link": "https://scholar.google.com/citations?user=k3kJUyIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=k3kJUyIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "k3kJUyIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://hal.science/hal-01265521/document"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mFAMZTdvpzcJ",
+        "cited_by": {
+          "total": 19,
+          "link": "https://scholar.google.com/scholar?cites=4010296276905906328&as_sdt=5,48&sciodt=0,48&hl=en",
+          "cites_id": "4010296276905906328",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=4010296276905906328&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mFAMZTdvpzcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6971404529633882819&engine=google_scholar&hl=en&q=related%3AmFAMZTdvpzcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=4010296276905906328&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "4010296276905906328",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=4010296276905906328&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Adjusting the Exploration Flow in Relational Concept Analysis: An Experience on a Watercourse Quality Dataset",
+      "result_id": "_6jv0_ScuooJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-90287-2_9",
+      "snippet": "Abstract Ouzerdine, Amirouche Braud, Agnès Dolques, Xavier Huchard, Marianne Le Ber, Florence In this paper, we focus on the exploration of multi-relational datasets, and the …",
+      "publication_info": {
+        "summary": "A Ouzerdine, A Braud, X Dolques, M Huchard… - Advances in Knowledge …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "M Huchard",
+            "link": "https://scholar.google.com/citations?user=k3kJUyIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=k3kJUyIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "k3kJUyIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_6jv0_ScuooJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=9996474898243889407&as_sdt=5,48&sciodt=0,48&hl=en",
+          "cites_id": "9996474898243889407",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=9996474898243889407&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:_6jv0_ScuooJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6971404529633882819&engine=google_scholar&hl=en&q=related%3A_6jv0_ScuooJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=9996474898243889407&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "9996474898243889407",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=9996474898243889407&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "FCA went (multi-) relational, but does it make any difference?",
+      "result_id": "n9_jwBRu5UIJ",
+      "link": "https://hal.science/hal-03341410/",
+      "snippet": "Relational Concept Analysis (RCA) was designed as an extension of Formal Concept Analysis (FCA) to multi-relational datasets, such as the ones drawn from Linked Open Data …",
+      "publication_info": {
+        "summary": "M Wajnberg, P Valtchev, M Lezoche… - 9th workshop\" What …, 2021 - hal.science",
+        "authors": [
+          {
+            "name": "M Wajnberg",
+            "link": "https://scholar.google.com/citations?user=3pcvJ90AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3pcvJ90AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3pcvJ90AAAAJ"
+          },
+          {
+            "name": "P Valtchev",
+            "link": "https://scholar.google.com/citations?user=ksK4_VIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ksK4_VIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ksK4_VIAAAAJ"
+          },
+          {
+            "name": "M Lezoche",
+            "link": "https://scholar.google.com/citations?user=gaSOocEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gaSOocEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gaSOocEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://hal.science/hal-03341410/file/final_version.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=n9_jwBRu5UIJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=4820380011584544671&as_sdt=5,48&sciodt=0,48&hl=en",
+          "cites_id": "4820380011584544671",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=4820380011584544671&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:n9_jwBRu5UIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6971404529633882819&engine=google_scholar&hl=en&q=related%3An9_jwBRu5UIJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=4820380011584544671&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "4820380011584544671",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=4820380011584544671&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:n9_jwBRu5UIJ:scholar.google.com/&hl=en&as_sdt=5,48&sciodt=0,48"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Exploring multi-relational temporal databases with a propositional sequence miner",
+      "result_id": "0DCZhjTjHQYJ",
+      "link": "https://link.springer.com/article/10.1007/s13748-015-0065-x",
+      "snippet": "In this work, we introduce the MuSer, a propositional framework that explores temporal information available in multi-relational databases. At the core of this system is an encoding …",
+      "publication_info": {
+        "summary": "CA Ferreira, J Gama, VS Costa - Progress in Artificial Intelligence, 2015 - Springer",
+        "authors": [
+          {
+            "name": "CA Ferreira",
+            "link": "https://scholar.google.com/citations?user=i4IY8wcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=i4IY8wcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "i4IY8wcAAAAJ"
+          },
+          {
+            "name": "J Gama",
+            "link": "https://scholar.google.com/citations?user=jjoTZfoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jjoTZfoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jjoTZfoAAAAJ"
+          },
+          {
+            "name": "VS Costa",
+            "link": "https://scholar.google.com/citations?user=0fA9EQcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0fA9EQcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0fA9EQcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "inesctec.pt",
+          "file_format": "PDF",
+          "link": "https://repositorio.inesctec.pt/bitstream/123456789/5301/1/P-00K-A5T.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0DCZhjTjHQYJ",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=440758153288167632&as_sdt=5,48&sciodt=0,48&hl=en",
+          "cites_id": "440758153288167632",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=440758153288167632&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0DCZhjTjHQYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6971404529633882819&engine=google_scholar&hl=en&q=related%3A0DCZhjTjHQYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=440758153288167632&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "440758153288167632",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=440758153288167632&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Exploring sequential data with relational concept analysis",
+      "result_id": "3FjPUY174doJ",
+      "link": "https://theses.hal.science/tel-01712510/",
+      "snippet": "Many sequential pattern mining methods have been proposed to discover useful patterns that describe the analysed sequential data. Several of these works have focused on …",
+      "publication_info": {
+        "summary": "C Nica - 2017 - theses.hal.science"
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://theses.hal.science/tel-01712510/document"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3FjPUY174doJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=15772023216921336028&as_sdt=5,48&sciodt=0,48&hl=en",
+          "cites_id": "15772023216921336028",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=15772023216921336028&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:3FjPUY174doJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6971404529633882819&engine=google_scholar&hl=en&q=related%3A3FjPUY174doJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=15772023216921336028&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "15772023216921336028",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=15772023216921336028&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:3FjPUY174doJ:scholar.google.com/&hl=en&as_sdt=5,48&sciodt=0,48"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Aide à l'utilisation et à l'exploitation de l'analyse de concepts formels pour des non-spécialistes de l'analyse des données",
+      "result_id": "gzoU1tEUOF8J",
+      "link": "https://theses.hal.science/tel-02526323/",
+      "snippet": "De nombreuses approches ont été élaborées pour extraire des connaissances à partir des données. On distingue traditionnellement l'analyse descriptive et l'analyse prédictive. Nous …",
+      "publication_info": {
+        "summary": "A Jaffal - 2019 - theses.hal.science",
+        "authors": [
+          {
+            "name": "A Jaffal",
+            "link": "https://scholar.google.com/citations?user=yJMVKpcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yJMVKpcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yJMVKpcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://theses.hal.science/tel-02526323/file/JAFFAL.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gzoU1tEUOF8J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=6861256923771320963&as_sdt=5,48&sciodt=0,48&hl=en",
+          "cites_id": "6861256923771320963",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6861256923771320963&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:gzoU1tEUOF8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,48&sciodt=0,48",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cites=6971404529633882819&engine=google_scholar&hl=en&q=related%3AgzoU1tEUOF8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=6861256923771320963&hl=en&as_sdt=5,48&sciodt=0,48",
+          "cluster_id": "6861256923771320963",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C48&cluster=6861256923771320963&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:gzoU1tEUOF8J:scholar.google.com/&hl=en&as_sdt=5,48&sciodt=0,48"
+      }
+    }
+  ]
+}

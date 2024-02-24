@@ -1,0 +1,413 @@
+{
+  "search_metadata": {
+    "id": "658da9a33944b0afbc37af5d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/64ad577d3b627981/658da9a33944b0afbc37af5d.json",
+    "created_at": "2023-12-28 17:00:19 UTC",
+    "processed_at": "2023-12-28 17:00:19 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=2939090968254499023&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/64ad577d3b627981/658da9a33944b0afbc37af5d.html",
+    "total_time_taken": 2.51
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "2939090968254499023",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 12,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=2939090968254499023&hl=en&as_sdt=40005&sciodt=0,10",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "5G beamforming techniques for the coverage of intended directions in modern wireless communication: in-depth review",
+      "result_id": "w1372PPT6hkJ",
+      "link": "https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/5g-beamforming-techniques-for-the-coverage-of-intended-directions-in-modern-wireless-communication-indepth-review/95BB89FCC8FF149DBD8ABD01784DEAE2",
+      "snippet": "The growing need of the compact and portable antennas with high speed and low latency wireless communication is the present and future demand of the voice over Internet protocol …",
+      "publication_info": {
+        "summary": "L Rao, M Pant, L Malviya, A Parmar… - International Journal of …, 2021 - cambridge.org",
+        "authors": [
+          {
+            "name": "L Malviya",
+            "link": "https://scholar.google.com/citations?user=MUeRu_kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MUeRu_kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MUeRu_kAAAAJ"
+          },
+          {
+            "name": "A Parmar",
+            "link": "https://scholar.google.com/citations?user=eJl09SUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eJl09SUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "eJl09SUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Leeladhar-Malviya/publication/347444522_5G_beamforming_techniques_for_the_coverage_of_intended_directions_in_modern_wireless_communication_in-depth_review/links/619c8e78d7d1af224b19f000/5G-beamforming-techniques-for-the-coverage-of-intended-directions-in-modern-wireless-communication-In-depth-review.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w1372PPT6hkJ",
+        "cited_by": {
+          "total": 45,
+          "link": "https://scholar.google.com/scholar?cites=1867538039769357763&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "1867538039769357763",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=1867538039769357763&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:w1372PPT6hkJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3Aw1372PPT6hkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=1867538039769357763&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "1867538039769357763",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=1867538039769357763&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A systematic design of a compact wideband hybrid directional coupler based on printed RGW technology",
+      "result_id": "-5bxnGAIHb8J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9399076/",
+      "snippet": "Printed ridge gap waveguide (PRGW) is considered among the state of art guiding technologies due to its low signal distortion and low loss at Millimeter Wave (mmWave) …",
+      "publication_info": {
+        "summary": "MMM Ali, MS El-Gendy, M Al-Hasan, IB Mabrouk… - Ieee …, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "MMM Ali",
+            "link": "https://scholar.google.com/citations?user=YoFrc_EAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YoFrc_EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YoFrc_EAAAAJ"
+          },
+          {
+            "name": "M Al-Hasan",
+            "link": "https://scholar.google.com/citations?user=-YBjZPcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-YBjZPcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-YBjZPcAAAAJ"
+          },
+          {
+            "name": "IB Mabrouk",
+            "link": "https://scholar.google.com/citations?user=vWIBpmkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vWIBpmkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vWIBpmkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09399076.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-5bxnGAIHb8J",
+        "cited_by": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cites=13771172446611805947&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "13771172446611805947",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=13771172446611805947&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-5bxnGAIHb8J:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3A-5bxnGAIHb8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=13771172446611805947&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "13771172446611805947",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=13771172446611805947&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Angle tracking automatic beamforming for microwave power transfer systems",
+      "result_id": "99EQ3Gsos-cJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9295594/",
+      "snippet": "This paper proposes an automatic beamforming scheme using angle tracking to adjust beam direction of phased array transmitter for a microwave wireless power transfer (WPT) …",
+      "publication_info": {
+        "summary": "I Park, E Lee, H Ku - 2020 IEEE Wireless Power Transfer …, 2020 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "I Park",
+            "link": "https://scholar.google.com/citations?user=zPDh3x4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zPDh3x4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zPDh3x4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=99EQ3Gsos-cJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=16695732687311262199&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "16695732687311262199",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=16695732687311262199&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:99EQ3Gsos-cJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3A99EQ3Gsos-cJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 3,
+      "title": "5G OVER-THE-AIR TESTING ENHANCEMENT FOR MULTI-USER MIMO",
+      "result_id": "rvxpfb--JpUJ",
+      "type": "Pdf",
+      "link": "https://trepo.tuni.fi/bitstream/handle/10024/143244/Zafar_Muhammad%20Zaid%20Bin.pdf?sequence=2",
+      "snippet": "5G OVER-THE-AIR TESTING ENHANCEMENT FOR MULTI-USER MIMO Page 1 Muhammad Zaid Bin Zafar 5G OVER-THE-AIR TESTING ENHANCEMENT FOR MULTI-USER MIMO …",
+      "publication_info": {
+        "summary": "J Talvitie, M Valkama - 2022 - trepo.tuni.fi",
+        "authors": [
+          {
+            "name": "M Valkama",
+            "link": "https://scholar.google.com/citations?user=r6pSwLYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=r6pSwLYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "r6pSwLYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "tuni.fi",
+          "file_format": "PDF",
+          "link": "https://trepo.tuni.fi/bitstream/handle/10024/143244/Zafar_Muhammad%20Zaid%20Bin.pdf?sequence=2"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rvxpfb--JpUJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rvxpfb--JpUJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3Arvxpfb--JpUJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:rvxpfb--JpUJ:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Tilted Directional Couplers based Nolen Matrix Beamforming Network for Fifth Generation Multi-Beam Application",
+      "result_id": "_w9P-00E9d0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9998749/",
+      "snippet": "In this paper, a switched-beamforming network with integrated linear microstrip patch antenna array is designed at 26 GHz for fifth generation (5G) application. The 4× 4 Nolen …",
+      "publication_info": {
+        "summary": "JLW Jie, N Seman, N Rozali - 2022 International Symposium …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "N Seman",
+            "link": "https://scholar.google.com/citations?user=wz3ga5IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wz3ga5IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wz3ga5IAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_w9P-00E9d0J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:_w9P-00E9d0J:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3A_w9P-00E9d0J%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 5,
+      "title": "FPGA Based Register Access and Memory Control for 5G Beamforming Processing",
+      "result_id": "qYETs6xc0UwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10126889/",
+      "snippet": "The Evolution of radio communication during the last decades has brought major improvements in exploring new types of architecture and technologies to meet the growing …",
+      "publication_info": {
+        "summary": "M Rakshitha, G Prabhu… - 2022 IEEE North …, 2022 - ieeexplore.ieee.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qYETs6xc0UwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:qYETs6xc0UwJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3AqYETs6xc0UwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5535307313823580585&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "5535307313823580585",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=5535307313823580585&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "FD MAC protocol design for Co-existing WLANs in 5G cellular networks",
+      "result_id": "IOzTsJ17CHMJ",
+      "type": "Html",
+      "link": "https://www.scielo.br/j/jmoea/a/v5mdkWq3gMVGkpnMCDT6bpM/",
+      "snippet": "In this paper, we design full-duplex (FD) medium access control (MAC) protocol for co-existing wireless local area networks (WLANs) in 5G cellular networks (WCFD-MAC). Our …",
+      "publication_info": {
+        "summary": "S Diakite, FM Rizo, SYM Bandiri - Journal of Microwaves …, 2021 - SciELO Brasil",
+        "authors": [
+          {
+            "name": "SYM Bandiri",
+            "link": "https://scholar.google.com/citations?user=PvlOAr4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PvlOAr4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PvlOAr4AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "scielo.br",
+          "file_format": "HTML",
+          "link": "https://www.scielo.br/j/jmoea/a/v5mdkWq3gMVGkpnMCDT6bpM/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IOzTsJ17CHMJ",
+        "html_version": "https://www.scielo.br/j/jmoea/a/v5mdkWq3gMVGkpnMCDT6bpM/",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=8289011031382158368&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "8289011031382158368",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=8289011031382158368&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IOzTsJ17CHMJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3AIOzTsJ17CHMJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=8289011031382158368&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "8289011031382158368",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=8289011031382158368&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:IOzTsJ17CHMJ:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Algorithms for Zero-forcing Beamforming in Multiple Input Multiple Output 5G Systems",
+      "result_id": "vrgtfK3GquoJ",
+      "link": "https://trepo.tuni.fi/handle/10024/123837",
+      "snippet": "Zero-forcing beamforming is a method of spatial signal processing via which multiple antennascan null multiuser interference signals in wireless communications. In general, a …",
+      "publication_info": {
+        "summary": "SP Jui - 2020 - trepo.tuni.fi"
+      },
+      "resources": [
+        {
+          "title": "tuni.fi",
+          "file_format": "PDF",
+          "link": "https://trepo.tuni.fi/bitstream/handle/10024/123837/JuiSharmistaPaul.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vrgtfK3GquoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:vrgtfK3GquoJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3AvrgtfK3GquoJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:vrgtfK3GquoJ:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Integration of LoRa Wide Area Network with the 5G test network",
+      "result_id": "NB70i3XvLrsJ",
+      "link": "https://oulurepo.oulu.fi/handle/10024/9713",
+      "snippet": "The global communication network is going through major transformation from conventional to more versatile and diversified network approaches. With the advent of virtualization and …",
+      "publication_info": {
+        "summary": "R Yasmin - 2017 - oulurepo.oulu.fi"
+      },
+      "resources": [
+        {
+          "title": "oulu.fi",
+          "file_format": "PDF",
+          "link": "https://oulurepo.oulu.fi/bitstream/handle/10024/9713/nbnfioulu-201706082650.pdf?sequence=1&isAllowed=y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NB70i3XvLrsJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=13487981222159457844&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "13487981222159457844",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=13487981222159457844&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NB70i3XvLrsJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3ANB70i3XvLrsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=13487981222159457844&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "13487981222159457844",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=13487981222159457844&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NB70i3XvLrsJ:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Beamforming router as relay to increase 5G cell coverage",
+      "result_id": "l3PTg014vy4J",
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1534957",
+      "snippet": "The growing traffic and global bandwidth shortage for broadband cellular communication networks has motivated to explore the underutilized millimeter wave frequency spectrum for …",
+      "publication_info": {
+        "summary": "J Dunuka, N Panagiotou - 2021 - diva-portal.org"
+      },
+      "resources": [
+        {
+          "title": "diva-portal.org",
+          "file_format": "PDF",
+          "link": "https://www.diva-portal.org/smash/get/diva2:1534957/FULLTEXT02"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=l3PTg014vy4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:l3PTg014vy4J:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3Al3PTg014vy4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3368543320615908247&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "3368543320615908247",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=3368543320615908247&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:l3PTg014vy4J:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Bit Error Rate Analysis of Analog and Hybrid Beamforming Techniques",
+      "result_id": "3nDmF7lxRzgJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9111508/",
+      "snippet": "The objective of this paper is to compare the two beamforming techniques that will come into use for the deployment of 5 th generation communication networks. This is a side by side …",
+      "publication_info": {
+        "summary": "S Kamath, SI D'souza - 2019 IEEE 17th International …, 2019 - ieeexplore.ieee.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3nDmF7lxRzgJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:3nDmF7lxRzgJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3A3nDmF7lxRzgJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Ètude et simulation du système MIMO à Formation de faisceaux",
+      "result_id": "xgXn8LhKa4EJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "رزقه, يحي - 2020‎ - University Of El Oued"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xgXn8LhKa4EJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xgXn8LhKa4EJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2939090968254499023&engine=google_scholar&hl=en&q=related%3AxgXn8LhKa4EJ%3Ascholar.google.com%2F&start=10"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=40005&sciodt=0,10&cites=2939090968254499023&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=40005&sciodt=0,10&cites=2939090968254499023&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=40005&cites=2939090968254499023&engine=google_scholar&hl=en&start=10"
+    }
+  }
+}

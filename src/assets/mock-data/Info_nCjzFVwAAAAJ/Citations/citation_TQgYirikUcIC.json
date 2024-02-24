@@ -1,0 +1,97 @@
+{
+  "search_metadata": {
+    "id": "65980fe337014cfe7353d470",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c0ac20682bdc83bf/65980fe337014cfe7353d470.json",
+    "created_at": "2024-01-05 14:19:15 UTC",
+    "processed_at": "2024-01-05 14:19:16 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:TQgYirikUcIC",
+    "raw_html_file": "https://serpapi.com/searches/c0ac20682bdc83bf/65980fe337014cfe7353d470.html",
+    "total_time_taken": 0.41
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:TQgYirikUcIC"
+  },
+  "citation": {
+    "title": "Electric field induced instabilities of thin leaky bilayers: Pathways to unique morphologies and miniaturization",
+    "link": "https://pubs.aip.org/aip/jcp/article/138/2/024705/71210",
+    "authors": "Kartick Mondal, Prashant Kumar, Dipankar Bandyopadhyay",
+    "publication_date": "2013/1/14",
+    "journal": "The Journal of Chemical Physics",
+    "volume": "138",
+    "issue": "2",
+    "publisher": "AIP Publishing",
+    "description": "Charge leakage of the weakly conducting liquid layers in a thin bilayer can engender interesting interfacial instabilities when exposed to an external electrostatic field. A general linear stability analysis including the full descriptions of the Maxwell stresses uncovers the key short to long-wave features of the instabilities of the bilayers composed of purely dielectric films, leaky dielectric films, and a combination of leaky and dielectric films. The study highlights that for the leaky bilayers the additional electrostatic stress due to the presence of free charges at the interface (s) can significantly reduce the length scale to enforce pattern miniaturization. Unlike a purely dielectric bilayer where the dielectric-contrast across the interfaces dictates the direction of the interfacial deformations, for leaky bilayers the nature of the charge (positive or negative) at the interface can also contribute to the deformation towards or away from the …",
+    "total_citations": {
+      "cited_by": {
+        "total": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10136497318683568581&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10136497318683568581&engine=google_scholar&hl=en",
+        "cites_id": "10136497318683568581"
+      },
+      "table": [
+        {
+          "year": 2013,
+          "citations": 1
+        },
+        {
+          "year": 2014,
+          "citations": 5
+        },
+        {
+          "year": 2015,
+          "citations": 2
+        },
+        {
+          "year": 2016,
+          "citations": 3
+        },
+        {
+          "year": 2017,
+          "citations": 2
+        },
+        {
+          "year": 2018,
+          "citations": 2
+        },
+        {
+          "year": 2019,
+          "citations": 1
+        },
+        {
+          "year": 2020,
+          "citations": 1
+        },
+        {
+          "year": 2021,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Electric field induced instabilities of thin leaky bilayers: Pathways to unique morphologies and miniaturization",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=10136497318683568581&btnI=1&hl=en",
+        "authors": "K Mondal, P Kumar, D Bandyopadhyay - The Journal of Chemical Physics, 2013",
+        "cited_by": {
+          "total": 18,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10136497318683568581&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=10136497318683568581&engine=google_scholar&hl=en",
+          "cites_id": "10136497318683568581"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:xWnVGpsSrIwJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=10136497318683568581",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=10136497318683568581&engine=google_scholar&hl=en",
+          "cluster_id": "10136497318683568581"
+        }
+      }
+    ]
+  }
+}

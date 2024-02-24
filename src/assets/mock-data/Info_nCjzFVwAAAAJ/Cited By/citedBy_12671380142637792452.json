@@ -1,0 +1,126 @@
+{
+  "search_metadata": {
+    "id": "658dae55dc02f12742eb9f41",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3afcf5eb2fc595b2/658dae55dc02f12742eb9f41.json",
+    "created_at": "2023-12-28 17:20:21 UTC",
+    "processed_at": "2023-12-28 17:20:21 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=12671380142637792452&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/3afcf5eb2fc595b2/658dae55dc02f12742eb9f41.html",
+    "total_time_taken": 1.04
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "12671380142637792452",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=12671380142637792452&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Finding prediction of interaction between SARS-CoV-2 and human protein: a data-driven approach",
+      "result_id": "7rIR-GTCCGUJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s40031-021-00569-7",
+      "snippet": "COVID-19 pandemic defined a worldwide health crisis into a humanitarian crisis. Amid this global emergency, human civilization is under enormous strain since no proper therapeutic …",
+      "publication_info": {
+        "summary": "M Ghosh, P Sil, A Roy, R Fajriyah… - Journal of The Institution of …, 2021 - Springer",
+        "authors": [
+          {
+            "name": "M Ghosh",
+            "link": "https://scholar.google.com/citations?user=m0r32sQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m0r32sQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0r32sQAAAAJ"
+          },
+          {
+            "name": "P Sil",
+            "link": "https://scholar.google.com/citations?user=xVoEbssAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xVoEbssAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xVoEbssAAAAJ"
+          },
+          {
+            "name": "R Fajriyah",
+            "link": "https://scholar.google.com/citations?user=7aOGsPkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7aOGsPkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7aOGsPkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s40031-021-00569-7"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7rIR-GTCCGUJ",
+        "html_version": "https://link.springer.com/article/10.1007/s40031-021-00569-7",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=7280282536558834414&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7280282536558834414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7280282536558834414&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7rIR-GTCCGUJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12671380142637792452&engine=google_scholar&hl=en&q=related%3A7rIR-GTCCGUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=7280282536558834414&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7280282536558834414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7280282536558834414&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Predicting novel interactions from HIV-1-human PPI data integrated with protein signatures and GO annotations",
+      "result_id": "4KLdXJ3uOAsJ",
+      "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2021.120536",
+      "snippet": "The research on host-pathogen protein-protein interactions (PPIs), specifically HIV1-human PPIs becomes one of the most challenging areas of medical science for antiviral drug …",
+      "publication_info": {
+        "summary": "D Pal, KC Mondal - International Journal of Bioinformatics …, 2021 - inderscienceonline.com",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4KLdXJ3uOAsJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=808658492748309216&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "808658492748309216",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=808658492748309216&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4KLdXJ3uOAsJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12671380142637792452&engine=google_scholar&hl=en&q=related%3A4KLdXJ3uOAsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=808658492748309216&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "808658492748309216",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=808658492748309216&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

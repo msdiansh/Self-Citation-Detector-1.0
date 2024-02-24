@@ -1,0 +1,1440 @@
+{
+  "search_metadata": {
+    "id": "658da5fb5fc49328c3706e1b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/46557abc2c946bfa/658da5fb5fc49328c3706e1b.json",
+    "created_at": "2023-12-28 16:44:43 UTC",
+    "processed_at": "2023-12-28 16:44:43 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=9776636979047456051&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/46557abc2c946bfa/658da5fb5fc49328c3706e1b.html",
+    "total_time_taken": 2.68
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "9776636979047456051",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 40,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=9776636979047456051&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Challenges and solutions for processing real-time big data stream: a systematic literature review",
+      "result_id": "4pU-Nw2fowMJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9126812/",
+      "snippet": "Contribution: Recently, real-time data warehousing (DWH) and big data streaming have become ubiquitous due to the fact that a number of business organizations are gearing up to …",
+      "publication_info": {
+        "summary": "E Mehmood, T Anees - IEEE Access, 2020 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "E Mehmood",
+            "link": "https://scholar.google.com/citations?user=7TjoqbgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7TjoqbgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7TjoqbgAAAAJ"
+          },
+          {
+            "name": "T Anees",
+            "link": "https://scholar.google.com/citations?user=qvr2yOYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qvr2yOYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qvr2yOYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/09126812.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4pU-Nw2fowMJ",
+        "cited_by": {
+          "total": 43,
+          "link": "https://scholar.google.com/scholar?cites=262228082427860450&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "262228082427860450",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=262228082427860450&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4pU-Nw2fowMJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A4pU-Nw2fowMJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "An ETL-process design for data harmonization to participate in international research with German real-world data based on FHIR and OMOP CDM",
+      "result_id": "yRVcRkPnBE4J",
+      "type": "Html",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1386505622002398",
+      "snippet": "Background International studies are increasingly needed in order to gain more unbiased evidence from real-world data. To achieve this goal across the European Union, the EMA set …",
+      "publication_info": {
+        "summary": "Y Peng, E Henke, I Reinecke, M Zoch… - International Journal of …, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "M Zoch",
+            "link": "https://scholar.google.com/citations?user=ZgO5-O8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZgO5-O8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZgO5-O8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "HTML",
+          "link": "https://www.sciencedirect.com/science/article/pii/S1386505622002398"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=yRVcRkPnBE4J",
+        "html_version": "https://www.sciencedirect.com/science/article/pii/S1386505622002398",
+        "cited_by": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cites=5621872510994486729&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "5621872510994486729",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5621872510994486729&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:yRVcRkPnBE4J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AyRVcRkPnBE4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=5621872510994486729&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "5621872510994486729",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=5621872510994486729&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Review on integrating geospatial big datasets and open research issues",
+      "result_id": "4llVo0lhZtAJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9320472/",
+      "snippet": "Big data and geographic information systems (GIS) are two technologies that have increasingly influenced many areas in the last 10 years and will continue to improve and …",
+      "publication_info": {
+        "summary": "S Al-Yadumi, TE Xion, SGW Wei, P Boursier - IEEE Access, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Al-Yadumi",
+            "link": "https://scholar.google.com/citations?user=Onb1vxwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Onb1vxwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Onb1vxwAAAAJ"
+          },
+          {
+            "name": "TE Xion",
+            "link": "https://scholar.google.com/citations?user=3XYWj1sAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3XYWj1sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3XYWj1sAAAAJ"
+          },
+          {
+            "name": "P Boursier",
+            "link": "https://scholar.google.com/citations?user=Dr4aBYwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Dr4aBYwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Dr4aBYwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09320472.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4llVo0lhZtAJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=15016796976414284258&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "15016796976414284258",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15016796976414284258&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4llVo0lhZtAJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A4llVo0lhZtAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=15016796976414284258&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "15016796976414284258",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=15016796976414284258&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Dynamic multi-variant relational scheme-based intelligent ETL framework for healthcare management",
+      "result_id": "vPDMi7htPMEJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s00500-022-06938-8",
+      "snippet": "The growth of information technology has opened the gate for the organizations to maintain their data in various forms and at various volumes. This increases the volume and …",
+      "publication_info": {
+        "summary": "V Manickam, M Rajasekaran Indra - Soft Computing, 2023 - Springer"
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s00500-022-06938-8"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vPDMi7htPMEJ",
+        "html_version": "https://link.springer.com/article/10.1007/s00500-022-06938-8",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=13924124787309605052&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "13924124787309605052",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13924124787309605052&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:vPDMi7htPMEJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AvPDMi7htPMEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=13924124787309605052&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "13924124787309605052",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=13924124787309605052&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Automated credit assessment framework using ETL process and machine learning",
+      "result_id": "rqPtkcmvMH4J",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00522-x",
+      "snippet": "In the current business scenario, real-time analysis of enterprise data through Business Intelligence (BI) is crucial for supporting operational activities and taking any strategic …",
+      "publication_info": {
+        "summary": "N Biswas, AS Mondal, A Kusumastuti, S Saha… - Innovations in Systems …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "N Biswas",
+            "link": "https://scholar.google.com/citations?user=YAt97FEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YAt97FEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YAt97FEAAAAJ"
+          },
+          {
+            "name": "A Kusumastuti",
+            "link": "https://scholar.google.com/citations?user=lseo98AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lseo98AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lseo98AAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s11334-022-00522-x"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rqPtkcmvMH4J",
+        "html_version": "https://link.springer.com/article/10.1007/s11334-022-00522-x",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=9092960927932588974&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "9092960927932588974",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9092960927932588974&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rqPtkcmvMH4J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3ArqPtkcmvMH4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=9092960927932588974&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "9092960927932588974",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=9092960927932588974&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "BIcenter: A collaborative Web ETL solution based on a reflective software approach",
+      "result_id": "9zjnvc6kqrkJ",
+      "type": "Html",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352711021001497",
+      "snippet": "The continuous growth of new sources of information has led to an unprecedented increase in the data collected. The dimensionality and heterogeneity of these data requires efficient …",
+      "publication_info": {
+        "summary": "JR Almeida, L Coelho, JL Oliveira - SoftwareX, 2021 - Elsevier",
+        "authors": [
+          {
+            "name": "L Coelho",
+            "link": "https://scholar.google.com/citations?user=l5wacEUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=l5wacEUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "l5wacEUAAAAJ"
+          },
+          {
+            "name": "JL Oliveira",
+            "link": "https://scholar.google.com/citations?user=t68oO10AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=t68oO10AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "t68oO10AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "HTML",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2352711021001497"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9zjnvc6kqrkJ",
+        "html_version": "https://www.sciencedirect.com/science/article/pii/S2352711021001497",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=13378686850913745143&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "13378686850913745143",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13378686850913745143&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9zjnvc6kqrkJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A9zjnvc6kqrkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=13378686850913745143&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "13378686850913745143",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=13378686850913745143&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "OLAP Mining with Educational Data Mart to Predict Students' Performance",
+      "result_id": "qSwepyonjwQJ",
+      "link": "https://www.informatica.si/index.php/informatica/article/view/3853",
+      "snippet": "Academic institutions always try to use a solid platform for supporting their short-to-long term decisions related to academic performance. These platforms utilize the historical data and …",
+      "publication_info": {
+        "summary": "IA Najm, JM Dahr, AK Hamoud, AS Alasady… - Informatica, 2022 - informatica.si",
+        "authors": [
+          {
+            "name": "IA Najm",
+            "link": "https://scholar.google.com/citations?user=pikOaoEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pikOaoEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pikOaoEAAAAJ"
+          },
+          {
+            "name": "JM Dahr",
+            "link": "https://scholar.google.com/citations?user=85Gj1DUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=85Gj1DUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "85Gj1DUAAAAJ"
+          },
+          {
+            "name": "AK Hamoud",
+            "link": "https://scholar.google.com/citations?user=NHlFWhgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NHlFWhgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NHlFWhgAAAAJ"
+          },
+          {
+            "name": "AS Alasady",
+            "link": "https://scholar.google.com/citations?user=DMC7tgYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DMC7tgYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DMC7tgYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "informatica.si",
+          "file_format": "PDF",
+          "link": "https://www.informatica.si/index.php/informatica/article/download/3853/1809"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qSwepyonjwQJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=328524361967217833&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "328524361967217833",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=328524361967217833&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:qSwepyonjwQJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AqSwepyonjwQJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=328524361967217833&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "328524361967217833",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=328524361967217833&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qSwepyonjwQJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 7,
+      "title": "DHSDJArch: an efficient design of distributed heterogeneous stream-disk join architecture",
+      "result_id": "lKmZcP61r6IJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10159277/",
+      "snippet": "Heterogeneity is the key aspect of complex networks and smart devices for using it as nature of live streams. The heterogeneous stream-disk join is a significant research topic in real …",
+      "publication_info": {
+        "summary": "E Mehmood, T Anees, AS Al-Shamayleh… - IEEE …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "E Mehmood",
+            "link": "https://scholar.google.com/citations?user=7TjoqbgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7TjoqbgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7TjoqbgAAAAJ"
+          },
+          {
+            "name": "T Anees",
+            "link": "https://scholar.google.com/citations?user=qvr2yOYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qvr2yOYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qvr2yOYAAAAJ"
+          },
+          {
+            "name": "AS Al-Shamayleh",
+            "link": "https://scholar.google.com/citations?user=j2rIWksAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j2rIWksAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "j2rIWksAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/10159277.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lKmZcP61r6IJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:lKmZcP61r6IJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AlKmZcP61r6IJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Data Extraction, Transformation, and Loading Process Automation for Algorithmic Trading Machine Learning Modelling and Performance Optimization",
+      "result_id": "goQ1edWeAPcJ",
+      "link": "https://arxiv.org/abs/2312.12774",
+      "snippet": "A data warehouse efficiently prepares data for effective and fast data analysis and modelling using machine learning algorithms. This paper discusses existing solutions for the Data …",
+      "publication_info": {
+        "summary": "N Ebadifard, A Parihar, Y Khmelevsky, G Hains… - arXiv preprint arXiv …, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "Y Khmelevsky",
+            "link": "https://scholar.google.com/citations?user=IKOA7K0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IKOA7K0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IKOA7K0AAAAJ"
+          },
+          {
+            "name": "G Hains",
+            "link": "https://scholar.google.com/citations?user=KnGuLaoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KnGuLaoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KnGuLaoAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2312.12774"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=goQ1edWeAPcJ",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17798400367066973314&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "17798400367066973314",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17798400367066973314&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:goQ1edWeAPcJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Role of machine learning in ETL automation",
+      "result_id": "GaF2nSIgePAJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3369740.3372778",
+      "snippet": "In the current business landscape, real-time analysis of enterprise data is very crucial for decision-makers of the organization to take strategic resolution and stay ahead of the …",
+      "publication_info": {
+        "summary": "KC Mondal, N Biswas, S Saha - … of the 21st international conference on …, 2020 - dl.acm.org",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "N Biswas",
+            "link": "https://scholar.google.com/citations?user=YAt97FEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YAt97FEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YAt97FEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/339368691_Role_of_Machine_Learning_in_ETL_Automation/links/60f190849541032c6d429067/Role-of-Machine-Learning-in-ETL-Automation.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GaF2nSIgePAJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=17327634899350757657&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "17327634899350757657",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17327634899350757657&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GaF2nSIgePAJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AGaF2nSIgePAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17327634899350757657&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "17327634899350757657",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17327634899350757657&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Towards comparative analysis of resumption techniques in ETL",
+      "result_id": "4fS8D8POEkkJ",
+      "link": "https://ojs.uajy.ac.id/index.php/IJIS/article/view/3776",
+      "snippet": "Data warehouses are loaded with data from sources such as operational data bases. Failure of loading process or failure of any of the process such as extraction or transformation is …",
+      "publication_info": {
+        "summary": "M Muddasir, K Raghuveer, R Dayanand - Indonesian Journal of …, 2021 - ojs.uajy.ac.id",
+        "authors": [
+          {
+            "name": "M Muddasir",
+            "link": "https://scholar.google.com/citations?user=SnOlKWEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SnOlKWEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SnOlKWEAAAAJ"
+          },
+          {
+            "name": "K Raghuveer",
+            "link": "https://scholar.google.com/citations?user=KDXeIFEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KDXeIFEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KDXeIFEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "uajy.ac.id",
+          "file_format": "PDF",
+          "link": "https://ojs.uajy.ac.id/index.php/IJIS/article/download/3776/2040"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4fS8D8POEkkJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=5265498251527517409&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "5265498251527517409",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=5265498251527517409&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4fS8D8POEkkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A4fS8D8POEkkJ%3Ascholar.google.com%2F&start=10",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:4fS8D8POEkkJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Extending The Data Integration Model As The Foundation Of Business Intelligence: A Systematic Literature Review",
+      "result_id": "4IvSf_BEHd0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10295685/",
+      "snippet": "The decision-making of a dynamic business requires information, and the solution is to build business intelligence. Data integration is an important component of business intelligence …",
+      "publication_info": {
+        "summary": "AW Sudrajat - 2023 10th International Conference on …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "AW Sudrajat",
+            "link": "https://scholar.google.com/citations?user=CWiClT8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CWiClT8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CWiClT8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4IvSf_BEHd0J"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Adjustment of p-value expression to ontology using machine learning for genetic prediction, prioritization, interaction, and its validation in glomerular disease",
+      "result_id": "81fnuQM-xZ4J",
+      "type": "Html",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10603191/",
+      "snippet": "The results of gene expression analysis based on p-value can be extracted and sorted by their absolute statistical significance and then applied to multiple similarity scores of their …",
+      "publication_info": {
+        "summary": "B Ettetuani, R Chahboune, A Moussa - Frontiers in Genetics, 2023 - ncbi.nlm.nih.gov",
+        "authors": [
+          {
+            "name": "A Moussa",
+            "link": "https://scholar.google.com/citations?user=frfl03gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=frfl03gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "frfl03gAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "HTML",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10603191/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=81fnuQM-xZ4J",
+        "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10603191/",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:81fnuQM-xZ4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A81fnuQM-xZ4J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=11440618614129383411&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "11440618614129383411",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=11440618614129383411&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "BIcenter-AD: Harmonising Alzheimer's Disease cohorts using a common ETL tool",
+      "result_id": "W2n6OCoQGiYJ",
+      "type": "Html",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352914822002702",
+      "snippet": "Background: Many scientific studies have sought to obtain a better understanding of specific medical conditions. Concerning Alzheimer's Disease, there is a lack of reliable diagnostics …",
+      "publication_info": {
+        "summary": "JR Almeida, A Pazos, JL Oliveira - Informatics in Medicine Unlocked, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "JR Almeida",
+            "link": "https://scholar.google.com/citations?user=amUREO0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=amUREO0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "amUREO0AAAAJ"
+          },
+          {
+            "name": "A Pazos",
+            "link": "https://scholar.google.com/citations?user=bPAk6fYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bPAk6fYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bPAk6fYAAAAJ"
+          },
+          {
+            "name": "JL Oliveira",
+            "link": "https://scholar.google.com/citations?user=t68oO10AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=t68oO10AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "t68oO10AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "HTML",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2352914822002702"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=W2n6OCoQGiYJ",
+        "html_version": "https://www.sciencedirect.com/science/article/pii/S2352914822002702",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:W2n6OCoQGiYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AW2n6OCoQGiYJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Integration of ETL in Cloud Using Spark for Streaming Data",
+      "result_id": "3MtJ1DOLHkwJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-16-4435-1_18",
+      "snippet": "Abstract Extract-Transform-Load (ETL) consists of a series of process which collects raw transactional data and reshapes it into clean information which is actionable by Business …",
+      "publication_info": {
+        "summary": "N Biswas, KC Mondal - … Techniques for IoT Applications: Proceedings of …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "N Biswas",
+            "link": "https://scholar.google.com/citations?user=YAt97FEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YAt97FEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YAt97FEAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3MtJ1DOLHkwJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=5484974450905041884&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "5484974450905041884",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=5484974450905041884&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:3MtJ1DOLHkwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A3MtJ1DOLHkwJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5484974450905041884&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "5484974450905041884",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=5484974450905041884&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Data Integration Process Automation Using Machine Learning: Issues and Solution",
+      "result_id": "6BdauV7341sJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-24628-9_3",
+      "snippet": "In today's data-driven world, real-time analysis of enterprise data plays an important role in the organization to take strategic decisions and improve business operations. The …",
+      "publication_info": {
+        "summary": "KC Mondal, S Saha - Machine Learning for Data Science Handbook: Data …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6BdauV7341sJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=6621407863373436904&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "6621407863373436904",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=6621407863373436904&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Enhancing Data Warehouse Efficiency by Optimizing ETL Processing in Near Real Time Data Integration Environment",
+      "result_id": "UZWhflnY7BwJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-2233-8_21",
+      "snippet": "The importance of data towards business process enhancement is perhaps the most important element. Successful utilization of data collected enables business organizations to …",
+      "publication_info": {
+        "summary": "K Maharaj, K Kumar - International Conference on Big Data Intelligence …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "K Maharaj",
+            "link": "https://scholar.google.com/citations?user=JJSuBVsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JJSuBVsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JJSuBVsAAAAJ"
+          },
+          {
+            "name": "K Kumar",
+            "link": "https://scholar.google.com/citations?user=Idr3iQUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Idr3iQUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Idr3iQUAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=UZWhflnY7BwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:UZWhflnY7BwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AUZWhflnY7BwJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=2084278606453904721&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "2084278606453904721",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=2084278606453904721&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "ETL applied to Klarna e-commerce dataset",
+      "result_id": "5ie9HH9AByMJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10308808/",
+      "snippet": "This paper examines the crucial role of Extract, Transform, Load (ETL) processes in managing and analyzing large-scale datasets, specifically focusing on its application in the …",
+      "publication_info": {
+        "summary": "A El Attaoui, S Rhouas… - 2023 9th International …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Rhouas",
+            "link": "https://scholar.google.com/citations?user=UU5Sd78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UU5Sd78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UU5Sd78AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5ie9HH9AByMJ"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Data Warehouse Modernization Using Document-Oriented ETL Framework for Real Time Analytics",
+      "result_id": "SVdUHHOFt_0J",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-19-1122-4_5",
+      "snippet": "For past several years Relational Databases performing and providing services to many applications. As data is growing, the necessity for a new kind of database which can handle …",
+      "publication_info": {
+        "summary": "M Patel, DB Patel - Rising Threats in Expert Applications and Solutions …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "M Patel",
+            "link": "https://scholar.google.com/citations?user=_VUVTB4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_VUVTB4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_VUVTB4AAAAJ"
+          },
+          {
+            "name": "DB Patel",
+            "link": "https://scholar.google.com/citations?user=7CeD-sAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7CeD-sAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7CeD-sAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dhiren-Patel-3/publication/361734508_Data_Warehouse_Modernization_Using_Document-Oriented_ETL_Framework_for_Real_Time_Analytics/links/631c067170cc936cd3f7c040/Data-Warehouse-Modernization-Using-Document-Oriented-ETL-Framework-for-Real-Time-Analytics.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=SVdUHHOFt_0J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:SVdUHHOFt_0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3ASVdUHHOFt_0J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=18282227941776840521&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "18282227941776840521",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=18282227941776840521&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Integration of Business Process Data using Advanced ETL tools",
+      "result_id": "Cb3rED7KzgoJ",
+      "link": "https://dergipark.org.tr/en/pub/ijiam/issue/75431/1213911",
+      "snippet": "The large proliferation of the BPM discipline has considerably propelled companies' information systems which become ubiquitous. Consequently, a huge volume of data is …",
+      "publication_info": {
+        "summary": "A Khebizi, M Hadjeris - International Journal of Informatics and …, 2023 - dergipark.org.tr"
+      },
+      "resources": [
+        {
+          "title": "dergipark.org.tr",
+          "file_format": "PDF",
+          "link": "https://dergipark.org.tr/en/download/article-file/2809998"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Cb3rED7KzgoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Cb3rED7KzgoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3ACb3rED7KzgoJ%3Ascholar.google.com%2F&start=10",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Cb3rED7KzgoJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Data quality management in data integration",
+      "result_id": "8lpWuCfSCWIJ",
+      "type": "Pdf",
+      "link": "https://is.muni.cz/th/bey6e/Data_Quality_Management_in_Data_Integration_final_version_Archive.pdf",
+      "snippet": "Data integration has been considered as one of the important stages before the data analytic, gathering data from multiple sources and combining into a single data source such …",
+      "publication_info": {
+        "summary": "R Ly - 2020 - is.muni.cz"
+      },
+      "resources": [
+        {
+          "title": "muni.cz",
+          "file_format": "PDF",
+          "link": "https://is.muni.cz/th/bey6e/Data_Quality_Management_in_Data_Integration_final_version_Archive.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8lpWuCfSCWIJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=7064408558545558258&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7064408558545558258",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7064408558545558258&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8lpWuCfSCWIJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A8lpWuCfSCWIJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7064408558545558258&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7064408558545558258",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7064408558545558258&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8lpWuCfSCWIJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Research and Application of an Incremental Extraction Scheme for Monitoring Power Equipment Data",
+      "result_id": "lKj_8Gjo6lgJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-8761-0_2",
+      "snippet": "The monitoring data of power equipment exhibit characteristics of multiple sources, a large amount of data, and high real-time performance. To effectively extract information from these …",
+      "publication_info": {
+        "summary": "D Lu, S Zhang, Y Zhao, Q Han - CCF National Conference of Computer …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "Q Han",
+            "link": "https://scholar.google.com/citations?user=6jIjif8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6jIjif8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6jIjif8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lKj_8Gjo6lgJ"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Feature Influence Based ETL for Efficient Big Data Management",
+      "result_id": "kkJMOckygZsJ",
+      "link": "https://nopr.niscpr.res.in/handle/123456789/61002",
+      "snippet": "The increased volume of big data introduces various challenges for its maintenance and analysis. There exist various approaches to the problem, but they fail to achieve the …",
+      "publication_info": {
+        "summary": "M Vijayalakshmi, RI Minu - 2022 - nopr.niscpr.res.in",
+        "authors": [
+          {
+            "name": "M Vijayalakshmi",
+            "link": "https://scholar.google.com/citations?user=8twyd_UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8twyd_UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8twyd_UAAAAJ"
+          },
+          {
+            "name": "RI Minu",
+            "link": "https://scholar.google.com/citations?user=NwCQbp8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NwCQbp8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NwCQbp8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "niscpr.res.in",
+          "file_format": "PDF",
+          "link": "https://nopr.niscpr.res.in/bitstream/123456789/61002/1/JSIR%2081%2812%29%201310-1316.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kkJMOckygZsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:kkJMOckygZsJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AkkJMOckygZsJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=11205293187705619090&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "11205293187705619090",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11205293187705619090&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:kkJMOckygZsJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Incremental Load Processing on ETL System through Cloud",
+      "result_id": "8ENdzL93yyEJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9726039/",
+      "snippet": "Nowadays, patient data processing is more important in a real-time environment since the hospitals have protocols to maintain patient data on the server. From the server, data …",
+      "publication_info": {
+        "summary": "M Vijayalakshmi, RI Minu - 2022 International Conference for …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Vijayalakshmi",
+            "link": "https://scholar.google.com/citations?user=8twyd_UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8twyd_UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8twyd_UAAAAJ"
+          },
+          {
+            "name": "RI Minu",
+            "link": "https://scholar.google.com/citations?user=NwCQbp8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NwCQbp8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NwCQbp8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8ENdzL93yyEJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2435171689175008240&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "2435171689175008240",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2435171689175008240&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8ENdzL93yyEJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A8ENdzL93yyEJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Block Based Resumption Techniques for Efficient Handling of Unsuccessful Loads in Data Warehouse",
+      "result_id": "DPMynnqT7BcJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-12638-3_25",
+      "snippet": "ETL is the acronym for extract transform and load, it'sa process to extract, transform and load data into the data warehouse from sources that could be other transactional database, text …",
+      "publication_info": {
+        "summary": "NM Muddasir, K Raghuveer - … Conference on Advances in Computing and …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "NM Muddasir",
+            "link": "https://scholar.google.com/citations?user=SnOlKWEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SnOlKWEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SnOlKWEAAAAJ"
+          },
+          {
+            "name": "K Raghuveer",
+            "link": "https://scholar.google.com/citations?user=KDXeIFEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KDXeIFEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KDXeIFEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DPMynnqT7BcJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DPMynnqT7BcJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3ADPMynnqT7BcJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Comparative Analysis of ETL Tools in Big Data Analytics",
+      "result_id": "2G6EE8tfnMgJ",
+      "link": "https://www.hpej.net/journals/pakjet/article/view/2266",
+      "snippet": "Massive amounts of data are being generated these days all around the world. The majority of social networking platforms, ecommerce sites, the public and private sectors, healthcare …",
+      "publication_info": {
+        "summary": "A Qaiser, MU Farooq, SMN Mustafa, N Abrar - Pakistan Journal of …, 2023 - hpej.net",
+        "authors": [
+          {
+            "name": "A Qaiser",
+            "link": "https://scholar.google.com/citations?user=jIAUEPEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jIAUEPEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jIAUEPEAAAAJ"
+          },
+          {
+            "name": "MU Farooq",
+            "link": "https://scholar.google.com/citations?user=vfo1WRIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vfo1WRIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vfo1WRIAAAAJ"
+          },
+          {
+            "name": "SMN Mustafa",
+            "link": "https://scholar.google.com/citations?user=YbkY0aEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YbkY0aEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YbkY0aEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hpej.net",
+          "file_format": "PDF",
+          "link": "https://www.hpej.net/journals/pakjet/article/download/2266/1136"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2G6EE8tfnMgJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2G6EE8tfnMgJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A2G6EE8tfnMgJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=14455534229762895576&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "14455534229762895576",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14455534229762895576&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:2G6EE8tfnMgJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Reporting system for large process plants",
+      "result_id": "nllmSGO6EkMJ",
+      "link": "https://trepo.tuni.fi/handle/10024/138204",
+      "snippet": "Reporting is an integral part of the automation systems of process plants. Process plants require extensive daily and monthly reports, that combine production and expenditures, to …",
+      "publication_info": {
+        "summary": "S Eiranto - 2022 - trepo.tuni.fi"
+      },
+      "resources": [
+        {
+          "title": "tuni.fi",
+          "file_format": "PDF",
+          "link": "https://trepo.tuni.fi/bitstream/handle/10024/138204/EirantoSeppo.pdf?sequence=2"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nllmSGO6EkMJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nllmSGO6EkMJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AnllmSGO6EkMJ%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:nllmSGO6EkMJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Strategies and Recommendation for Data Loading of FHIR-Based Data Marts with",
+      "result_id": "78qc8MDvObwJ",
+      "type": "Pdf",
+      "link": "https://ebooks.iospress.nl/pdf/doi/10.3233/SHTI220921",
+      "snippet": "Interoperability and portability of healthcare data to enable research in the healthcare sector is an important factor towards precision medicine and a learning health system. With many …",
+      "publication_info": {
+        "summary": "M ANYWAR, B SCHREIWEIS, H ULRICH - 2022 - ebooks.iospress.nl"
+      },
+      "resources": [
+        {
+          "title": "iospress.nl",
+          "file_format": "PDF",
+          "link": "https://ebooks.iospress.nl/pdf/doi/10.3233/SHTI220921"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=78qc8MDvObwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:78qc8MDvObwJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A78qc8MDvObwJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=13563135364752526063&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "13563135364752526063",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=13563135364752526063&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Performance Analysis on Parallel Data Loading based on Concurrency Features",
+      "result_id": "EvzY0Q9htCsJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9765048/",
+      "snippet": "Data migration and batch processing remain rudimentary processes in database systems while dealing with enormous volumes of data from multiple sources. Even before running …",
+      "publication_info": {
+        "summary": "MA Rahman, AU Hussna, FP George… - … on Decision Aid …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "AU Hussna",
+            "link": "https://scholar.google.com/citations?user=UWFCnk4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UWFCnk4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UWFCnk4AAAAJ"
+          },
+          {
+            "name": "FP George",
+            "link": "https://scholar.google.com/citations?user=VOxvN4cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VOxvN4cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VOxvN4cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Asma-Hussna/publication/360343237_Performance_Analysis_on_Parallel_Data_Loading_based_on_Concurrency_Features/links/63efb19c19130a1a4a89729a/Performance-Analysis-on-Parallel-Data-Loading-based-on-Concurrency-Features.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EvzY0Q9htCsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:EvzY0Q9htCsJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AEvzY0Q9htCsJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3149248760011881490&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "3149248760011881490",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3149248760011881490&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Research on Real-time Data Warehouse Technology for Sea Battlefield",
+      "result_id": "0-D4_bLwKP4J",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3503928.3503930",
+      "snippet": "Aiming at the data governance problems in the sea battlefield, this paper proposes a real-time data warehouse construction method for naval battlefields, which realizes the functions …",
+      "publication_info": {
+        "summary": "X Zeng, M Han, N Li, P Liu - … of the 6th International Conference on …, 2021 - dl.acm.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0-D4_bLwKP4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0-D4_bLwKP4J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A0-D4_bLwKP4J%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Harmonising Alzheimer's Disease Cohorts using a Common ETL Tool",
+      "result_id": "irDrBqcUalQJ",
+      "link": "https://www.researchsquare.com/article/rs-1145054/latest",
+      "snippet": "Background: Many scientific studies have sought to obtain better understanding of specific medical conditions. Concerning Alzheimer's Disease, there is a lack of reliable diagnostics …",
+      "publication_info": {
+        "summary": "JR Almeida, A Pazos, JL Oliveira - 2022 - researchsquare.com",
+        "authors": [
+          {
+            "name": "JR Almeida",
+            "link": "https://scholar.google.com/citations?user=amUREO0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=amUREO0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "amUREO0AAAAJ"
+          },
+          {
+            "name": "A Pazos",
+            "link": "https://scholar.google.com/citations?user=bPAk6fYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bPAk6fYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bPAk6fYAAAAJ"
+          },
+          {
+            "name": "JL Oliveira",
+            "link": "https://scholar.google.com/citations?user=t68oO10AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=t68oO10AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "t68oO10AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchsquare.com",
+          "file_format": "PDF",
+          "link": "https://www.researchsquare.com/article/rs-1145054/latest.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=irDrBqcUalQJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:irDrBqcUalQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,40&sciodt=0,40",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AirDrBqcUalQJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=6082696954325479562&hl=en&as_sdt=5,40&sciodt=0,40",
+          "cluster_id": "6082696954325479562",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cluster=6082696954325479562&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:irDrBqcUalQJ:scholar.google.com/&hl=en&as_sdt=5,40&sciodt=0,40"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Implementación de inteligencia de negocios para optimizar la toma de decisiones en el área de ventas de una empresa de telecomunicaciones",
+      "result_id": "YsunSwU_eLIJ",
+      "link": "https://cybertesis.unmsm.edu.pe/handle/20.500.12672/20732",
+      "snippet": "Expone la implementación de inteligencia de negocios en el área de ventas de una empresa de telecomunicaciones con el objetivo principal de optimizar la toma de …",
+      "publication_info": {
+        "summary": "RE Mallma Trujillo - 2023 - cybertesis.unmsm.edu.pe"
+      },
+      "resources": [
+        {
+          "title": "unmsm.edu.pe",
+          "file_format": "PDF",
+          "link": "https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/20732/Mallma_tr.pdf?sequence=1"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YsunSwU_eLIJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12860098027933125474&hl=en&as_sdt=5,40&sciodt=0,40",
+          "cluster_id": "12860098027933125474",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cluster=12860098027933125474&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:YsunSwU_eLIJ:scholar.google.com/&hl=en&as_sdt=5,40&sciodt=0,40"
+      }
+    },
+    {
+      "position": 2,
+      "title": "THESIS/THÈSE",
+      "result_id": "zu0whzqvG9sJ",
+      "type": "Pdf",
+      "link": "https://pure.unamur.be/ws/portalfiles/portal/84064988/Jordan_ABRAS_1034503_assignsubmission_file_Memoire_2023_Jordan_ABRAS.pdf",
+      "snippet": "Nowadays, decision-making is increasingly relying on Business Intelligence (BI) systems. These systems however may be perceived risky due to the effort and investment needed to …",
+      "publication_info": {
+        "summary": "J ABRAS - pure.unamur.be"
+      },
+      "resources": [
+        {
+          "title": "unamur.be",
+          "file_format": "PDF",
+          "link": "https://pure.unamur.be/ws/portalfiles/portal/84064988/Jordan_ABRAS_1034503_assignsubmission_file_Memoire_2023_Jordan_ABRAS.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zu0whzqvG9sJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15788405584588500430&hl=en&as_sdt=5,40&sciodt=0,40",
+          "cluster_id": "15788405584588500430",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cluster=15788405584588500430&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zu0whzqvG9sJ:scholar.google.com/&hl=en&as_sdt=5,40&sciodt=0,40"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Research on Multi-agency Data Fusion Mode Under Regional Medical Integration",
+      "result_id": "01d80jlw3AcJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-82565-2_22",
+      "snippet": "Abstract 2020 is not only the stage of intensive implementation of medical informatization related policies, but also a key year for the further development of regionalization of medical …",
+      "publication_info": {
+        "summary": "Y Wang, W Fang, W Zhu, J Ding - … , ICMTEL 2021, Virtual Event, April 8–9 …, 2021 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=01d80jlw3AcJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:01d80jlw3AcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,40&sciodt=0,40",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3A01d80jlw3AcJ%3Ascholar.google.com%2F&start=30"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Database Loading Strategies for an In-Memory Cache in Java",
+      "result_id": "CRNB8xglZUEJ",
+      "type": "Pdf",
+      "link": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9080748&fileOId=9080752",
+      "snippet": "The efficiency of software systems can be negatively affected by database latency which can take a significant fraction of execution time. To mitigate run-time latency, different levels of …",
+      "publication_info": {
+        "summary": "I Henckel, D Söderberg - lup.lub.lu.se"
+      },
+      "resources": [
+        {
+          "title": "lu.se",
+          "file_format": "PDF",
+          "link": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9080748&fileOId=9080752"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CRNB8xglZUEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:CRNB8xglZUEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,40&sciodt=0,40",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3ACRNB8xglZUEJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4712213374203663113&hl=en&as_sdt=5,40&sciodt=0,40",
+          "cluster_id": "4712213374203663113",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cluster=4712213374203663113&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:CRNB8xglZUEJ:scholar.google.com/&hl=en&as_sdt=5,40&sciodt=0,40"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Dynamic Feature Centric Schematic Tree Based Improved Big Data Management Using Efficient Etl",
+      "result_id": "P7Qp3X7YZxIJ",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410382",
+      "snippet": "The problem of big data management in cloud has been well studied. The increased form of data heterogeneity increases the challenge in maintaining the data in most readable and …",
+      "publication_info": {
+        "summary": "M RI - papers.ssrn.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=P7Qp3X7YZxIJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:P7Qp3X7YZxIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,40&sciodt=0,40",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AP7Qp3X7YZxIJ%3Ascholar.google.com%2F&start=30",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:P7Qp3X7YZxIJ:scholar.google.com/&hl=en&as_sdt=5,40&sciodt=0,40"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Challenges and Solutions for Processing Real-Time Big Data Stream: a systematic",
+      "result_id": "RmQ-eXDbwX8J",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Erum-Mehmood-2/publication/342499316_Challenges_and_Solutions_for_Processing_Real-Time_Big_Data_Stream_A_Systematic_Literature_Review/links/5f247a9ca6fdcccc439fc6e3/Challenges-and-Solutions-for-Processing-Real-Time-Big-Data-Stream-A-Systematic-Literature-Review.pdf",
+      "snippet": "Contribution: Recently, real-time data warehousing (DWH) and big data streaming have become ubiquitous due to the fact that a number of business organizations are gearing up to …",
+      "publication_info": {
+        "summary": "E MEHMOOD, T ANEES - researchgate.net"
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Erum-Mehmood-2/publication/342499316_Challenges_and_Solutions_for_Processing_Real-Time_Big_Data_Stream_A_Systematic_Literature_Review/links/5f247a9ca6fdcccc439fc6e3/Challenges-and-Solutions-for-Processing-Real-Time-Big-Data-Stream-A-Systematic-Literature-Review.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RmQ-eXDbwX8J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:RmQ-eXDbwX8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,40&sciodt=0,40",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3ARmQ-eXDbwX8J%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9205880389438956614&hl=en&as_sdt=5,40&sciodt=0,40",
+          "cluster_id": "9205880389438956614",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cluster=9205880389438956614&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:RmQ-eXDbwX8J:scholar.google.com/&hl=en&as_sdt=5,40&sciodt=0,40"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Aufbau einer Pipeline zur Transformation von Titeldaten der DNB",
+      "result_id": "tALpGKG1MjwJ",
+      "type": "Pdf",
+      "link": "https://publiscologne.th-koeln.de/files/1675/BA_Boeckmann_Ina.pdf",
+      "snippet": "Die German Library Indexing Collection (GeLIC) soll dazu dienen, die Retrievalleistung von maschinellen und intellektuellen Schlagwörtern der Deutschen Nationalbibliothek (DNB) zu …",
+      "publication_info": {
+        "summary": "I Böckmann - 2020 - publiscologne.th-koeln.de"
+      },
+      "resources": [
+        {
+          "title": "th-koeln.de",
+          "file_format": "PDF",
+          "link": "https://publiscologne.th-koeln.de/files/1675/BA_Boeckmann_Ina.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tALpGKG1MjwJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=4337729094623494836&as_sdt=5,40&sciodt=0,40&hl=en",
+          "cites_id": "4337729094623494836",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cites=4337729094623494836&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:tALpGKG1MjwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,40&sciodt=0,40",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AtALpGKG1MjwJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4337729094623494836&hl=en&as_sdt=5,40&sciodt=0,40",
+          "cluster_id": "4337729094623494836",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cluster=4337729094623494836&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:tALpGKG1MjwJ:scholar.google.com/&hl=en&as_sdt=5,40&sciodt=0,40"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Comparative Analysis of ETL Tools in Big Data Analytics By admin No Comments",
+      "result_id": "IWKa-OXxOZcJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "A Qaiser, MU Farooq, SMN Mustafa, N Abrar",
+        "authors": [
+          {
+            "name": "SMN Mustafa",
+            "link": "https://scholar.google.com/citations?user=YbkY0aEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YbkY0aEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YbkY0aEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IWKa-OXxOZcJ"
+      }
+    },
+    {
+      "position": 9,
+      "title": "ETL (Extract, Transform, Load) for Data Integration. Concepts and exemplary usage",
+      "result_id": "GiovZBptRsEJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "D Kapferer - 2021 - GRIN Verlag"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GiovZBptRsEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GiovZBptRsEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,40&sciodt=0,40",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C40&cites=9776636979047456051&engine=google_scholar&hl=en&q=related%3AGiovZBptRsEJ%3Ascholar.google.com%2F&start=30"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=9776636979047456051&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=9776636979047456051&scipsc=1",
+      "3": "https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=9776636979047456051&scipsc=1",
+      "4": "https://scholar.google.com/scholar?start=30&hl=en&as_sdt=2005&sciodt=0,5&cites=9776636979047456051&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=2005&cites=9776636979047456051&engine=google_scholar&hl=en&start=30"
+    }
+  }
+}

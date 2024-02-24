@@ -1,0 +1,168 @@
+{
+  "search_metadata": {
+    "id": "658dac4b2ff4218131b7803a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e7cacf5a902c656a/658dac4b2ff4218131b7803a.json",
+    "created_at": "2023-12-28 17:11:39 UTC",
+    "processed_at": "2023-12-28 17:11:39 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=18377653095374339770&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/e7cacf5a902c656a/658dac4b2ff4218131b7803a.html",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "18377653095374339770",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=18377653095374339770&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Recognition of co-existence pattern of salt marshes and mangroves for littoral forest restoration",
+      "result_id": "uQJs9nI59GMJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1574954122002199",
+      "snippet": "Climate-change driven sea level rise causes a increase in salinity in coastal wetlands accelerating the alteration of the species composition. It triggers the gradual extinction of …",
+      "publication_info": {
+        "summary": "M Ghosh, KC Mondal, A Roy - Ecological Informatics, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uQJs9nI59GMJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=7202444869995594425&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7202444869995594425",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7202444869995594425&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uQJs9nI59GMJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18377653095374339770&engine=google_scholar&hl=en&q=related%3AuQJs9nI59GMJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7202444869995594425&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7202444869995594425",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7202444869995594425&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Introducing suffix forest for mining tri-clusters from time-series data",
+      "result_id": "9y6PqMBWN2kJ",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00489-9",
+      "snippet": "Three-dimensional data is becoming more prevalent these days. Unsupervised data analysis can be used to find hypothesized patterns of interest from the three-dimensional …",
+      "publication_info": {
+        "summary": "KC Mondal, M Ghosh, R Fajriyah, A Roy - Innovations in Systems and …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "M Ghosh",
+            "link": "https://scholar.google.com/citations?user=m0r32sQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m0r32sQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0r32sQAAAAJ"
+          },
+          {
+            "name": "R Fajriyah",
+            "link": "https://scholar.google.com/citations?user=7aOGsPkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7aOGsPkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7aOGsPkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Moumita-Ghosh-14/publication/364091395_Introducing_suffix_forest_for_mining_tri-clusters_from_time-series_data/links/633e7c0976e39959d6a1a581/Introducing-suffix-forest-for-mining-tri-clusters-from-time-series-data.pdf?_sg%5B0%5D=started_experiment_milestone&_sg%5B1%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9y6PqMBWN2kJ",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7581623883163184887&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7581623883163184887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7581623883163184887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9y6PqMBWN2kJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18377653095374339770&engine=google_scholar&hl=en&q=related%3A9y6PqMBWN2kJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Knowledge discovery of Sundarban Mangrove species: a way forward for managing species biodiversity",
+      "result_id": "l4diSrGqXPoJ",
+      "link": "https://link.springer.com/article/10.1007/s42979-021-00869-1",
+      "snippet": "The Mangrove ecosystem is continuously losing its dignity. A few studies have focused on understanding the changing behavior of Sundarban Mangrove Forest. However, knowledge …",
+      "publication_info": {
+        "summary": "M Ghosh, A Roy, KC Mondal - SN Computer Science, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=l4diSrGqXPoJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=18040481885773268887&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "18040481885773268887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18040481885773268887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:l4diSrGqXPoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18377653095374339770&engine=google_scholar&hl=en&q=related%3Al4diSrGqXPoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=18040481885773268887&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "18040481885773268887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=18040481885773268887&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "An Introduction to KDB: Knowledge Discovery in Biodiversity",
+      "result_id": "B33RqxHPttsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-48879-5_24",
+      "snippet": "The most basic method of experimentation using data mining algorithms is the command prompt. A convenient approach of interactive graphical user interfaces can be supplied for …",
+      "publication_info": {
+        "summary": "M Ghosh, S Mondal, A Roy, KC Mondal - International Conference on …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=B33RqxHPttsJ"
+      }
+    }
+  ]
+}

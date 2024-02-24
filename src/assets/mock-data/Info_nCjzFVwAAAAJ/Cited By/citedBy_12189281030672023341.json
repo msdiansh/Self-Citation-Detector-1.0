@@ -1,0 +1,155 @@
+{
+  "search_metadata": {
+    "id": "658dacb6f8f5f7fb03663eb2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3746ccfa50af1c58/658dacb6f8f5f7fb03663eb2.json",
+    "created_at": "2023-12-28 17:13:26 UTC",
+    "processed_at": "2023-12-28 17:13:26 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=12189281030672023341&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/3746ccfa50af1c58/658dacb6f8f5f7fb03663eb2.html",
+    "total_time_taken": 9.56
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "12189281030672023341",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=12189281030672023341&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Root mealybugs",
+      "result_id": "0KCLxXUC0r4J",
+      "link": "https://link.springer.com/chapter/10.1007/978-81-322-2677-2_69",
+      "snippet": "Root mealybugs are several small species of mealybugs found below the soil surface, and feed on root and root hairs in numerous plants. They are also called soil mealybugs and …",
+      "publication_info": {
+        "summary": "M Mathew, M Mani - Mealybugs and their Management in Agricultural and …, 2016 - Springer"
+      },
+      "resources": [
+        {
+          "title": "ethernet.edu.et",
+          "file_format": "PDF",
+          "link": "http://ndl.ethernet.edu.et/bitstream/123456789/38896/1/231.M.%20Mani%20%20C.%20Shivaraju.pdf#page=622"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0KCLxXUC0r4J",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=13750055317164237008&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "13750055317164237008",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13750055317164237008&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0KCLxXUC0r4J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12189281030672023341&engine=google_scholar&hl=en&q=related%3A0KCLxXUC0r4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=13750055317164237008&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "13750055317164237008",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=13750055317164237008&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Mulberry",
+      "result_id": "b1IT-Af-PD4J",
+      "link": "https://link.springer.com/chapter/10.1007/978-81-322-2677-2_63",
+      "snippet": "Mulberry, Morus alba L., is the sole food plant of the silkworm, Bombyx mori L. For better growth, development and subsequent silk production, the quality of mulberry leaf plays an …",
+      "publication_info": {
+        "summary": "JBN Kumar, MA Shekhar, V Kumar - Mealybugs and their Management in …, 2016 - Springer",
+        "authors": [
+          {
+            "name": "JBN Kumar",
+            "link": "https://scholar.google.com/citations?user=ptTjcA0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ptTjcA0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ptTjcA0AAAAJ"
+          },
+          {
+            "name": "V Kumar",
+            "link": "https://scholar.google.com/citations?user=OFk9zZMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OFk9zZMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OFk9zZMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ethernet.edu.et",
+          "file_format": "PDF",
+          "link": "http://ndl.ethernet.edu.et/bitstream/123456789/38896/1/231.M.%20Mani%20%20C.%20Shivaraju.pdf#page=574"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=b1IT-Af-PD4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:b1IT-Af-PD4J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12189281030672023341&engine=google_scholar&hl=en&q=related%3Ab1IT-Af-PD4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=4484738639134413423&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "4484738639134413423",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=4484738639134413423&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Population fluctuations of root mealy bug, Paraputo sp.(Hemiptera: pseudococcidae),–A dreaded pest of mulberry in darjeeling hills of West Bengal (India)",
+      "result_id": "h-9PBUx983IJ",
+      "link": "https://www.indianjournals.com/ijor.aspx?target=ijor:abr&volume=15&issue=2&article=013",
+      "snippet": "Root mealy bug Paraputo sp.(Hemiptera: Pseudococcidae) is the most dreaded pest of mulberry (Morus sp.), in Darjeeling hills of West Bengal (India). The pest incidence recorded …",
+      "publication_info": {
+        "summary": "D Das, H Chatterjee, MV Kumar… - Applied Biological …, 2013 - indianjournals.com",
+        "authors": [
+          {
+            "name": "H Chatterjee",
+            "link": "https://scholar.google.com/citations?user=NPPbH20AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NPPbH20AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NPPbH20AAAAJ"
+          },
+          {
+            "name": "MV Kumar",
+            "link": "https://scholar.google.com/citations?user=jP7riz0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jP7riz0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jP7riz0AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=h-9PBUx983IJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:h-9PBUx983IJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12189281030672023341&engine=google_scholar&hl=en&q=related%3Ah-9PBUx983IJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=8283101905124585351&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "8283101905124585351",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=8283101905124585351&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "REGE1NERATION DE BOURGEONS APICAUX ENCAPSULES",
+      "result_id": "1rmUEtaZSt8J",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "DEM DE LA VARIETE - Revue des Vers a Soie Journal of Silkworms"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1rmUEtaZSt8J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1rmUEtaZSt8J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12189281030672023341&engine=google_scholar&hl=en&q=related%3A1rmUEtaZSt8J%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

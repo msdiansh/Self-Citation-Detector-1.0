@@ -1,0 +1,87 @@
+{
+  "search_metadata": {
+    "id": "6598105111c88169721147f3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/09e259db74776058/6598105111c88169721147f3.json",
+    "created_at": "2024-01-05 14:21:05 UTC",
+    "processed_at": "2024-01-05 14:21:05 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:IWHjjKOFINEC",
+    "raw_html_file": "https://serpapi.com/searches/09e259db74776058/6598105111c88169721147f3.html",
+    "total_time_taken": 6.79
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:IWHjjKOFINEC"
+  },
+  "citation": {
+    "title": "Suitable beamforming technique for 5G wireless communications",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7813970/",
+    "resources": [
+      {
+        "title": "from researchgate.net",
+        "file_format": "DOC",
+        "link": "https://www.researchgate.net/profile/Md-Islam-250/publication/312560577_Suitable_beamforming_technique_for_5G_wireless_communications/links/5a3662b2a6fdcc769fd59292/Suitable-beamforming-technique-for-5G-wireless-communications"
+      }
+    ],
+    "authors": "Md Shoriful Islam, Tazkia Jessy, Md Sabuj Hassan, Kartick Mondal, Tosikur Rahman",
+    "publication_date": "2016/4/29",
+    "conference": "2016 International Conference on Computing, Communication and Automation (ICCCA)",
+    "pages": "1554-1559",
+    "publisher": "IEEE",
+    "description": "5 th Generation mobile network (5G) announce the next phase of mobile telecommunications standards beyond the current 4 th Generation mobile communication. 5G system will achieve more than 10 Gbps which will implement within 2020. Therefore few major problems have to be solved for getting this super speed. However to achieve this super speed a high frequency wave is required to transmit data through wider bandwidth. Massive MIMO Beamforming (BF) is one of the promising technologies to develop this system and Mm wave can be used to provide higher frequency. Conventional BF is capable to provide CSI (Channel State Information) from the transmitter to the receiver but adaptive BF is not capable to do so. However adaptive BF is very much effective to change it behavior according to the required of the channel. In that case a hybrid BF technology could be very much effective to implement 5G …",
+    "total_citations": {
+      "cited_by": {
+        "total": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2939090968254499023&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2939090968254499023&engine=google_scholar&hl=en",
+        "cites_id": "2939090968254499023"
+      },
+      "table": [
+        {
+          "year": 2017,
+          "citations": 1
+        },
+        {
+          "year": 2018,
+          "citations": 1
+        },
+        {
+          "year": 2019,
+          "citations": 3
+        },
+        {
+          "year": 2020,
+          "citations": 4
+        },
+        {
+          "year": 2021,
+          "citations": 3
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Suitable beamforming technique for 5G wireless communications",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=2939090968254499023&btnI=1&hl=en",
+        "authors": "MS Islam, T Jessy, MS Hassan, K Mondal, T Rahman - 2016 International Conference on Computing …, 2016",
+        "cited_by": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2939090968254499023&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2939090968254499023&engine=google_scholar&hl=en",
+          "cites_id": "2939090968254499023"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:z0he5am_ySgJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2939090968254499023",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=2939090968254499023&engine=google_scholar&hl=en",
+          "cluster_id": "2939090968254499023"
+        }
+      }
+    ]
+  }
+}

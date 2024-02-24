@@ -1,0 +1,214 @@
+{
+  "search_metadata": {
+    "id": "658dac8f8cd87830783af988",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5c374cb5103d47d1/658dac8f8cd87830783af988.json",
+    "created_at": "2023-12-28 17:12:47 UTC",
+    "processed_at": "2023-12-28 17:12:47 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=17123932839563404115&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/5c374cb5103d47d1/658dac8f8cd87830783af988.html",
+    "total_time_taken": 1.34
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "17123932839563404115",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=17123932839563404115&hl=en&as_sdt=400005&sciodt=0,14",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Chemical engineering of Cu–Sn disordered network metamaterials",
+      "result_id": "Av49OvBqu2QJ",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c03545",
+      "snippet": "The design and fabrication of large-area metamaterials is an ongoing challenge. In the present work, we propose a scalable design route and low-footprint strategy for the …",
+      "publication_info": {
+        "summary": "J Wohlwend, AS Sologubenko, M Döbeli… - Nano Letters, 2021 - ACS Publications",
+        "authors": [
+          {
+            "name": "J Wohlwend",
+            "link": "https://scholar.google.com/citations?user=qwUv7KkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qwUv7KkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qwUv7KkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Av49OvBqu2QJ",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=7258512804439522818&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "7258512804439522818",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7258512804439522818&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Av49OvBqu2QJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=17123932839563404115&engine=google_scholar&hl=en&q=related%3AAv49OvBqu2QJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=7258512804439522818&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "7258512804439522818",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=7258512804439522818&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "A novel approach to fabricate dye-encapsulated polymeric micro-and nanoparticles by thin film dewetting technique",
+      "result_id": "8bCo_j4yPTAJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0021979717307907",
+      "snippet": "A new method is reported for fabrication of polymeric micro-and nanoparticles from an intermediate patterned surface originated by dewetting of a polymeric thin film. Poly (d, l …",
+      "publication_info": {
+        "summary": "M Chatterjee, A Hens, K Mahato, N Jaiswal… - Journal of colloid and …, 2017 - Elsevier",
+        "authors": [
+          {
+            "name": "M Chatterjee",
+            "link": "https://scholar.google.com/citations?user=6oh0iGUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6oh0iGUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6oh0iGUAAAAJ"
+          },
+          {
+            "name": "A Hens",
+            "link": "https://scholar.google.com/citations?user=McluDEkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=McluDEkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "McluDEkAAAAJ"
+          },
+          {
+            "name": "K Mahato",
+            "link": "https://scholar.google.com/citations?user=HXzO5RIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HXzO5RIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HXzO5RIAAAAJ"
+          },
+          {
+            "name": "N Jaiswal",
+            "link": "https://scholar.google.com/citations?user=uT3-RrIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uT3-RrIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uT3-RrIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8bCo_j4yPTAJ",
+        "cited_by": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cites=3475989733541720305&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "3475989733541720305",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=3475989733541720305&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8bCo_j4yPTAJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=17123932839563404115&engine=google_scholar&hl=en&q=related%3A8bCo_j4yPTAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=3475989733541720305&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "3475989733541720305",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=3475989733541720305&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Ethylenediamine assisted functionalization of self-organized poly (D, L-lactide-co-glycolide) patterned surface to enhance cancer cell isolation",
+      "result_id": "SRskHqTOD8gJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0021979718310348",
+      "snippet": "Protein functionalized micro-scale patterned structures are developed using a biocompatible polymer PLGA (poly (d, l-lactide-co-glycolide)) via thin film dewetting and by step-wise …",
+      "publication_info": {
+        "summary": "N Jaiswal, A Hens, M Chatterjee, N Mahata… - Journal of colloid and …, 2019 - Elsevier",
+        "authors": [
+          {
+            "name": "N Jaiswal",
+            "link": "https://scholar.google.com/citations?user=uT3-RrIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uT3-RrIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uT3-RrIAAAAJ"
+          },
+          {
+            "name": "A Hens",
+            "link": "https://scholar.google.com/citations?user=McluDEkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=McluDEkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "McluDEkAAAAJ"
+          },
+          {
+            "name": "M Chatterjee",
+            "link": "https://scholar.google.com/citations?user=6oh0iGUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6oh0iGUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6oh0iGUAAAAJ"
+          },
+          {
+            "name": "N Mahata",
+            "link": "https://scholar.google.com/citations?user=-rzEq9oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-rzEq9oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-rzEq9oAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=SRskHqTOD8gJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=14415968136511888201&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "14415968136511888201",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=14415968136511888201&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:SRskHqTOD8gJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=17123932839563404115&engine=google_scholar&hl=en&q=related%3ASRskHqTOD8gJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=14415968136511888201&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "14415968136511888201",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=14415968136511888201&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Dewetting of a pre-patterned thin polymer bilayer: influence of the instability mode",
+      "result_id": "Ys5jfSTjADQJ",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra03506c",
+      "snippet": "In this paper, the influence of film thickness on the layer instability mode of a thin polymer bilayer (poly (methylmethacrylate)(PMMA)/polystyrene (PS)/Si substrate) has been …",
+      "publication_info": {
+        "summary": "L Xu, Z Chen, Z Zou - RSC advances, 2017 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "L Xu",
+            "link": "https://scholar.google.com/citations?user=PA70p0cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PA70p0cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PA70p0cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra03506c"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Ys5jfSTjADQJ",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c7ra03506c",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=3747244635834273378&as_sdt=400005&sciodt=0,14&hl=en",
+          "cites_id": "3747244635834273378",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=3747244635834273378&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Ys5jfSTjADQJ:scholar.google.com/&scioq=&hl=en&as_sdt=400005&sciodt=0,14",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=400005&cites=17123932839563404115&engine=google_scholar&hl=en&q=related%3AYs5jfSTjADQJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=3747244635834273378&hl=en&as_sdt=400005&sciodt=0,14",
+          "cluster_id": "3747244635834273378",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=3747244635834273378&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

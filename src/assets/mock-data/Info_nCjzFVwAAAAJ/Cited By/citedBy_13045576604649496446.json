@@ -1,0 +1,191 @@
+{
+  "search_metadata": {
+    "id": "658dab9e7690dcbcf4850977",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a1896d1f44dbb774/658dab9e7690dcbcf4850977.json",
+    "created_at": "2023-12-28 17:08:46 UTC",
+    "processed_at": "2023-12-28 17:08:46 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=13045576604649496446&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/a1896d1f44dbb774/658dab9e7690dcbcf4850977.html",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "13045576604649496446",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 6,
+    "time_taken_displayed": 0.04
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=13045576604649496446&hl=en&as_sdt=5,31&sciodt=0,31",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Educational Data Mining to Identify the Patterns of Use made by the University Professors of the Moodle Platform",
+      "result_id": "QVzaRZU925IJ",
+      "link": "https://search.proquest.com/openview/482af7304caace75fde11882036bbfb1/1?pq-origsite=gscholar&cbl=5444811",
+      "snippet": "Due to the events caused by the COVID-19 pandemic and social distancing measures, learning management systems have gained importance, preserving quality standards, they …",
+      "publication_info": {
+        "summary": "J Calderon-Valenzuela… - International …, 2022 - search.proquest.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QVzaRZU925IJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=10582119460768472129&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "10582119460768472129",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10582119460768472129&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:QVzaRZU925IJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=13045576604649496446&engine=google_scholar&hl=en&q=related%3AQVzaRZU925IJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=10582119460768472129&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "10582119460768472129",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=10582119460768472129&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Implementation of web log mining device under Apriori algorithm improvement and confidence formula optimization",
+      "result_id": "78A8MBhRnAcJ",
+      "link": "https://www.igi-global.com/article/implementation-of-web-log-mining-device-under-apriori-algorithm-improvement-and-confidence-formula-optimization/264475",
+      "snippet": "With the increasing number of internet users, a large number of network alarm information increases, resulting in the increasing pressure of SMS gateway and frequent alarm delay …",
+      "publication_info": {
+        "summary": "L Zhu - International Journal of Information Technology and …, 2020 - igi-global.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=78A8MBhRnAcJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=548402418962710767&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "548402418962710767",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=548402418962710767&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:78A8MBhRnAcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=13045576604649496446&engine=google_scholar&hl=en&q=related%3A78A8MBhRnAcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=548402418962710767&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "548402418962710767",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=548402418962710767&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS",
+      "result_id": "gbpufrLPXMUJ",
+      "type": "Pdf",
+      "link": "https://repositorio.unsa.edu.pe/bitstreams/0e556f5b-fd22-4e6f-a675-4cfa80c573b2/download",
+      "snippet": "Due to the events caused by the COVID-19 pandemic and social distancing measures, learning management systems have gained importance, preserving quality standards, they …",
+      "publication_info": {
+        "summary": "KY Payihuanca - 2022 - repositorio.unsa.edu.pe"
+      },
+      "resources": [
+        {
+          "title": "unsa.edu.pe",
+          "file_format": "PDF",
+          "link": "https://repositorio.unsa.edu.pe/bitstreams/0e556f5b-fd22-4e6f-a675-4cfa80c573b2/download"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gbpufrLPXMUJ",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:gbpufrLPXMUJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 3,
+      "title": "A Comparative result-based study on Criminal Call Data Record Analysis",
+      "result_id": "har6s2XOJSgJ",
+      "link": "http://rrjournals.com/index.php/rrijm/article/view/650",
+      "snippet": "All calls that travel through a phone exchange are recorded in detail in call detail records or CDRs. The telephone exchange maintains this CDR, which includes the time of the call, the …",
+      "publication_info": {
+        "summary": "S Mishra, A Shukla - RESEARCH REVIEW International Journal of …, 2023 - rrjournals.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=har6s2XOJSgJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:har6s2XOJSgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=13045576604649496446&engine=google_scholar&hl=en&q=related%3Ahar6s2XOJSgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2892945271861979781&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "2892945271861979781",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=2892945271861979781&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:har6s2XOJSgJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Analysis and Processing of B-station Fragmentation Information Based on Apriori Algorithm",
+      "result_id": "4wXugTOwNDkJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Francisco-Cassano-2/publication/353247037_THE_ENTREPRENEURIAL_ACTION_OF_INCUBATORS_IN_THE_INTERNATIONALIZATION_PROCESS_OF_BRAZILIAN_COMPANIES_-_december_2020/links/60ef2d440859317dbde2c257/THE-ENTREPRENEURIAL-ACTION-OF-INCUBATORS-IN-THE-INTERNATIONALIZATION-PROCESS-OF-BRAZILIAN-COMPANIES-december-2020.pdf#page=459",
+      "snippet": "With the rapid development of the internet, the data is growing explosively. Because the information obtained by human beings is scattered, it is an important research topic to …",
+      "publication_info": {
+        "summary": "J Lili, W Changyou - INNOVATION AND MANAGEMENT, 2020 - researchgate.net"
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Francisco-Cassano-2/publication/353247037_THE_ENTREPRENEURIAL_ACTION_OF_INCUBATORS_IN_THE_INTERNATIONALIZATION_PROCESS_OF_BRAZILIAN_COMPANIES_-_december_2020/links/60ef2d440859317dbde2c257/THE-ENTREPRENEURIAL-ACTION-OF-INCUBATORS-IN-THE-INTERNATIONALIZATION-PROCESS-OF-BRAZILIAN-COMPANIES-december-2020.pdf#page=459"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4wXugTOwNDkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4wXugTOwNDkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=13045576604649496446&engine=google_scholar&hl=en&q=related%3A4wXugTOwNDkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4122113294220527075&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "4122113294220527075",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=4122113294220527075&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:4wXugTOwNDkJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Call Data Record Analysis using Apriori Algorithm",
+      "result_id": "3PjQFnyIg-sJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "S Mishra, HB Patel, A Shukla, D Prajapati, J Mevada… - Indian Journal of Natural …, 2023",
+        "authors": [
+          {
+            "name": "D Prajapati",
+            "link": "https://scholar.google.com/citations?user=e8KrBUIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=e8KrBUIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "e8KrBUIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Patel-B-2/publication/375800349_Call_Data_Record_Analysis_using_Apriori_Algorithm/links/655db168b1398a779da80a3b/Call-Data-Record-Analysis-using-Apriori-Algorithm.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3PjQFnyIg-sJ",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=16970557887402277084&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "16970557887402277084",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=16970557887402277084&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

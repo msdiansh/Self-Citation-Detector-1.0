@@ -1,0 +1,330 @@
+{
+  "search_metadata": {
+    "id": "65d4db0424e88ec0fd2fb91a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fb936768eac05cc7/65d4db0424e88ec0fd2fb91a.json",
+    "created_at": "2024-02-20 17:01:56 UTC",
+    "processed_at": "2024-02-20 17:01:56 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=211611224269329514&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/fb936768eac05cc7/65d4db0424e88ec0fd2fb91a.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "211611224269329514",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 8,
+    "time_taken_displayed": 0.16
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=211611224269329514&hl=en&as_sdt=5,44&sciodt=0,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Novel Approaches for Resource Management Across Edge Servers",
+      "result_id": "K8KTKrqDWrAJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s44227-022-00007-0",
+      "snippet": "Edge computing aims at reducing computation and storage across the cloud and provides service with reduced latency. Edge devices can be mobile devices, routers, cameras …",
+      "publication_info": {
+        "summary": "K Surya, VMA Rajam - International Journal of Networked and Distributed …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "K Surya",
+            "link": "https://scholar.google.com/citations?user=5rM14wYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5rM14wYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5rM14wYAAAAJ"
+          },
+          {
+            "name": "VMA Rajam",
+            "link": "https://scholar.google.com/citations?user=Y42jUgYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y42jUgYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Y42jUgYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s44227-022-00007-0"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:K8KTKrqDWrAJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44&scillfp=1931614836835572727&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=K8KTKrqDWrAJ",
+        "html_version": "https://link.springer.com/article/10.1007/s44227-022-00007-0",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12707614134180758059&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "12707614134180758059",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12707614134180758059&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:K8KTKrqDWrAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=211611224269329514&engine=google_scholar&hl=en&q=related%3AK8KTKrqDWrAJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "On the best-performed time window size for homicide count forecasting",
+      "result_id": "660zfAGVeY8J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9534830/",
+      "snippet": "In the last two decades, violence and homicides have been consistently increasing in Mexico; the official data shows relations to other crimes and time-dependent territorial …",
+      "publication_info": {
+        "summary": "SI Valdez, A Hernández-Baena - 2021 Mexican International …, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "SI Valdez",
+            "link": "https://scholar.google.com/citations?user=MG1jyREAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MG1jyREAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MG1jyREAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=660zfAGVeY8J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=10338458253216951787&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "10338458253216951787",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10338458253216951787&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:660zfAGVeY8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=211611224269329514&engine=google_scholar&hl=en&q=related%3A660zfAGVeY8J%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Review of different combinations of facial expression recognition system",
+      "result_id": "DBkjfVSJhHgJ",
+      "link": "https://iopscience.iop.org/article/10.1088/1742-6596/1591/1/012020/meta",
+      "snippet": "The facial expression recognition (FER) system is a classifier system that attempts to recognize facial expressions based on the analysis of emotion behaviour on the face. The …",
+      "publication_info": {
+        "summary": "FA Abd_Almuhsen, ZA Khalaf - Journal of Physics: Conference …, 2020 - iopscience.iop.org",
+        "authors": [
+          {
+            "name": "ZA Khalaf",
+            "link": "https://scholar.google.com/citations?user=mgKU2NgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mgKU2NgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mgKU2NgAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "iop.org",
+          "file_format": "PDF",
+          "link": "https://iopscience.iop.org/article/10.1088/1742-6596/1591/1/012020/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DBkjfVSJhHgJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=8684216977446869260&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "8684216977446869260",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8684216977446869260&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DBkjfVSJhHgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=211611224269329514&engine=google_scholar&hl=en&q=related%3ADBkjfVSJhHgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8684216977446869260&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "8684216977446869260",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=8684216977446869260&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Introduction to Handbook on Artificial Intelligence-Empowered Applied Software Engineering—Vol. 2: Smart Software Applications in Cyber-Physical Systems",
+      "result_id": "Jsk1Z06kmNMJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-07650-3_1",
+      "snippet": "Significant current research efforts are devoted to the efficient incorporation of Artificial Intelligence enhancements into software and the empowerment of software with Artificial …",
+      "publication_info": {
+        "summary": "M Virvou, GA Tsihrintzis, NG Bourbakis… - Handbook on Artificial …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "M Virvou",
+            "link": "https://scholar.google.com/citations?user=Ce6s_FoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ce6s_FoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ce6s_FoAAAAJ"
+          },
+          {
+            "name": "GA Tsihrintzis",
+            "link": "https://scholar.google.com/citations?user=QUC1ebEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QUC1ebEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QUC1ebEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Jsk1Z06kmNMJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Jsk1Z06kmNMJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=211611224269329514&engine=google_scholar&hl=en&q=related%3AJsk1Z06kmNMJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15247117195108796710&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "15247117195108796710",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15247117195108796710&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Introduction to Handbook on Artificial Intelligence-Empowered Applied Software Engineering—VOL. 1: Novel Methodologies to Engineering Smart Software Systems",
+      "result_id": "_lS_nSieNL8J",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-08202-3_1",
+      "snippet": "Significant current research efforts are devoted to the efficient incorporation of Artificial Intelligence enhancements into software and the empowerment of software with Artificial …",
+      "publication_info": {
+        "summary": "M Virvou, GA Tsihrintzis, NG Bourbakis… - Handbook on Artificial …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "M Virvou",
+            "link": "https://scholar.google.com/citations?user=Ce6s_FoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ce6s_FoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ce6s_FoAAAAJ"
+          },
+          {
+            "name": "GA Tsihrintzis",
+            "link": "https://scholar.google.com/citations?user=QUC1ebEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QUC1ebEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QUC1ebEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_lS_nSieNL8J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:_lS_nSieNL8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=211611224269329514&engine=google_scholar&hl=en&q=related%3A_lS_nSieNL8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=13777811057315632382&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "13777811057315632382",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=13777811057315632382&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Introduction to Advances in Machine Learning/Deep Learning-Based Technologies",
+      "result_id": "F4CREQPh5iEJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-76794-5_1",
+      "snippet": "Abstract The field of Machine Learning and its sub-field of Deep Learning are most active areas of research in Artificial Intelligence, as researchers worldwide continuously develop …",
+      "publication_info": {
+        "summary": "GA Tsihrintzis, M Virvou, LC Jain - … Selected Papers in Honour of Professor …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "GA Tsihrintzis",
+            "link": "https://scholar.google.com/citations?user=QUC1ebEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QUC1ebEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QUC1ebEAAAAJ"
+          },
+          {
+            "name": "M Virvou",
+            "link": "https://scholar.google.com/citations?user=Ce6s_FoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ce6s_FoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ce6s_FoAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=F4CREQPh5iEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:F4CREQPh5iEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=211611224269329514&engine=google_scholar&hl=en&q=related%3AF4CREQPh5iEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=2442887251190972439&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "2442887251190972439",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2442887251190972439&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Image recognition based billing system for fruit shop using raspberry PI",
+      "result_id": "tpRNMc6IMxYJ",
+      "link": "https://iopscience.iop.org/article/10.1088/1757-899X/1055/1/012030/meta",
+      "snippet": "This work describes a system that automatically does the billing of fruits in the retail market. Smart billing system is used for identifying and classifying the fruit types and to calculate the …",
+      "publication_info": {
+        "summary": "A Vennila, S Balambigai, G Deepa… - IOP Conference …, 2021 - iopscience.iop.org",
+        "authors": [
+          {
+            "name": "A Vennila",
+            "link": "https://scholar.google.com/citations?user=JTZgVQYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JTZgVQYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JTZgVQYAAAAJ"
+          },
+          {
+            "name": "S Balambigai",
+            "link": "https://scholar.google.com/citations?user=lauogogAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lauogogAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lauogogAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "iop.org",
+          "file_format": "PDF",
+          "link": "https://iopscience.iop.org/article/10.1088/1757-899X/1055/1/012030/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tpRNMc6IMxYJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=1599772711818466486&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "1599772711818466486",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=1599772711818466486&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:tpRNMc6IMxYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=211611224269329514&engine=google_scholar&hl=en&q=related%3AtpRNMc6IMxYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=1599772711818466486&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "1599772711818466486",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=1599772711818466486&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Machine Learning Paradigms: Introduction to Deep Learning-Based Technological Applications",
+      "result_id": "sIEA1Pg0xW0J",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-49724-8_1",
+      "snippet": "At the dawn of the 4th Industrial Revolution, the field of Deep Learning (a sub-field of Artificial Intelligence and Machine Learning) is growing continuously and rapidly …",
+      "publication_info": {
+        "summary": "GA Tsihrintzis, LC Jain - Machine Learning Paradigms: Advances in Deep …, 2020 - Springer",
+        "authors": [
+          {
+            "name": "GA Tsihrintzis",
+            "link": "https://scholar.google.com/citations?user=QUC1ebEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QUC1ebEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QUC1ebEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sIEA1Pg0xW0J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:sIEA1Pg0xW0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=211611224269329514&engine=google_scholar&hl=en&q=related%3AsIEA1Pg0xW0J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7909786563859481008&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "7909786563859481008",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7909786563859481008&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

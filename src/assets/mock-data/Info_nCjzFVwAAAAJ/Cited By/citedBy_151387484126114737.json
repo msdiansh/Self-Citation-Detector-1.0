@@ -1,0 +1,131 @@
+{
+  "search_metadata": {
+    "id": "658dac5dcca014126587778f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1a33fb0c2db3e0a3/658dac5dcca014126587778f.json",
+    "created_at": "2023-12-28 17:11:57 UTC",
+    "processed_at": "2023-12-28 17:11:57 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=151387484126114737&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/1a33fb0c2db3e0a3/658dac5dcca014126587778f.html",
+    "total_time_taken": 12.18
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "151387484126114737",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=151387484126114737&hl=en&as_sdt=5,33&sciodt=0,33",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Building a Fuzzy Expert System for Assessing the Severity of Pneumonia",
+      "result_id": "pA3ksYW4pckJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-16075-2_27",
+      "snippet": "The paper describes the process of building a fuzzy expert system for assessing the severity of pneumonia. The use of fuzzy logic is an urgent direction in cases of incomplete certainty …",
+      "publication_info": {
+        "summary": "R Burnashev, A Enikeeva, IF Amer… - Proceedings of SAI …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "R Burnashev",
+            "link": "https://scholar.google.com/citations?user=2fnZzaIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2fnZzaIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2fnZzaIAAAAJ"
+          },
+          {
+            "name": "IF Amer",
+            "link": "https://scholar.google.com/citations?user=xNC-RYsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xNC-RYsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xNC-RYsAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pA3ksYW4pckJ",
+        "cited_by": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cites=14530222657135447460&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "14530222657135447460",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=14530222657135447460&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:pA3ksYW4pckJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=151387484126114737&engine=google_scholar&hl=en&q=related%3ApA3ksYW4pckJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Enhancing Supply Chain Resilience And Performance: Leveraging Predictive Analytics And Erps In Vendor Selection",
+      "result_id": "6GNjazahpcIJ",
+      "link": "https://ijcscm.com/menu-script/index.php/ijcscm/article/view/201",
+      "snippet": "Within the manufacturing sector, the supply chain is susceptible to a variety of external and internal risks. In this context, the susceptibility of the affiliated vendor can also lead to …",
+      "publication_info": {
+        "summary": "VV Muthuswamy, Y Hu - INTERNATIONAL JOURNAL OF …, 2023 - ijcscm.com",
+        "authors": [
+          {
+            "name": "VV Muthuswamy",
+            "link": "https://scholar.google.com/citations?user=4rdN9XwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4rdN9XwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4rdN9XwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ijcscm.com",
+          "file_format": "PDF",
+          "link": "https://ijcscm.com/menu-script/index.php/ijcscm/article/download/201/121"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6GNjazahpcIJ",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6GNjazahpcIJ:scholar.google.com/&hl=en&as_sdt=5,33&sciodt=0,33"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Building a Fuzzy Expert System for Assessing the Severity of Pneumonia",
+      "result_id": "-CngUisHBZUJ",
+      "link": "https://books.google.com/books?hl=en&lr=&id=FZuGEAAAQBAJ&oi=fnd&pg=PA380&ots=H8qe7blKfA&sig=Wv4E3BKSVAKk1HBv4WsGejnW5sY",
+      "snippet": "The paper describes the process of building a fuzzy expert system for assessing the severity of pneumonia. The use of fuzzy logic is an urgent direction in cases of incomplete certainty …",
+      "publication_info": {
+        "summary": "M Bolsunovskaya, A Enikeev - Intelligent Systems and …, 2022 - books.google.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-CngUisHBZUJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-CngUisHBZUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=151387484126114737&engine=google_scholar&hl=en&q=related%3A-CngUisHBZUJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Machine Learning: An Expert Thinking System",
+      "result_id": "UdCb4Jyja9YJ",
+      "link": "https://link.springer.com/content/pdf/10.1007/978-3-030-58675-1_29-1.pdf",
+      "snippet": "Industry 4.0 makes it believable to collect and investigate data across machines, aiding more efficient and flexible processes to manufacture the parts with high quality at a low cost …",
+      "publication_info": {
+        "summary": "T Mohanraj, J Yerchuru, RSN Aravind… - Handbook of Smart …, 2020 - Springer",
+        "authors": [
+          {
+            "name": "T Mohanraj",
+            "link": "https://scholar.google.com/citations?user=1CEBjFIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1CEBjFIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1CEBjFIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=UdCb4Jyja9YJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:UdCb4Jyja9YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=151387484126114737&engine=google_scholar&hl=en&q=related%3AUdCb4Jyja9YJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

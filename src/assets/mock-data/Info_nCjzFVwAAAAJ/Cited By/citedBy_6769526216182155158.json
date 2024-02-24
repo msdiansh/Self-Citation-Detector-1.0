@@ -1,0 +1,589 @@
+{
+  "search_metadata": {
+    "id": "658da9482c084448e90df066",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/241ffa0e65332534/658da9482c084448e90df066.json",
+    "created_at": "2023-12-28 16:58:48 UTC",
+    "processed_at": "2023-12-28 16:58:48 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=6769526216182155158&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/241ffa0e65332534/658da9482c084448e90df066.html",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "6769526216182155158",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 14,
+    "time_taken_displayed": 0.09
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=6769526216182155158&hl=en&as_sdt=5,31&sciodt=0,31",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A hybrid intrusion detection model using ega-pso and improved random forest method",
+      "result_id": "vHeLyjsJTUkJ",
+      "link": "https://www.mdpi.com/1424-8220/22/16/5986",
+      "snippet": "Due to the rapid growth in IT technology, digital data have increased availability, creating novel security threats that need immediate attention. An intrusion detection system (IDS) is …",
+      "publication_info": {
+        "summary": "AK Balyan, S Ahuja, UK Lilhore, SK Sharma… - Sensors, 2022 - mdpi.com",
+        "authors": [
+          {
+            "name": "S Ahuja",
+            "link": "https://scholar.google.com/citations?user=BEDrP7cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BEDrP7cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BEDrP7cAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/1424-8220/22/16/5986/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vHeLyjsJTUkJ",
+        "cited_by": {
+          "total": 163,
+          "link": "https://scholar.google.com/scholar?cites=5281888090381318076&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "5281888090381318076",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=5281888090381318076&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:vHeLyjsJTUkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3AvHeLyjsJTUkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=5281888090381318076&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "5281888090381318076",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=5281888090381318076&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:vHeLyjsJTUkJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 1,
+      "title": "I-SiamIDS: an improved Siam-IDS for handling class imbalance in network-based intrusion detection systems",
+      "result_id": "V88FGyg7MVoJ",
+      "link": "https://link.springer.com/article/10.1007/s10489-020-01886-y",
+      "snippet": "Abstract Network-based Intrusion Detection Systems (NIDSs) identify malicious activities by analyzing network traffic. NIDSs are trained with the samples of benign and intrusive …",
+      "publication_info": {
+        "summary": "P Bedi, N Gupta, V Jindal - Applied Intelligence, 2021 - Springer",
+        "authors": [
+          {
+            "name": "P Bedi",
+            "link": "https://scholar.google.com/citations?user=isHD16wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=isHD16wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "isHD16wAAAAJ"
+          },
+          {
+            "name": "N Gupta",
+            "link": "https://scholar.google.com/citations?user=mlStKY0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mlStKY0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mlStKY0AAAAJ"
+          },
+          {
+            "name": "V Jindal",
+            "link": "https://scholar.google.com/citations?user=cSFb6eUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cSFb6eUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cSFb6eUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2009.10940"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=V88FGyg7MVoJ",
+        "cited_by": {
+          "total": 113,
+          "link": "https://scholar.google.com/scholar?cites=6499040780710432599&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "6499040780710432599",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6499040780710432599&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:V88FGyg7MVoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3AV88FGyg7MVoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=6499040780710432599&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "6499040780710432599",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=6499040780710432599&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "A review of big data in network intrusion detection system: Challenges, approaches, datasets, and tools",
+      "result_id": "wDquvTUKeisJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Reem-Alshamy/publication/343452562_A_Review_of_Big_Data_in_Network_Intrusion_Detection_System_Challenges_Approaches_Datasets_and_Tools/links/607a0a8e907dcf667ba44ac8/A-Review-of-Big-Data-in-Network-Intrusion-Detection-System-Challenges-Approaches-Datasets-and-Tools.pdf",
+      "snippet": "Intrusion Detection System (IDS) is a promised research field in the cybersecurity due to the rapid development of the Internet. Many IDS employ classification algorithms for classifying …",
+      "publication_info": {
+        "summary": "R Alshamy, M Ghurab - Journal of Computer Sciences and …, 2020 - researchgate.net",
+        "authors": [
+          {
+            "name": "R Alshamy",
+            "link": "https://scholar.google.com/citations?user=yoB5Oo8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yoB5Oo8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yoB5Oo8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Reem-Alshamy/publication/343452562_A_Review_of_Big_Data_in_Network_Intrusion_Detection_System_Challenges_Approaches_Datasets_and_Tools/links/607a0a8e907dcf667ba44ac8/A-Review-of-Big-Data-in-Network-Intrusion-Detection-System-Challenges-Approaches-Datasets-and-Tools.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wDquvTUKeisJ",
+        "cited_by": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cites=3132827716721457856&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "3132827716721457856",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=3132827716721457856&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wDquvTUKeisJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3AwDquvTUKeisJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3132827716721457856&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "3132827716721457856",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=3132827716721457856&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wDquvTUKeisJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 3,
+      "title": "A wrapper‐based feature selection for improving performance of intrusion detection systems",
+      "result_id": "SSeLQSPK6E0J",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.4434",
+      "snippet": "Along with expansion in using of Internet and computer networks, the privacy, integrity, and access to digital resources have been faced with permanent risks. Due to the unpredictable …",
+      "publication_info": {
+        "summary": "M Samadi Bonab, A Ghaffari… - International Journal …, 2020 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "M Samadi Bonab",
+            "link": "https://scholar.google.com/citations?user=yjXmWugAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yjXmWugAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yjXmWugAAAAJ"
+          },
+          {
+            "name": "A Ghaffari",
+            "link": "https://scholar.google.com/citations?user=aqhrY60AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aqhrY60AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aqhrY60AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Farhad-Soleimanian-Gharehchopogh/publication/340954642_A_wrapper-based_feature_selection_for_improving_performance_of_intrusion_detection_systems/links/5ea7a39592851c1a907657e1/A-wrapper-based-feature-selection-for-improving-performance-of-intrusion-detection-systems.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=SSeLQSPK6E0J",
+        "cited_by": {
+          "total": 52,
+          "link": "https://scholar.google.com/scholar?cites=5613959188289627977&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "5613959188289627977",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=5613959188289627977&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:SSeLQSPK6E0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3ASSeLQSPK6E0J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5613959188289627977&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "5613959188289627977",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=5613959188289627977&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Efficient, lightweight cyber intrusion detection system for IoT ecosystems using mi2g algorithm",
+      "result_id": "6a3fY95P6PAJ",
+      "link": "https://www.mdpi.com/2073-431X/11/10/142",
+      "snippet": "The increase in internet connectivity has led to an increased usage of the Internet of Things (IoT) and devices on the internet. These IoT devices are becoming the backbone of Industry …",
+      "publication_info": {
+        "summary": "S Kaushik, A Bhardwaj, A Alomari, S Bharany… - Computers, 2022 - mdpi.com",
+        "authors": [
+          {
+            "name": "A Bhardwaj",
+            "link": "https://scholar.google.com/citations?user=2oiVJ7gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2oiVJ7gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2oiVJ7gAAAAJ"
+          },
+          {
+            "name": "A Alomari",
+            "link": "https://scholar.google.com/citations?user=1u1Vah8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1u1Vah8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1u1Vah8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2073-431X/11/10/142/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6a3fY95P6PAJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=17359212580276514281&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "17359212580276514281",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=17359212580276514281&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6a3fY95P6PAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3A6a3fY95P6PAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17359212580276514281&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "17359212580276514281",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=17359212580276514281&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6a3fY95P6PAJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Design and development of an efficient network intrusion detection system using machine learning techniques",
+      "result_id": "JieDSXcaG6IJ",
+      "type": "Html",
+      "link": "https://www.hindawi.com/journals/wcmc/2021/9974270/",
+      "snippet": "Today's internets are made up of nearly half a million different networks. In any network connection, identifying the attacks by their types is a difficult task as different attacks may …",
+      "publication_info": {
+        "summary": "T Rincy N, R Gupta - Wireless Communications and Mobile Computing, 2021 - hindawi.com"
+      },
+      "resources": [
+        {
+          "title": "hindawi.com",
+          "file_format": "HTML",
+          "link": "https://www.hindawi.com/journals/wcmc/2021/9974270/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JieDSXcaG6IJ",
+        "html_version": "https://www.hindawi.com/journals/wcmc/2021/9974270/",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=11680959158152275750&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "11680959158152275750",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=11680959158152275750&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:JieDSXcaG6IJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3AJieDSXcaG6IJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=11680959158152275750&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "11680959158152275750",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=11680959158152275750&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:JieDSXcaG6IJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 6,
+      "title": "An efficient feature subset selection approach for machine learning",
+      "result_id": "NBq-M7xQRnkJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-020-10011-7",
+      "snippet": "This literature introduces CAPPER, an efficient hybrid feature subset selection approach which is the combination of feature subsets from the Correlation-based feature selection …",
+      "publication_info": {
+        "summary": "R Gupta - Multimedia tools and applications, 2021 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NBq-M7xQRnkJ",
+        "cited_by": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cites=8738760896211196468&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "8738760896211196468",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=8738760896211196468&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NBq-M7xQRnkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3ANBq-M7xQRnkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8738760896211196468&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "8738760896211196468",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=8738760896211196468&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Smart greenhouse based on ann and iot",
+      "result_id": "RXgVMOz0W48J",
+      "link": "https://www.mdpi.com/2227-9717/10/11/2402",
+      "snippet": "The effective exploitation of smart technology in applications helps farmers make better decisions without increasing costs. Agricultural Research Centers (ARCs) are continually …",
+      "publication_info": {
+        "summary": "MA Tawfeek, S Alanazi, AAA El-Aziz - Processes, 2022 - mdpi.com",
+        "authors": [
+          {
+            "name": "AAA El-Aziz",
+            "link": "https://scholar.google.com/citations?user=Z459nFMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Z459nFMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Z459nFMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2227-9717/10/11/2402/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RXgVMOz0W48J",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=10330119465560537157&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "10330119465560537157",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10330119465560537157&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:RXgVMOz0W48J:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3ARXgVMOz0W48J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=10330119465560537157&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "10330119465560537157",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=10330119465560537157&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:RXgVMOz0W48J:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Optimization based Classification Technique for Intrusion Detection System",
+      "result_id": "vBrC6-YcH4cJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Dr-Gopinath-R/publication/357159002_Optimization_Based_Classification_Technique_for_Intrusion_Detection_System/links/61be3cfd4b318a6970f0617b/Optimization-Based-Classification-Technique-for-Intrusion-Detection-System.pdf",
+      "snippet": "The protection of computer networks was assumed by intruder detection systems (IDS). They detect various forms of attacks and malicious software that are not identifiable by firewalls …",
+      "publication_info": {
+        "summary": "V Upendran, R Gopinath - International Journal of Advanced …, 2020 - researchgate.net",
+        "authors": [
+          {
+            "name": "V Upendran",
+            "link": "https://scholar.google.com/citations?user=sl24j_AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sl24j_AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sl24j_AAAAAJ"
+          },
+          {
+            "name": "R Gopinath",
+            "link": "https://scholar.google.com/citations?user=pJrIXpsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pJrIXpsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pJrIXpsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dr-Gopinath-R/publication/357159002_Optimization_Based_Classification_Technique_for_Intrusion_Detection_System/links/61be3cfd4b318a6970f0617b/Optimization-Based-Classification-Technique-for-Intrusion-Detection-System.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vBrC6-YcH4cJ",
+        "cited_by": {
+          "total": 25,
+          "link": "https://scholar.google.com/scholar?cites=9736532697521724092&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "9736532697521724092",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=9736532697521724092&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:vBrC6-YcH4cJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3AvBrC6-YcH4cJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:vBrC6-YcH4cJ:scholar.google.com/&hl=en&as_sdt=5,31&sciodt=0,31"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Intelligent Identification of Simultaneous Faults of Automotive Software Systems under Noisy and Imbalanced Data based on Ensemble LSTM and Random Forest",
+      "result_id": "62JjcWW4JTcJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10348584/",
+      "snippet": "According to ISO 26262 standard, functional validation of the developed Automotive Software Systems (ASSs) is crucial to ensure the safety and reliability aspects. Hardware-in …",
+      "publication_info": {
+        "summary": "M Abboush, C Knieke, A Rausch - IEEE Access, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Abboush",
+            "link": "https://scholar.google.com/citations?user=OzRLEdoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OzRLEdoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OzRLEdoAAAAJ"
+          },
+          {
+            "name": "C Knieke",
+            "link": "https://scholar.google.com/citations?user=AfQ33IQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AfQ33IQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AfQ33IQAAAAJ"
+          },
+          {
+            "name": "A Rausch",
+            "link": "https://scholar.google.com/citations?user=m1kadkkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m1kadkkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m1kadkkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/10348584.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=62JjcWW4JTcJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3973784992057877227&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "3973784992057877227",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=3973784992057877227&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Embedded Gateway Security Detection Technology Based on the Deep Neural Network Rule Extraction",
+      "result_id": "haOG_T1fnaAJ",
+      "type": "Html",
+      "link": "https://www.hindawi.com/journals/scn/2023/3965245/",
+      "snippet": "Aiming at the network security problem of power system cable trench control industrial Internet system, we studied an intrusion detection method applied to the embedded …",
+      "publication_info": {
+        "summary": "J Shi, T Feng - Security and Communication Networks, 2023 - hindawi.com"
+      },
+      "resources": [
+        {
+          "title": "hindawi.com",
+          "file_format": "HTML",
+          "link": "https://www.hindawi.com/journals/scn/2023/3965245/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=haOG_T1fnaAJ",
+        "html_version": "https://www.hindawi.com/journals/scn/2023/3965245/",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:haOG_T1fnaAJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3AhaOG_T1fnaAJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=11573511337263145861&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "11573511337263145861",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=11573511337263145861&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:haOG_T1fnaAJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 1,
+      "title": "An efficiency optimization for network intrusion detection system",
+      "result_id": "1nQQJxB3Al4J",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "MM Sakr, MA Tawfeeq… - International …, 2019 - Modern Education and Computer …"
+      },
+      "resources": [
+        {
+          "title": "mecs-press.net",
+          "file_format": "PDF",
+          "link": "http://mecs-press.net/ijcnis/ijcnis-v11-n10/IJCNIS-V11-N10-1.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1nQQJxB3Al4J",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=6774107700777219286&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "6774107700777219286",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6774107700777219286&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1nQQJxB3Al4J:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3A1nQQJxB3Al4J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cluster=6774107700777219286&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "6774107700777219286",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=6774107700777219286&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "A Survey of Network Intrusion Detection Using Machine Learning Techniques",
+      "result_id": "D86zqetQrHUJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-66288-2_4",
+      "snippet": "Nowadays, a huge amount of information flows daily on public and private computer networks. Since sensitive information has a high probability of being transmitted, there is an …",
+      "publication_info": {
+        "summary": "N Thomas Rincy, R Gupta - Machine Learning and Data Mining for …, 2021 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=D86zqetQrHUJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:D86zqetQrHUJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3AD86zqetQrHUJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8479241171526471183&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "8479241171526471183",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=8479241171526471183&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Random Forest based Incremental Threat Detection Model for Intrusion Detection System",
+      "result_id": "IkPfr5s3xosJ",
+      "type": "Pdf",
+      "link": "https://www.ijrar.org/papers/IJRAR2001678.pdf",
+      "snippet": "Use of digital era is the major cause of diverting the focus of researches in the research field of 'Intrusion detection'. All researches are tiring to build such powerful IDS, that attempt to …",
+      "publication_info": {
+        "summary": "HN Datir, PM Jawandhiya - 2020 - ijrar.org"
+      },
+      "resources": [
+        {
+          "title": "ijrar.org",
+          "file_format": "PDF",
+          "link": "https://www.ijrar.org/papers/IJRAR2001678.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IkPfr5s3xosJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IkPfr5s3xosJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6769526216182155158&engine=google_scholar&hl=en&q=related%3AIkPfr5s3xosJ%3Ascholar.google.com%2F&start=10",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:IkPfr5s3xosJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,31&sciodt=0,31&cites=6769526216182155158&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,31&sciodt=0,31&cites=6769526216182155158&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=6769526216182155158&engine=google_scholar&hl=en&start=10"
+    }
+  }
+}

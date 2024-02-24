@@ -11,8 +11,7 @@ import { AddScholarComponent } from './add-scholar/add-scholar.component';
 import { ScholarComponent } from './scholar/scholar.component';
 import { HeaderComponent } from './header/header.component';
 import { ScholarService } from './scholar/scholar.service';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatSortModule } from '@angular/material/sort'
+import { SearchListService } from './search-list/search-list.service';
 
 @NgModule({
   declarations: [
@@ -33,7 +32,8 @@ import { MatSortModule } from '@angular/material/sort'
     MatSortModule
   ],
   providers: [
-    ScholarService
+    ScholarService,
+    SearchListService
   ],
   bootstrap: [AppComponent]
 })

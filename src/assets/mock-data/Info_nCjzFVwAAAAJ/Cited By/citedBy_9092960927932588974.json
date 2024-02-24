@@ -1,0 +1,93 @@
+{
+  "search_metadata": {
+    "id": "658dad641d64ea524837b024",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4ecabf088751c439/658dad641d64ea524837b024.json",
+    "created_at": "2023-12-28 17:16:20 UTC",
+    "processed_at": "2023-12-28 17:16:20 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=9092960927932588974&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/4ecabf088751c439/658dad641d64ea524837b024.html",
+    "total_time_taken": 5.24
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "9092960927932588974",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=9092960927932588974&hl=en&as_sdt=5,49&sciodt=0,49",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Machine Learning for Credit Risk Prediction: A Systematic Literature Review",
+      "result_id": "_QcyMz1jDyUJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2306-5729/8/11/169",
+      "snippet": "In this systematic review of the literature on using Machine Learning (ML) for credit risk prediction, we raise the need for financial institutions to use Artificial Intelligence (AI) and ML …",
+      "publication_info": {
+        "summary": "JP Noriega, LA Rivera, JA Herrera - Data, 2023 - mdpi.com"
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2306-5729/8/11/169"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_QcyMz1jDyUJ",
+        "html_version": "https://www.mdpi.com/2306-5729/8/11/169",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2670462218557065213&as_sdt=5,49&sciodt=0,49&hl=en",
+          "cites_id": "2670462218557065213",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=2670462218557065213&engine=google_scholar&hl=en"
+        },
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=2670462218557065213&hl=en&as_sdt=5,49&sciodt=0,49",
+          "cluster_id": "2670462218557065213",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cluster=2670462218557065213&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:_QcyMz1jDyUJ:scholar.google.com/&hl=en&as_sdt=5,49&sciodt=0,49"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Data-driven ML Approaches for the concept of Self-healing in CWN, Including its Challenges and Possible Solutions",
+      "result_id": "OK_l5Wa27OEJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10142451/",
+      "snippet": "The idea of a self-organizing network, or SON for short, was developed to facilitate the autonomous deployment and administration of cellular networks. SON capabilities have the …",
+      "publication_info": {
+        "summary": "SJJ Thangaraj - 2023 Eighth International Conference on …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "SJJ Thangaraj",
+            "link": "https://scholar.google.com/citations?user=iquVQXkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iquVQXkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iquVQXkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OK_l5Wa27OEJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=16279587306097454904&as_sdt=5,49&sciodt=0,49&hl=en",
+          "cites_id": "16279587306097454904",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=16279587306097454904&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:OK_l5Wa27OEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=9092960927932588974&engine=google_scholar&hl=en&q=related%3AOK_l5Wa27OEJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

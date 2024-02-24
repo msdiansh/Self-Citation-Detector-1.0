@@ -1,0 +1,50 @@
+{
+  "search_metadata": {
+    "id": "6598f8439bddf7f9a30225d4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/18fe714f351aab9b/6598f8439bddf7f9a30225d4.json",
+    "created_at": "2024-01-06 06:50:43 UTC",
+    "processed_at": "2024-01-06 06:50:43 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:M3NEmzRMIkIC",
+    "raw_html_file": "https://serpapi.com/searches/18fe714f351aab9b/6598f8439bddf7f9a30225d4.html",
+    "total_time_taken": 0.23
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:M3NEmzRMIkIC"
+  },
+  "citation": {
+    "title": "Search for lepton flavour violating decays of heavy resonances and quantum black holes to an e-mu pair in proton-proton collisions at sqrt (s)= 8 TeV",
+    "link": "https://dial.uclouvain.be/pr/boreal/object/boreal:175432",
+    "resources": [
+      {
+        "title": "from uclouvain.be",
+        "file_format": "HTML",
+        "link": "https://dial.uclouvain.be/pr/boreal/object/boreal:175432"
+      }
+    ],
+    "authors": "Suzan Basegmez, Camille Beluffi, Olivier Bondu, Sébastien Brochet, Giacomo Bruno, Adrien Caudron, Ludivine Ceard, Christophe Delaere, Denis Favart, Laurent Forthomme, Andrea Giammanco, Abideh Jafari, Pavel Jez, Matthias Komm, Vincent Lemaitre, Alexandre Mertens, Marco Musich, Claude Nuttens, Lucia Perrini, Krzysztof Piotrzkowski, Andrey Popov, Loic Quertenmont, Michele Selvaggi, Miguel Vidal Maroño",
+    "publication_date": "2016",
+    "journal": "European Physical Journal C. Particles and Fields",
+    "pages": "317",
+    "description": "A search for narrow resonances decaying to an electron and a muon is presented. The e-mu mass spectrum is also investigated for non-resonant contributions from the production of quantum black holes (QBHs). The analysis is performed using data corresponding to an integrated luminosity of 19.7 inverse femtobarns collected in proton-proton collisions at a centre-of-mass energy of 8 TeV with the CMS detector at the LHC. With no evidence for physics beyond the standard model in the invariant mass spectrum of selected e-mu pairs, upper limits are set at 95% confidence level on the product of cross section and branching fraction for signals arising in theories with charged lepton flavour violation. In the search for narrow resonances, the resonant production of a tau sneutrino in R-parity violating supersymmetry is considered. The tau sneutrino is excluded for masses below 1.28 TeV for couplings lambda [132]= lambda [231]= lambda'[311]= 0.01, and below 2.30 TeV for lambda [132]= lambda [231]= 0.07 and lambda'[311]= 0.11. These are the most stringent limits to date from direct searches at high-energy colliders. In addition, the resonance searches are interpreted in terms of a model with heavy partners of the Z boson and the photon. In a framework of TeV-scale quantum gravity based on a renormalization of Newton's constant, the search for non-resonant contributions to the e-mu mass spectrum excludes QBH production below a threshold mass M [th] of 1.99 TeV. In models that invoke extra dimensions, the bounds range from 2.36 TeV for one extra dimension to 3.63 TeV for six extra dimensions. This is the first search for QBHs decaying into …",
+    "scholar_articles": [
+      {
+        "title": "Search for lepton flavour violating decays of heavy resonances and quantum black holes to an e-mu pair in proton-proton collisions at sqrt (s)= 8 TeV",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=12133730658837172381&btnI=1&hl=en",
+        "authors": "S Basegmez, C Beluffi, O Bondu, S Brochet, G Bruno… - European Physical Journal C. Particles and Fields, 2016",
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:nZBBOL-rY6gJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12133730658837172381",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=12133730658837172381&engine=google_scholar&hl=en",
+          "cluster_id": "12133730658837172381"
+        }
+      }
+    ]
+  }
+}

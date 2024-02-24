@@ -1,0 +1,88 @@
+{
+  "search_metadata": {
+    "id": "65d4dc70e13508cf263d1bdc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/797257e711200643/65d4dc70e13508cf263d1bdc.json",
+    "created_at": "2024-02-20 17:08:00 UTC",
+    "processed_at": "2024-02-20 17:08:00 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=9848230855588101656&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/797257e711200643/65d4dc70e13508cf263d1bdc.html",
+    "total_time_taken": 3.22
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "9848230855588101656",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=9848230855588101656&hl=en&as_sdt=5,34&sciodt=0,34",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Different length genetic algorithm-based clustering of Indian stocks for portfolio optimization",
+      "result_id": "LH4ltS94qTYJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-10-8974-9_3",
+      "snippet": "In this chapter, we propose a model for portfolio construction using different length genetic algorithm (GA)-based clustering of Indian stocks. First, stocks of different companies, chosen …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, TD Chaudhuri - Advances in intelligent computing, 2019 - Springer",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LH4ltS94qTYJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=3938811495410138668&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "3938811495410138668",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=3938811495410138668&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:LH4ltS94qTYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9848230855588101656&engine=google_scholar&hl=en&q=related%3ALH4ltS94qTYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3938811495410138668&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "3938811495410138668",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=3938811495410138668&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Watershed Image Analysis using PSO-CA hybrid approach",
+      "result_id": "UAL_r1HiEYAJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Anasua-Sarkar/publication/313887669_Watershed_Image_Analysis_Using_a_PSO-CA_Hybrid_Approach/links/5ca473caa6fdcc12ee8f39cb/Watershed-Image-Analysis-Using-a-PSO-CA-Hybrid-Approach.pdf",
+      "snippet": "Pixel classification of watershed satellite image is a challenging task in remote. Uses of Particle swarm Optimisation and Cellular Automata are significant methods in watershed …",
+      "publication_info": {
+        "summary": "S Das - researchgate.net"
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Anasua-Sarkar/publication/313887669_Watershed_Image_Analysis_Using_a_PSO-CA_Hybrid_Approach/links/5ca473caa6fdcc12ee8f39cb/Watershed-Image-Analysis-Using-a-PSO-CA-Hybrid-Approach.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=UAL_r1HiEYAJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:UAL_r1HiEYAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=9848230855588101656&engine=google_scholar&hl=en&q=related%3AUAL_r1HiEYAJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:UAL_r1HiEYAJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    }
+  ]
+}

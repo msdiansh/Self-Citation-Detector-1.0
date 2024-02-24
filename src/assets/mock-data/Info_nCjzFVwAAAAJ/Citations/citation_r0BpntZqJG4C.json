@@ -1,0 +1,64 @@
+{
+  "search_metadata": {
+    "id": "6598f1fa87a0eebb96c54c53",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/65bb5b70f0af257d/6598f1fa87a0eebb96c54c53.json",
+    "created_at": "2024-01-06 06:23:54 UTC",
+    "processed_at": "2024-01-06 06:23:54 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:r0BpntZqJG4C",
+    "raw_html_file": "https://serpapi.com/searches/65bb5b70f0af257d/6598f1fa87a0eebb96c54c53.html",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:r0BpntZqJG4C"
+  },
+  "citation": {
+    "title": "Integration of ETL in Cloud Using Spark for Streaming Data",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-16-4435-1_18",
+    "authors": "Neepa Biswas, Kartick Chandra Mondal",
+    "publication_date": "2022",
+    "conference": "Advanced Techniques for IoT Applications: Proceedings of EAIT 2020",
+    "pages": "172-182",
+    "publisher": "Springer Singapore",
+    "description": "Extract-Transform-Load (ETL) consists of a series of process which collects raw transactional data and reshapes it into clean information which is actionable by Business Intelligence in the future. Presently most organizations are considering moving towards cloud-based implementation for their mission-critical applications. This trend is also affecting the management of ETL processes in the Data warehouse environment. The limitations of the traditional ETL process and the benefits of moving ETL into the cloud are discussed in this paper. After that, challenges in cloud computing adoption regarding the ETL process are identified. Features offered by some leading cloud-enabled ETL solutions are incorporated herewith some brief analysis. This paper will also cover the general issues in cloud ETL both from the perspective of cloud consumers and service providers. A novel framework is designed to process …",
+    "total_citations": {
+      "cited_by": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5484974450905041884&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5484974450905041884&engine=google_scholar&hl=en",
+        "cites_id": "5484974450905041884"
+      },
+      "table": [
+        {
+          "year": 2023,
+          "citations": 3
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Integration of ETL in Cloud Using Spark for Streaming Data",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=5484974450905041884&btnI=1&hl=en",
+        "authors": "N Biswas, KC Mondal - … Techniques for IoT Applications: Proceedings of EAIT …, 2022",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5484974450905041884&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=5484974450905041884&engine=google_scholar&hl=en",
+          "cites_id": "5484974450905041884"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:3MtJ1DOLHkwJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5484974450905041884",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=5484974450905041884&engine=google_scholar&hl=en",
+          "cluster_id": "5484974450905041884"
+        }
+      }
+    ]
+  }
+}

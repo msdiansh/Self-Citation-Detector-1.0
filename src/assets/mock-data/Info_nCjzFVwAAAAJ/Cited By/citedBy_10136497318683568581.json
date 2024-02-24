@@ -1,0 +1,881 @@
+{
+  "search_metadata": {
+    "id": "658da85836e6a90678bafeb8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2091bf110416bf4b/658da85836e6a90678bafeb8.json",
+    "created_at": "2023-12-28 16:54:48 UTC",
+    "processed_at": "2023-12-28 16:54:48 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=10136497318683568581&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/2091bf110416bf4b/658da85836e6a90678bafeb8.html",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "10136497318683568581",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 18,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=10136497318683568581&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Enhancing pulsed electrohydrodynamic printing frequency via high-order-mode ejection",
+      "result_id": "XMRPn3omyGYJ",
+      "type": "Html",
+      "link": "https://pubs.aip.org/aip/pof/article/33/8/081704/854028",
+      "snippet": "We investigate multi-mode oscillation and ejection behavior in pulsed electrohydrodynamic (EHD) printing in this paper. The results show that multi-mode oscillation is determined by …",
+      "publication_info": {
+        "summary": "H Li, W Yang, Y Duan, Q Nie, Z Shao, Z Yin… - Physics of …, 2021 - pubs.aip.org",
+        "authors": [
+          {
+            "name": "Y Duan",
+            "link": "https://scholar.google.com/citations?user=yb8hUpEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yb8hUpEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yb8hUpEAAAAJ"
+          },
+          {
+            "name": "Z Yin",
+            "link": "https://scholar.google.com/citations?user=VvGpmsEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VvGpmsEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VvGpmsEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "aip.org",
+          "file_format": "HTML",
+          "link": "https://pubs.aip.org/aip/pof/article/33/8/081704/854028"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XMRPn3omyGYJ",
+        "html_version": "https://pubs.aip.org/aip/pof/article/33/8/081704/854028",
+        "cited_by": {
+          "total": 18,
+          "link": "https://scholar.google.com/scholar?cites=7406211895311451228&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7406211895311451228",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7406211895311451228&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:XMRPn3omyGYJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AXMRPn3omyGYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=7406211895311451228&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7406211895311451228",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7406211895311451228&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Electrodynamic-contact-line-lithography with nematic liquid crystals for template-less E-writing of mesopatterns on soft surfaces",
+      "result_id": "wTPv-zPm6ywJ",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2019/nr/c9nr05729c",
+      "snippet": "We report the development of a single-step, template-less and fast pathway, namely, Electrodynamic-Contact-Line-Lithography (ECLL), to write micro to nanopatterns on the …",
+      "publication_info": {
+        "summary": "P Roy, R Mukherjee, D Bandyopadhyay, PSG Pattader - Nanoscale, 2019 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "P Roy",
+            "link": "https://scholar.google.com/citations?user=nL5Jk3cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nL5Jk3cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nL5Jk3cAAAAJ"
+          },
+          {
+            "name": "R Mukherjee",
+            "link": "https://scholar.google.com/citations?user=ecalMYAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ecalMYAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ecalMYAAAAAJ"
+          },
+          {
+            "name": "D Bandyopadhyay",
+            "link": "https://scholar.google.com/citations?user=or43e_kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=or43e_kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "or43e_kAAAAJ"
+          },
+          {
+            "name": "PSG Pattader",
+            "link": "https://scholar.google.com/citations?user=8NtxqY4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8NtxqY4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8NtxqY4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wTPv-zPm6ywJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=3236933868140311489&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "3236933868140311489",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3236933868140311489&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wTPv-zPm6ywJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AwTPv-zPm6ywJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3236933868140311489&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "3236933868140311489",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3236933868140311489&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Thermo-electrohydrodynamic patterning in nanofilms",
+      "result_id": "Tdsk2PnCYc4J",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b01810",
+      "snippet": "To improve the electrically assisted patterning process and create smaller sized features with the higher active surface area, the combined thermocapillary-electrohydrodynamic (TC …",
+      "publication_info": {
+        "summary": "H Nazaripoor, CR Koch, M Sadrzadeh… - Langmuir, 2016 - ACS Publications",
+        "authors": [
+          {
+            "name": "H Nazaripoor",
+            "link": "https://scholar.google.com/citations?user=V3m1IbsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V3m1IbsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "V3m1IbsAAAAJ"
+          },
+          {
+            "name": "CR Koch",
+            "link": "https://scholar.google.com/citations?user=zvTvSFAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zvTvSFAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zvTvSFAAAAAJ"
+          },
+          {
+            "name": "M Sadrzadeh",
+            "link": "https://scholar.google.com/citations?user=jyu4VWYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jyu4VWYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jyu4VWYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "acs.org",
+          "file_format": "PDF",
+          "link": "https://pubs.acs.org/doi/pdf/10.1021/acs.langmuir.6b01810"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Tdsk2PnCYc4J",
+        "cited_by": {
+          "total": 22,
+          "link": "https://scholar.google.com/scholar?cites=14871381822883027789&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "14871381822883027789",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14871381822883027789&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Tdsk2PnCYc4J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3ATdsk2PnCYc4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=14871381822883027789&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "14871381822883027789",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14871381822883027789&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Electrohydrodynamic patterning of ultra-thin ionic liquid films",
+      "result_id": "kyOguLbVtGEJ",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2015/sm/c4sm02477j",
+      "snippet": "In the electrohydrodynamic (EHD) patterning process, electrostatic destabilization of the air–polymer interface results in micro-and nano-size patterns in the form of raised formations …",
+      "publication_info": {
+        "summary": "H Nazaripoor, CR Koch, M Sadrzadeh, S Bhattacharjee - Soft Matter, 2015 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "H Nazaripoor",
+            "link": "https://scholar.google.com/citations?user=V3m1IbsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V3m1IbsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "V3m1IbsAAAAJ"
+          },
+          {
+            "name": "CR Koch",
+            "link": "https://scholar.google.com/citations?user=zvTvSFAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zvTvSFAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zvTvSFAAAAAJ"
+          },
+          {
+            "name": "M Sadrzadeh",
+            "link": "https://scholar.google.com/citations?user=jyu4VWYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jyu4VWYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jyu4VWYAAAAJ"
+          },
+          {
+            "name": "S Bhattacharjee",
+            "link": "https://scholar.google.com/citations?user=IUxSbHYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IUxSbHYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IUxSbHYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2015/sm/c4sm02477j"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kyOguLbVtGEJ",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2015/sm/c4sm02477j",
+        "cited_by": {
+          "total": 20,
+          "link": "https://scholar.google.com/scholar?cites=7040487098245194643&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7040487098245194643",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7040487098245194643&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:kyOguLbVtGEJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AkyOguLbVtGEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=7040487098245194643&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "7040487098245194643",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7040487098245194643&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Compact micro/nano electrohydrodynamic patterning: using a thin conductive film and a patterned template",
+      "result_id": "eLB3-tIur4YJ",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2015/sm/c5sm02258d",
+      "snippet": "The influence of electrostatic heterogeneity on the electric-field-induced destabilization of thin ionic liquid (IL) films is investigated to control spatial ordering and to reduce the lateral …",
+      "publication_info": {
+        "summary": "H Nazaripoor, CR Koch, M Sadrzadeh, S Bhattacharjee - Soft Matter, 2016 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "H Nazaripoor",
+            "link": "https://scholar.google.com/citations?user=V3m1IbsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V3m1IbsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "V3m1IbsAAAAJ"
+          },
+          {
+            "name": "CR Koch",
+            "link": "https://scholar.google.com/citations?user=zvTvSFAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zvTvSFAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zvTvSFAAAAAJ"
+          },
+          {
+            "name": "M Sadrzadeh",
+            "link": "https://scholar.google.com/citations?user=jyu4VWYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jyu4VWYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jyu4VWYAAAAJ"
+          },
+          {
+            "name": "S Bhattacharjee",
+            "link": "https://scholar.google.com/citations?user=IUxSbHYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IUxSbHYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IUxSbHYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2015/sm/c5sm02258d"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=eLB3-tIur4YJ",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2015/sm/c5sm02258d",
+        "cited_by": {
+          "total": 19,
+          "link": "https://scholar.google.com/scholar?cites=9705027205686866040&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "9705027205686866040",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9705027205686866040&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:eLB3-tIur4YJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AeLB3-tIur4YJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=9705027205686866040&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "9705027205686866040",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=9705027205686866040&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Ordered high aspect ratio nanopillar formation based on electrical and thermal reflowing of prepatterned thin films",
+      "result_id": "qQvqnHV-5esJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0021979718307288",
+      "snippet": "Creating well-ordered, submicron-sized pillars have been stated as main limitation for electrically induced patterning of nanofilms (thickness< 100 nm)[1]. In our previous works, it …",
+      "publication_info": {
+        "summary": "H Nazaripoor, CR Koch, M Sadrzadeh - Journal of colloid and interface …, 2018 - Elsevier",
+        "authors": [
+          {
+            "name": "H Nazaripoor",
+            "link": "https://scholar.google.com/citations?user=V3m1IbsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V3m1IbsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "V3m1IbsAAAAJ"
+          },
+          {
+            "name": "CR Koch",
+            "link": "https://scholar.google.com/citations?user=zvTvSFAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zvTvSFAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zvTvSFAAAAAJ"
+          },
+          {
+            "name": "M Sadrzadeh",
+            "link": "https://scholar.google.com/citations?user=jyu4VWYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jyu4VWYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jyu4VWYAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qQvqnHV-5esJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=16998131412188662697&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "16998131412188662697",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16998131412188662697&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:qQvqnHV-5esJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AqQvqnHV-5esJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=16998131412188662697&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "16998131412188662697",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16998131412188662697&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Electrical perturbations of ultrathin bilayers: Role of ionic conductive layer",
+      "result_id": "KPGIyACKJwAJ",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/la503839x",
+      "snippet": "The effect of electrostatic force on the dynamics, morphological evolution, and drainage time of ultrathin liquid bilayers (< 100 nm) are investigated for perfect dielectric–perfect dielectric …",
+      "publication_info": {
+        "summary": "H Nazaripoor, CR Koch, S Bhattacharjee - Langmuir, 2014 - ACS Publications",
+        "authors": [
+          {
+            "name": "H Nazaripoor",
+            "link": "https://scholar.google.com/citations?user=V3m1IbsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V3m1IbsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "V3m1IbsAAAAJ"
+          },
+          {
+            "name": "CR Koch",
+            "link": "https://scholar.google.com/citations?user=zvTvSFAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zvTvSFAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zvTvSFAAAAAJ"
+          },
+          {
+            "name": "S Bhattacharjee",
+            "link": "https://scholar.google.com/citations?user=IUxSbHYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IUxSbHYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IUxSbHYAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KPGIyACKJwAJ",
+        "cited_by": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?cites=11129260060766504&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "11129260060766504",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11129260060766504&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:KPGIyACKJwAJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AKPGIyACKJwAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=11129260060766504&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "11129260060766504",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11129260060766504&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Steady state of electrohydrodynamic patterning of micro/nanostructures on thin polymer films",
+      "result_id": "8bYQyAVXcc0J",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/ie502288a",
+      "snippet": "This paper presents a nonlinear numerical study of the electrohydrodynamic (EHD) patterning process as a micro/nanostructuring approach for a thin polymer film. Special …",
+      "publication_info": {
+        "summary": "Q Yang, BQ Li, Y Ding, J Shao - Industrial & Engineering …, 2014 - ACS Publications",
+        "authors": [
+          {
+            "name": "Q Yang",
+            "link": "https://scholar.google.com/citations?user=ZyQ8RW0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZyQ8RW0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZyQ8RW0AAAAJ"
+          },
+          {
+            "name": "J Shao",
+            "link": "https://scholar.google.com/citations?user=efLK4u4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=efLK4u4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "efLK4u4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8bYQyAVXcc0J",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=14803709132486522609&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "14803709132486522609",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14803709132486522609&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8bYQyAVXcc0J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3A8bYQyAVXcc0J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=14803709132486522609&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "14803709132486522609",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14803709132486522609&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Electrohydrodynamic deformation of thin liquid films near surfaces with topography",
+      "result_id": "tiy1SZOMvpAJ",
+      "type": "Html",
+      "link": "https://pubs.aip.org/aip/pof/article/26/12/122110/1022602",
+      "snippet": "Motivated by the use of electrostatic assist to improve liquid transfer in gravure printing, we use theory and experiment to understand how electric fields deform thin liquid films near …",
+      "publication_info": {
+        "summary": "A Ramkrishnan, S Kumar - Physics of Fluids, 2014 - pubs.aip.org",
+        "authors": [
+          {
+            "name": "S Kumar",
+            "link": "https://scholar.google.com/citations?user=njUhYZ4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=njUhYZ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "njUhYZ4AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "aip.org",
+          "file_format": "HTML",
+          "link": "https://pubs.aip.org/aip/pof/article/26/12/122110/1022602"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tiy1SZOMvpAJ",
+        "html_version": "https://pubs.aip.org/aip/pof/article/26/12/122110/1022602",
+        "cited_by": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cites=10429928351261338806&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "10429928351261338806",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10429928351261338806&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:tiy1SZOMvpAJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3Atiy1SZOMvpAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=10429928351261338806&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "10429928351261338806",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=10429928351261338806&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Pattern formation in thin polymeric films via electrohydrodynamic patterning",
+      "result_id": "sXFKdo7nJAYJ",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra01109c",
+      "snippet": "The free surface of a thin polymeric film is often unstable and deforms into various micro-/nano-patterns under an externally applied electric field. This paper reviews a recent …",
+      "publication_info": {
+        "summary": "G Lv, H Tian, J Shao, D Yu - RSC advances, 2022 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "G Lv",
+            "link": "https://scholar.google.com/citations?user=9SEBg-oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9SEBg-oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9SEBg-oAAAAJ"
+          },
+          {
+            "name": "J Shao",
+            "link": "https://scholar.google.com/citations?user=efLK4u4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=efLK4u4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "efLK4u4AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra01109c"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sXFKdo7nJAYJ",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra01109c",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=442733262445113777&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "442733262445113777",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=442733262445113777&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:sXFKdo7nJAYJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AsXFKdo7nJAYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=442733262445113777&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "442733262445113777",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=442733262445113777&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Electrohydrodynamic effects in the leveling of coatings",
+      "result_id": "C6Dr8u2OXyYJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0009250913004314",
+      "snippet": "Electrostatic charges that accumulate on substrates and at liquid–air interfaces in various coating processes can drive liquid flows that lead to defects. To better understand this …",
+      "publication_info": {
+        "summary": "A Ramkrishnan, S Kumar - Chemical Engineering Science, 2013 - Elsevier",
+        "authors": [
+          {
+            "name": "S Kumar",
+            "link": "https://scholar.google.com/citations?user=njUhYZ4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=njUhYZ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "njUhYZ4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=C6Dr8u2OXyYJ",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=2765085848862695435&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "2765085848862695435",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=2765085848862695435&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:C6Dr8u2OXyYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AC6Dr8u2OXyYJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=2765085848862695435&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "2765085848862695435",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=2765085848862695435&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Electric-field-mediated instability modes and Fréedericksz transition of thin nematic films",
+      "result_id": "5LOjMcnQOrEJ",
+      "link": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/electricfieldmediated-instability-modes-and-freedericksz-transition-of-thin-nematic-films/A9B87984CDA9E776BC17819EC1286700",
+      "snippet": "Instabilities at the deformable free surface of a thin nematic liquid crystal film can develop interesting patterns when exposed to an external electrostatic field. A general linear stability …",
+      "publication_info": {
+        "summary": "K Mondal, A Ghosh, J Chaudhuri… - Journal of Fluid …, 2018 - cambridge.org",
+        "authors": [
+          {
+            "name": "K Mondal",
+            "link": "https://scholar.google.com/citations?user=ZNrPD-YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZNrPD-YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZNrPD-YAAAAJ"
+          },
+          {
+            "name": "A Ghosh",
+            "link": "https://scholar.google.com/citations?user=FxStdVMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FxStdVMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FxStdVMAAAAJ"
+          },
+          {
+            "name": "J Chaudhuri",
+            "link": "https://scholar.google.com/citations?user=PTNbeGAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PTNbeGAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PTNbeGAAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5LOjMcnQOrEJ",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=12770749255902278628&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "12770749255902278628",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=12770749255902278628&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5LOjMcnQOrEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3A5LOjMcnQOrEJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=12770749255902278628&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "12770749255902278628",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=12770749255902278628&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Kinetics of field-induced surface patterns on PMMA",
+      "result_id": "iNBJrzKBSQUJ",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b01304",
+      "snippet": "A simple model was developed to analyze the growth of a liquid pillar under the action of an electric field between two parallel electrodes. A quadratic relationship between time and the …",
+      "publication_info": {
+        "summary": "J Peng, F Yang, D Chiang, S Lee - Langmuir, 2016 - ACS Publications",
+        "authors": [
+          {
+            "name": "F Yang",
+            "link": "https://scholar.google.com/citations?user=0YQJKMUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0YQJKMUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0YQJKMUAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iNBJrzKBSQUJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=380977698178715784&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "380977698178715784",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=380977698178715784&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:iNBJrzKBSQUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AiNBJrzKBSQUJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=380977698178715784&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "380977698178715784",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=380977698178715784&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Electro-capillary instabilities of thin leaky elastic-viscous bilayers",
+      "result_id": "Roh2k-1wN0YJ",
+      "link": "https://pubs.aip.org/aip/pof/article/26/12/122006/1013176",
+      "snippet": "Electrohydrodynamic stresses originating from the accumulation of free and induced charges at the confined interface of a thin elastic-viscous bilayer composed of weakly …",
+      "publication_info": {
+        "summary": "K Mondal, D Bandyopadhyay - Physics of Fluids, 2014 - pubs.aip.org",
+        "authors": [
+          {
+            "name": "K Mondal",
+            "link": "https://scholar.google.com/citations?user=ZNrPD-YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZNrPD-YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZNrPD-YAAAAJ"
+          },
+          {
+            "name": "D Bandyopadhyay",
+            "link": "https://scholar.google.com/citations?user=or43e_kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=or43e_kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "or43e_kAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Kartick-Mondal-2/publication/270513742_Electro-capillary_instabilities_of_thin_leaky_elastic-viscous_bilayers/links/54acfce40cf2479c2ee865df/Electro-capillary-instabilities-of-thin-leaky-elastic-viscous-bilayers.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Roh2k-1wN0YJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=5059636872057620550&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "5059636872057620550",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=5059636872057620550&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Roh2k-1wN0YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3ARoh2k-1wN0YJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=5059636872057620550&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "5059636872057620550",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=5059636872057620550&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Faithful replication of grating patterns in polymer through electrohydrodynamic instabilities",
+      "result_id": "hr6Y1MPgnZwJ",
+      "link": "https://iopscience.iop.org/article/10.1088/0960-1317/24/7/075006/meta",
+      "snippet": "Electrohydrodynamic instability patterning (EHDIP) as an alternative patterning method has attracted a great deal of attention over the past decade. This article demonstrates the faithful …",
+      "publication_info": {
+        "summary": "H Li, W Yu, T Wang, H Zhang, Y Cao… - Journal of …, 2014 - iopscience.iop.org",
+        "authors": [
+          {
+            "name": "W Yu",
+            "link": "https://scholar.google.com/citations?user=uA70DNwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uA70DNwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uA70DNwAAAAJ"
+          },
+          {
+            "name": "T Wang",
+            "link": "https://scholar.google.com/citations?user=b5euW3QAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=b5euW3QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "b5euW3QAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ciomp.ac.cn",
+          "file_format": "PDF",
+          "link": "http://ir.ciomp.ac.cn/bitstream/181722/43991/1/Li-2014-Faithful%20replication.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hr6Y1MPgnZwJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=11285423372950355590&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "11285423372950355590",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=11285423372950355590&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:hr6Y1MPgnZwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3Ahr6Y1MPgnZwJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=11285423372950355590&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "11285423372950355590",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=11285423372950355590&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Field-induced formation and growth of pillars on films of bisphenol-A-polycarbonate",
+      "result_id": "fz1NGTlv8_QJ",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c6ra27783g",
+      "snippet": "An electric field is used to construct pillars on films of bisphenol-A-polycarbonate (BPAPC) between two parallel electrodes. Both the size and density of the pillars are dependent on …",
+      "publication_info": {
+        "summary": "YF Chuang, J Peng, F Yang, D Chiang, S Lee - RSC advances, 2017 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "F Yang",
+            "link": "https://scholar.google.com/citations?user=0YQJKMUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0YQJKMUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0YQJKMUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c6ra27783g"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fz1NGTlv8_QJ",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2017/ra/c6ra27783g",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17650573655623417215&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "17650573655623417215",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=17650573655623417215&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:fz1NGTlv8_QJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3Afz1NGTlv8_QJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=17650573655623417215&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "17650573655623417215",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=17650573655623417215&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Numerical study of the faithful replication of micro/nanostructures on curved surfaces by the electrohydrodynamic instability process",
+      "result_id": "vtUiJCNm9tIJ",
+      "link": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/elps.201600192",
+      "snippet": "This paper reports the numerical study of the one‐step faithful replication of micro/nano‐scale structures on a fiber surface by using the electrohydrodynamic instability patterning …",
+      "publication_info": {
+        "summary": "H Li, W Yu, T Wang, Z Liu, MPY Desmulliez - Electrophoresis, 2017 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "MPY Desmulliez",
+            "link": "https://scholar.google.com/citations?user=oin-e88AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oin-e88AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "oin-e88AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hw.ac.uk",
+          "file_format": "PDF",
+          "link": "https://researchportal.hw.ac.uk/files/14856112/li2016.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vtUiJCNm9tIJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=15201449893351839166&as_sdt=5,31&sciodt=0,31&hl=en",
+          "cites_id": "15201449893351839166",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=15201449893351839166&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:vtUiJCNm9tIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3AvtUiJCNm9tIJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=15201449893351839166&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "15201449893351839166",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=15201449893351839166&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Electrostatic Effects in Coating and Printing Processes",
+      "result_id": "2aCwPl4KMq4J",
+      "link": "https://search.proquest.com/openview/180a46efecafcae2b5a83ff54a191a15/1?pq-origsite=gscholar&cbl=18750",
+      "snippet": "Coating and printing are interfacial processes that are highly relevant in industry. Precision coatings impart functionalities and boost the performance of products. On the other hand …",
+      "publication_info": {
+        "summary": "A Ramkrishnan - 2015 - search.proquest.com"
+      },
+      "resources": [
+        {
+          "title": "umn.edu",
+          "file_format": "PDF",
+          "link": "https://conservancy.umn.edu/bitstream/handle/11299/178928/Ramkrishnan_umn_0130E_15774.pdf;sequence=1"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2aCwPl4KMq4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2aCwPl4KMq4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,31&sciodt=0,31",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cites=10136497318683568581&engine=google_scholar&hl=en&q=related%3A2aCwPl4KMq4J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12552106511329960153&hl=en&as_sdt=5,31&sciodt=0,31",
+          "cluster_id": "12552106511329960153",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C31&cluster=12552106511329960153&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=10136497318683568581&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=10136497318683568581&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=2005&cites=10136497318683568581&engine=google_scholar&hl=en&start=10"
+    }
+  }
+}

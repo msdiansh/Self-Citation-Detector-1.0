@@ -1,0 +1,795 @@
+{
+  "search_metadata": {
+    "id": "658da79014b245a5c513dcb3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/91aa9de4f44b3c1b/658da79014b245a5c513dcb3.json",
+    "created_at": "2023-12-28 16:51:28 UTC",
+    "processed_at": "2023-12-28 16:51:28 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=6282523063265191940&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/91aa9de4f44b3c1b/658da79014b245a5c513dcb3.html",
+    "total_time_taken": 0.8
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "6282523063265191940",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 20,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=6282523063265191940&hl=en&as_sdt=40005&sciodt=0,10",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Data warehousing process modeling from classical approaches to new trends: Main features and comparisons",
+      "result_id": "6TxBZswgiPoJ",
+      "link": "https://www.mdpi.com/2306-5729/7/8/113",
+      "snippet": "The extract, transform, and load (ETL) process is at the core of data warehousing architectures. As such, the success of data warehouse (DW) projects is essentially based on …",
+      "publication_info": {
+        "summary": "A Dhaouadi, K Bousselmi, MM Gammoudi, S Monnet… - Data, 2022 - mdpi.com",
+        "authors": [
+          {
+            "name": "A Dhaouadi",
+            "link": "https://scholar.google.com/citations?user=mJArEyMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mJArEyMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mJArEyMAAAAJ"
+          },
+          {
+            "name": "K Bousselmi",
+            "link": "https://scholar.google.com/citations?user=9n0QycYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9n0QycYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9n0QycYAAAAJ"
+          },
+          {
+            "name": "MM Gammoudi",
+            "link": "https://scholar.google.com/citations?user=lSKXTLcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lSKXTLcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lSKXTLcAAAAJ"
+          },
+          {
+            "name": "S Monnet",
+            "link": "https://scholar.google.com/citations?user=Eh72wrkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Eh72wrkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Eh72wrkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2306-5729/7/8/113/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6TxBZswgiPoJ",
+        "cited_by": {
+          "total": 19,
+          "link": "https://scholar.google.com/scholar?cites=18052715168575601897&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "18052715168575601897",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=18052715168575601897&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6TxBZswgiPoJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3A6TxBZswgiPoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?cluster=18052715168575601897&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "18052715168575601897",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=18052715168575601897&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6TxBZswgiPoJ:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Towards extract-transform-load operations in a big data context",
+      "result_id": "0Sha30PjQ7sJ",
+      "link": "https://www.igi-global.com/article/towards-extract-transform-load-operations-in-a-big-data-context/249233",
+      "snippet": "Big Data emerged after a big explosion of data from the Web 2.0, digital sensors, and social media applications such as Facebook, Twitter, etc. In this constant growth of data, many …",
+      "publication_info": {
+        "summary": "H Mallek, F Ghozzi, F Gargouri - International Journal of …, 2020 - igi-global.com",
+        "authors": [
+          {
+            "name": "H Mallek",
+            "link": "https://scholar.google.com/citations?user=PFKjm4wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PFKjm4wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PFKjm4wAAAAJ"
+          },
+          {
+            "name": "F Ghozzi",
+            "link": "https://scholar.google.com/citations?user=pB8WuWEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pB8WuWEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pB8WuWEAAAAJ"
+          },
+          {
+            "name": "F Gargouri",
+            "link": "https://scholar.google.com/citations?user=w41C1-MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w41C1-MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w41C1-MAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0Sha30PjQ7sJ",
+        "cited_by": {
+          "total": 18,
+          "link": "https://scholar.google.com/scholar?cites=13493878789181679825&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "13493878789181679825",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=13493878789181679825&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0Sha30PjQ7sJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3A0Sha30PjQ7sJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=13493878789181679825&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "13493878789181679825",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=13493878789181679825&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Automated credit assessment framework using ETL process and machine learning",
+      "result_id": "rqPtkcmvMH4J",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00522-x",
+      "snippet": "In the current business scenario, real-time analysis of enterprise data through Business Intelligence (BI) is crucial for supporting operational activities and taking any strategic …",
+      "publication_info": {
+        "summary": "N Biswas, AS Mondal, A Kusumastuti, S Saha… - Innovations in Systems …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "N Biswas",
+            "link": "https://scholar.google.com/citations?user=YAt97FEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YAt97FEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YAt97FEAAAAJ"
+          },
+          {
+            "name": "A Kusumastuti",
+            "link": "https://scholar.google.com/citations?user=lseo98AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lseo98AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lseo98AAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s11334-022-00522-x"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rqPtkcmvMH4J",
+        "html_version": "https://link.springer.com/article/10.1007/s11334-022-00522-x",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=9092960927932588974&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "9092960927932588974",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=9092960927932588974&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rqPtkcmvMH4J:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3ArqPtkcmvMH4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=9092960927932588974&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "9092960927932588974",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=9092960927932588974&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Using BPMN for ETL Conceptual Modelling: A Case Study.",
+      "result_id": "8Bf4Q5mJh1sJ",
+      "type": "Pdf",
+      "link": "https://www.scitepress.org/Papers/2021/105757/105757.pdf",
+      "snippet": "One of the most important parts of a Data Warehousing System is the Extract-Transform-Load (ETL) component. It is responsible for extracting, transforming, conciliating, and …",
+      "publication_info": {
+        "summary": "B Oliveira, Ó Oliveira, O Belo - DATA, 2021 - scitepress.org",
+        "authors": [
+          {
+            "name": "B Oliveira",
+            "link": "https://scholar.google.com/citations?user=DvSQMqwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DvSQMqwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DvSQMqwAAAAJ"
+          },
+          {
+            "name": "Ó Oliveira",
+            "link": "https://scholar.google.com/citations?user=ec7gVO4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ec7gVO4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ec7gVO4AAAAJ"
+          },
+          {
+            "name": "O Belo",
+            "link": "https://scholar.google.com/citations?user=XD5-MFMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XD5-MFMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "XD5-MFMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "scitepress.org",
+          "file_format": "PDF",
+          "link": "https://www.scitepress.org/Papers/2021/105757/105757.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8Bf4Q5mJh1sJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=6595391470670714864&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "6595391470670714864",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6595391470670714864&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8Bf4Q5mJh1sJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3A8Bf4Q5mJh1sJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=6595391470670714864&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "6595391470670714864",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=6595391470670714864&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8Bf4Q5mJh1sJ:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Towards a Scalable and Efficient ETL",
+      "result_id": "AywxV9B6COkJ",
+      "link": "http://journals.uob.edu.bh/handle/123456789/5109",
+      "snippet": "Extract, transform, and load (ETL) processes are crucial for building repositories of data from a variety of self-contained sources. Despite their complexity and cost, ETL processes have …",
+      "publication_info": {
+        "summary": "EY Gueddoudj, A Chikh - International Journal of Computing …, 2023 - journals.uob.edu.bh",
+        "authors": [
+          {
+            "name": "EY Gueddoudj",
+            "link": "https://scholar.google.com/citations?user=_YHI6JkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_YHI6JkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_YHI6JkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "uob.edu.bh",
+          "file_format": "PDF",
+          "link": "http://journals.uob.edu.bh/bitstream/handle/123456789/5109/140195_1570872017%20%281%29.pdf?sequence=3&isAllowed=y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AywxV9B6COkJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=16791806245885520899&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "16791806245885520899",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=16791806245885520899&engine=google_scholar&hl=en"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=16791806245885520899&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "16791806245885520899",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=16791806245885520899&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:AywxV9B6COkJ:scholar.google.com/&hl=en&as_sdt=40005&sciodt=0,10"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Conceptual modeling of big data SPJ operations with Twitter social medium",
+      "result_id": "VHZLyBDxExgJ",
+      "link": "https://link.springer.com/article/10.1007/s13278-023-01112-w",
+      "snippet": "Currently, the blooming growth of social networks such as Facebook, Twitter, Instagram, etc., has generated and is still generating a big amount of data, which can be regarded as a gold …",
+      "publication_info": {
+        "summary": "H Mallek, F Ghozzi, F Gargouri - Social Network Analysis and Mining, 2023 - Springer",
+        "authors": [
+          {
+            "name": "H Mallek",
+            "link": "https://scholar.google.com/citations?user=PFKjm4wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PFKjm4wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PFKjm4wAAAAJ"
+          },
+          {
+            "name": "F Ghozzi",
+            "link": "https://scholar.google.com/citations?user=pB8WuWEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pB8WuWEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pB8WuWEAAAAJ"
+          },
+          {
+            "name": "F Gargouri",
+            "link": "https://scholar.google.com/citations?user=w41C1-MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w41C1-MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w41C1-MAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=VHZLyBDxExgJ"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Role of machine learning in ETL automation",
+      "result_id": "GaF2nSIgePAJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3369740.3372778",
+      "snippet": "In the current business landscape, real-time analysis of enterprise data is very crucial for decision-makers of the organization to take strategic resolution and stay ahead of the …",
+      "publication_info": {
+        "summary": "KC Mondal, N Biswas, S Saha - … of the 21st international conference on …, 2020 - dl.acm.org",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "N Biswas",
+            "link": "https://scholar.google.com/citations?user=YAt97FEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YAt97FEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YAt97FEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/339368691_Role_of_Machine_Learning_in_ETL_Automation/links/60f190849541032c6d429067/Role-of-Machine-Learning-in-ETL-Automation.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GaF2nSIgePAJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=17327634899350757657&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "17327634899350757657",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=17327634899350757657&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GaF2nSIgePAJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3AGaF2nSIgePAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17327634899350757657&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "17327634899350757657",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=17327634899350757657&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Extending The Data Integration Model As The Foundation Of Business Intelligence: A Systematic Literature Review",
+      "result_id": "4IvSf_BEHd0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10295685/",
+      "snippet": "The decision-making of a dynamic business requires information, and the solution is to build business intelligence. Data integration is an important component of business intelligence …",
+      "publication_info": {
+        "summary": "AW Sudrajat - 2023 10th International Conference on …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "AW Sudrajat",
+            "link": "https://scholar.google.com/citations?user=CWiClT8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CWiClT8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CWiClT8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4IvSf_BEHd0J"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Development of an Efficient ETL Technique for Data Warehouses",
+      "result_id": "uLbeFFkheHEJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-16-6636-0_20",
+      "snippet": "In the area of knowledge science, data warehouse plays an important role in data mining, data analytics, and decision making. Extraction Transformation and Load (ETL) …",
+      "publication_info": {
+        "summary": "M Badiuzzaman Biplob… - Proceedings of the …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "M Badiuzzaman Biplob",
+            "link": "https://scholar.google.com/citations?user=CcjAPBEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CcjAPBEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CcjAPBEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/83696299/2022_Book_ProceedingsOfTheInternationalC.pdf#page=252"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uLbeFFkheHEJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=8176321789977081528&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "8176321789977081528",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=8176321789977081528&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uLbeFFkheHEJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3AuLbeFFkheHEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=8176321789977081528&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "8176321789977081528",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=8176321789977081528&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Integration of ETL in Cloud Using Spark for Streaming Data",
+      "result_id": "3MtJ1DOLHkwJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-16-4435-1_18",
+      "snippet": "Abstract Extract-Transform-Load (ETL) consists of a series of process which collects raw transactional data and reshapes it into clean information which is actionable by Business …",
+      "publication_info": {
+        "summary": "N Biswas, KC Mondal - … Techniques for IoT Applications: Proceedings of …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "N Biswas",
+            "link": "https://scholar.google.com/citations?user=YAt97FEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YAt97FEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YAt97FEAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3MtJ1DOLHkwJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=5484974450905041884&as_sdt=40005&sciodt=0,10&hl=en",
+          "cites_id": "5484974450905041884",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=5484974450905041884&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:3MtJ1DOLHkwJ:scholar.google.com/&scioq=&hl=en&as_sdt=40005&sciodt=0,10",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3A3MtJ1DOLHkwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5484974450905041884&hl=en&as_sdt=40005&sciodt=0,10",
+          "cluster_id": "5484974450905041884",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=5484974450905041884&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Veco-taxis as a novel engineered algorithm for odor source localization",
+      "result_id": "HtN9W8jTX8gJ",
+      "link": "https://www.igi-global.com/article/veco-taxis-as-a-novel-engineered-algorithm-for-odor-source-localization/250848",
+      "snippet": "Algorithms with limited intelligence are unable to localize an odor source in an indoor environment with weak or no airflow. Stage wise solutions to odor source localization has …",
+      "publication_info": {
+        "summary": "K Gaurav, A Kumar, R Dayal - International Journal of Ambient …, 2020 - igi-global.com",
+        "authors": [
+          {
+            "name": "K Gaurav",
+            "link": "https://scholar.google.com/citations?user=9H_w5dwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9H_w5dwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9H_w5dwAAAAJ"
+          },
+          {
+            "name": "A Kumar",
+            "link": "https://scholar.google.com/citations?user=-oMK_fYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-oMK_fYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-oMK_fYAAAAJ"
+          },
+          {
+            "name": "R Dayal",
+            "link": "https://scholar.google.com/citations?user=x1EqYu8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=x1EqYu8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x1EqYu8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HtN9W8jTX8gJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=14438491787854992158&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "14438491787854992158",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14438491787854992158&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HtN9W8jTX8gJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3AHtN9W8jTX8gJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=14438491787854992158&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "14438491787854992158",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14438491787854992158&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Data Integration Process Automation Using Machine Learning: Issues and Solution",
+      "result_id": "6BdauV7341sJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-24628-9_3",
+      "snippet": "In today's data-driven world, real-time analysis of enterprise data plays an important role in the organization to take strategic decisions and improve business operations. The …",
+      "publication_info": {
+        "summary": "KC Mondal, S Saha - Machine Learning for Data Science Handbook: Data …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6BdauV7341sJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=6621407863373436904&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "6621407863373436904",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=6621407863373436904&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Intelligent Assistance with ML in Data Mapping ETL Processing",
+      "result_id": "W8zkNEsEY_EJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10118369/",
+      "snippet": "The ETL is a major component in the construction of a data warehouse. This element acts as an intermediary between data sources and data storage. It groups the data collection and …",
+      "publication_info": {
+        "summary": "AB Younes, LB Ayed, M Najjar - 2022 IEEE Information …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "LB Ayed",
+            "link": "https://scholar.google.com/citations?user=yO1cMDwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yO1cMDwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yO1cMDwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=W8zkNEsEY_EJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:W8zkNEsEY_EJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3AW8zkNEsEY_EJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Machine learning-based business rule engine data transformation over high-speed networks",
+      "result_id": "kb-htBv9ueIJ",
+      "link": "https://cames.ippt.gov.pl/index.php/cames/article/view/472",
+      "snippet": "Raw data processing is a key business operation. Business-specific rules determine how the raw data should be transformed into business-required formats. When source data …",
+      "publication_info": {
+        "summary": "K Neelima, S Vasundra - Computer Assisted Methods in …, 2022 - cames.ippt.gov.pl",
+        "authors": [
+          {
+            "name": "S Vasundra",
+            "link": "https://scholar.google.com/citations?user=isezl9gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=isezl9gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "isezl9gAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ippt.gov.pl",
+          "file_format": "PDF",
+          "link": "https://cames.ippt.gov.pl/index.php/cames/article/download/472/366"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kb-htBv9ueIJ",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=16337367418699628433&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "16337367418699628433",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16337367418699628433&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:kb-htBv9ueIJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3Akb-htBv9ueIJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=16337367418699628433&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "16337367418699628433",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16337367418699628433&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:kb-htBv9ueIJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 4,
+      "title": "ETL Logs Under a Pattern-Oriented Approach",
+      "result_id": "f3e9ih3kiG8J",
+      "link": "https://www.igi-global.com/article/etl-logs-under-a-pattern-oriented-approach/290269",
+      "snippet": "Considering extract-transform-load (ETL) as a complex and evolutionary process, development teams must conscientiously and rigorously create log strategies for retrieving …",
+      "publication_info": {
+        "summary": "B Oliveira, Ó Oliveira, O Belo - International Journal of Data …, 2021 - igi-global.com",
+        "authors": [
+          {
+            "name": "B Oliveira",
+            "link": "https://scholar.google.com/citations?user=DvSQMqwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DvSQMqwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DvSQMqwAAAAJ"
+          },
+          {
+            "name": "Ó Oliveira",
+            "link": "https://scholar.google.com/citations?user=ec7gVO4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ec7gVO4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ec7gVO4AAAAJ"
+          },
+          {
+            "name": "O Belo",
+            "link": "https://scholar.google.com/citations?user=XD5-MFMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XD5-MFMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "XD5-MFMAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=f3e9ih3kiG8J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=8036924350575507327&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "8036924350575507327",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8036924350575507327&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:f3e9ih3kiG8J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3Af3e9ih3kiG8J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=8036924350575507327&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "8036924350575507327",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=8036924350575507327&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Proposal of a Framework for Information Migration from Legacy Applications in Solidarity Financial Sector Entities",
+      "result_id": "pR9ExfTEe9MJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-59194-6_26",
+      "snippet": "Software development tools evolve rapidly, which allows the design and implementation of new software applications that optimize every time the automation of processes required in …",
+      "publication_info": {
+        "summary": "M Guerrero, M Segura, J Lucio - International Conference on Systems and …, 2020 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pR9ExfTEe9MJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:pR9ExfTEe9MJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3ApR9ExfTEe9MJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15238990319698845605&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "15238990319698845605",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=15238990319698845605&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Process Analytics Model Approach in Healthcare: The Technological Perspective",
+      "result_id": "JKRNqQ2neKgJ",
+      "link": "https://www.igi-global.com/chapter/process-analytics-model-approach-in-healthcare/254973",
+      "snippet": "Process analytics involves the relationship between the doctor, diagnostic centers and patient. The primary advantages of using process analytics in healthcare are expert …",
+      "publication_info": {
+        "summary": "SS Kumar, A Sumathi - Opportunities and Challenges in Digital …, 2020 - igi-global.com",
+        "authors": [
+          {
+            "name": "A Sumathi",
+            "link": "https://scholar.google.com/citations?user=1XIZvYgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1XIZvYgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1XIZvYgAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Santhoshkumar-Sundar/publication/341195286_Process_Analytics_Model_Approach_in_Healthcare_The_Technological_Perspective/links/61501c7cd2ebba7be74b281b/Process-Analytics-Model-Approach-in-Healthcare-The-Technological-Perspective.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JKRNqQ2neKgJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:JKRNqQ2neKgJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3AJKRNqQ2neKgJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=12139636472694023204&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "12139636472694023204",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=12139636472694023204&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Framework BPMN para a Modelação de Processos de ETL",
+      "result_id": "BraQoG2y4DsJ",
+      "link": "https://recipp.ipp.pt/handle/10400.22/22499",
+      "snippet": "O Extract-Transform-Load (ETL) é um componente crítico nos Sistemas de Data Warehousing (SDW) sendo responsável por extrair, transformar e carregar dados para …",
+      "publication_info": {
+        "summary": "ALM Ribeiro - 2022 - recipp.ipp.pt"
+      },
+      "resources": [
+        {
+          "title": "ipp.pt",
+          "file_format": "PDF",
+          "link": "https://recipp.ipp.pt/bitstream/10400.22/22499/1/DM_AnaRibeiro_MEI_2022.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BraQoG2y4DsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:BraQoG2y4DsJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3ABraQoG2y4DsJ%3Ascholar.google.com%2F&start=10",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:BraQoG2y4DsJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Une nouvelle approche d'intégration des données des processus métiers basée sur la technologie ETL",
+      "result_id": "LlQCtq1ygvUJ",
+      "link": "https://dspace.univ-guelma.dz/jspui/handle/123456789/12893",
+      "snippet": "Résumé Compte tenu de la quantité massive de données manipulées par les processus métiers, qui sont devenus inévitables dans les systemes d'information des entreprises …",
+      "publication_info": {
+        "summary": "L BOUCENA - 2022 - dspace.univ-guelma.dz"
+      },
+      "resources": [
+        {
+          "title": "univ-guelma.dz",
+          "file_format": "PDF",
+          "link": "https://dspace.univ-guelma.dz/jspui/bitstream/123456789/12893/1/BOUCENA_LILIA_F5.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LlQCtq1ygvUJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17690828376673244206&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "17690828376673244206",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17690828376673244206&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:LlQCtq1ygvUJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3ALlQCtq1ygvUJ%3Ascholar.google.com%2F&start=10",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:LlQCtq1ygvUJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 9,
+      "title": "DISEÑO DE UN DASHBOARD PERSONALIZADO UTILIZADO PARA DETECTAR EL RIESGO EN EL DESEMPEÑO ACADÉMICO A DISTANCIA",
+      "result_id": "B6kYMzq-rVsJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "R Carlos - 2020 - UNIVERSIDAD NACIONAL DE SAN …"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=B6kYMzq-rVsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:B6kYMzq-rVsJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6282523063265191940&engine=google_scholar&hl=en&q=related%3AB6kYMzq-rVsJ%3Ascholar.google.com%2F&start=10"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=40005&sciodt=0,10&cites=6282523063265191940&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=40005&sciodt=0,10&cites=6282523063265191940&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=40005&cites=6282523063265191940&engine=google_scholar&hl=en&start=10"
+    }
+  }
+}

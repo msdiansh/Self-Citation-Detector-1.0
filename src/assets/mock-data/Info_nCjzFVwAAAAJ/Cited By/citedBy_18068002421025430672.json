@@ -1,0 +1,769 @@
+{
+  "search_metadata": {
+    "id": "658da8bc0574f5fa7979a7a1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/be317e350f6555a0/658da8bc0574f5fa7979a7a1.json",
+    "created_at": "2023-12-28 16:56:28 UTC",
+    "processed_at": "2023-12-28 16:56:28 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=18068002421025430672&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/be317e350f6555a0/658da8bc0574f5fa7979a7a1.html",
+    "total_time_taken": 1.71
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "18068002421025430672",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 17,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=18068002421025430672&hl=en&as_sdt=5,44&sciodt=0,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Computational approaches for prediction of pathogen-host protein-protein interactions",
+      "result_id": "oiLPRpZQkoAJ",
+      "type": "Html",
+      "link": "https://www.frontiersin.org/articles/10.3389/fmicb.2015.00094/full",
+      "snippet": "Infectious diseases are still among the major and prevalent health problems, mostly because of the drug resistance of novel variants of pathogens. Molecular interactions …",
+      "publication_info": {
+        "summary": "E Nourani, F Khunjush, S Durmuş - Frontiers in microbiology, 2015 - frontiersin.org",
+        "authors": [
+          {
+            "name": "E Nourani",
+            "link": "https://scholar.google.com/citations?user=5C9UrZUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5C9UrZUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5C9UrZUAAAAJ"
+          },
+          {
+            "name": "F Khunjush",
+            "link": "https://scholar.google.com/citations?user=nowZiqgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nowZiqgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nowZiqgAAAAJ"
+          },
+          {
+            "name": "S Durmuş",
+            "link": "https://scholar.google.com/citations?user=9L7brfUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9L7brfUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9L7brfUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "frontiersin.org",
+          "file_format": "HTML",
+          "link": "https://www.frontiersin.org/articles/10.3389/fmicb.2015.00094/full"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oiLPRpZQkoAJ",
+        "html_version": "https://www.frontiersin.org/articles/10.3389/fmicb.2015.00094/full",
+        "cited_by": {
+          "total": 117,
+          "link": "https://scholar.google.com/scholar?cites=9264555989817828002&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "9264555989817828002",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=9264555989817828002&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:oiLPRpZQkoAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AoiLPRpZQkoAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cluster=9264555989817828002&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "9264555989817828002",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=9264555989817828002&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:oiLPRpZQkoAJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Review of computational methods for virus–host protein interaction prediction: a case study on novel Ebola–human interactions",
+      "result_id": "aS6l2zxD3zYJ",
+      "link": "https://academic.oup.com/bfg/article-abstract/17/6/381/4237461",
+      "snippet": "Identification of potential virus–host interactions is useful and vital to control the highly infectious virus-caused diseases. This may contribute toward development of new drugs to …",
+      "publication_info": {
+        "summary": "AK Halder, P Dutta, M Kundu, S Basu… - Briefings in functional …, 2018 - academic.oup.com",
+        "authors": [
+          {
+            "name": "AK Halder",
+            "link": "https://scholar.google.com/citations?user=J2v1BgsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=J2v1BgsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "J2v1BgsAAAAJ"
+          },
+          {
+            "name": "P Dutta",
+            "link": "https://scholar.google.com/citations?user=8dUbMSoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8dUbMSoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8dUbMSoAAAAJ"
+          },
+          {
+            "name": "S Basu",
+            "link": "https://scholar.google.com/citations?user=IfMtyuYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IfMtyuYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IfMtyuYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "oup.com",
+          "file_format": "HTML",
+          "link": "https://academic.oup.com/bfg/article/17/6/381/4237461"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aS6l2zxD3zYJ",
+        "html_version": "https://academic.oup.com/bfg/article/17/6/381/4237461",
+        "cited_by": {
+          "total": 24,
+          "link": "https://scholar.google.com/scholar?cites=3953952926516719209&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "3953952926516719209",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3953952926516719209&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aS6l2zxD3zYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AaS6l2zxD3zYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=3953952926516719209&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "3953952926516719209",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3953952926516719209&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "A new sequence based encoding for prediction of host–pathogen protein interactions",
+      "result_id": "drpSOziWz9gJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1476927117308848",
+      "snippet": "Pathogen–host interactions are very important to figure out the infection process at the molecular level, where pathogen proteins physically bind to human proteins to manipulate …",
+      "publication_info": {
+        "summary": "İ Kösesoy, M Gök, C Öz - Computational Biology and Chemistry, 2019 - Elsevier",
+        "authors": [
+          {
+            "name": "İ Kösesoy",
+            "link": "https://scholar.google.com/citations?user=gq-TjV4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gq-TjV4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gq-TjV4AAAAJ"
+          },
+          {
+            "name": "M Gök",
+            "link": "https://scholar.google.com/citations?user=rzFDje4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rzFDje4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rzFDje4AAAAJ"
+          },
+          {
+            "name": "C Öz",
+            "link": "https://scholar.google.com/citations?user=nZ5ldgkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nZ5ldgkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nZ5ldgkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=drpSOziWz9gJ",
+        "cited_by": {
+          "total": 23,
+          "link": "https://scholar.google.com/scholar?cites=15622870800629152374&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "15622870800629152374",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15622870800629152374&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:drpSOziWz9gJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AdrpSOziWz9gJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=15622870800629152374&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "15622870800629152374",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15622870800629152374&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Recognition of co-existence pattern of salt marshes and mangroves for littoral forest restoration",
+      "result_id": "uQJs9nI59GMJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1574954122002199",
+      "snippet": "Climate-change driven sea level rise causes a increase in salinity in coastal wetlands accelerating the alteration of the species composition. It triggers the gradual extinction of …",
+      "publication_info": {
+        "summary": "M Ghosh, KC Mondal, A Roy - Ecological Informatics, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uQJs9nI59GMJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=7202444869995594425&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "7202444869995594425",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7202444869995594425&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:uQJs9nI59GMJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AuQJs9nI59GMJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7202444869995594425&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "7202444869995594425",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7202444869995594425&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "A review of in silico approaches for analysis and prediction of HIV-1-human protein–protein interactions",
+      "result_id": "zoBl9vCe1OgJ",
+      "link": "https://academic.oup.com/bib/article-abstract/16/5/830/216829",
+      "snippet": "The computational or in silico approaches for analysing the HIV-1-human protein–protein interaction (PPI) network, predicting different host cellular factors and PPIs and discovering …",
+      "publication_info": {
+        "summary": "S Bandyopadhyay, S Ray… - Briefings in …, 2015 - academic.oup.com",
+        "authors": [
+          {
+            "name": "S Bandyopadhyay",
+            "link": "https://scholar.google.com/citations?user=mHrEBuUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mHrEBuUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mHrEBuUAAAAJ"
+          },
+          {
+            "name": "S Ray",
+            "link": "https://scholar.google.com/citations?user=P40MbskAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=P40MbskAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P40MbskAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "oup.com",
+          "file_format": "HTML",
+          "link": "https://academic.oup.com/bib/article/16/5/830/216829"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zoBl9vCe1OgJ",
+        "html_version": "https://academic.oup.com/bib/article/16/5/830/216829",
+        "cited_by": {
+          "total": 36,
+          "link": "https://scholar.google.com/scholar?cites=16777209269625127118&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "16777209269625127118",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=16777209269625127118&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zoBl9vCe1OgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AzoBl9vCe1OgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=16777209269625127118&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "16777209269625127118",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=16777209269625127118&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Prediction of host-pathogen protein interactions by extended network model",
+      "result_id": "1lxwNPaVV1oJ",
+      "link": "https://journals.tubitak.gov.tr/biology/vol45/iss2/3/",
+      "snippet": "Abstract Knowledge of the pathogen-host interactions between the species is essentialin order to develop a solution strategy against infectious diseases. In vitro methods take …",
+      "publication_info": {
+        "summary": "İ Kösesoy, M Gök, T Kahveci - Turkish Journal of Biology, 2021 - journals.tubitak.gov.tr",
+        "authors": [
+          {
+            "name": "İ Kösesoy",
+            "link": "https://scholar.google.com/citations?user=gq-TjV4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gq-TjV4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gq-TjV4AAAAJ"
+          },
+          {
+            "name": "M Gök",
+            "link": "https://scholar.google.com/citations?user=rzFDje4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rzFDje4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rzFDje4AAAAJ"
+          },
+          {
+            "name": "T Kahveci",
+            "link": "https://scholar.google.com/citations?user=xG9XC2MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xG9XC2MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xG9XC2MAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "tubitak.gov.tr",
+          "file_format": "PDF",
+          "link": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1023&context=biology"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1lxwNPaVV1oJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=6509836671061613782&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "6509836671061613782",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6509836671061613782&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1lxwNPaVV1oJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3A1lxwNPaVV1oJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=6509836671061613782&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "6509836671061613782",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=6509836671061613782&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:1lxwNPaVV1oJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Exploration of Computational Aids for Effective Drug Designing and Management of Viral Diseases: A Comprehensive Review",
+      "result_id": "vseOLZpfEWwJ",
+      "link": "https://www.ingentaconnect.com/content/ben/ctmc/pre-prints/content-36725827",
+      "snippet": "Background: Microbial diseases, specifically originating from viruses are the major cause of human mortality all over the world. The current COVID-19 pandemic is a case in point …",
+      "publication_info": {
+        "summary": "T Khan, S Raza - Current Topics in Medicinal Chemistry, 2023 - ingentaconnect.com",
+        "authors": [
+          {
+            "name": "T Khan",
+            "link": "https://scholar.google.com/citations?user=wGuYTYIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wGuYTYIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wGuYTYIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vseOLZpfEWwJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=7787110346494232510&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "7787110346494232510",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7787110346494232510&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:vseOLZpfEWwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AvseOLZpfEWwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=7787110346494232510&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "7787110346494232510",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7787110346494232510&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Introducing suffix forest for mining tri-clusters from time-series data",
+      "result_id": "9y6PqMBWN2kJ",
+      "link": "https://link.springer.com/article/10.1007/s11334-022-00489-9",
+      "snippet": "Three-dimensional data is becoming more prevalent these days. Unsupervised data analysis can be used to find hypothesized patterns of interest from the three-dimensional …",
+      "publication_info": {
+        "summary": "KC Mondal, M Ghosh, R Fajriyah, A Roy - Innovations in Systems and …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "M Ghosh",
+            "link": "https://scholar.google.com/citations?user=m0r32sQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m0r32sQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0r32sQAAAAJ"
+          },
+          {
+            "name": "R Fajriyah",
+            "link": "https://scholar.google.com/citations?user=7aOGsPkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7aOGsPkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7aOGsPkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Moumita-Ghosh-14/publication/364091395_Introducing_suffix_forest_for_mining_tri-clusters_from_time-series_data/links/633e7c0976e39959d6a1a581/Introducing-suffix-forest-for-mining-tri-clusters-from-time-series-data.pdf?_sg%5B0%5D=started_experiment_milestone&_sg%5B1%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9y6PqMBWN2kJ",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7581623883163184887&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "7581623883163184887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7581623883163184887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9y6PqMBWN2kJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3A9y6PqMBWN2kJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Finding prediction of interaction between SARS-CoV-2 and human protein: a data-driven approach",
+      "result_id": "7rIR-GTCCGUJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s40031-021-00569-7",
+      "snippet": "COVID-19 pandemic defined a worldwide health crisis into a humanitarian crisis. Amid this global emergency, human civilization is under enormous strain since no proper therapeutic …",
+      "publication_info": {
+        "summary": "M Ghosh, P Sil, A Roy, R Fajriyah… - Journal of The Institution of …, 2021 - Springer",
+        "authors": [
+          {
+            "name": "M Ghosh",
+            "link": "https://scholar.google.com/citations?user=m0r32sQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m0r32sQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "m0r32sQAAAAJ"
+          },
+          {
+            "name": "P Sil",
+            "link": "https://scholar.google.com/citations?user=xVoEbssAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xVoEbssAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xVoEbssAAAAJ"
+          },
+          {
+            "name": "R Fajriyah",
+            "link": "https://scholar.google.com/citations?user=7aOGsPkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7aOGsPkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7aOGsPkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s40031-021-00569-7"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7rIR-GTCCGUJ",
+        "html_version": "https://link.springer.com/article/10.1007/s40031-021-00569-7",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=7280282536558834414&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "7280282536558834414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7280282536558834414&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7rIR-GTCCGUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3A7rIR-GTCCGUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=7280282536558834414&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "7280282536558834414",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7280282536558834414&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Algorithms for data mining and bio-informatics",
+      "result_id": "zyG6uo7reHUJ",
+      "link": "https://hal.science/tel-01330152/",
+      "snippet": "Pattern extraction is one of the major topics in the Knowledge Discovery from Data (KDD) and Background Knowledge Integration (BKI) research domains. Extracting patterns from …",
+      "publication_info": {
+        "summary": "KC Mondal - 2013 - hal.science",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hal.science",
+          "file_format": "PDF",
+          "link": "https://hal.science/tel-01330152/document"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zyG6uo7reHUJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=8464774497893491151&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "8464774497893491151",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8464774497893491151&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zyG6uo7reHUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AzyG6uo7reHUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8464774497893491151&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "8464774497893491151",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=8464774497893491151&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zyG6uo7reHUJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Galois closure based association rule mining from biological data",
+      "result_id": "MpZqRU2dT1sJ",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118617151.ch35",
+      "snippet": "This chapter presents the different theoretical frameworks, condensed representations, interestingness measures, and biological applications of association rule mining. It presents …",
+      "publication_info": {
+        "summary": "KC Mondal, N Pasquier - Biological knowledge discovery …, 2013 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "N Pasquier",
+            "link": "https://scholar.google.com/citations?user=WWke4ocAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WWke4ocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WWke4ocAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/271075974_Galois_Closure_Based_Association_Rule_Mining_From_Biological_Data/links/5ea09e7192851c87d1acf0a3/Galois-Closure-Based-Association-Rule-Mining-From-Biological-Data.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MpZqRU2dT1sJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=6579650535814239794&as_sdt=80000005&sciodt=0,23&hl=en",
+          "cites_id": "6579650535814239794",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=6579650535814239794&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:MpZqRU2dT1sJ:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AMpZqRU2dT1sJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=6579650535814239794&hl=en&as_sdt=80000005&sciodt=0,23",
+          "cluster_id": "6579650535814239794",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cluster=6579650535814239794&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Predicting novel interactions from HIV-1-human PPI data integrated with protein signatures and GO annotations",
+      "result_id": "4KLdXJ3uOAsJ",
+      "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2021.120536",
+      "snippet": "The research on host-pathogen protein-protein interactions (PPIs), specifically HIV1-human PPIs becomes one of the most challenging areas of medical science for antiviral drug …",
+      "publication_info": {
+        "summary": "D Pal, KC Mondal - International Journal of Bioinformatics …, 2021 - inderscienceonline.com",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4KLdXJ3uOAsJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=808658492748309216&as_sdt=80000005&sciodt=0,23&hl=en",
+          "cites_id": "808658492748309216",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=808658492748309216&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4KLdXJ3uOAsJ:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3A4KLdXJ3uOAsJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=808658492748309216&hl=en&as_sdt=80000005&sciodt=0,23",
+          "cluster_id": "808658492748309216",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cluster=808658492748309216&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "An Introduction to KDB: Knowledge Discovery in Biodiversity",
+      "result_id": "B33RqxHPttsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-48879-5_24",
+      "snippet": "The most basic method of experimentation using data mining algorithms is the command prompt. A convenient approach of interactive graphical user interfaces can be supplied for …",
+      "publication_info": {
+        "summary": "M Ghosh, S Mondal, A Roy, KC Mondal - International Conference on …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=B33RqxHPttsJ"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Knowledge discovery from HIV-1-human PPIs assimilating interaction keywords",
+      "result_id": "xDzdlxrJ2a8J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8009568/",
+      "snippet": "Today's world is gradually getting agitated by Human Immunodeficiency Virus-Type 1 due to its pervasive and death-dealing nature. The virus replicates by exploiting a complex …",
+      "publication_info": {
+        "summary": "D Pal, AS Mondal, KC Mondal - 2016 International Conference …, 2016 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xDzdlxrJ2a8J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=12671380142637792452&as_sdt=80000005&sciodt=0,23&hl=en",
+          "cites_id": "12671380142637792452",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=12671380142637792452&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xDzdlxrJ2a8J:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AxDzdlxrJ2a8J%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 4,
+      "title": "A complete review of computational methods for human and HIV-1 protein interaction prediction",
+      "result_id": "34FZTzoZnoUJ",
+      "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2016.075396",
+      "snippet": "Human Immunodeficiency Virus Type 1 (HIV-1) has grabbed the attention of virologists in recent times owing to its life-threatening nature and epidemic spread throughout the globe …",
+      "publication_info": {
+        "summary": "D Pal, KC Mondal - International Journal of Bioinformatics …, 2016 - inderscienceonline.com",
+        "authors": [
+          {
+            "name": "D Pal",
+            "link": "https://scholar.google.com/citations?user=s5Xik78AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5Xik78AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5Xik78AAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=34FZTzoZnoUJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=9628160791594762719&as_sdt=80000005&sciodt=0,23&hl=en",
+          "cites_id": "9628160791594762719",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=9628160791594762719&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:34FZTzoZnoUJ:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3A34FZTzoZnoUJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9628160791594762719&hl=en&as_sdt=80000005&sciodt=0,23",
+          "cluster_id": "9628160791594762719",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cluster=9628160791594762719&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Konak-patojen protein etkileşiminin hesaplamalı yöntemler ile tahmini",
+      "result_id": "fKChFIvWXlsJ",
+      "link": "https://search.proquest.com/openview/31005a204f44e5d4456279dded13268a/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+      "snippet": "Türler arası patojen-konak protein etkileşimlerin bilinmesi enfeksiyonel hastalıkların teşhis ve tedavisi için geliştirilecek çözüm stratejileri açısından hayati öneme sahiptir. Etkileşim …",
+      "publication_info": {
+        "summary": "İ Kösesoy - 2018 - search.proquest.com",
+        "authors": [
+          {
+            "name": "İ Kösesoy",
+            "link": "https://scholar.google.com/citations?user=gq-TjV4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gq-TjV4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gq-TjV4AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sakarya.edu.tr",
+          "file_format": "PDF",
+          "link": "https://acikerisim.sakarya.edu.tr/xmlui/bitstream/handle/20.500.12619/74236/T07686.pdf?sequence=1&isAllowed=y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fKChFIvWXlsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:fKChFIvWXlsJ:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AfKChFIvWXlsJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=6583935598097178748&hl=en&as_sdt=80000005&sciodt=0,23",
+          "cluster_id": "6583935598097178748",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cluster=6583935598097178748&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "A Comprehensive Review of HIV-1 and Human Protein-Protein Interaction Prediction",
+      "result_id": "riMVwrSBCBcJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "D Pal, KC Mondal",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=riMVwrSBCBcJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:riMVwrSBCBcJ:scholar.google.com/&scioq=&hl=en&as_sdt=80000005&sciodt=0,23",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=18068002421025430672&engine=google_scholar&hl=en&q=related%3AriMVwrSBCBcJ%3Ascholar.google.com%2F&start=10"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,44&sciodt=0,44&cites=18068002421025430672&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,44&sciodt=0,44&cites=18068002421025430672&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18068002421025430672&engine=google_scholar&hl=en&start=10"
+    }
+  }
+}

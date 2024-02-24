@@ -1,0 +1,83 @@
+{
+  "search_metadata": {
+    "id": "65d4dcb8660dbd4386656c29",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4024e11f5e7fd17e/65d4dcb8660dbd4386656c29.json",
+    "created_at": "2024-02-20 17:09:12 UTC",
+    "processed_at": "2024-02-20 17:09:12 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=2881636996535315909&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/4024e11f5e7fd17e/65d4dcb8660dbd4386656c29.html",
+    "total_time_taken": 2.43
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "2881636996535315909",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=2881636996535315909&hl=en&as_sdt=5,33&sciodt=0,33",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Variable length PSO-based image clustering for image denoising",
+      "result_id": "GL5e9cjxq4gJ",
+      "link": "https://www.igi-global.com/chapter/variable-length-pso-based-image-clustering-for-image-denoising/153818",
+      "snippet": "This chapter proposed a variable length Particle Swarm Optimization based image clustering technique for restoration of noises from digital images. Here in this two step noise …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal, T Pal - Handbook of Research on …, 2016 - igi-global.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          },
+          {
+            "name": "T Pal",
+            "link": "https://scholar.google.com/citations?user=RNlxZkkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RNlxZkkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RNlxZkkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/69536924/141ea7eec49fa698c4e45e86f975133ab81e.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GL5e9cjxq4gJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=9848230855588101656&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "9848230855588101656",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=9848230855588101656&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GL5e9cjxq4gJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=2881636996535315909&engine=google_scholar&hl=en&q=related%3AGL5e9cjxq4gJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9848230855588101656&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "9848230855588101656",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=9848230855588101656&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

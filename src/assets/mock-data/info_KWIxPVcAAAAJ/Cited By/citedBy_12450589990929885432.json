@@ -1,0 +1,67 @@
+{
+  "search_metadata": {
+    "id": "65d4dcc7d5a531ae18f9a252",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a32e7f8f28dbac49/65d4dcc7d5a531ae18f9a252.json",
+    "created_at": "2024-02-20 17:09:27 UTC",
+    "processed_at": "2024-02-20 17:09:27 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=12450589990929885432&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/a32e7f8f28dbac49/65d4dcc7d5a531ae18f9a252.html",
+    "total_time_taken": 2.58
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "12450589990929885432",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.32
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=12450589990929885432&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Optimized connected Median filter using Particle Swarm Optimization",
+      "result_id": "3Nr-674YB50J",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/56870333/1501140608_27-07-2017.pdf",
+      "snippet": "In the image processing Median filter were used to remove the impulse noise. It preserves the edges for the next level operations such as segmentation and object recognition. The …",
+      "publication_info": {
+        "summary": "M Rajalakshmi, P Subashini - … on Recent and Innovation Trends in …, 2017 - academia.edu",
+        "authors": [
+          {
+            "name": "M Rajalakshmi",
+            "link": "https://scholar.google.com/citations?user=ptSdf3QAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ptSdf3QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ptSdf3QAAAAJ"
+          },
+          {
+            "name": "P Subashini",
+            "link": "https://scholar.google.com/citations?user=aB94MjcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aB94MjcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aB94MjcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/56870333/1501140608_27-07-2017.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3Nr-674YB50J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:3Nr-674YB50J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12450589990929885432&engine=google_scholar&hl=en&q=related%3A3Nr-674YB50J%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:3Nr-674YB50J:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    }
+  ]
+}

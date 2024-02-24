@@ -1,0 +1,79 @@
+{
+  "search_metadata": {
+    "id": "6598f146477c0e28d2007b5a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1a9a05f0c7a2a0fc/6598f146477c0e28d2007b5a.json",
+    "created_at": "2024-01-06 06:20:54 UTC",
+    "processed_at": "2024-01-06 06:20:54 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:qxL8FJ1GzNcC",
+    "raw_html_file": "https://serpapi.com/searches/1a9a05f0c7a2a0fc/6598f146477c0e28d2007b5a.html",
+    "total_time_taken": 0.19
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:qxL8FJ1GzNcC"
+  },
+  "citation": {
+    "title": "Fact-based expert system for supplier selection with ERP data",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-15-1041-0_3",
+    "resources": [
+      {
+        "title": "from researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/338370594_Fact-Based_Expert_System_for_Supplier_Selection_with_ERP_Data/links/5e9e1c0fa6fdcca7892bca63/Fact-Based-Expert-System-for-Supplier-Selection-with-ERP-Data.pdf"
+      }
+    ],
+    "authors": "Kartick Chandra Mondal, Biswadeep Deb Nandy, Arunima Baidya",
+    "publication_date": "2020",
+    "journal": "Algorithms in Machine Learning Paradigms",
+    "pages": "43-55",
+    "publisher": "Springer Singapore",
+    "description": "ForMondal, Kartick ChandraNandy, Biswadeep DebBaidya, Arunima any business enterprise, supply chain management (SCM) plays an important role in an organization’s decision- and profit-making process. A very crucial step in SCM is supplier selection. It is such a pivotal step because it deploys a large amount of a firm’s financial resources. In return, the firms expect significant interest from contracting with suppliers offering higher value. Any discrepancy in this process can lead to low SCM performance which in turn may cause financial losses as well as bring about a decline in the firm’s market performance. This paper deals with the development of a strictly fact-based expert system for appropriate supplier selection and shows how rules can be broken down into atomic clauses.",
+    "total_citations": {
+      "cited_by": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=151387484126114737&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=151387484126114737&engine=google_scholar&hl=en",
+        "cites_id": "151387484126114737"
+      },
+      "table": [
+        {
+          "year": 2020,
+          "citations": 1
+        },
+        {
+          "year": 2021,
+          "citations": 2
+        },
+        {
+          "year": 2022,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Fact-based expert system for supplier selection with ERP data",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=151387484126114737&btnI=1&hl=en",
+        "authors": "KC Mondal, BD Nandy, A Baidya - Algorithms in Machine Learning Paradigms, 2020",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=151387484126114737&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=151387484126114737&engine=google_scholar&hl=en",
+          "cites_id": "151387484126114737"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:sfPGXh3WGQIJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=151387484126114737",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=151387484126114737&engine=google_scholar&hl=en",
+          "cluster_id": "151387484126114737"
+        }
+      }
+    ]
+  }
+}

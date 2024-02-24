@@ -1,0 +1,73 @@
+{
+  "search_metadata": {
+    "id": "6598f1b8359e99ea407441bd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9a689742fc68fdb9/6598f1b8359e99ea407441bd.json",
+    "created_at": "2024-01-06 06:22:48 UTC",
+    "processed_at": "2024-01-06 06:22:48 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:mVmsd5A6BfQC",
+    "raw_html_file": "https://serpapi.com/searches/9a689742fc68fdb9/6598f1b8359e99ea407441bd.html",
+    "total_time_taken": 0.41
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:mVmsd5A6BfQC"
+  },
+  "citation": {
+    "title": "Root mealy bug (Paraputo sp.) of mulberry in darjeeling hills: Its severity, biology and control",
+    "link": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=13892288",
+    "authors": "Subrata BISWAS, D Das, S Chattopadhyay, SK Das, K Mandal",
+    "publication_date": "2002",
+    "journal": "Sericologia",
+    "volume": "42",
+    "issue": "1",
+    "pages": "39-52",
+    "description": "Root mealy bug (Paraputo sp.) of mulberry in darjeeling hills: Its severity, biology and control CNRS Inist Pascal-Francis CNRS Pascal and Francis Bibliographic Databases Simple search Advanced search Search by classification Search by vocabulary My Account Home > Search results Help Export Export Selection : Selected items (1) Format : Permanent link CopyPermanent link Copy http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=13892288 Root mealy bug (Paraputo sp.) of mulberry in darjeeling hills: Its severity, biology and control Other title La cochenille de la racine du Murier (Paraputo sp.) dans les collines du Darjeeling : Severite, biologie et contrôle (fr) Author BISWAS, Subrata 1 ; DAS, D 1 ; CHATTOPADHYAY, S 1 ; DAS, S. K 1 ; MANDAL, K 1 [1] Regional Sericultural Research Station, 7 th Mile, Kalimpong - 734 301, West Bengal, India Source Séricologia. 2002, Vol 42, Num 1, pp …",
+    "total_citations": {
+      "cited_by": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12189281030672023341&as_sdt=5",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12189281030672023341&engine=google_scholar&hl=en",
+        "cites_id": "12189281030672023341"
+      },
+      "table": [
+        {
+          "year": 2013,
+          "citations": 1
+        },
+        {
+          "year": 2014,
+          "citations": 2
+        },
+        {
+          "year": 2015,
+          "citations": 1
+        }
+      ]
+    },
+    "scholar_articles": [
+      {
+        "title": "Root mealy bug (Paraputo sp.) of mulberry in darjeeling hills: Its severity, biology and control",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=12189281030672023341&btnI=1&hl=en",
+        "authors": "S BISWAS, D Das, S Chattopadhyay, SK Das… - Sericologia, 2002",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12189281030672023341&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=12189281030672023341&engine=google_scholar&hl=en",
+          "cites_id": "12189281030672023341"
+        },
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:Lf-cDIQGKakJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12189281030672023341",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=12189281030672023341&engine=google_scholar&hl=en",
+          "cluster_id": "12189281030672023341"
+        }
+      }
+    ]
+  }
+}

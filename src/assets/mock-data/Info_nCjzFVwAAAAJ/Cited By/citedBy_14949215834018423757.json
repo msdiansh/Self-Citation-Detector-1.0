@@ -1,0 +1,143 @@
+{
+  "search_metadata": {
+    "id": "658dad3c8e02e4df44e1c7a4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/339b692dde27d7b8/658dad3c8e02e4df44e1c7a4.json",
+    "created_at": "2023-12-28 17:15:40 UTC",
+    "processed_at": "2023-12-28 17:15:40 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=14949215834018423757&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/339b692dde27d7b8/658dad3c8e02e4df44e1c7a4.html",
+    "total_time_taken": 2.03
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "14949215834018423757",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=14949215834018423757&hl=en&as_sdt=5,44&sciodt=0,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A horizontal partitioning‐based method for frequent pattern mining in transport timetable",
+      "result_id": "nn6WqY0F8K8J",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12881",
+      "snippet": "Analysing transport timetables is an important task, as it brings the opportunity to discover which routes commonly lead to delays. Frequent pattern mining is a technique used to …",
+      "publication_info": {
+        "summary": "C Teixeira, L Fragoso, M Mattoso, D Carvalho… - Expert …, 2022 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "C Teixeira",
+            "link": "https://scholar.google.com/citations?user=qg1p2_AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qg1p2_AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qg1p2_AAAAAJ"
+          },
+          {
+            "name": "M Mattoso",
+            "link": "https://scholar.google.com/citations?user=ZPczFBAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZPczFBAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZPczFBAAAAAJ"
+          },
+          {
+            "name": "D Carvalho",
+            "link": "https://scholar.google.com/citations?user=guvvdjEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=guvvdjEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "guvvdjEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nn6WqY0F8K8J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nn6WqY0F8K8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14949215834018423757&engine=google_scholar&hl=en&q=related%3Ann6WqY0F8K8J%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Müşteri davranış tahmini için bir model: Bankacılık sektörü için uygulama",
+      "result_id": "zagkJsZkP4EJ",
+      "link": "https://dergipark.org.tr/en/pub/ngumuh/issue/59647/766503",
+      "snippet": "Son yıllarda kampanya temelli satışlar çok büyük bir hızla artmaya devam etmektedir. Günümüzde birçok sektörde satışlar kampanyaya dayalı olarak gerçekleşmektedir. Bu …",
+      "publication_info": {
+        "summary": "K Özdem, MA Akcayol - Niğde Ömer Halisdemir Üniversitesi …, 2021 - dergipark.org.tr",
+        "authors": [
+          {
+            "name": "K Özdem",
+            "link": "https://scholar.google.com/citations?user=NUhuS7MAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NUhuS7MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NUhuS7MAAAAJ"
+          },
+          {
+            "name": "MA Akcayol",
+            "link": "https://scholar.google.com/citations?user=dIXmdcYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dIXmdcYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dIXmdcYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "dergipark.org.tr",
+          "file_format": "PDF",
+          "link": "https://dergipark.org.tr/en/download/article-file/1193415"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zagkJsZkP4EJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=9313273356631713997&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "9313273356631713997",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=9313273356631713997&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zagkJsZkP4EJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14949215834018423757&engine=google_scholar&hl=en&q=related%3AzagkJsZkP4EJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=9313273356631713997&hl=en&as_sdt=5,44&sciodt=0,44",
+          "cluster_id": "9313273356631713997",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=9313273356631713997&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zagkJsZkP4EJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+      }
+    },
+    {
+      "position": 2,
+      "title": "A State-of-the-art Association Rule Mining Survey and It's Rare Application, Challenges, Progress",
+      "result_id": "7T5nPv01aFoJ",
+      "type": "Citation",
+      "link": "https://www.worldscientific.com/doi/abs/10.1142/S0218213023500215",
+      "snippet": "In recent years, association rule mining is exploring its popularity in the rule mining research communities. In this paper, we present the taxonomy of association patterns analysis …",
+      "publication_info": {
+        "summary": "S Biswas, D Saha, R Pandit - International Journal on Artificial …, 2022 - World Scientific",
+        "authors": [
+          {
+            "name": "S Biswas",
+            "link": "https://scholar.google.com/citations?user=ded99xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ded99xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ded99xsAAAAJ"
+          },
+          {
+            "name": "D Saha",
+            "link": "https://scholar.google.com/citations?user=f3reD88AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=f3reD88AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "f3reD88AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7T5nPv01aFoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7T5nPv01aFoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14949215834018423757&engine=google_scholar&hl=en&q=related%3A7T5nPv01aFoJ%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "search_metadata": {
+    "id": "65d43230a3f4efc6fac482d7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c7dd9fb5e935fb64/65d43230a3f4efc6fac482d7.json",
+    "created_at": "2024-02-20 05:01:36 UTC",
+    "processed_at": "2024-02-20 05:01:36 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=1614295754300450933&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/c7dd9fb5e935fb64/65d43230a3f4efc6fac482d7.html",
+    "total_time_taken": 0.82
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "1614295754300450933",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 29,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=1614295754300450933&hl=en&as_sdt=2005&sciodt=0,5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Bio-inspired computation: Where we stand and what's next",
+      "result_id": "4Vzv2TJAk6YJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2210650218310277",
+      "snippet": "In recent years, the research community has witnessed an explosion of literature dealing with the mimicking of behavioral patterns and social phenomena observed in nature towards …",
+      "publication_info": {
+        "summary": "J Del Ser, E Osaba, D Molina, XS Yang… - Swarm and Evolutionary …, 2019 - Elsevier",
+        "authors": [
+          {
+            "name": "J Del Ser",
+            "link": "https://scholar.google.com/citations?user=p_wY0zUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=p_wY0zUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "p_wY0zUAAAAJ"
+          },
+          {
+            "name": "E Osaba",
+            "link": "https://scholar.google.com/citations?user=Q6P3kh4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Q6P3kh4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q6P3kh4AAAAJ"
+          },
+          {
+            "name": "D Molina",
+            "link": "https://scholar.google.com/citations?user=jlv-GY0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jlv-GY0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jlv-GY0AAAAJ"
+          },
+          {
+            "name": "XS Yang",
+            "link": "https://scholar.google.com/citations?user=fA6aTlAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fA6aTlAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fA6aTlAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdx.ac.uk",
+          "file_format": "PDF",
+          "link": "https://eprints.mdx.ac.uk/26767/1/SWEVO-jdelser-revised-vaccepted2019.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4Vzv2TJAk6YJ",
+        "cited_by": {
+          "total": 517,
+          "link": "https://scholar.google.com/scholar?cites=12003008019021389025&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "12003008019021389025",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12003008019021389025&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4Vzv2TJAk6YJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3A4Vzv2TJAk6YJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cluster=12003008019021389025&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "12003008019021389025",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=12003008019021389025&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "(Differential) co-expression analysis of gene expression: a survey of best practices",
+      "result_id": "dozs---oxLgJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8613814/",
+      "snippet": "Analysis of gene expression data is widely used in transcriptomic studies to understand functions of molecules inside a cell and interactions among molecules. Differential co …",
+      "publication_info": {
+        "summary": "HA Chowdhury, DK Bhattacharyya… - IEEE/ACM transactions …, 2019 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "HA Chowdhury",
+            "link": "https://scholar.google.com/citations?user=YyAnjrEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YyAnjrEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YyAnjrEAAAAJ"
+          },
+          {
+            "name": "DK Bhattacharyya",
+            "link": "https://scholar.google.com/citations?user=aeEuoSEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aeEuoSEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aeEuoSEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=dozs---oxLgJ",
+        "cited_by": {
+          "total": 50,
+          "link": "https://scholar.google.com/scholar?cites=13313952147091262582&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "13313952147091262582",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13313952147091262582&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:dozs---oxLgJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3Adozs---oxLgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=13313952147091262582&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "13313952147091262582",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=13313952147091262582&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "A governance framework for algorithmic accountability and transparency",
+      "result_id": "_D81rI3ONZsJ",
+      "type": "Html",
+      "link": "https://nottingham-repository.worktribe.com/index.php/outputs?Year=2019&page=151",
+      "snippet": "Algorithmic systems are increasingly being used as part of decision-making processes in both the public and private sectors, with potentially significant consequences for individuals …",
+      "publication_info": {
+        "summary": "A Koene, C Clifton, Y Hatada, H Webb… - 2019 - nottingham-repository.worktribe.com",
+        "authors": [
+          {
+            "name": "A Koene",
+            "link": "https://scholar.google.com/citations?user=XloIJjYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XloIJjYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "XloIJjYAAAAJ"
+          },
+          {
+            "name": "C Clifton",
+            "link": "https://scholar.google.com/citations?user=C_cWJIkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=C_cWJIkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "C_cWJIkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "worktribe.com",
+          "file_format": "HTML",
+          "link": "https://nottingham-repository.worktribe.com/index.php/outputs?Year=2019&page=151"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_D81rI3ONZsJ",
+        "html_version": "https://nottingham-repository.worktribe.com/index.php/outputs?Year=2019&page=151",
+        "cited_by": {
+          "total": 86,
+          "link": "https://scholar.google.com/scholar?cites=11184072357519376380&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "11184072357519376380",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11184072357519376380&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:_D81rI3ONZsJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3A_D81rI3ONZsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=11184072357519376380&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "11184072357519376380",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11184072357519376380&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Recent trends in integrity protection of power system: A literature review",
+      "result_id": "aU3ouCBC8-sJ",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/2050-7038.12523",
+      "snippet": "Background An increase in the load demand has been forcing the electrical components to work near their allowable limits. The transformation of the power system in terms of …",
+      "publication_info": {
+        "summary": "NK Rajalwal, D Ghosh - International Transactions on …, 2020 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "NK Rajalwal",
+            "link": "https://scholar.google.com/citations?user=dd1sKY8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dd1sKY8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dd1sKY8AAAAJ"
+          },
+          {
+            "name": "D Ghosh",
+            "link": "https://scholar.google.com/citations?user=1XgAOTUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1XgAOTUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1XgAOTUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "wiley.com",
+          "file_format": "PDF",
+          "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2050-7038.12523"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aU3ouCBC8-sJ",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=17002005726562372969&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "17002005726562372969",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17002005726562372969&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aU3ouCBC8-sJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AaU3ouCBC8-sJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=17002005726562372969&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "17002005726562372969",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17002005726562372969&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "A binary multi-objective chimp optimizer with dual archive for feature selection in the healthcare domain",
+      "result_id": "wUcbqmm2-Y0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9663195/",
+      "snippet": "Medical datasets frequently include vast feature sets with numerous features that are related to one another. As a result, the curse of dimensionality affects learning from a medical …",
+      "publication_info": {
+        "summary": "J Piri, P Mohapatra, MR Pradhan, B Acharya… - IEEE …, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "J Piri",
+            "link": "https://scholar.google.com/citations?user=T97xDfcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=T97xDfcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "T97xDfcAAAAJ"
+          },
+          {
+            "name": "P Mohapatra",
+            "link": "https://scholar.google.com/citations?user=CxKGeaEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CxKGeaEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CxKGeaEAAAAJ"
+          },
+          {
+            "name": "MR Pradhan",
+            "link": "https://scholar.google.com/citations?user=K5oK6LcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K5oK6LcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "K5oK6LcAAAAJ"
+          },
+          {
+            "name": "B Acharya",
+            "link": "https://scholar.google.com/citations?user=qk1hGRwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qk1hGRwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qk1hGRwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/09663195.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wUcbqmm2-Y0J",
+        "cited_by": {
+          "total": 23,
+          "link": "https://scholar.google.com/scholar?cites=10230408593490528193&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "10230408593490528193",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10230408593490528193&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wUcbqmm2-Y0J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AwUcbqmm2-Y0J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=10230408593490528193&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "10230408593490528193",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=10230408593490528193&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "“Freedom of design” in chemical compound space: towards rational in silico design of molecules with targeted quantum-mechanical properties",
+      "result_id": "GbUmjfHXfVUJ",
+      "type": "Html",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2023/sc/d3sc03598k",
+      "snippet": "The rational design of molecules with targeted quantum-mechanical (QM) properties requires an advanced understanding of the structure–property/property–property …",
+      "publication_info": {
+        "summary": "LM Sandonas, J Hoja, BG Ernst… - Chemical …, 2023 - pubs.rsc.org",
+        "authors": [
+          {
+            "name": "LM Sandonas",
+            "link": "https://scholar.google.com/citations?user=gQ9rSZ0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gQ9rSZ0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gQ9rSZ0AAAAJ"
+          },
+          {
+            "name": "J Hoja",
+            "link": "https://scholar.google.com/citations?user=VpjGs7wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VpjGs7wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VpjGs7wAAAAJ"
+          },
+          {
+            "name": "BG Ernst",
+            "link": "https://scholar.google.com/citations?user=6iljq_QAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6iljq_QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6iljq_QAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "rsc.org",
+          "file_format": "HTML",
+          "link": "https://pubs.rsc.org/en/content/articlehtml/2023/sc/d3sc03598k"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GbUmjfHXfVUJ",
+        "html_version": "https://pubs.rsc.org/en/content/articlehtml/2023/sc/d3sc03598k",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GbUmjfHXfVUJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AGbUmjfHXfVUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=6160317297767920921&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "6160317297767920921",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=6160317297767920921&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Growable Genetic Algorithm with Heuristic-based Local Search for multi-dimensional resources scheduling of cloud computing",
+      "result_id": "xQgrS-wd7y8J",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1568494623000455",
+      "snippet": "Abstract Multi-Dimensional Resources Scheduling Problem (MDRSP, usually a multi-objective optimization problem) has attracted focus in the management of large-scale cloud …",
+      "publication_info": {
+        "summary": "G Zhou, WH Tian, R Buyya, K Wu - Applied Soft Computing, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "WH Tian",
+            "link": "https://scholar.google.com/citations?user=d7hKD3IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d7hKD3IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "d7hKD3IAAAAJ"
+          },
+          {
+            "name": "R Buyya",
+            "link": "https://scholar.google.com/citations?user=7xN6JqYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7xN6JqYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7xN6JqYAAAAJ"
+          },
+          {
+            "name": "K Wu",
+            "link": "https://scholar.google.com/citations?user=YW2PefUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YW2PefUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YW2PefUAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xQgrS-wd7y8J",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=3454012339927058629&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "3454012339927058629",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3454012339927058629&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xQgrS-wd7y8J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AxQgrS-wd7y8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3454012339927058629&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "3454012339927058629",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3454012339927058629&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Multi-objective particle swarm optimization-based feature selection for face recognition",
+      "result_id": "gTy-8NujlT8J",
+      "type": "Pdf",
+      "link": "https://sic.ici.ro/wp-content/uploads/2020/03/Art.-10-Issue-1-SIC-2020.pdf",
+      "snippet": "The curse of dimensionality is a well-known problem in biometric applications (eg, biometric passports). The downside of this problem is that both the accuracy and speed of the …",
+      "publication_info": {
+        "summary": "S Larabi-Marie-Sainte, S Ghouzali - Studies in Informatics and Control, 2020 - sic.ici.ro",
+        "authors": [
+          {
+            "name": "S Larabi-Marie-Sainte",
+            "link": "https://scholar.google.com/citations?user=V1d5U-AAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V1d5U-AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "V1d5U-AAAAAJ"
+          },
+          {
+            "name": "S Ghouzali",
+            "link": "https://scholar.google.com/citations?user=Q4vBZqEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Q4vBZqEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q4vBZqEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ici.ro",
+          "file_format": "PDF",
+          "link": "https://sic.ici.ro/wp-content/uploads/2020/03/Art.-10-Issue-1-SIC-2020.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gTy-8NujlT8J",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=4581748360951512193&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "4581748360951512193",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4581748360951512193&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:gTy-8NujlT8J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AgTy-8NujlT8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=4581748360951512193&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "4581748360951512193",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=4581748360951512193&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:gTy-8NujlT8J:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Research and Optimization of Hybrid On-Board Energy Storage System of an Electric Locomotive for Quarry Rail Transport",
+      "result_id": "Gn-MxewJWqoJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/1996-1073/16/7/3293",
+      "snippet": "Operation modes of rolling stock at mining enterprises are considered and analyzed. The justification of the need to replace it with a modern specialized electric locomotive for quarry …",
+      "publication_info": {
+        "summary": "S Goolak, L Kondratieva, I Riabov, V Lukoševičius… - Energies, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "S Goolak",
+            "link": "https://scholar.google.com/citations?user=RrxqOLwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RrxqOLwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RrxqOLwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/1996-1073/16/7/3293"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Gn-MxewJWqoJ",
+        "html_version": "https://www.mdpi.com/1996-1073/16/7/3293",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=12275134646882959130&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "12275134646882959130",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12275134646882959130&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Gn-MxewJWqoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AGn-MxewJWqoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=12275134646882959130&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "12275134646882959130",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=12275134646882959130&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Gn-MxewJWqoJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Rapid multi-criterial antenna optimization by means of pareto front triangulation and interpolative design predictors",
+      "result_id": "ZXYaAwkRf1cJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9363873/",
+      "snippet": "Modern antenna systems are designed to meet stringent performance requirements pertinent to both their electrical and field properties. The objectives typically stay in conflict …",
+      "publication_info": {
+        "summary": "S Koziel, A Pietrenko-Dabrowska - IEEE Access, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Koziel",
+            "link": "https://scholar.google.com/citations?user=MrXEmQsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MrXEmQsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MrXEmQsAAAAJ"
+          },
+          {
+            "name": "A Pietrenko-Dabrowska",
+            "link": "https://scholar.google.com/citations?user=fbXDLU0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fbXDLU0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fbXDLU0AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/09363873.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZXYaAwkRf1cJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=6304776733746427493&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "6304776733746427493",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6304776733746427493&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZXYaAwkRf1cJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AZXYaAwkRf1cJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=6304776733746427493&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "6304776733746427493",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=6304776733746427493&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Globalized Parametric Optimization of Microwave Passive Components Using Simplex-Based Surrogates",
+      "result_id": "c79IUfvCLlEJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10269334/",
+      "snippet": "Optimization-based parameter adjustment involving full-wave electromagnetic (EM) simulation models is a crucial stage of present-day microwave design process. In fact …",
+      "publication_info": {
+        "summary": "A Pietrenko-Dabrowska, S Koziel - IEEE Transactions on …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "A Pietrenko-Dabrowska",
+            "link": "https://scholar.google.com/citations?user=fbXDLU0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fbXDLU0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fbXDLU0AAAAJ"
+          },
+          {
+            "name": "S Koziel",
+            "link": "https://scholar.google.com/citations?user=MrXEmQsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MrXEmQsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MrXEmQsAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=c79IUfvCLlEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:c79IUfvCLlEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3Ac79IUfvCLlEJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Performance-based analysis in civil engineering: Overview of applications",
+      "result_id": "1IP0iQu-ULwJ",
+      "link": "https://www.mdpi.com/2412-3811/4/2/28",
+      "snippet": "Traditional design approaches in civil engineering mainly focus on codes/guidelines related to building an infrastructure, while performance-based analysis (PBA), an emerging new …",
+      "publication_info": {
+        "summary": "SM Easa, WY Yan - Infrastructures, 2019 - mdpi.com",
+        "authors": [
+          {
+            "name": "SM Easa",
+            "link": "https://scholar.google.com/citations?user=Ryzo2q8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ryzo2q8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Ryzo2q8AAAAJ"
+          },
+          {
+            "name": "WY Yan",
+            "link": "https://scholar.google.com/citations?user=ytRM9qEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ytRM9qEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ytRM9qEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2412-3811/4/2/28/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1IP0iQu-ULwJ",
+        "cited_by": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cites=13569554634035725268&as_sdt=5,41&sciodt=0,41&hl=en",
+          "cites_id": "13569554634035725268",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=13569554634035725268&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1IP0iQu-ULwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3A1IP0iQu-ULwJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=13569554634035725268&hl=en&as_sdt=5,41&sciodt=0,41",
+          "cluster_id": "13569554634035725268",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cluster=13569554634035725268&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:1IP0iQu-ULwJ:scholar.google.com/&hl=en&as_sdt=5,41&sciodt=0,41"
+      }
+    },
+    {
+      "position": 2,
+      "title": "MBSAP Application to UAV-based Wildfire Detection and Communication",
+      "result_id": "jdarkSIjbq8J",
+      "type": "Pdf",
+      "link": "https://api.mountainscholar.org/server/api/core/bitstreams/cb8a204c-eb51-4dc8-b432-f5bc8191b07b/content",
+      "snippet": "By applying the concepts of the Model Based Systems Architecture Process [90] we were able to link stakeholder needs and operational scenarios (Use Cases) to the preliminary …",
+      "publication_info": {
+        "summary": "SW Crawford - 2023 - api.mountainscholar.org"
+      },
+      "resources": [
+        {
+          "title": "mountainscholar.org",
+          "file_format": "PDF",
+          "link": "https://api.mountainscholar.org/server/api/core/bitstreams/cb8a204c-eb51-4dc8-b432-f5bc8191b07b/content"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jdarkSIjbq8J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12641079835455379085&as_sdt=5,41&sciodt=0,41&hl=en",
+          "cites_id": "12641079835455379085",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=12641079835455379085&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:jdarkSIjbq8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AjdarkSIjbq8J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=12641079835455379085&hl=en&as_sdt=5,41&sciodt=0,41",
+          "cluster_id": "12641079835455379085",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cluster=12641079835455379085&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:jdarkSIjbq8J:scholar.google.com/&hl=en&as_sdt=5,41&sciodt=0,41"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Optimal heterogeneous search and rescue asset location modeling for expected spatiotemporal demands using historic event data",
+      "result_id": "7D7qc23c5BoJ",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/01605682.2021.1877576",
+      "snippet": "Abstract The United States Coast Guard is charged with coordinating all search and rescue missions in maritime regions within the United States' purview. Given the size of the Pacific …",
+      "publication_info": {
+        "summary": "ZT Hornberger, BA Cox, BJ Lunday - Journal of the Operational …, 2022 - Taylor & Francis",
+        "authors": [
+          {
+            "name": "BA Cox",
+            "link": "https://scholar.google.com/citations?user=pTl6AVsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pTl6AVsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pTl6AVsAAAAJ"
+          },
+          {
+            "name": "BJ Lunday",
+            "link": "https://scholar.google.com/citations?user=cPodoJ8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cPodoJ8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cPodoJ8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7D7qc23c5BoJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=1937916102330433260&as_sdt=5,41&sciodt=0,41&hl=en",
+          "cites_id": "1937916102330433260",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1937916102330433260&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7D7qc23c5BoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3A7D7qc23c5BoJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=1937916102330433260&hl=en&as_sdt=5,41&sciodt=0,41",
+          "cluster_id": "1937916102330433260",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cluster=1937916102330433260&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "MO-NFSA for solving unconstrained multi-objective optimization problems",
+      "result_id": "DHJXIzQ8v5UJ",
+      "link": "https://link.springer.com/article/10.1007/s00366-020-01223-4",
+      "snippet": "Abstract Normative Fish Swarm Algorithm (NFSA) is a novel variant of the Artificial Fish Swarm Algorithm (AFSA) proposed in 2019, and has been proven effective in solving single …",
+      "publication_info": {
+        "summary": "WH Tan, J Mohamad-Saleh - Engineering with Computers, 2022 - Springer",
+        "authors": [
+          {
+            "name": "WH Tan",
+            "link": "https://scholar.google.com/citations?user=pRXKHdMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pRXKHdMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pRXKHdMAAAAJ"
+          },
+          {
+            "name": "J Mohamad-Saleh",
+            "link": "https://scholar.google.com/citations?user=xdmhr5EAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xdmhr5EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xdmhr5EAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "PDF",
+          "link": "https://link.springer.com/content/pdf/10.1007/s00366-021-01340-8.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DHJXIzQ8v5UJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=10790409426831897100&as_sdt=5,41&sciodt=0,41&hl=en",
+          "cites_id": "10790409426831897100",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=10790409426831897100&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DHJXIzQ8v5UJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3ADHJXIzQ8v5UJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=10790409426831897100&hl=en&as_sdt=5,41&sciodt=0,41",
+          "cluster_id": "10790409426831897100",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cluster=10790409426831897100&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Response Features for Global and Multi-objective Optimization",
+      "result_id": "q1ffuzsm8SsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-43845-5_10",
+      "snippet": "Previous chapters have discussed utilization of response feature technology for solving local optimization problems. Specifically, Chap. 6 addressed local feature-based optimization of …",
+      "publication_info": {
+        "summary": "A Pietrenko-Dabrowska, S Koziel - Response Feature Technology for High …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "A Pietrenko-Dabrowska",
+            "link": "https://scholar.google.com/citations?user=fbXDLU0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fbXDLU0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fbXDLU0AAAAJ"
+          },
+          {
+            "name": "S Koziel",
+            "link": "https://scholar.google.com/citations?user=MrXEmQsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MrXEmQsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MrXEmQsAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=q1ffuzsm8SsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:q1ffuzsm8SsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3Aq1ffuzsm8SsJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Application of probability based multi-objective optimization in the preparation of drug encapsulation with a designed experiment",
+      "result_id": "eB_hLK9IQXYJ",
+      "type": "Html",
+      "link": "https://cyberleninka.ru/article/n/application-of-probability-based-multi-objective-optimization-in-the-preparation-of-drug-encapsulation-with-a-designed-experiment",
+      "snippet": "Introduction/purpose: In this paper, probability based multi-objective optimization (PMOO) is employed to objectively study the optimization problems of the drug encapsulation of water …",
+      "publication_info": {
+        "summary": "Y Jie, Z Maosheng - Vojnotehnički glasnik, 2022 - cyberleninka.ru"
+      },
+      "resources": [
+        {
+          "title": "cyberleninka.ru",
+          "file_format": "HTML",
+          "link": "https://cyberleninka.ru/article/n/application-of-probability-based-multi-objective-optimization-in-the-preparation-of-drug-encapsulation-with-a-designed-experiment"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=eB_hLK9IQXYJ",
+        "html_version": "https://cyberleninka.ru/article/n/application-of-probability-based-multi-objective-optimization-in-the-preparation-of-drug-encapsulation-with-a-designed-experiment",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:eB_hLK9IQXYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AeB_hLK9IQXYJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=8521171887171116920&hl=en&as_sdt=5,41&sciodt=0,41",
+          "cluster_id": "8521171887171116920",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cluster=8521171887171116920&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:eB_hLK9IQXYJ:scholar.google.com/&hl=en&as_sdt=5,41&sciodt=0,41"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Quantum Mechanics Enables\" Freedom of Design\" in Molecular Property Space",
+      "result_id": "sn6C_ebzD9AJ",
+      "link": "https://chemrxiv.org/engage/chemrxiv/article-details/616c620d35b406408517122d",
+      "snippet": "Rational design of molecules with targeted properties requires understanding quantum-mechanical (QM) structure-property/property-property relationships (SPR/PPR) across …",
+      "publication_info": {
+        "summary": "LM Sandonas, J Hoja, BG Ernst, A Vazquez-Mayagoitia… - 2021 - chemrxiv.org",
+        "authors": [
+          {
+            "name": "LM Sandonas",
+            "link": "https://scholar.google.com/citations?user=gQ9rSZ0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gQ9rSZ0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gQ9rSZ0AAAAJ"
+          },
+          {
+            "name": "J Hoja",
+            "link": "https://scholar.google.com/citations?user=VpjGs7wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VpjGs7wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VpjGs7wAAAAJ"
+          },
+          {
+            "name": "BG Ernst",
+            "link": "https://scholar.google.com/citations?user=6iljq_QAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6iljq_QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6iljq_QAAAAJ"
+          },
+          {
+            "name": "A Vazquez-Mayagoitia",
+            "link": "https://scholar.google.com/citations?user=d1UKOZkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d1UKOZkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "d1UKOZkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "chemrxiv.org",
+          "file_format": "PDF",
+          "link": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/616c620d35b406408517122d/original/quantum-mechanics-enables-freedom-of-design-in-molecular-property-space.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sn6C_ebzD9AJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:sn6C_ebzD9AJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3Asn6C_ebzD9AJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=14992469857960885938&hl=en&as_sdt=5,41&sciodt=0,41",
+          "cluster_id": "14992469857960885938",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cluster=14992469857960885938&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:sn6C_ebzD9AJ:scholar.google.com/&hl=en&as_sdt=5,41&sciodt=0,41"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Handling severe uncertainty in strategic project appraisal: Methods and applications of context analysis",
+      "result_id": "cbJPMBuPZhgJ",
+      "type": "Html",
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1476669",
+      "snippet": "The long-term success or failure of a strategic project is largely shaped by its context. Therefore, the assessment of the external factors influencing the fulfilment of project long …",
+      "publication_info": {
+        "summary": "A Talantsev - 2020 - diva-portal.org",
+        "authors": [
+          {
+            "name": "A Talantsev",
+            "link": "https://scholar.google.com/citations?user=x5Ng0mQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=x5Ng0mQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x5Ng0mQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "diva-portal.org",
+          "file_format": "HTML",
+          "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1476669"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=cbJPMBuPZhgJ",
+        "html_version": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1476669",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:cbJPMBuPZhgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AcbJPMBuPZhgJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=1758250051472175729&hl=en&as_sdt=5,41&sciodt=0,41",
+          "cluster_id": "1758250051472175729",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cluster=1758250051472175729&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:cbJPMBuPZhgJ:scholar.google.com/&hl=en&as_sdt=5,41&sciodt=0,41"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Multi criteria decision making approach for strategic evaluation of environmental trade-off solution in logistics: A case study at Northvolt",
+      "result_id": "07r1kOhP2uMJ",
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1569602",
+      "snippet": "The purpose of this thesis is to investigate to what extent the environmental agenda should be taken into consideration during the project phase of logistics at Northvolt. The objective is …",
+      "publication_info": {
+        "summary": "A Hedgren, D Genberg - 2021 - diva-portal.org"
+      },
+      "resources": [
+        {
+          "title": "diva-portal.org",
+          "file_format": "PDF",
+          "link": "https://www.diva-portal.org/smash/get/diva2:1569602/FULLTEXT01.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=07r1kOhP2uMJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:07r1kOhP2uMJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,41&sciodt=0,41",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C41&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3A07r1kOhP2uMJ%3Ascholar.google.com%2F&start=10",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:07r1kOhP2uMJ:scholar.google.com/&hl=en&as_sdt=5,41&sciodt=0,41"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Quantum Mechanics Enables “Freedom of Design”",
+      "result_id": "kckYNSjFM24J",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Leonardo-Medrano-Sandonas/publication/355394595_Quantum_Mechanics_Enables_Freedom_of_Design_in_Molecular_Property_Space/links/616e807a039ba2684466f929/Quantum-Mechanics-Enables-Freedom-of-Design-in-Molecular-Property-Space.pdf",
+      "snippet": "In recent years, exploration of the vast chemical compound space (CCS) of molecules and materials with data-driven approaches 14 has inspired countless academic and industrial …",
+      "publication_info": {
+        "summary": "RADS Vazquez-Mayagoitia4 Jr, A Tkatchenko - researchgate.net",
+        "authors": [
+          {
+            "name": "A Tkatchenko",
+            "link": "https://scholar.google.com/citations?user=o2t1Pv8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o2t1Pv8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o2t1Pv8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Leonardo-Medrano-Sandonas/publication/355394595_Quantum_Mechanics_Enables_Freedom_of_Design_in_Molecular_Property_Space/links/616e807a039ba2684466f929/Quantum-Mechanics-Enables-Freedom-of-Design-in-Molecular-Property-Space.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kckYNSjFM24J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:kckYNSjFM24J:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AkckYNSjFM24J%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:kckYNSjFM24J:scholar.google.com/&hl=en&as_sdt=5,49&sciodt=0,49"
+      }
+    },
+    {
+      "position": 1,
+      "title": "The Role of Micronutrients and Micronutrient Supplements in Vegetarian and Vegan Diets",
+      "result_id": "ApiEflPMH4oJ",
+      "link": "https://nottingham-repository.worktribe.com/3979928/1/EPRS",
+      "snippet": "Algorithmic systems are increasingly being used as part of decision-making processes in both the public and private sectors, with potentially significant consequences for individuals …",
+      "publication_info": {
+        "summary": "E Eveleigh, L Coneyworth, S Welham - 2023 - nottingham-repository.worktribe.com"
+      },
+      "resources": [
+        {
+          "title": "worktribe.com",
+          "file_format": "PDF",
+          "link": "https://nottingham-repository.worktribe.com/preview/3979926/EPRS_STU%282019%29624262_EN.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ApiEflPMH4oJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ApiEflPMH4oJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3AApiEflPMH4oJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=9952898360489056258&hl=en&as_sdt=5,49&sciodt=0,49",
+          "cluster_id": "9952898360489056258",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cluster=9952898360489056258&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "THE PREPARATION OF DRUG ENCAPSULATION WITH A DESIGNED",
+      "result_id": "-rK-NwauSLoJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/M-Zheng-2/publication/364198596_Application_of_probability_based_multi_-_objective_optimization_in_the_preparation_of_drug_encapsulation_with_A_designed_experiment/links/633eb78cff870c55ce066c90/Application-of-probability-based-multi-objective-optimization-in-the-preparation-of-drug-encapsulation-with-A-designed-experiment.pdf",
+      "snippet": "lntroduction/ourpose: ln this paper, probability based multi-objective optimization (PMOO) is employed to objectively study the optimization problems of the drug encapsulation ofywater …",
+      "publication_info": {
+        "summary": "J Yu, M Zheng - researchgate.net"
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/M-Zheng-2/publication/364198596_Application_of_probability_based_multi_-_objective_optimization_in_the_preparation_of_drug_encapsulation_with_A_designed_experiment/links/633eb78cff870c55ce066c90/Application-of-probability-based-multi-objective-optimization-in-the-preparation-of-drug-encapsulation-with-A-designed-experiment.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-rK-NwauSLoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-rK-NwauSLoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3A-rK-NwauSLoJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 3,
+      "title": "A Multi-Objective Optimization Approach For Adapting The Phase-Wise Efficient Street Lighting System For Gla University, Mathura",
+      "result_id": "r1yZ6wBW0esJ",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/86833733/A-Multi-objective-Optimization-Approach-For-Adapting-The-Phase-wise-Efficient-Street-Lighting-System-For-Gla-University-Mathura.pdf",
+      "snippet": "This paper presents a case study which is motivated from adapting an energy-efficient approach for street lighting. The GLA University, Mathura consume more than 2.5 lakh units …",
+      "publication_info": {
+        "summary": "R Bawa, V Bawa, SK Maurya - academia.edu",
+        "authors": [
+          {
+            "name": "R Bawa",
+            "link": "https://scholar.google.com/citations?user=2dds-3oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2dds-3oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2dds-3oAAAAJ"
+          },
+          {
+            "name": "SK Maurya",
+            "link": "https://scholar.google.com/citations?user=VhqYd5IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VhqYd5IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VhqYd5IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/86833733/A-Multi-objective-Optimization-Approach-For-Adapting-The-Phase-wise-Efficient-Street-Lighting-System-For-Gla-University-Mathura.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=r1yZ6wBW0esJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:r1yZ6wBW0esJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3Ar1yZ6wBW0esJ%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:r1yZ6wBW0esJ:scholar.google.com/&hl=en&as_sdt=5,49&sciodt=0,49"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Swarm and Evolutionary Computation",
+      "result_id": "5AL50jNEgpcJ",
+      "type": "Pdf",
+      "link": "https://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/2686_1-s2.0-S2210650218310277-main.pdf",
+      "snippet": "In recent years, the research community has witnessed an explosion of literature dealing with the mimicking of behavioral patterns and social phenomena observed in nature towards …",
+      "publication_info": {
+        "summary": "J Del Ser, E Osaba, D Molina, XS Yang… - sci2s.ugr.es",
+        "authors": [
+          {
+            "name": "J Del Ser",
+            "link": "https://scholar.google.com/citations?user=p_wY0zUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=p_wY0zUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "p_wY0zUAAAAJ"
+          },
+          {
+            "name": "D Molina",
+            "link": "https://scholar.google.com/citations?user=jlv-GY0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jlv-GY0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jlv-GY0AAAAJ"
+          },
+          {
+            "name": "XS Yang",
+            "link": "https://scholar.google.com/citations?user=fA6aTlAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fA6aTlAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fA6aTlAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ugr.es",
+          "file_format": "PDF",
+          "link": "https://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/2686_1-s2.0-S2210650218310277-main.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5AL50jNEgpcJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5AL50jNEgpcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3A5AL50jNEgpcJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=10917363436073059044&hl=en&as_sdt=5,49&sciodt=0,49",
+          "cluster_id": "10917363436073059044",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cluster=10917363436073059044&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:5AL50jNEgpcJ:scholar.google.com/&hl=en&as_sdt=5,49&sciodt=0,49"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Liability of Online Platforms",
+      "result_id": "NNJRfj0F2NYJ",
+      "type": "Pdf",
+      "link": "https://www.iris.sssup.it/bitstream/11382/546878/1/EPRS_STU%282021%29656318_EN.pdf",
+      "snippet": "Online platforms (OPs), although not an entirely new phenomenon, have gained significant economic and societal importance in the last decade and the public debate on their …",
+      "publication_info": {
+        "summary": "A Bertolini, F Episcopo, NA Cherciu - 2021 - iris.sssup.it",
+        "authors": [
+          {
+            "name": "A Bertolini",
+            "link": "https://scholar.google.com/citations?user=DE9TJykAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DE9TJykAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DE9TJykAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sssup.it",
+          "file_format": "PDF",
+          "link": "https://www.iris.sssup.it/bitstream/11382/546878/1/EPRS_STU%282021%29656318_EN.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NNJRfj0F2NYJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NNJRfj0F2NYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3ANNJRfj0F2NYJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 73,
+          "link": "https://scholar.google.com/scholar?cluster=15481129480756515380&hl=en&as_sdt=5,49&sciodt=0,49",
+          "cluster_id": "15481129480756515380",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cluster=15481129480756515380&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NNJRfj0F2NYJ:scholar.google.com/&hl=en&as_sdt=5,49&sciodt=0,49"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Estrategias evolutivas para el análisis y resolución de problemas de optimización MaOP",
+      "result_id": "arm8hcVZpYoJ",
+      "link": "https://repositorio.unican.es/xmlui/handle/10902/29815",
+      "snippet": "La optimización es un área muy importante dentro del quehacer humano, tanto por sus implicaciones teóricas, como por sus aplicaciones. Un tipo particular de problemas de esta …",
+      "publication_info": {
+        "summary": "GB Bervis Quintero - 2022 - repositorio.unican.es"
+      },
+      "resources": [
+        {
+          "title": "unican.es",
+          "file_format": "PDF",
+          "link": "https://repositorio.unican.es/xmlui/bitstream/handle/10902/29815/BervisQuinteroGiusseppeBenito.pdf?sequence=1"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=arm8hcVZpYoJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:arm8hcVZpYoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3Aarm8hcVZpYoJ%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:arm8hcVZpYoJ:scholar.google.com/&hl=en&as_sdt=5,49&sciodt=0,49"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Metaheurística para el proceso de entrega óptima de productos mediante ruteo de vehículos aplicado en zonas de emergencia",
+      "result_id": "1PNXQy6ZKPcJ",
+      "link": "https://alicia.concytec.gob.pe/vufind/Record/RUMP_9d1dc8b282bc1423c86fa379bae94ac8",
+      "snippet": "Este trabajo aborda el problema de ruteo de vehículos para la distribución de productos aplicado en zonas de emergencia, dada la complejidad computacional de este tipo de …",
+      "publication_info": {
+        "summary": "GV Navarro Castro - 2021 - alicia.concytec.gob.pe"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1PNXQy6ZKPcJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1PNXQy6ZKPcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3A1PNXQy6ZKPcJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17809653150414009300&hl=en&as_sdt=5,49&sciodt=0,49",
+          "cluster_id": "17809653150414009300",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cluster=17809653150414009300&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:1PNXQy6ZKPcJ:scholar.google.com/&hl=en&as_sdt=5,49&sciodt=0,49"
+      }
+    },
+    {
+      "position": 8,
+      "title": "CÁLCULO NUMÉRICO APLICADO À ENGENHARIA ELÉTRICA COM PYTHON",
+      "result_id": "m5-uANPD8PYJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Sl-Avila/publication/354961050_CALCULO_NUMERICO_APLICADO_A_ENGENHARIA_ELETRICA_COM_PYTHON/links/6155ca424a82eb7cb5d7dffc/CALCULO-NUMERICO-APLICADO-A-ENGENHARIA-ELETRICA-COM-PYTHON.pdf",
+      "snippet": "capa_IFSC - edit3 Page 1 CÁLCULO NUMÉRICO APLICADO À ENGENHARIA ELÉTRICA COM PYTHON Gabriel P. Seiffert Renata Chiquetti Sérgio L. Avila 1 Edição pecce Page 2 Reitor …",
+      "publication_info": {
+        "summary": "GP Seiffert, R Chiquetti, SL Avila - researchgate.net",
+        "authors": [
+          {
+            "name": "SL Avila",
+            "link": "https://scholar.google.com/citations?user=09AP8WMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=09AP8WMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "09AP8WMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Sl-Avila/publication/354961050_CALCULO_NUMERICO_APLICADO_A_ENGENHARIA_ELETRICA_COM_PYTHON/links/6155ca424a82eb7cb5d7dffc/CALCULO-NUMERICO-APLICADO-A-ENGENHARIA-ELETRICA-COM-PYTHON.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=m5-uANPD8PYJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:m5-uANPD8PYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,49&sciodt=0,49",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C49&cites=1614295754300450933&engine=google_scholar&hl=en&q=related%3Am5-uANPD8PYJ%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:m5-uANPD8PYJ:scholar.google.com/&hl=en&as_sdt=5,49&sciodt=0,49"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=1614295754300450933&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=1614295754300450933&scipsc=1",
+      "3": "https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=1614295754300450933&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=2005&cites=1614295754300450933&engine=google_scholar&hl=en&start=20"
+    }
+  }
+}

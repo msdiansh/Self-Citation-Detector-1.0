@@ -65,7 +65,23 @@
                 </tr>  
             </table>
         </div>
-        <div class="scholar-coauthors">
+        <div class="scholar-cred-table" style="padding: 15px 0px;">
+            <table class="scholar-articles" style="width: 100%">
+                <tr class="scholar-article-hd">
+                    <th style="width: 60%" style="background-color: #2f7efd; color: white; ">Self-Other Ratio of Author</th>
+                    <td style="width: 35%">{{authorScore[0]}}</td>
+                </tr>
+                <tr class="scholar-article-hd">
+                    <th style="width: 60%" style="background-color: #2f7efd; color: white; ">Self-All Ratio of Author</th>
+                    <td style="width: 35%">{{authorScore[1]}}</td>
+                </tr>
+                <tr class="scholar-article-hd">
+                    <th style="width: 60%" style="background-color: #2f7efd; color: white; ">Other-All Ratio of Author</th>
+                    <td style="width: 35%">{{authorScore[2]}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="scholar-coauthors" *ngIf="coauthors != undefined">
             <p class="scholar-coauthors-hd">Co-Authors: </p>
             <div class="coauthors-details" *ngFor="let ca of coauthors">
                 <div class="coauthor-personal-left">

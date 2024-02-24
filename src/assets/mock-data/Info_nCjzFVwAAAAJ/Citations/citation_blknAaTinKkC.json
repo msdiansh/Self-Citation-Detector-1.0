@@ -1,0 +1,51 @@
+{
+  "search_metadata": {
+    "id": "6598f76ca4bb38156be32888",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2400a23c8642d842/6598f76ca4bb38156be32888.json",
+    "created_at": "2024-01-06 06:47:08 UTC",
+    "processed_at": "2024-01-06 06:47:08 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=nCjzFVwAAAAJ:blknAaTinKkC",
+    "raw_html_file": "https://serpapi.com/searches/2400a23c8642d842/6598f76ca4bb38156be32888.html",
+    "total_time_taken": 1.33
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "view_op": "view_citation",
+    "citation_id": "nCjzFVwAAAAJ:blknAaTinKkC"
+  },
+  "citation": {
+    "title": "Introducing suffix forest for mining tri-clusters from time-series data",
+    "link": "https://link.springer.com/article/10.1007/s11334-022-00489-9",
+    "resources": [
+      {
+        "title": "from researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Moumita-Ghosh-14/publication/364091395_Introducing_suffix_forest_for_mining_tri-clusters_from_time-series_data/links/633e7c0976e39959d6a1a581/Introducing-suffix-forest-for-mining-tri-clusters-from-time-series-data.pdf?_sg%5B0%5D=started_experiment_milestone&_sg%5B1%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D"
+      }
+    ],
+    "authors": "Kartick Chandra Mondal, Moumita Ghosh, Rohmatul Fajriyah, Anirban Roy",
+    "publication_date": "2022/10/1",
+    "journal": "Innovations in Systems and Software Engineering",
+    "pages": "1-23",
+    "publisher": "Springer London",
+    "description": "Three-dimensional data is becoming more prevalent these days. Unsupervised data analysis can be used to find hypothesized patterns of interest from the three-dimensional data. In this context, clustering can be used to group observations along a single dimension, but its usage is restricted in three-dimensional data domains as the observations are significantly connected in subspaces of the overall space. Bi-clustering addresses the issue of subspace clustering but ignores the third dimension. As a result, the concept of tri-clustering, coherent subspaces within three-dimensional data, was introduced. To deal with these issues, tri-clustering, the identification of coherent subspaces within three-dimensional data, has been extensively studied. Despite the wide range of contributions to this topic, there is still room for improvement in terms of a more structured view of tri-clustering, extracting multiple forms (e.g., row …",
+    "scholar_articles": [
+      {
+        "title": "Introducing suffix forest for mining tri-clusters from time-series data",
+        "link": "https://scholar.google.com/scholar?oi=bibs&cluster=7581623883163184887&btnI=1&hl=en",
+        "authors": "KC Mondal, M Ghosh, R Fajriyah, A Roy - Innovations in Systems and Software Engineering, 2022",
+        "related_pages_link": {
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:9y6PqMBWN2kJ:scholar.google.com/"
+        },
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=7581623883163184887",
+          "serpapi_link": "https://serpapi.com/search.json?cluster=7581623883163184887&engine=google_scholar&hl=en",
+          "cluster_id": "7581623883163184887"
+        }
+      }
+    ]
+  }
+}

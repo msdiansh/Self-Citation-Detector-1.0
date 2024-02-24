@@ -1,0 +1,106 @@
+{
+  "search_metadata": {
+    "id": "658dae3e33b2365b5bc4a7a6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5c7aa58043af7435/658dae3e33b2365b5bc4a7a6.json",
+    "created_at": "2023-12-28 17:19:58 UTC",
+    "processed_at": "2023-12-28 17:19:58 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=12425950381133388810&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/5c7aa58043af7435/658dae3e33b2365b5bc4a7a6.html",
+    "total_time_taken": 3.56
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "12425950381133388810",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=12425950381133388810&hl=en&as_sdt=5,33&sciodt=0,33",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Application of Remote Sensing and GIS in Natural Resources and Built Infrastructure Management",
+      "result_id": "2I6fXXAdnNQJ",
+      "type": "Book",
+      "link": "https://link.springer.com/book/10.1007/978-3-031-14096-9",
+      "snippet": "This book discusses the problems in planning, building, and management strategies in the wake of application and expansion of remote sensing and GIS products in natural resources …",
+      "publication_info": {
+        "summary": "VP Singh, S Yadav, KK Yadav, GAC Perez… - 2022 - Springer",
+        "authors": [
+          {
+            "name": "VP Singh",
+            "link": "https://scholar.google.com/citations?user=xfA8dwcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xfA8dwcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xfA8dwcAAAAJ"
+          },
+          {
+            "name": "KK Yadav",
+            "link": "https://scholar.google.com/citations?user=E1N4AYEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E1N4AYEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "E1N4AYEAAAAJ"
+          },
+          {
+            "name": "GAC Perez",
+            "link": "https://scholar.google.com/citations?user=x0oelJwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=x0oelJwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x0oelJwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2I6fXXAdnNQJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=15320152400851865304&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "15320152400851865304",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15320152400851865304&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2I6fXXAdnNQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=12425950381133388810&engine=google_scholar&hl=en&q=related%3A2I6fXXAdnNQJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=15320152400851865304&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "15320152400851865304",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=15320152400851865304&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Decadal Satellite Data Analysis for Flood Hazard Mapping: A Case Study of Eastern Uttar Pradesh",
+      "result_id": "ipO8DcH2VhwJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-14096-9_19",
+      "snippet": "Flood is a natural havoc faced in many parts of India. The districts of eastern Uttar Pradesh falling under the Rapti river basin are most vulnerable to and severely affected by flood …",
+      "publication_info": {
+        "summary": "S Pandey, N Patel, AK Agrawal - Application of Remote Sensing and GIS …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "N Patel",
+            "link": "https://scholar.google.com/citations?user=5vPiyU0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5vPiyU0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5vPiyU0AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ipO8DcH2VhwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ipO8DcH2VhwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=12425950381133388810&engine=google_scholar&hl=en&q=related%3AipO8DcH2VhwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2042090790078681994&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "2042090790078681994",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=2042090790078681994&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}
