@@ -11,6 +11,8 @@ import { AddScholarComponent } from './add-scholar/add-scholar.component';
 import { ScholarComponent } from './scholar/scholar.component';
 import { HeaderComponent } from './header/header.component';
 import { ScholarService } from './scholar/scholar.service';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatSortModule } from '@angular/material/sort'
 
 @NgModule({
   declarations: [
@@ -26,7 +28,9 @@ import { ScholarService } from './scholar/scholar.service';
     AppRoutingModule,
     FontAwesomeModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    BrowserAnimationsModule,
+    MatSortModule
   ],
   providers: [
     ScholarService
