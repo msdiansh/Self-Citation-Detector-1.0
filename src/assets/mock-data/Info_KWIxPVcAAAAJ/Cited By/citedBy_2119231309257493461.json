@@ -1,0 +1,122 @@
+{
+  "search_metadata": {
+    "id": "65d4dbbdd737d755704e92d4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d6b77ee354fd8951/65d4dbbdd737d755704e92d4.json",
+    "created_at": "2024-02-20 17:05:01 UTC",
+    "processed_at": "2024-02-20 17:05:01 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=2119231309257493461&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/d6b77ee354fd8951/65d4dbbdd737d755704e92d4.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "2119231309257493461",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=2119231309257493461&hl=en&as_sdt=5,34&sciodt=0,34",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Design and development of a generic framework for surface water delineation and monitoring using a hybrid level set algorithm on landsat multi spectral data",
+      "result_id": "MxiaFz6KOYQJ",
+      "link": "https://shodhgangotri.inflibnet.ac.in/jspui/handle/20.500.14146/10796",
+      "snippet": "Surface water bodies are critical to the existence and sustenance of civilizations. Water bodies in urban cities across the world have undergone drastic decline in quality and …",
+      "publication_info": {
+        "summary": "B TV - 2022 - shodhgangotri.inflibnet.ac.in",
+        "authors": [
+          {
+            "name": "B TV",
+            "link": "https://scholar.google.com/citations?user=EOA4sykAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EOA4sykAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EOA4sykAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MxiaFz6KOYQJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:MxiaFz6KOYQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=2119231309257493461&engine=google_scholar&hl=en&q=related%3AMxiaFz6KOYQJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9527798485967575091&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "9527798485967575091",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=9527798485967575091&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MxiaFz6KOYQJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Monitoring the Mega Drought and the effects it has on Reservoirs in Southwest Colorado using a Change Detection Analysis",
+      "result_id": "xVzcWyl8UmsJ",
+      "link": "https://repository.arizona.edu/handle/10150/665600",
+      "snippet": "All across the Western portion of the United States water is an increasing topic of concern. A majority of the mainstream discussion revolves around Lake Mead and Lake Powel the two …",
+      "publication_info": {
+        "summary": "B Busby - 2022 - repository.arizona.edu"
+      },
+      "resources": [
+        {
+          "title": "arizona.edu",
+          "file_format": "PDF",
+          "link": "https://repository.arizona.edu/bitstream/handle/10150/665600/MS-GIST_2022_Busby.pdf?sequence=3"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xVzcWyl8UmsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xVzcWyl8UmsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=2119231309257493461&engine=google_scholar&hl=en&q=related%3AxVzcWyl8UmsJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xVzcWyl8UmsJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Research on Carbon Emission Response Strategy for Zoning Area Based on Multiple Linear Regression",
+      "result_id": "8fzJCNHXBjwJ",
+      "link": "https://francis-press.com/papers/7553",
+      "snippet": "In order to achieve Chinese “Carbon Peaking and Carbon Neutrality Goals” and provide strategies for global carbon emissions, this study explored the relationship between regional …",
+      "publication_info": {
+        "summary": "W Li, S Liu - Academic Journal of Computing & Information …, 2022 - francis-press.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8fzJCNHXBjwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8fzJCNHXBjwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=2119231309257493461&engine=google_scholar&hl=en&q=related%3A8fzJCNHXBjwJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8fzJCNHXBjwJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Research on Carbon Emission Response Strategy for Zoning Area Based on Multiple Linear Regression",
+      "result_id": "nO5i3_9Vw1AJ",
+      "type": "Pdf",
+      "link": "https://francis-press.com/uploads/papers/vGSRagi84smRb1GjztqhsBhJDTURhOa8mTm0egzJ.pdf",
+      "snippet": "In order to achieve Chinese “Carbon Peaking and Carbon Neutrality Goals” and provide strategies for global carbon emissions, this study explored the relationship between regional …",
+      "publication_info": {
+        "summary": "W Lia, S Liub - Academic Journal of Computing & Information Science - francis-press.com"
+      },
+      "resources": [
+        {
+          "title": "francis-press.com",
+          "file_format": "PDF",
+          "link": "https://francis-press.com/uploads/papers/vGSRagi84smRb1GjztqhsBhJDTURhOa8mTm0egzJ.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nO5i3_9Vw1AJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nO5i3_9Vw1AJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=2119231309257493461&engine=google_scholar&hl=en&q=related%3AnO5i3_9Vw1AJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:nO5i3_9Vw1AJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    }
+  ]
+}

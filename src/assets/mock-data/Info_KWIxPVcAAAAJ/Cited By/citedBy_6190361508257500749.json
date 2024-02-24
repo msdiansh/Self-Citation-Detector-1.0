@@ -1,0 +1,1566 @@
+{
+  "search_metadata": {
+    "id": "65d430b42ff4210323581193",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/50beb2cfbe1d017d/65d430b42ff4210323581193.json",
+    "created_at": "2024-02-20 04:55:16 UTC",
+    "processed_at": "2024-02-20 04:55:16 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=6190361508257500749&hl=en&start=0&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/50beb2cfbe1d017d/65d430b42ff4210323581193.html",
+    "total_time_taken": 2.04
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "6190361508257500749",
+    "hl": "en",
+    "start": 0
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 44,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=6190361508257500749&hl=en&as_sdt=5,33&sciodt=0,33",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Medical image processing: A review",
+      "result_id": "iRlqkRcctZAJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7918737/",
+      "snippet": "The advent of computer aided technologies image processing techniques have become increasingly important in a wide variety of medical applications. Intervention between the …",
+      "publication_info": {
+        "summary": "N Goel, A Yadav, BM Singh - … and Controls with their Impact on …, 2016 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "A Yadav",
+            "link": "https://scholar.google.com/citations?user=2LwBKAgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2LwBKAgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2LwBKAgAAAAJ"
+          },
+          {
+            "name": "BM Singh",
+            "link": "https://scholar.google.com/citations?user=eoaIg_4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eoaIg_4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "eoaIg_4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iRlqkRcctZAJ",
+        "cited_by": {
+          "total": 59,
+          "link": "https://scholar.google.com/scholar?cites=10427271399795726729&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "10427271399795726729",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=10427271399795726729&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:iRlqkRcctZAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AiRlqkRcctZAJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "A Method Noise-Based Convolutional Neural Network Technique for CT Image Denoising",
+      "result_id": "NT5Z4YT4h24J",
+      "link": "https://www.mdpi.com/2079-9292/11/21/3535",
+      "snippet": "Medical imaging is a complex process that capitulates images created by X-rays, ultrasound imaging, angiography, etc. During the imaging process, it also captures image noise during …",
+      "publication_info": {
+        "summary": "P Singh, M Diwakar, R Gupta, S Kumar, A Chakraborty… - Electronics, 2022 - mdpi.com",
+        "authors": [
+          {
+            "name": "P Singh",
+            "link": "https://scholar.google.com/citations?user=_e7vt1oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_e7vt1oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_e7vt1oAAAAJ"
+          },
+          {
+            "name": "M Diwakar",
+            "link": "https://scholar.google.com/citations?user=1i5VD4IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1i5VD4IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1i5VD4IAAAAJ"
+          },
+          {
+            "name": "R Gupta",
+            "link": "https://scholar.google.com/citations?user=tFEa1cAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tFEa1cAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tFEa1cAAAAAJ"
+          },
+          {
+            "name": "S Kumar",
+            "link": "https://scholar.google.com/citations?user=CFkTX8sAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CFkTX8sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CFkTX8sAAAAJ"
+          },
+          {
+            "name": "A Chakraborty",
+            "link": "https://scholar.google.com/citations?user=GCyMwkgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GCyMwkgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GCyMwkgAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2079-9292/11/21/3535/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NT5Z4YT4h24J",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=7964607715628105269&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "7964607715628105269",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=7964607715628105269&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NT5Z4YT4h24J:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3ANT5Z4YT4h24J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=7964607715628105269&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "7964607715628105269",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=7964607715628105269&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NT5Z4YT4h24J:scholar.google.com/&hl=en&as_sdt=5,33&sciodt=0,33"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Developing a computer vision system for real-time color measurement–a case study with color characterization of roasted rice",
+      "result_id": "u0NdkbigXUkJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0260877421003472",
+      "snippet": "To take advantage of the consistent and automated measurement capability of Computer Vision Systems (CVS), an initial CVS with inclined imaging of the food object was developed …",
+      "publication_info": {
+        "summary": "CN Nguyen, VT Vo, NC Ha - Journal of Food Engineering, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "CN Nguyen",
+            "link": "https://scholar.google.com/citations?user=YkbZYTEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YkbZYTEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YkbZYTEAAAAJ"
+          },
+          {
+            "name": "NC Ha",
+            "link": "https://scholar.google.com/citations?user=jdIOOSEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jdIOOSEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jdIOOSEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=u0NdkbigXUkJ",
+        "cited_by": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cites=5286558252176065467&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "5286558252176065467",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=5286558252176065467&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:u0NdkbigXUkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3Au0NdkbigXUkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5286558252176065467&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "5286558252176065467",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=5286558252176065467&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Medical image denoising based on 2D discrete cosine transform via ant colony optimization",
+      "result_id": "Hv23e_bANOcJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0030402617316881",
+      "snippet": "In medical imaging, researchers usually encounter with different types of noise; for eliminating this noise, different methods have been suggested in both spatial and frequency …",
+      "publication_info": {
+        "summary": "A Miri, S Sharifian, S Rashidi, M Ghods - Optik, 2018 - Elsevier",
+        "authors": [
+          {
+            "name": "A Miri",
+            "link": "https://scholar.google.com/citations?user=6cV-GesAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6cV-GesAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6cV-GesAAAAJ"
+          },
+          {
+            "name": "S Sharifian",
+            "link": "https://scholar.google.com/citations?user=qNCI10IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qNCI10IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qNCI10IAAAAJ"
+          },
+          {
+            "name": "S Rashidi",
+            "link": "https://scholar.google.com/citations?user=Kq7qrmwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Kq7qrmwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Kq7qrmwAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Hv23e_bANOcJ",
+        "cited_by": {
+          "total": 25,
+          "link": "https://scholar.google.com/scholar?cites=16660153086420450590&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "16660153086420450590",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=16660153086420450590&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Hv23e_bANOcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AHv23e_bANOcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=16660153086420450590&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "16660153086420450590",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=16660153086420450590&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "A novel adaptive wavelet thresholding with identical correlation shrinkage function for ECG noise removal",
+      "result_id": "b_NNK68IH7kJ",
+      "link": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cje.2018.02.006",
+      "snippet": "On the basis of wavelet theory, a novel Adaptive wavelet thresholding method (AWT) is proposed for the ECG signal enhancement. The best base wavelet for ECG signal filtering …",
+      "publication_info": {
+        "summary": "H HE, Y Tan - Chinese Journal of Electronics, 2018 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "H HE",
+            "link": "https://scholar.google.com/citations?user=Z2PV-7cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Z2PV-7cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Z2PV-7cAAAAJ"
+          },
+          {
+            "name": "Y Tan",
+            "link": "https://scholar.google.com/citations?user=4Mh81pUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4Mh81pUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4Mh81pUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "wiley.com",
+          "file_format": "PDF",
+          "link": "https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cje.2018.02.006"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=b_NNK68IH7kJ",
+        "cited_by": {
+          "total": 22,
+          "link": "https://scholar.google.com/scholar?cites=13339390169733526383&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "13339390169733526383",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=13339390169733526383&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:b_NNK68IH7kJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3Ab_NNK68IH7kJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=13339390169733526383&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "13339390169733526383",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=13339390169733526383&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Technique for image de-noising based on non-subsampled shearlet transform and improved intuitionistic fuzzy entropy",
+      "result_id": "nZq0PEhzR-EJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0030402614012844",
+      "snippet": "To overcome the problem of image de-noising, a novel technique based on non-subsampled shearlet transform (NSST) and intuitionistic fuzzy entropy (IFE) is proposed in …",
+      "publication_info": {
+        "summary": "Y Lei - Optik, 2015 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nZq0PEhzR-EJ",
+        "cited_by": {
+          "total": 32,
+          "link": "https://scholar.google.com/scholar?cites=16233070135973550749&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "16233070135973550749",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=16233070135973550749&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nZq0PEhzR-EJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AnZq0PEhzR-EJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=16233070135973550749&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "16233070135973550749",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=16233070135973550749&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Improved anisotropic diffusion equation based on new non‐local information scheme for image denoising",
+      "result_id": "S50rUhCFsPgJ",
+      "link": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-cvi.2014.0415",
+      "snippet": "This study presents a new Perona–Malik (PM) model which is based on new non‐local means (NLM) theory for an image denoising. In the proposed model, the intensity, space …",
+      "publication_info": {
+        "summary": "J Yuan - IET Computer Vision, 2015 - Wiley Online Library"
+      },
+      "resources": [
+        {
+          "title": "wiley.com",
+          "file_format": "PDF",
+          "link": "https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-cvi.2014.0415"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:S50rUhCFsPgJ:scholar.google.com/&hl=en&as_sdt=5,33&sciodt=0,33&scillfp=12385844441241711598&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=S50rUhCFsPgJ",
+        "cited_by": {
+          "total": 21,
+          "link": "https://scholar.google.com/scholar?cites=17919969222451764555&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "17919969222451764555",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=17919969222451764555&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:S50rUhCFsPgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AS50rUhCFsPgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=17919969222451764555&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "17919969222451764555",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=17919969222451764555&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Denoising of arrhythmia ECG signals",
+      "result_id": "bPMoB5lmQVEJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Majd-Matti-2/publication/378176380_Denoising_of_Arrythmia_ECG_Signals/links/65cb9622790074549783b791/Denoising-of-Arrythmia-ECG-Signals.pdf",
+      "snippet": "This study is about using the genetic algorithm (GA) with wavelet transform (WT) for Arrhythmia Electrocardiogram (ECG) signal denoising purposes. The WT is a time-frequency …",
+      "publication_info": {
+        "summary": "ASS Ahmad, MS Matti, OA ALhabib… - International Journal of …, 2018 - researchgate.net",
+        "authors": [
+          {
+            "name": "ASS Ahmad",
+            "link": "https://scholar.google.com/citations?user=g2gvhT4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g2gvhT4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "g2gvhT4AAAAJ"
+          },
+          {
+            "name": "MS Matti",
+            "link": "https://scholar.google.com/citations?user=AWuR-rIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AWuR-rIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AWuR-rIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Majd-Matti-2/publication/378176380_Denoising_of_Arrythmia_ECG_Signals/links/65cb9622790074549783b791/Denoising-of-Arrythmia-ECG-Signals.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bPMoB5lmQVEJ",
+        "cited_by": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cites=5855073797994509164&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "5855073797994509164",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=5855073797994509164&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:bPMoB5lmQVEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AbPMoB5lmQVEJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:bPMoB5lmQVEJ:scholar.google.com/&hl=en&as_sdt=5,33&sciodt=0,33"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Perona–malik model with a new diffusion coefficient for image denoising",
+      "result_id": "UARAqCram3sJ",
+      "link": "https://www.worldscientific.com/doi/abs/10.1142/S021946781650011X",
+      "snippet": "This paper presents a new diffusion coefficient which is based on second order derivative and local entropy information for image denoising. In the proposed model, a second order …",
+      "publication_info": {
+        "summary": "J Yuan, J Wang - International Journal of Image and Graphics, 2016 - World Scientific"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=UARAqCram3sJ",
+        "cited_by": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cites=8906952564801537104&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "8906952564801537104",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=8906952564801537104&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:UARAqCram3sJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AUARAqCram3sJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=8906952564801537104&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "8906952564801537104",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=8906952564801537104&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "A CNN-based computational algorithm for nonlinear image diffusion problem",
+      "result_id": "DjtfkdQQYSIJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-020-09077-0",
+      "snippet": "In the past, several partial differential equations (PDEs) based methods have been widely studied in image denoising. While solving these methods numerically, some parameters …",
+      "publication_info": {
+        "summary": "M Lakra, S Kumar - Multimedia Tools and Applications, 2020 - Springer",
+        "authors": [
+          {
+            "name": "S Kumar",
+            "link": "https://scholar.google.com/citations?user=FWh8EFkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FWh8EFkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FWh8EFkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DjtfkdQQYSIJ",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=2477279775188531982&as_sdt=5,33&sciodt=0,33&hl=en",
+          "cites_id": "2477279775188531982",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=2477279775188531982&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DjtfkdQQYSIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,33&sciodt=0,33",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3ADjtfkdQQYSIJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=2477279775188531982&hl=en&as_sdt=5,33&sciodt=0,33",
+          "cluster_id": "2477279775188531982",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cluster=2477279775188531982&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Genetic algorithm based multi-resolution approach for de-speckling OCT image",
+      "result_id": "-n1GBJwKPLIJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-16575-4",
+      "snippet": "Reduction of noise has a considerable effect in medical image processing and computer vision analysis. Medical images are affected by noise due to low radiation exposure …",
+      "publication_info": {
+        "summary": "S Sahu, AK Singh - Multimedia Tools and Applications, 2023 - Springer",
+        "authors": [
+          {
+            "name": "S Sahu",
+            "link": "https://scholar.google.com/citations?user=gOm_dBQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gOm_dBQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gOm_dBQAAAAJ"
+          },
+          {
+            "name": "AK Singh",
+            "link": "https://scholar.google.com/citations?user=bsr1TJQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bsr1TJQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bsr1TJQAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-n1GBJwKPLIJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-n1GBJwKPLIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A-n1GBJwKPLIJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Medical image denoising by using discrete wavelet transform: Neutrosophic theory new direction",
+      "result_id": "RJXDwhczfWIJ",
+      "type": "Pdf",
+      "link": "https://fs.unm.edu/neut/MedicalImageDenoising.pdf",
+      "snippet": "Medical images are corrupted by noises during the transmission and reception process. Hence noise reduction has been a conventional issue in medical image processing. The …",
+      "publication_info": {
+        "summary": "TE Aravindan, R Seshasayanan… - Cogn Syst Res. https …, 2018 - fs.unm.edu"
+      },
+      "resources": [
+        {
+          "title": "unm.edu",
+          "file_format": "PDF",
+          "link": "https://fs.unm.edu/neut/MedicalImageDenoising.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RJXDwhczfWIJ",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=7096884764950631748&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "7096884764950631748",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=7096884764950631748&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:RJXDwhczfWIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3ARJXDwhczfWIJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7096884764950631748&hl=en&as_sdt=5,50&sciodt=0,50",
+          "cluster_id": "7096884764950631748",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cluster=7096884764950631748&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:RJXDwhczfWIJ:scholar.google.com/&hl=en&as_sdt=5,50&sciodt=0,50"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Genetic algorithm based medical image denoising through sub band adaptive thresholding",
+      "result_id": "2XJjzelXTE4J",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Sonali-Singh-3/publication/338913048_Genetic_Algorithm_Based_Medical_Image_Denoising_Through_Sub_Band_Adaptive_Thresholding/links/5e3284a8458515072d6e2bd6/Genetic-Algorithm-Based-Medical-Image-Denoising-Through-Sub-Band-Adaptive-Thresholding.pdf",
+      "snippet": "Medical images generally have a problem of presence of noise during its acquisition and transmission. In order to achieve appropriate diagnosis, medical image should be clear …",
+      "publication_info": {
+        "summary": "S Singh, S Wadhwani - Int J Sci Engineer Technol Res, 2015 - researchgate.net",
+        "authors": [
+          {
+            "name": "S Singh",
+            "link": "https://scholar.google.com/citations?user=ggA6GdkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ggA6GdkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ggA6GdkAAAAJ"
+          },
+          {
+            "name": "S Wadhwani",
+            "link": "https://scholar.google.com/citations?user=JtYAFgoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JtYAFgoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JtYAFgoAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Sonali-Singh-3/publication/338913048_Genetic_Algorithm_Based_Medical_Image_Denoising_Through_Sub_Band_Adaptive_Thresholding/links/5e3284a8458515072d6e2bd6/Genetic-Algorithm-Based-Medical-Image-Denoising-Through-Sub-Band-Adaptive-Thresholding.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2XJjzelXTE4J",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=5641981094873232089&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "5641981094873232089",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=5641981094873232089&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2XJjzelXTE4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A2XJjzelXTE4J%3Ascholar.google.com%2F&start=10",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:2XJjzelXTE4J:scholar.google.com/&hl=en&as_sdt=5,50&sciodt=0,50"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Blocking sparse method for image denoising",
+      "result_id": "5w4Wm1ahj-EJ",
+      "link": "https://link.springer.com/article/10.1007/s10044-021-00974-0",
+      "snippet": "In recent years, compressive sensing has been one promising technique for denoising images. This paper presents a new denoising model based on blocking sparsity. First, an …",
+      "publication_info": {
+        "summary": "J Yuan, J He - Pattern Analysis and Applications, 2021 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5w4Wm1ahj-EJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=16253386973544582887&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "16253386973544582887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=16253386973544582887&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5w4Wm1ahj-EJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A5w4Wm1ahj-EJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=16253386973544582887&hl=en&as_sdt=5,50&sciodt=0,50",
+          "cluster_id": "16253386973544582887",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cluster=16253386973544582887&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Follicle Segmentation from Ultrasound images of Ovary by using sub-band Entropy-based Wavelet thresholding and object contours",
+      "result_id": "zTNMqVB2-_UJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9691677/",
+      "snippet": "Ultrasonography (USG) images are widely used all over the globe for Gynecological diagnosis of the ovary. USG images are highly contaminated by non-Gaussian multiplicative …",
+      "publication_info": {
+        "summary": "M Sarkar, A Mandal - 2021 IEEE 18th India Council …, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "A Mandal",
+            "link": "https://scholar.google.com/citations?user=Gnjb8F8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Gnjb8F8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Gnjb8F8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Manas-Sarkar-6/publication/358318983_Follicle_Segmentation_from_Ultrasound_images_of_Ovary_by_using_sub-band_Entropy-based_Wavelet_thresholding_and_object_contours/links/63b6a3b8a03100368a55fa40/Follicle-Segmentation-from-Ultrasound-images-of-Ovary-by-using-sub-band-Entropy-based-Wavelet-thresholding-and-object-contours.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zTNMqVB2-_UJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=17724890847256523725&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "17724890847256523725",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=17724890847256523725&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zTNMqVB2-_UJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AzTNMqVB2-_UJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=17724890847256523725&hl=en&as_sdt=5,50&sciodt=0,50",
+          "cluster_id": "17724890847256523725",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cluster=17724890847256523725&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "An Analysis on Medical Image Retrieving Techniques",
+      "result_id": "-78DlQiL-tgJ",
+      "link": "https://www.turcomat.org/index.php/turkbilmat/article/view/3672",
+      "snippet": "The images that are the critical and important images which contain visual, useful and meaningful information that cannot be observed by an ordinary person are medical images …",
+      "publication_info": {
+        "summary": "N Koteswaramma - Turkish Journal of Computer and Mathematics …, 2021 - turcomat.org"
+      },
+      "resources": [
+        {
+          "title": "turcomat.org",
+          "file_format": "PDF",
+          "link": "https://www.turcomat.org/index.php/turkbilmat/article/download/3672/3144"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-78DlQiL-tgJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=15634961925346148347&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "15634961925346148347",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=15634961925346148347&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-78DlQiL-tgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A-78DlQiL-tgJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=15634961925346148347&hl=en&as_sdt=5,50&sciodt=0,50",
+          "cluster_id": "15634961925346148347",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cluster=15634961925346148347&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:-78DlQiL-tgJ:scholar.google.com/&hl=en&as_sdt=5,50&sciodt=0,50"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Wavelet denoising based on genetic algorithm",
+      "result_id": "aqlpvCRzmhEJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8548814/",
+      "snippet": "This study is about using the genetic algorithm (GA) with wavelet transform (WT) for signal denoising purposes. The WT is a time-frequency signal analysis, and the GA is an …",
+      "publication_info": {
+        "summary": "MS Matti, AK Al-Sulaifanie - 2018 International Conference on …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "MS Matti",
+            "link": "https://scholar.google.com/citations?user=AWuR-rIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AWuR-rIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AWuR-rIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Ahmed-Al-Sulaifanie/publication/329510099_Wavelet_Denoising_Based_on_Genetic_Algorithm/links/5c1336f1299bf139c756d525/Wavelet-Denoising-Based-on-Genetic-Algorithm.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aqlpvCRzmhEJ",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=1268452846675274090&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "1268452846675274090",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=1268452846675274090&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aqlpvCRzmhEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AaqlpvCRzmhEJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=1268452846675274090&hl=en&as_sdt=5,50&sciodt=0,50",
+          "cluster_id": "1268452846675274090",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cluster=1268452846675274090&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Medical image DENOISING scheme using discrete wavelet transform and optimization with different noises",
+      "result_id": "Y5Di0p5bAWUJ",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5540",
+      "snippet": "Summary In Medical Image Processing (MIP), the images are influenced by various types of noises. Hence, reducing such noises becomes a crucial issue. The main objective is to …",
+      "publication_info": {
+        "summary": "TE Aravindan, R Seshasayanan - … and Computation: Practice …, 2022 - Wiley Online Library"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Y5Di0p5bAWUJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=7278199210508456035&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "7278199210508456035",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=7278199210508456035&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Y5Di0p5bAWUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AY5Di0p5bAWUJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Anisotropic diffusion equation with a new diffusion coefficient for image denoising",
+      "result_id": "5ml4G2K1ofoJ",
+      "link": "https://link.springer.com/article/10.1007/s10044-016-0590-7",
+      "snippet": "This paper presents a new anisotropic diffusion model which is based on a new diffusion coefficient for image denoising. In the proposed model, a new diffusion coefficient and a …",
+      "publication_info": {
+        "summary": "Y Xu, J Yuan - Pattern Analysis and Applications, 2017 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5ml4G2K1ofoJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=18059915413704698342&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "18059915413704698342",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=18059915413704698342&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5ml4G2K1ofoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A5ml4G2K1ofoJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=18059915413704698342&hl=en&as_sdt=5,50&sciodt=0,50",
+          "cluster_id": "18059915413704698342",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cluster=18059915413704698342&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Anisotropic diffusion model based on a new diffusion coefficient and fractional order differential for image denoising",
+      "result_id": "MyyvCOWfKe0J",
+      "link": "https://www.worldscientific.com/doi/abs/10.1142/S0219467816500030",
+      "snippet": "This paper presents an improved anisotropic diffusion model which is based on a new diffusion coefficient and fractional order differential for image denoising. In the proposed …",
+      "publication_info": {
+        "summary": "J Yuan, L Liu - International Journal of Image and Graphics, 2016 - World Scientific"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MyyvCOWfKe0J",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=17089366067076082739&as_sdt=5,50&sciodt=0,50&hl=en",
+          "cites_id": "17089366067076082739",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=17089366067076082739&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:MyyvCOWfKe0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,50&sciodt=0,50",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AMyyvCOWfKe0J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=17089366067076082739&hl=en&as_sdt=5,50&sciodt=0,50",
+          "cluster_id": "17089366067076082739",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C50&cluster=17089366067076082739&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Creeping discharges features propagating in air at atmospheric pressure on various materials under positive lightning impulse voltage–part 1: noise suppression …",
+      "result_id": "sFP-kAYrcuQJ",
+      "link": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-gtd.2017.1092",
+      "snippet": "The acquisition of discharges data is usually affected by external interference leading to erroneous interpretations. In the viewpoint of improving computation accuracy, the discrete …",
+      "publication_info": {
+        "summary": "MA Douar, A Beroual, X Souche - … Generation, Transmission & …, 2018 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "A Beroual",
+            "link": "https://scholar.google.com/citations?user=my0Ww7kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=my0Ww7kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "my0Ww7kAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "wiley.com",
+          "file_format": "PDF",
+          "link": "https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-gtd.2017.1092"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:sFP-kAYrcuQJ:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11&scillfp=15511041382220695020&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sFP-kAYrcuQJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=16461266895194969008&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "16461266895194969008",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=16461266895194969008&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:sFP-kAYrcuQJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AsFP-kAYrcuQJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=16461266895194969008&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "16461266895194969008",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=16461266895194969008&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Improved human skin segmentation using fuzzy fusion based on optimized thresholds by genetic algorithms",
+      "result_id": "aDY6RjNTq-kJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-47223-2_8",
+      "snippet": "Human skin segmentation has several applications in computer vision beyond its main purpose of distinguishing between skin and nonskin regions. Despite the large number of …",
+      "publication_info": {
+        "summary": "A Santos, J Paiva, C Toledo, H Pedrini - Hybrid Soft Computing for Image …, 2016 - Springer",
+        "authors": [
+          {
+            "name": "A Santos",
+            "link": "https://scholar.google.com/citations?user=21DuWT0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=21DuWT0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "21DuWT0AAAAJ"
+          },
+          {
+            "name": "C Toledo",
+            "link": "https://scholar.google.com/citations?user=oiW7E1IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oiW7E1IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "oiW7E1IAAAAJ"
+          },
+          {
+            "name": "H Pedrini",
+            "link": "https://scholar.google.com/citations?user=kc-wB9QAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kc-wB9QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kc-wB9QAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=aDY6RjNTq-kJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=16837643111541388904&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "16837643111541388904",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=16837643111541388904&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aDY6RjNTq-kJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AaDY6RjNTq-kJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=16837643111541388904&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "16837643111541388904",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=16837643111541388904&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Efficient digital holographic 3d human image reconstruction and improvement on mobile devices",
+      "result_id": "zXLtBe2yGfUJ",
+      "link": "https://link.springer.com/article/10.1007/s11042-020-09089-w",
+      "snippet": "Advanced digital holography attracts a lot of attentions for 3D visualization nowadays. The representation of high-resolution digital holographic 3D human images suffers from …",
+      "publication_info": {
+        "summary": "CH Chu - Multimedia Tools and Applications, 2020 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zXLtBe2yGfUJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17661344144786551501&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "17661344144786551501",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=17661344144786551501&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:zXLtBe2yGfUJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AzXLtBe2yGfUJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=17661344144786551501&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "17661344144786551501",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=17661344144786551501&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Image compression using wavelet-based thresholding technique for human visual system (HVS) improvement",
+      "result_id": "382M8dHSWWQJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8312428/",
+      "snippet": "This research emphasizes on problem of determining the suitable threshold value in image compression without harming the image quality that may affect the Human Visual System …",
+      "publication_info": {
+        "summary": "NSAM Taujuddin, S Sari, R Ibrahim… - 2017 6th International …, 2017 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "NSAM Taujuddin",
+            "link": "https://scholar.google.com/citations?user=yvY2aKwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yvY2aKwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yvY2aKwAAAAJ"
+          },
+          {
+            "name": "S Sari",
+            "link": "https://scholar.google.com/citations?user=AFxMDuQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AFxMDuQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AFxMDuQAAAAJ"
+          },
+          {
+            "name": "R Ibrahim",
+            "link": "https://scholar.google.com/citations?user=PQ3fTCgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PQ3fTCgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PQ3fTCgAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=382M8dHSWWQJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=7231042475862576607&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "7231042475862576607",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=7231042475862576607&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:382M8dHSWWQJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A382M8dHSWWQJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7231042475862576607&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "7231042475862576607",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=7231042475862576607&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Medical Image Denoising Using Synergistic Fibroblast Optimization Based Weighted Median Filter",
+      "result_id": "BdXZZvRXjEcJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8479516/",
+      "snippet": "Image analysis involves processing and extraction of knowledge from images which is significantly useful in the large scale of medical and engineering applications. Image …",
+      "publication_info": {
+        "summary": "TT Dhivyaprabha, G Jayashree… - … on Advances in …, 2018 - ieeexplore.ieee.org"
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Parthasarathy-Subashini/publication/328082614_Medical_Image_Denoising_Using_Synergistic_Fibroblast_Optimization_Based_Weighted_Median_Filter/links/5bebbb55a6fdcc3a8dd477fa/Medical-Image-Denoising-Using-Synergistic-Fibroblast-Optimization-Based-Weighted-Median-Filter.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BdXZZvRXjEcJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=5155592380641563909&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "5155592380641563909",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=5155592380641563909&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:BdXZZvRXjEcJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3ABdXZZvRXjEcJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=5155592380641563909&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "5155592380641563909",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=5155592380641563909&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Analysis on Content Based Image Retrieval-A logical survey",
+      "result_id": "FeXp06yauwwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9752289/",
+      "snippet": "In present time, the introduction of free internet and database has made use data on the real time application and web media. The prominence of visual proficiency in human visual …",
+      "publication_info": {
+        "summary": "DVS Kishore, CRP Kumar - 2022 International Mobile and …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "DVS Kishore",
+            "link": "https://scholar.google.com/citations?user=RBrY_XsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RBrY_XsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RBrY_XsAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FeXp06yauwwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:FeXp06yauwwJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AFeXp06yauwwJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Medical Image Denoising Using Spline Based Fuzzy Wavelet Shrink Technique",
+      "result_id": "ibZdBN0WrAYJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-15-4015-8_16",
+      "snippet": "Denoising is a fundamental requirement in the field of medical image processing. It is the process of reducing the additive noise from a noisy medical image, while preserving the …",
+      "publication_info": {
+        "summary": "PK Mishro, S Agrawal, R Panda - … CVIP 2019, Jaipur, India, September 27 …, 2020 - Springer",
+        "authors": [
+          {
+            "name": "PK Mishro",
+            "link": "https://scholar.google.com/citations?user=epx7ulIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=epx7ulIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "epx7ulIAAAAJ"
+          },
+          {
+            "name": "S Agrawal",
+            "link": "https://scholar.google.com/citations?user=8vb01m8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8vb01m8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8vb01m8AAAAJ"
+          },
+          {
+            "name": "R Panda",
+            "link": "https://scholar.google.com/citations?user=061WAbAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=061WAbAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "061WAbAAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ibZdBN0WrAYJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=480784398738634377&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "480784398738634377",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=480784398738634377&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ibZdBN0WrAYJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AibZdBN0WrAYJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Construction method and application for threshold function family in wavelet threshold denoising",
+      "result_id": "f-dIvOIE784J",
+      "link": "https://www.earticle.net/Article/A284224",
+      "snippet": "Wavelet threshold filter is widely used because it is simple to implement and small computation. Traditional hard and soft threshold functions have their limitations. At the same …",
+      "publication_info": {
+        "summary": "Y Huilin, S Lijun - International Journal of Control and Automation, 2016 - earticle.net"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=f-dIvOIE784J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=14911142263115016063&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "14911142263115016063",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=14911142263115016063&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:f-dIvOIE784J:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3Af-dIvOIE784J%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:f-dIvOIE784J:scholar.google.com/&hl=en&as_sdt=80005&sciodt=0,11"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Adaptive Thresholding Algorithms and Morphological to Improve the Quality of Takepan Sasak Image Readability",
+      "result_id": "63Vq1F8G4asJ",
+      "link": "https://iopscience.iop.org/article/10.1088/1742-6596/1539/1/012031/meta",
+      "snippet": "One of the cultural heritages in West Nusa Tenggara, especially Lombok, is takepan (lontar ancient manuscripts). Takepan written on leaf sheets of Lontar is known as the jejawan …",
+      "publication_info": {
+        "summary": "LM Samsu, I Fathurrahman - Journal of Physics: Conference …, 2020 - iopscience.iop.org",
+        "authors": [
+          {
+            "name": "LM Samsu",
+            "link": "https://scholar.google.com/citations?user=X9ulkvkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=X9ulkvkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "X9ulkvkAAAAJ"
+          },
+          {
+            "name": "I Fathurrahman",
+            "link": "https://scholar.google.com/citations?user=4EHs0TMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4EHs0TMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4EHs0TMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "iop.org",
+          "file_format": "PDF",
+          "link": "https://iopscience.iop.org/article/10.1088/1742-6596/1539/1/012031/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=63Vq1F8G4asJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12385187458900981227&as_sdt=80005&sciodt=0,11&hl=en",
+          "cites_id": "12385187458900981227",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=12385187458900981227&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:63Vq1F8G4asJ:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A63Vq1F8G4asJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12385187458900981227&hl=en&as_sdt=80005&sciodt=0,11",
+          "cluster_id": "12385187458900981227",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cluster=12385187458900981227&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Research on magnetic anomaly signal extraction of underground pipelines based on improved wavelet threshold denoising.",
+      "result_id": "bhk-vAtYm28J",
+      "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16748042&AN=163862263&h=%2F9xyaCAFciPlDOvKP33cCWLpdPMJfFlAZMgEi9yVMSYFoqiD%2F9%2FC4eYBoDUYFQcliPCmvb%2BlvxxXk%2Fi0QVdCTQ%3D%3D&crl=c",
+      "snippet": "Thecollectionofmagneticanomalysignalund…. Thewavelet thresholdmethodisusedasthebasicdenoising modelofthe magneticanomalysignalofundergroundpipel …",
+      "publication_info": {
+        "summary": "J Pengbo, WEI Minghui, W Bin, J Lixia… - Journal of …, 2023 - search.ebscohost.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bhk-vAtYm28J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:bhk-vAtYm28J:scholar.google.com/&scioq=&hl=en&as_sdt=80005&sciodt=0,11",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3Abhk-vAtYm28J%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Image de-noising based on nature inspired optimization algorithm",
+      "result_id": "FktA2bPyhQMJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8487983/",
+      "snippet": "Noise suppression from the images corrupted by any kind of unwanted signal is a major and challenging issue in the era of image enhancement and computer vision. The purpose of …",
+      "publication_info": {
+        "summary": "N Bharti, S Chandra - 2018 Second International Conference …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "N Bharti",
+            "link": "https://scholar.google.com/citations?user=xuQTcogAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xuQTcogAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xuQTcogAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FktA2bPyhQMJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=253875808274238230&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "253875808274238230",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=253875808274238230&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:FktA2bPyhQMJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AFktA2bPyhQMJ%3Ascholar.google.com%2F&start=30"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Crystal dislocation in SEM with image processing",
+      "result_id": "HKp5Ety-uwEJ",
+      "link": "https://link.springer.com/article/10.1134/S1054661817040083",
+      "snippet": "Image processing algorithm is implemented to detect the grain boundary of the crystal using (SEM) Scanning Electron Microscopy. This paper presents a method for edge-detection in …",
+      "publication_info": {
+        "summary": "HS Ahmed, HD Zhao, M Hussain, J Wang - Pattern Recognition and Image …, 2017 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HKp5Ety-uwEJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=124903267094866460&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "124903267094866460",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=124903267094866460&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HKp5Ety-uwEJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AHKp5Ety-uwEJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=124903267094866460&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "124903267094866460",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=124903267094866460&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Application of a comprehensive one dimensional wavelet threshold denoising algorithm in blasting signal",
+      "result_id": "1orvZLnhi7kJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-38771-0_51",
+      "snippet": "When collecting blasting signal, the blasting signal is inevitably mixed with a certain noise signal, and the noise signal will affect the analysis of the blasting seismic wave, and it is not …",
+      "publication_info": {
+        "summary": "X Liangmeng, Z Wu, L Mengdi - … Systems: Volume 2, Proceedings of the …, 2017 - Springer"
+      },
+      "resources": [
+        {
+          "title": "ethernet.edu.et",
+          "file_format": "PDF",
+          "link": "http://ndl.ethernet.edu.et/bitstream/123456789/43997/1/73.pdf#page=497"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1orvZLnhi7kJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=13370028105158068950&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "13370028105158068950",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13370028105158068950&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1orvZLnhi7kJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A1orvZLnhi7kJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=13370028105158068950&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "13370028105158068950",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=13370028105158068950&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Triple Image Compression and Denoising using Wavelet",
+      "result_id": "URBF32mYL_kJ",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/102014284/Dr.B.B.S.Kumar.pdf",
+      "snippet": "In this research, methods during denoising when noise as introduced, the image quality variance at Haar and Daubechies wavelets have examined. The purpose is to improve the …",
+      "publication_info": {
+        "summary": "BBS Kumar - academia.edu"
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/102014284/Dr.B.B.S.Kumar.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=URBF32mYL_kJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:URBF32mYL_kJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AURBF32mYL_kJ%3Ascholar.google.com%2F&start=30",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:URBF32mYL_kJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Wavelet based Image Denoising using NL Means Filter and NeighSure Shrink",
+      "result_id": "fgMiapnYxM0J",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/108216671/Goya_Journal_10.pdf",
+      "snippet": "Nonlocal (NL) means filter denoises the image by using self-similarity properties of the image. The high correlation between image pixels and noise is distributed independently in …",
+      "publication_info": {
+        "summary": "TS Chandrakantha, BN Jagadale, BS Priya… - academia.edu"
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/108216671/Goya_Journal_10.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fgMiapnYxM0J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:fgMiapnYxM0J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AfgMiapnYxM0J%3Ascholar.google.com%2F&start=30",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:fgMiapnYxM0J:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Comparison of Reducing the Speckle Noise in Ultrasound Medical Images using Discrete Wavelet Transform",
+      "result_id": "wRtHcjOw1swJ",
+      "type": "Pdf",
+      "link": "https://pdfs.semanticscholar.org/ba40/518d4db4e54b5b33b6892a6a121423946750.pdf",
+      "snippet": "Speckle noise in ultrasound (US) medical images is the prime factor that undermines its full utilization. This noise is added by the constructive/destructive interference of sound waves …",
+      "publication_info": {
+        "summary": "F Janabi-Sharifi, M Ghahramani… - … Journal of Advanced …, 2019 - pdfs.semanticscholar.org",
+        "authors": [
+          {
+            "name": "F Janabi-Sharifi",
+            "link": "https://scholar.google.com/citations?user=CTbPxEUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CTbPxEUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CTbPxEUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "semanticscholar.org",
+          "file_format": "PDF",
+          "link": "https://pdfs.semanticscholar.org/ba40/518d4db4e54b5b33b6892a6a121423946750.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wRtHcjOw1swJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wRtHcjOw1swJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AwRtHcjOw1swJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=14760178563760462785&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "14760178563760462785",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14760178563760462785&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wRtHcjOw1swJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Algorithms for Denoising Medical and Digital Images",
+      "result_id": "-OhodaFhyawJ",
+      "type": "Pdf",
+      "link": "http://jkmandal.com/pdf/somnath_report2.pdf",
+      "snippet": "Two algorithms have been devised for denoising the digital images corrupted by salt-and-pepper noise and randomvalued-noise and the medical images from Gaussian white noise …",
+      "publication_info": {
+        "summary": "S Mukhopadhyay, JK Mandal - 2014 - jkmandal.com",
+        "authors": [
+          {
+            "name": "S Mukhopadhyay",
+            "link": "https://scholar.google.com/citations?user=KWIxPVcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KWIxPVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KWIxPVcAAAAJ"
+          },
+          {
+            "name": "JK Mandal",
+            "link": "https://scholar.google.com/citations?user=NIlye4UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NIlye4UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NIlye4UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "jkmandal.com",
+          "file_format": "PDF",
+          "link": "http://jkmandal.com/pdf/somnath_report2.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-OhodaFhyawJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12450589990929885432&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "12450589990929885432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12450589990929885432&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-OhodaFhyawJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A-OhodaFhyawJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12450589990929885432&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "12450589990929885432",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=12450589990929885432&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:-OhodaFhyawJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 7,
+      "title": "基于非局部均值滤波的小波红外图像去噪",
+      "result_id": "9ES8hFP7iS0J",
+      "link": "http://www.cqvip.com/qk/95644x/201503/664442851.html",
+      "snippet": "为避免小波去噪时阈值的缺陷和非局部均值滤波去噪时计算的复杂性和更有效地去除红外图像中的噪声, 提出了一种采用非局部均值滤波的小波图像去噪方法. 对含噪图像进行多层小波分解 …",
+      "publication_info": {
+        "summary": "张军令， 唐卫国 - 红外, 2015 - cqvip.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=9ES8hFP7iS0J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=3281430139643905268&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "3281430139643905268",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3281430139643905268&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9ES8hFP7iS0J:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3A9ES8hFP7iS0J%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=3281430139643905268&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "3281430139643905268",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3281430139643905268&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "一种基于新型符号函数的小波阈值图像去噪算法",
+      "result_id": "mjUCr9jVNaIJ",
+      "type": "Pdf",
+      "link": "http://www.infocomm-journal.com/bdr/CN/article/downloadArticleFile.do?attachType=PDF&id=160322",
+      "snippet": "在现有阈值去噪算法的基础上提出了一种基于新型符号函数的小波阈值图像去噪算法, 该算法提出的新阈值函数具有连续可导, 小波系数偏差小, 阈值自适应性强等优势 …",
+      "publication_info": {
+        "summary": "崔金鸽， 陈炳权， 徐庆， 邓波 - 电信科学, 2017 - infocomm-journal.com"
+      },
+      "resources": [
+        {
+          "title": "infocomm-journal.com",
+          "file_format": "PDF",
+          "link": "http://www.infocomm-journal.com/bdr/CN/article/downloadArticleFile.do?attachType=PDF&id=160322"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mjUCr9jVNaIJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=11688483534535800218&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "11688483534535800218",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11688483534535800218&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mjUCr9jVNaIJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AmjUCr9jVNaIJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=11688483534535800218&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "11688483534535800218",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11688483534535800218&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:mjUCr9jVNaIJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Crystal dislocation in SEM with image processing",
+      "result_id": "M989jiuxp6MJ",
+      "link": "https://search.proquest.com/openview/801536ccc723e9a934ba8f2345ae671e/1?pq-origsite=gscholar&cbl=54522",
+      "snippet": "Image processing algorithm is implemented to detect the grain boundary of the crystal using (SEM) Scanning Electron Microscopy. This paper presents a method for edge-detection in …",
+      "publication_info": {
+        "summary": "SA Hafiz, Z Hong-Dong, M Hussain… - … Recognition and Image …, 2017 - search.proquest.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=M989jiuxp6MJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:M989jiuxp6MJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AM989jiuxp6MJ%3Ascholar.google.com%2F&start=30",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=11792588949921062707&hl=en&as_sdt=2005&sciodt=0,5",
+          "cluster_id": "11792588949921062707",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11792588949921062707&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "Self-adaptive wavelet threshold denoising based on multi-resolution analysis",
+      "result_id": "fzKc5p52pikJ",
+      "type": "Pdf",
+      "link": "http://cmnt.lv/upload-files/ns_39brt088%20CMNT1901-205%20DEF-6%20CMNT-75-AG-ed-VG.PDF",
+      "snippet": "Various noises are usually mixed in the collection, processing or transmission of digital image, which reduces the image quality and which is bad for the subsequent image …",
+      "publication_info": {
+        "summary": "X Yu - cmnt.lv"
+      },
+      "resources": [
+        {
+          "title": "cmnt.lv",
+          "file_format": "PDF",
+          "link": "http://cmnt.lv/upload-files/ns_39brt088%20CMNT1901-205%20DEF-6%20CMNT-75-AG-ed-VG.PDF"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fzKc5p52pikJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:fzKc5p52pikJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AfzKc5p52pikJ%3Ascholar.google.com%2F&start=40",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3001216626534920831&hl=en&as_sdt=5,34&sciodt=0,34",
+          "cluster_id": "3001216626534920831",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cluster=3001216626534920831&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:fzKc5p52pikJ:scholar.google.com/&hl=en&as_sdt=5,34&sciodt=0,34"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Adaptive Threshoding for Wavelet Denoising on Medical Images through PSO Algorithm",
+      "result_id": "O45nf8zvZVsJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "MP Dansena, MO Dewangan - International Journal of Advanced Research in …, 2015",
+        "authors": [
+          {
+            "name": "MO Dewangan",
+            "link": "https://scholar.google.com/citations?user=wmb7zJ4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wmb7zJ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wmb7zJ4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=O45nf8zvZVsJ",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=6585933691689078331&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "6585933691689078331",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=6585933691689078331&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:O45nf8zvZVsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AO45nf8zvZVsJ%3Ascholar.google.com%2F&start=40"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Wavelet based multilevel sub-band adaptive thresholding for image de-noising using modified PSO algorithm",
+      "result_id": "MaBzF7-n4U0J",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "DK Gupta, S Pawar, YK Jain - International Advanced Research Journal in Science, 2015",
+        "authors": [
+          {
+            "name": "YK Jain",
+            "link": "https://scholar.google.com/citations?user=6tV8Ut8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6tV8Ut8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6tV8Ut8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MaBzF7-n4U0J",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=5611951049854394417&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "5611951049854394417",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=5611951049854394417&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:MaBzF7-n4U0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3AMaBzF7-n4U0J%3Ascholar.google.com%2F&start=40"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Comparision and analysis Of Wavelet based Image denoising techniques",
+      "result_id": "t_DMG4h58_QJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "P Dansena, O Dewangan - International Journal of Advanced Research in …, 2015",
+        "authors": [
+          {
+            "name": "O Dewangan",
+            "link": "https://scholar.google.com/citations?user=wmb7zJ4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wmb7zJ4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wmb7zJ4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=t_DMG4h58_QJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=17650584990084034743&as_sdt=5,34&sciodt=0,34&hl=en",
+          "cites_id": "17650584990084034743",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=17650584990084034743&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:t_DMG4h58_QJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,34&sciodt=0,34",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C34&cites=6190361508257500749&engine=google_scholar&hl=en&q=related%3At_DMG4h58_QJ%3Ascholar.google.com%2F&start=40"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,33&sciodt=0,33&cites=6190361508257500749&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,33&sciodt=0,33&cites=6190361508257500749&scipsc=1",
+      "3": "https://scholar.google.com/scholar?start=20&hl=en&as_sdt=5,33&sciodt=0,33&cites=6190361508257500749&scipsc=1",
+      "4": "https://scholar.google.com/scholar?start=30&hl=en&as_sdt=5,33&sciodt=0,33&cites=6190361508257500749&scipsc=1",
+      "5": "https://scholar.google.com/scholar?start=40&hl=en&as_sdt=5,33&sciodt=0,33&cites=6190361508257500749&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&start=30",
+      "5": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=6190361508257500749&engine=google_scholar&hl=en&start=40"
+    }
+  }
+}
