@@ -134,4 +134,12 @@
     padding-left: 1rem;
 }
 
+/* .mat-sort-header-arrow {
+    color: white;
+} */
+.mat-sort-header-arrow {
+    color: #fff !important;
+    opacity: 1 !important;
+}
+
 /* @media (max-width: 768px) { */

@@ -14,12 +14,12 @@
             </div>
         </div>
         <div class="scholar-details-btm">
-            <table class="scholar-articles">
+            <table class="scholar-articles" matSort (matSortChange)="sortData($event)">
                 <tr class="scholar-article-hd" style="background-color: #2f7efd; color: white; ">
-                    <th style="width: 40%">TITLE</th>
-                    <th style="width: 9%">TOTAL CITATIONS</th>
-                    <th style="width: 9%">SELF CITATIONS</th>
-                    <th style="width: 9%">OTHER CITATIONS</th>
+                    <th style="width: 30%">TITLE</th>
+                    <th style="width: 12%" mat-sort-header="totalCitations">TOTAL CITATIONS</th>
+                    <th style="width: 12%" mat-sort-header="selfCitations">SELF CITATIONS</th>
+                    <th style="width: 12%" mat-sort-header="otherCitations">OTHER CITATIONS</th>
                     <th style="width: 9%">SOR</th>
                     <th style="width: 9%">SAR</th>
                     <th style="width: 9%">OAR</th>

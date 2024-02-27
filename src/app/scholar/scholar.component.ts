@@ -3,6 +3,7 @@ import { Component } from "@angular/core";
 import { ActivatedRoute } from "@angular/router";
 import { ScholarService } from "./scholar.service";
 import { ArticleInfo } from "src/model/article-info.model";
+import { Sort } from '@angular/material/sort';
 
 @Component({
     selector: 'app-scholar',
@@ -23,6 +24,7 @@ export class ScholarComponent{
     public articles: any = [];
     public coauthors: any = [];
     public articleData: Array<ArticleInfo> = [];
+    public sortedData: Array<ArticleInfo> = [];
     public hData: any = [];
     public i10Data: any = [];
     public countData: any = [];
@@ -240,4 +242,32 @@ export class ScholarComponent{
             console.log("Error: Author Complete Details unavailable.");
         }
     }
+
+    sortData(sort: Sort) {
+        const data = this.articleData;
+        if (!sort.active || sort.direction === '') {
+            this.sortedData = data;
+            return;
+        }
+
+        this.sortedData = data.sort((a, b) => {
+            const isAsc = sort.direction === 'asc';
+            switch (sort.active) {
+                case 'totalCitations':
+                    return this.compare(a.totalCitations, b.totalCitations, isAsc);
+                case 'selfCitations':
+                    return this.compare(a.selfCitations, b.selfCitations, isAsc);
+                case 'otherCitations':
+                    return this.compare(a.otherCitations, b.otherCitations, isAsc);
+                default:
+                    return 0;
+            }
+        });
+    }
+
+    compare(a: number | string, b: number | string, isAsc: boolean) {
+        return (a < b ? -1 : 1) * (isAsc ? 1 : -1);
+    }
+
+
 }
